@@ -111,7 +111,7 @@ def test_package_exports_and_strategy_loading(tmp_path: Path) -> None:
 def test_upstream_artbot_pin_loading_and_validation(tmp_path: Path) -> None:
     pin = load_upstream_artbot_pin()
     assert pin["upstream_tag"] == "v0.2.0-artbot"
-    assert pin["upstream_commit"] == "3cfa4e8d2ed6c30c51f03c7a92b58df0a694c781"
+    assert pin["upstream_commit"] == "6c63513a9f92887aa13ddd7f562e82eb32e87873"
     assert default_upstream_pin_path().name == "UPSTREAM_ARTBOT.json"
 
     bad_pin = tmp_path / "UPSTREAM_ARTBOT.json"
