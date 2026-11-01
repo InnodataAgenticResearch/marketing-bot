@@ -1,0 +1,11 @@
+[Unit]
+Description=Run Marketing-Bot Daily PR & Market Intelligence Roundup every morning at 8:00 AM ET
+
+[Timer]
+OnCalendar=*-*-* 08:00:00 America/New_York
+Persistent=true
+AccuracySec=1min
+Unit=marketingbot-daily-roundup.service
+
+[Install]
+WantedBy=timers.target

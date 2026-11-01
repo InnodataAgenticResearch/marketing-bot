@@ -1,0 +1,15 @@
+[Unit]
+Description=Marketing-Bot Daily 8:00 AM PR & Market Intelligence Roundup Generator
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/marketing-bot
+EnvironmentFile=%h/.hermes/profiles/marketingbot/.env
+Environment=PYTHONPATH=%h/marketing-bot/src
+Environment=PATH=%h/.nix-profile/bin:%h/.local/bin:/usr/local/bin:/usr/bin:/bin
+ExecStart=/usr/bin/env bash %h/marketing-bot/scripts/run_morning_roundup.sh
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=marketingbot-daily-roundup

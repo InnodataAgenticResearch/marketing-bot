@@ -1,0 +1,54 @@
+name: daily-roundup
+
+"on":
+  schedule:
+    # 08:00 AM America/New_York (12:00 UTC EDT / 13:00 UTC EST)
+    - cron: "0 12 * * *"
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Target date (YYYY-MM-DD, defaults to today in America/New_York)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+jobs:
+  generate-daily-roundup:
+    name: Generate Daily 8:00 AM Marketing & PR Intelligence Roundup
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run Daily Roundup Generator
+        env:
+          AGILITYPR_API_KEY: ${{ secrets.AGILITYPR_API_KEY }}
+          INPUT_DATE: ${{ github.event.inputs.date }}
+        run: |
+          DATE_STR="${INPUT_DATE:-$(TZ=America/New_York date +%Y-%m-%d)}"
+          if [ -n "${AGILITYPR_API_KEY:-}" ]; then
+            PYTHONPATH=src python3 -m marketing_bot.cli generate-daily --date "$DATE_STR" --live
+          else
+            PYTHONPATH=src python3 -m marketing_bot.cli generate-daily --date "$DATE_STR" --seed-file config/live_harvest_2026_10_31.json
+          fi
+          git config user.name "Marketing-Bot"
+          git config user.email "drosen@innodata.com"
+          git add "roundups/$DATE_STR.md" \
+                  "BrandAndPositioning/$DATE_STR/positioning.md" \
+                  "CompetitiveIntelligence/$DATE_STR/competitors.md" \
+                  "MarketTrends/$DATE_STR/trends.md" \
+                  "README.md"
+          if ! git diff --cached --quiet; then
+            git commit -m "chore(roundup): daily 8am PR & market intelligence roundup for $DATE_STR"
+            git push origin HEAD:main
+          fi
