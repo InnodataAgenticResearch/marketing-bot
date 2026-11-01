@@ -43,7 +43,7 @@
 
 ## 1. Key Capabilities & Operating Invariants
 
-1. **Upstream ArtBOT Public Contract Lock (`UPSTREAM_ARTBOT.json`):** Pins `InnodataAgenticResearch/artbot` at tag `v0.2.0-artbot` (`6c63513a9f92887aa13ddd7f562e82eb32e87873`). `checks/api_contract.star` forbids importing private `artbot` submodules or underscore-prefixed symbols.
+1. **Upstream ArtBOT Public Contract Lock (`UPSTREAM_ARTBOT.json`):** Pins `InnodataAgenticResearch/artbot` at tag `v0.2.0-artbot` (`b3fbc3b87fd7b1e561f1d78f179ba31dcf64cb81`). `checks/api_contract.star` forbids importing private `artbot` submodules or underscore-prefixed symbols.
 2. **Agility PR Dual-Transport Intelligence (`src/marketing_bot/agility_mcp.py`):**
    - Streamable HTTP JSON-RPC 2.0 MCP client (`POST https://apigateway.agilitypr.com/api/mcp` with `apiKey` header) supporting `initialize`, `tools/list`, and `ad_hoc_search` across both JSON and SSE (`data: {...}`) streams.
    - REST API client (`https://mediaintelligence.agilitypr.com/api/v1`) supporting `GET /topic` and `POST /topic/search` across all 17+ monitored brand and competitor topics.

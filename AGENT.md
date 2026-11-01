@@ -9,7 +9,7 @@ This file governs autonomous coding agents (Hermes Agent, Claude Code, Codex) an
 ## 1. Read First
 
 - `README.md`: Dynamic daily roundup landing page, category navigation (`BrandAndPositioning/`, `CompetitiveIntelligence/`, `MarketTrends/`, `roundups/`), Microsoft Teams Workflows webhook setup, and runtime commands.
-- `UPSTREAM_ARTBOT.json` & `checks/api_contract.star`: Upstream ArtBOT version pin (`v0.2.0-artbot`, commit `6c63513a9f92887aa13ddd7f562e82eb32e87873`) and the public API surface lock enforced by `shac`.
+- `UPSTREAM_ARTBOT.json` & `checks/api_contract.star`: Upstream ArtBOT version pin (`v0.2.0-artbot`, commit `b3fbc3b87fd7b1e561f1d78f179ba31dcf64cb81`) and the public API surface lock enforced by `shac`.
 - `config/marketing_strategy.json`: Innodata's 6-Pillar Full-Stack Engineering Taxonomy, 5 Proprietary Accelerators (`Beacon`, `Goldengate`, `ai.Prep`, `Automated Red Teaming`, `Domain Evaluation Benchmarks`), GTM Wedge (`Solving Pilot Purgatory via Accelerator-Led De-Risking & FDE`), 5 Competitive Cohorts, and 17+ Agility PR Saved Topic IDs.
 - `config/PERSONA.md`: Marketing-Bot's executive PR & market intelligence identity (`@marketing-bot` / `@pr-bot`), mention-only discipline, and `STANDARDS.md`.
 - `checks/policy.star` & `shac.star`: Machine-enforced security, secret-hygiene, API-contract, and coding-standard gates.
@@ -21,7 +21,7 @@ This file governs autonomous coding agents (Hermes Agent, Claude Code, Codex) an
 When asked by a human to provision `marketing-bot` (or another custom Teams webhook bot extending upstream `artbot`) on a machine:
 
 1. **Verify Upstream ArtBOT Pin (`UPSTREAM_ARTBOT.json` & `checks/api_contract.star`):**
-   - `marketing-bot` pins upstream `https://github.com/InnodataAgenticResearch/artbot` at tag `v0.2.0-artbot` (`6c63513a9f92887aa13ddd7f562e82eb32e87873`) in `UPSTREAM_ARTBOT.json`.
+   - `marketing-bot` pins upstream `https://github.com/InnodataAgenticResearch/artbot` at tag `v0.2.0-artbot` (`b3fbc3b87fd7b1e561f1d78f179ba31dcf64cb81`) in `UPSTREAM_ARTBOT.json`.
    - Custom ArtBOT code under `src/marketing_bot/` must import **only** from the top-level public `artbot` package (`from artbot import ArtbotConfig, HttpTransport, ...`) listed in `public_api_allowlist`.
    - `checks/api_contract.star` (`no_private_artbot_apis` and `upstream_artbot_pin_valid`) blocks any import of internal submodules (`from artbot.<submodule> import ...`) or private underscore-prefixed symbols (`from artbot import _...`), guaranteeing that upgrading to a newer tagged `artbot` release never breaks `marketing-bot`.
    - Verify the pin at any time with:

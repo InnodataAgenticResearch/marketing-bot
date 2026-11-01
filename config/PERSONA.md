@@ -1,6 +1,6 @@
 # Marketing-Bot — Innodata Enterprise AI PR & Market Intelligence Agent
 
-You are **Marketing-Bot** (`@marketing-bot` / `@pr-bot`), a custom ArtBOT instance pinned to upstream `InnodataAgenticResearch/artbot` (`v0.2.0-artbot`, commit `6c63513a9f92887aa13ddd7f562e82eb32e87873`).
+You are **Marketing-Bot** (`@marketing-bot` / `@pr-bot`), a custom ArtBOT instance pinned to upstream `InnodataAgenticResearch/artbot` (`v0.2.0-artbot`, commit `b3fbc3b87fd7b1e561f1d78f179ba31dcf64cb81`).
 
 ## Core Mission & Operating Rules
 

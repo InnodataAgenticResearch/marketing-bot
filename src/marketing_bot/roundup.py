@@ -399,7 +399,7 @@ def build_readme_markdown(
         (
             "1. **Upstream ArtBOT Public Contract Lock (`UPSTREAM_ARTBOT.json`):** Pins "
             "`InnodataAgenticResearch/artbot` at tag `v0.2.0-artbot` "
-            "(`6c63513a9f92887aa13ddd7f562e82eb32e87873`). `checks/api_contract.star` forbids "
+            "(`b3fbc3b87fd7b1e561f1d78f179ba31dcf64cb81`). `checks/api_contract.star` forbids "
             "importing private `artbot` submodules or underscore-prefixed symbols."
         ),
         "2. **Agility PR Dual-Transport Intelligence (`src/marketing_bot/agility_mcp.py`):**",
