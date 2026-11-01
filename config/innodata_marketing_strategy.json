@@ -1,0 +1,379 @@
+{
+  "company": "Innodata (NASDAQ: INOD)",
+  "core_positioning": "Full-stack enterprise AI solutions and data engineering company bridging raw foundation models and mission-critical production systems in sovereign cloud environments (GCP, AWS, Azure).",
+  "value_proposition": "We turn frontier foundation models and proprietary enterprise telemetry into reliable, deterministic, sovereign production systems without proprietary platform lock-in.",
+  "sovereign_clouds": [
+    "GCP",
+    "AWS",
+    "Azure"
+  ],
+  "pillars": [
+    {
+      "slug": "software-engineering",
+      "name": "Software Engineering",
+      "description": "Core application architecture, secure microservices, and enterprise integrations.",
+      "keywords": [
+        "software engineering",
+        "microservice",
+        "enterprise integration",
+        "application architecture",
+        "api gateway",
+        "production architecture"
+      ]
+    },
+    {
+      "slug": "robotic-engineering",
+      "name": "Robotic Engineering",
+      "description": "Physical and digital automation, hardware telemetry, and robotic process integration.",
+      "keywords": [
+        "robotic",
+        "robotics",
+        "physical ai",
+        "embodied ai",
+        "hardware telemetry",
+        "humanoid",
+        "sensor fusion",
+        "spatial ai"
+      ]
+    },
+    {
+      "slug": "data-engineering",
+      "name": "Data Engineering",
+      "description": "High-throughput pipelines, unstructured-to-structured transformation, synthetic datasets, and enterprise data fabrics.",
+      "keywords": [
+        "data engineering",
+        "data pipeline",
+        "unstructured",
+        "synthetic data",
+        "data fabric",
+        "rlhf",
+        "sft",
+        "multimodal data",
+        "fine-tuning"
+      ]
+    },
+    {
+      "slug": "agent-engineering",
+      "name": "Agent Engineering",
+      "description": "Autonomous agent workflows, tool-calling, context engineering, and multi-agent coordination.",
+      "keywords": [
+        "agentic",
+        "agent engineering",
+        "autonomous agent",
+        "multi-agent",
+        "tool-calling",
+        "context engineering",
+        "mcp",
+        "workflow orchestration"
+      ]
+    },
+    {
+      "slug": "agent-reliability-engineering",
+      "name": "Agent Reliability Engineering (ARE)",
+      "description": "Deterministic quality gates, hallucination tracking, adversarial red teaming, rubric evaluation scoring, and automated drift/rollback controls.",
+      "keywords": [
+        "agent reliability",
+        "hallucination",
+        "red teaming",
+        "red-teaming",
+        "rubric",
+        "evaluation",
+        "quality gate",
+        "drift",
+        "rollback",
+        "who grades the ai",
+        "safety",
+        "benchmark"
+      ]
+    },
+    {
+      "slug": "infrastructure-engineering",
+      "name": "Infrastructure Engineering",
+      "description": "Sovereign cloud compute, GPU clusters, network boundary security, and zero-trust deployment.",
+      "keywords": [
+        "sovereign cloud",
+        "gpu cluster",
+        "zero-trust",
+        "network boundary",
+        "infrastructure",
+        "vpc",
+        "hybrid cloud",
+        "on-prem"
+      ]
+    }
+  ],
+  "accelerators": [
+    {
+      "slug": "beacon-pdf-miner",
+      "name": "Beacon (PDF-Miner)",
+      "description": "Multilingual document extraction and digitization across complex scripts (English, Arabic, Cambodian).",
+      "keywords": [
+        "beacon",
+        "pdf-miner",
+        "pdf",
+        "document extraction",
+        "digitization",
+        "multilingual",
+        "arabic",
+        "cambodian",
+        "ocr"
+      ]
+    },
+    {
+      "slug": "interactive-bi-agent",
+      "name": "Interactive BI Agent",
+      "description": "Multi-agent analytics and zero-hallucination text-to-SQL for insurance claims and operational data.",
+      "keywords": [
+        "interactive bi",
+        "text-to-sql",
+        "bi agent",
+        "insurance claims",
+        "business intelligence",
+        "analytics agent"
+      ]
+    },
+    {
+      "slug": "enterprise-intelligence",
+      "name": "Enterprise Intelligence",
+      "description": "Ambient AI monitoring platform demoed to Wells Fargo and Liberty IAM.",
+      "keywords": [
+        "enterprise intelligence",
+        "ambient ai",
+        "wells fargo",
+        "liberty iam",
+        "continuous monitoring",
+        "executive briefing"
+      ]
+    },
+    {
+      "slug": "analysis-copilot",
+      "name": "Analysis CoPilot",
+      "description": "Autonomous Python/SQL deep-analysis engine with verifiable reasoning traces.",
+      "keywords": [
+        "analysis copilot",
+        "deep-analysis",
+        "reasoning trace",
+        "verifiable reasoning",
+        "python analysis"
+      ]
+    },
+    {
+      "slug": "multi-agent-ecommerce-support",
+      "name": "Multi-Agent E-Commerce Support",
+      "description": "Autonomous customer operations and high-stakes escalation routing.",
+      "keywords": [
+        "e-commerce",
+        "ecommerce",
+        "agentic commerce",
+        "customer ops",
+        "customer support",
+        "escalation routing"
+      ]
+    }
+  ],
+  "gtm_playbook": {
+    "primary_wedge": "Solve 'Pilot Purgatory' via Accelerator-Led De-Risking (2-4 week production POCs)",
+    "expansion_motion": "Forward Deployed Engineering (FDE) + Agent Reliability Engineering (ARE) inside the client's own sovereign cloud",
+    "lock_in_stance": "Zero proprietary platform lock-in; open accelerators deployed in client GCP, AWS, or Azure",
+    "target_triggers": [
+      "Pilot Purgatory and stalled enterprise GenAI POCs requiring 2-4 week production de-risking",
+      "Post-Scale AI / Meta neutrality concerns driving vendor tail consolidation (10+ boutique vendors to 1 MSA)",
+      "Board-level 'Who Grades the AI' and deterministic ROI / evaluation mandates",
+      "Sovereign cloud AI deployment inside financial, insurance, legal, and healthcare boundaries",
+      "Agentic AI, e-commerce customer operations, and physical/robotic AI telemetry"
+    ]
+  },
+  "competitor_groups": [
+    {
+      "slug": "scale-ai",
+      "label": "Scale AI",
+      "competitors": [
+        "Scale AI"
+      ],
+      "topic_ids": [
+        7640299
+      ],
+      "weakness": "Platform-heavy, expensive, defense-skewed, and post-Meta 49% ownership neutrality risk.",
+      "innodata_counter": "Publicly traded (NASDAQ: INOD) neutral partner delivering sovereign cloud deployment and tailored Forward Deployed Engineering (FDE).",
+      "evergreen_path": "CompetitiveIntelligence/scale-ai/README.md"
+    },
+    {
+      "slug": "palantir",
+      "label": "Palantir",
+      "competitors": [
+        "Palantir"
+      ],
+      "topic_ids": [
+        7546035
+      ],
+      "weakness": "8-figure proprietary platform lock-in and opaque ontology licensing.",
+      "innodata_counter": "FDE velocity inside the client's own cloud (GCP, AWS, Azure) with open accelerators and zero platform lock-in.",
+      "evergreen_path": "CompetitiveIntelligence/palantir/README.md"
+    },
+    {
+      "slug": "legacy-bpo",
+      "label": "Legacy BPO & Crowd Volume",
+      "competitors": [
+        "Appen",
+        "TELUS Digital",
+        "Sama",
+        "TaskUs",
+        "CloudFactory",
+        "iMerit"
+      ],
+      "topic_ids": [
+        7640305,
+        7640313,
+        7640333,
+        7640399,
+        7640379,
+        7640325
+      ],
+      "weakness": "Legacy BPO crowd volume lacking full-stack agent engineering and deterministic reliability gates.",
+      "innodata_counter": "Full-stack Agent Engineering and Agent Reliability Engineering (ARE) depth with domain-vetted SMEs.",
+      "evergreen_path": "CompetitiveIntelligence/legacy-bpo-appen-telus/README.md"
+    },
+    {
+      "slug": "point-saas",
+      "label": "Point Annotation SaaS Tools",
+      "competitors": [
+        "Labelbox",
+        "Snorkel AI",
+        "SuperAnnotate",
+        "Kognic"
+      ],
+      "topic_ids": [
+        7640395,
+        7640397,
+        7640377,
+        7640401
+      ],
+      "weakness": "Point SaaS tools for internal teams that still leave data ops, red teaming, and production software delivery unsolved.",
+      "innodata_counter": "End-to-end outcome ownership combining human loop + data pipelines + deployed production software.",
+      "evergreen_path": "CompetitiveIntelligence/saas-labelbox-snorkel/README.md"
+    },
+    {
+      "slug": "talent-marketplaces",
+      "label": "Talent Marketplaces & Gig Networks",
+      "competitors": [
+        "Mercor",
+        "Turing",
+        "Surge AI",
+        "Invisible Technologies"
+      ],
+      "topic_ids": [
+        7640331,
+        7640303,
+        7640301,
+        7640339
+      ],
+      "weakness": "Talent marketplaces selling individual headcount with high churn and zero production architecture SLAs.",
+      "innodata_counter": "Managed systems, enterprise SLAs, vendor-tail consolidation under one MSA, and production architectures.",
+      "evergreen_path": "CompetitiveIntelligence/mercor-turing-surge/README.md"
+    }
+  ],
+  "agility_topics": [
+    {
+      "topic_id": 7545218,
+      "name": "1. B&R - Innodata",
+      "category": "BrandAndPositioning",
+      "evergreen_path": "BrandAndPositioning/agent-reliability-engineering/README.md"
+    },
+    {
+      "topic_id": 7546035,
+      "name": "Enterprise Competitor - Palantir",
+      "category": "CompetitiveIntelligence",
+      "evergreen_path": "CompetitiveIntelligence/palantir/README.md"
+    },
+    {
+      "topic_id": 7640299,
+      "name": "Competitor - Scale AI",
+      "category": "CompetitiveIntelligence",
+      "evergreen_path": "CompetitiveIntelligence/scale-ai/README.md"
+    },
+    {
+      "topic_id": 7640301,
+      "name": "Competitor - Surge AI",
+      "category": "CompetitiveIntelligence",
+      "evergreen_path": "CompetitiveIntelligence/mercor-turing-surge/README.md"
+    },
+    {
+      "topic_id": 7640303,
+      "name": "Competitor - Turing",
+      "category": "CompetitiveIntelligence",
+      "evergreen_path": "CompetitiveIntelligence/mercor-turing-surge/README.md"
+    },
+    {
+      "topic_id": 7640305,
+      "name": "Competitor - Appen",
+      "category": "CompetitiveIntelligence",
+      "evergreen_path": "CompetitiveIntelligence/legacy-bpo-appen-telus/README.md"
+    },
+    {
+      "topic_id": 7640313,
+      "name": "Competitor - TELUS Digital",
+      "category": "CompetitiveIntelligence",
+      "evergreen_path": "CompetitiveIntelligence/legacy-bpo-appen-telus/README.md"
+    },
+    {
+      "topic_id": 7640325,
+      "name": "Competitor - iMerit",
+      "category": "CompetitiveIntelligence",
+      "evergreen_path": "CompetitiveIntelligence/legacy-bpo-appen-telus/README.md"
+    },
+    {
+      "topic_id": 7640331,
+      "name": "Competitor - Mercor",
+      "category": "CompetitiveIntelligence",
+      "evergreen_path": "CompetitiveIntelligence/mercor-turing-surge/README.md"
+    },
+    {
+      "topic_id": 7640333,
+      "name": "Competitor - Sama",
+      "category": "CompetitiveIntelligence",
+      "evergreen_path": "CompetitiveIntelligence/legacy-bpo-appen-telus/README.md"
+    },
+    {
+      "topic_id": 7640339,
+      "name": "Competitor - Invisible Technologies",
+      "category": "CompetitiveIntelligence",
+      "evergreen_path": "CompetitiveIntelligence/mercor-turing-surge/README.md"
+    },
+    {
+      "topic_id": 7640377,
+      "name": "Competitor - SuperAnnotate",
+      "category": "CompetitiveIntelligence",
+      "evergreen_path": "CompetitiveIntelligence/saas-labelbox-snorkel/README.md"
+    },
+    {
+      "topic_id": 7640379,
+      "name": "Competitor - CloudFactory",
+      "category": "CompetitiveIntelligence",
+      "evergreen_path": "CompetitiveIntelligence/legacy-bpo-appen-telus/README.md"
+    },
+    {
+      "topic_id": 7640395,
+      "name": "Competitor - Labelbox",
+      "category": "CompetitiveIntelligence",
+      "evergreen_path": "CompetitiveIntelligence/saas-labelbox-snorkel/README.md"
+    },
+    {
+      "topic_id": 7640397,
+      "name": "Competitor - Snorkel AI",
+      "category": "CompetitiveIntelligence",
+      "evergreen_path": "CompetitiveIntelligence/saas-labelbox-snorkel/README.md"
+    },
+    {
+      "topic_id": 7640399,
+      "name": "Competitor - TaskUs",
+      "category": "CompetitiveIntelligence",
+      "evergreen_path": "CompetitiveIntelligence/legacy-bpo-appen-telus/README.md"
+    },
+    {
+      "topic_id": 7640401,
+      "name": "Competitor - Kognic",
+      "category": "CompetitiveIntelligence",
+      "evergreen_path": "CompetitiveIntelligence/saas-labelbox-snorkel/README.md"
+    }
+  ]
+}

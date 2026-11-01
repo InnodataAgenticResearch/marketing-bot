@@ -1,0 +1,20 @@
+[Unit]
+Description=Marketing-Bot (Custom ArtBOT) Microsoft Teams Mention-Gated Channel Bridge
+After=network-online.target hermes-gateway.service
+Wants=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=%h/marketing-bot
+EnvironmentFile=%h/.hermes/profiles/marketing-bot/.env
+Environment=PYTHONPATH=%h/marketing-bot/src:%h/artbot/src
+Environment=PYTHONUNBUFFERED=1
+ExecStart=/usr/bin/python3 -m marketing_bot.cli bridge --host 0.0.0.0 --port 8649
+Restart=always
+RestartSec=2
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=marketingbot-teams-bridge
+
+[Install]
+WantedBy=default.target
