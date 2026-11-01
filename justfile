@@ -44,8 +44,8 @@ test:
 
 # Generate daily roundup from live Agility PR MCP & Saved Topics
 roundup date="":
-	PYTHONPATH=src python3 -m marketing_bot.cli generate-daily {{ if date != "" { "--date " + date } else { "" } }}
+	PYTHONPATH=src:../artbot/src python3 -m marketing_bot.cli generate-daily {{ if date != "" { "--date " + date } else { "" } }}
 
 # Verify upstream ArtBOT tag and commit pin
 upstream-status:
-	PYTHONPATH=src python3 -m marketing_bot.cli upstream-status
+	PYTHONPATH=src:../artbot/src python3 -m marketing_bot.cli upstream-status

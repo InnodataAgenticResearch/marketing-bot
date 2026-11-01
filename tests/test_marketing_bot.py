@@ -110,7 +110,8 @@ def test_package_exports_and_strategy_loading(tmp_path: Path) -> None:
 
 def test_upstream_artbot_pin_loading_and_validation(tmp_path: Path) -> None:
     pin = load_upstream_artbot_pin()
-    assert pin["upstream_tag"] == "v0.1.0-artbot"
+    assert pin["upstream_tag"] == "v0.2.0-artbot"
+    assert pin["upstream_commit"] == "3cfa4e8d2ed6c30c51f03c7a92b58df0a694c781"
     assert default_upstream_pin_path().name == "UPSTREAM_ARTBOT.json"
 
     bad_pin = tmp_path / "UPSTREAM_ARTBOT.json"
@@ -557,12 +558,12 @@ def test_cli_all_subcommands(tmp_path: Path) -> None:
     err = io.StringIO()
     rc = main(["upstream-status"], repo_root=repo, stdout=out, stderr=err)
     assert rc == 0
-    assert "v0.1.0-artbot" in out.getvalue()
+    assert "v0.2.0-artbot" in out.getvalue()
 
     out_json = io.StringIO()
     rc_json = main(["upstream-status", "--json"], repo_root=repo, stdout=out_json, stderr=err)
     assert rc_json == 0
-    assert json.loads(out_json.getvalue())["upstream_tag"] == "v0.1.0-artbot"
+    assert json.loads(out_json.getvalue())["upstream_tag"] == "v0.2.0-artbot"
 
     # 2. strategy-summary
     out_strat = io.StringIO()

@@ -2,16 +2,16 @@
 
 This file governs autonomous coding agents (Hermes Agent, Claude Code, Codex) and engineers working in or deploying from the `marketing-bot` repository. `AGENTS.md` is a symlink to this file so Hermes loads it automatically.
 
-`marketing-bot` is a **Custom ArtBOT** built on top of the reusable upstream [`InnodataAgenticResearch/artbot`](https://github.com/InnodataAgenticResearch/artbot) foundation (`v0.1.0-artbot`) and structured as a [`Dannyzen/eliezer-weekly-roundup-public`](https://github.com/Dannyzen/eliezer-weekly-roundup-public)-style category-first intelligence repository for **Innodata (`NASDAQ: INOD`) PR, Competitive Intelligence, and Enterprise AI Strategy**.
+`marketing-bot` is a **Custom ArtBOT** built on top of the reusable upstream [`InnodataAgenticResearch/artbot`](https://github.com/InnodataAgenticResearch/artbot) foundation (`v0.2.0-artbot`) and structured as a [`Dannyzen/eliezer-weekly-roundup-public`](https://github.com/Dannyzen/eliezer-weekly-roundup-public)-style category-first intelligence repository for **Innodata (`NASDAQ: INOD`) PR, Competitive Intelligence, and Enterprise AI Strategy**.
 
 ---
 
 ## 1. Read First
 
-- `README.md`: Category-first index of the latest Daily Market & PR Intelligence Roundups, evergreen battlecards (`BrandAndPositioning/`, `CompetitiveIntelligence/`, `MarketTrends/`), Microsoft Teams Workflows webhook setup, and runtime commands.
-- `UPSTREAM_ARTBOT.json` & `checks/api_contract.star`: Upstream ArtBOT version pin (`v0.1.0-artbot`, commit `e28cf26c2b71e4f081ce17f3815fae31375a98d3`) and the public API surface lock enforced by `shac`.
-- `config/SOUL.md`: Marketing-Bot's system identity (`@marketing-bot` / `@pr-bot`), channel interaction invariants, Agility PR MCP + 49 Saved Topics workflow, Michael Harris's `Innodata_Enterprise_AI_Strategy.docx` positioning & competitive matrix, and `STANDARDS.md`.
-- `config/innodata_marketing_strategy.json`: Machine-readable taxonomy of Innodata's 6 Engineering Pillars, 5 Proprietary Accelerators, 5 Competitor Battlecard Tiers, and 49 Agility PR Saved Topics.
+- `README.md`: Dynamic daily roundup landing page, category navigation (`BrandAndPositioning/`, `CompetitiveIntelligence/`, `MarketTrends/`, `roundups/`), Microsoft Teams Workflows webhook setup, and runtime commands.
+- `UPSTREAM_ARTBOT.json` & `checks/api_contract.star`: Upstream ArtBOT version pin (`v0.2.0-artbot`, commit `3cfa4e8d2ed6c30c51f03c7a92b58df0a694c781`) and the public API surface lock enforced by `shac`.
+- `config/marketing_strategy.json`: Innodata's 6-Pillar Full-Stack Engineering Taxonomy, 5 Proprietary Accelerators (`Beacon`, `Goldengate`, `ai.Prep`, `Automated Red Teaming`, `Domain Evaluation Benchmarks`), GTM Wedge (`Solving Pilot Purgatory via Accelerator-Led De-Risking & FDE`), 5 Competitive Cohorts, and 17+ Agility PR Saved Topic IDs.
+- `config/PERSONA.md`: Marketing-Bot's executive PR & market intelligence identity (`@marketing-bot` / `@pr-bot`), mention-only discipline, and `STANDARDS.md`.
 - `checks/policy.star` & `shac.star`: Machine-enforced security, secret-hygiene, API-contract, and coding-standard gates.
 
 ---
@@ -21,7 +21,7 @@ This file governs autonomous coding agents (Hermes Agent, Claude Code, Codex) an
 When asked by a human to provision `marketing-bot` (or another custom Teams webhook bot extending upstream `artbot`) on a machine:
 
 1. **Verify Upstream ArtBOT Pin (`UPSTREAM_ARTBOT.json` & `checks/api_contract.star`):**
-   - `marketing-bot` pins upstream `https://github.com/InnodataAgenticResearch/artbot` at tag `v0.1.0-artbot` (`e28cf26c2b71e4f081ce17f3815fae31375a98d3`) in `UPSTREAM_ARTBOT.json`.
+   - `marketing-bot` pins upstream `https://github.com/InnodataAgenticResearch/artbot` at tag `v0.2.0-artbot` (`3cfa4e8d2ed6c30c51f03c7a92b58df0a694c781`) in `UPSTREAM_ARTBOT.json`.
    - Custom ArtBOT code under `src/marketing_bot/` must import **only** from the top-level public `artbot` package (`from artbot import ArtbotConfig, HttpTransport, ...`) listed in `public_api_allowlist`.
    - `checks/api_contract.star` (`no_private_artbot_apis` and `upstream_artbot_pin_valid`) blocks any import of internal submodules (`from artbot.<submodule> import ...`) or private underscore-prefixed symbols (`from artbot import _...`), guaranteeing that upgrading to a newer tagged `artbot` release never breaks `marketing-bot`.
    - Verify the pin at any time with:

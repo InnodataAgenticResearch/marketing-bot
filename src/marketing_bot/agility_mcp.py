@@ -8,13 +8,21 @@ from __future__ import annotations
 
 import json
 import re
-import urllib.error
 import urllib.parse
-import urllib.request
 from collections.abc import Sequence
 from dataclasses import dataclass, replace
 from datetime import UTC, datetime
-from typing import Any, Protocol
+from typing import Any
+
+from artbot import (
+    HttpResponse as HttpResponse,
+)
+from artbot import (
+    HttpTransport as HttpTransport,
+)
+from artbot import (
+    UrllibHttpTransport as UrllibHttpTransport,
+)
 
 from marketing_bot.strategy import MarketingStrategy
 
@@ -32,86 +40,6 @@ INTELLIGENCE_CATEGORIES: tuple[str, ...] = (
 
 _NON_ALNUM_RE = re.compile(r"[^a-z0-9]+")
 _TRAILING_OUTLET_RE = re.compile(r"\s+[-|]\s+[A-Z][\w\s.&'-]{1,40}$")
-
-
-@dataclass(frozen=True)
-class HttpResponse:
-    """Minimal HTTP response object for deterministic testing and transports."""
-
-    status_code: int
-    body: str
-
-    def json(self) -> dict[str, Any]:
-        """Parse JSON response body."""
-        res: dict[str, Any] = json.loads(self.body)
-        return res
-
-
-class HttpTransport(Protocol):
-    """Protocol for injectable HTTP transports."""
-
-    def get(
-        self,
-        url: str,
-        *,
-        headers: dict[str, str],
-        timeout: float,
-    ) -> HttpResponse: ...  # pragma: no cover - protocol stub
-
-    def post_json(
-        self,
-        url: str,
-        *,
-        payload: dict[str, Any],
-        headers: dict[str, str],
-        timeout: float,
-    ) -> HttpResponse: ...  # pragma: no cover - protocol stub
-
-
-class UrllibHttpTransport:
-    """Standard-library urllib transport implementing `HttpTransport`."""
-
-    def get(
-        self,
-        url: str,
-        *,
-        headers: dict[str, str],
-        timeout: float,
-    ) -> HttpResponse:  # pragma: no cover - network transport boundary
-        req = urllib.request.Request(url, headers=headers, method="GET")
-        try:
-            with urllib.request.urlopen(req, timeout=timeout) as resp:
-                return HttpResponse(
-                    status_code=int(resp.status),
-                    body=resp.read().decode("utf-8", errors="replace"),
-                )
-        except urllib.error.HTTPError as exc:
-            return HttpResponse(
-                status_code=int(exc.code),
-                body=exc.read().decode("utf-8", errors="replace"),
-            )
-
-    def post_json(
-        self,
-        url: str,
-        *,
-        payload: dict[str, Any],
-        headers: dict[str, str],
-        timeout: float,
-    ) -> HttpResponse:  # pragma: no cover - network transport boundary
-        data = json.dumps(payload).encode("utf-8")
-        req = urllib.request.Request(url, data=data, headers=headers, method="POST")
-        try:
-            with urllib.request.urlopen(req, timeout=timeout) as resp:
-                return HttpResponse(
-                    status_code=int(resp.status),
-                    body=resp.read().decode("utf-8", errors="replace"),
-                )
-        except urllib.error.HTTPError as exc:
-            return HttpResponse(
-                status_code=int(exc.code),
-                body=exc.read().decode("utf-8", errors="replace"),
-            )
 
 
 @dataclass(frozen=True)

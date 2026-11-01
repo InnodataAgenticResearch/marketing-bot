@@ -1,6 +1,6 @@
 # Marketing-Bot (Custom ArtBOT) — Innodata PR & Market Intelligence
 
-**Marketing-Bot** is a custom [ArtBOT](https://github.com/InnodataAgenticResearch/artbot) instance (`v0.1.0-artbot`) built for **Innodata (NASDAQ: INOD)**. It combines an autonomous Microsoft Teams channel agent with a daily PR & market intelligence roundup pipeline powered by the **Agility PR MCP Server** (`https://apigateway.agilitypr.com/api/mcp`) and **Agility PR Media Intelligence REST API** (`https://mediaintelligence.agilitypr.com/api/v1`), structured in the style of [`Dannyzen/eliezer-weekly-roundup-public`](https://github.com/Dannyzen/eliezer-weekly-roundup-public).
+**Marketing-Bot** is a custom [ArtBOT](https://github.com/InnodataAgenticResearch/artbot) instance (`v0.2.0-artbot`) built for **Innodata (NASDAQ: INOD)**. It combines an autonomous Microsoft Teams channel agent with a daily PR & market intelligence roundup pipeline powered by the **Agility PR MCP Server** (`https://apigateway.agilitypr.com/api/mcp`) and **Agility PR Media Intelligence REST API** (`https://mediaintelligence.agilitypr.com/api/v1`), structured in the style of [`Dannyzen/eliezer-weekly-roundup-public`](https://github.com/Dannyzen/eliezer-weekly-roundup-public).
 
 ## Latest Daily Market & PR Intelligence Update
 
@@ -43,7 +43,7 @@
 
 ## 1. Key Capabilities & Operating Invariants
 
-1. **Upstream ArtBOT Public Contract Lock (`UPSTREAM_ARTBOT.json`):** Pins `InnodataAgenticResearch/artbot` at tag `v0.1.0-artbot` (`e28cf26c2b71e4f081ce17f3815fae31375a98d3`). `checks/api_contract.star` forbids importing private `artbot` submodules or underscore-prefixed symbols.
+1. **Upstream ArtBOT Public Contract Lock (`UPSTREAM_ARTBOT.json`):** Pins `InnodataAgenticResearch/artbot` at tag `v0.2.0-artbot` (`3cfa4e8d2ed6c30c51f03c7a92b58df0a694c781`). `checks/api_contract.star` forbids importing private `artbot` submodules or underscore-prefixed symbols.
 2. **Agility PR Dual-Transport Intelligence (`src/marketing_bot/agility_mcp.py`):**
    - Streamable HTTP JSON-RPC 2.0 MCP client (`POST https://apigateway.agilitypr.com/api/mcp` with `apiKey` header) supporting `initialize`, `tools/list`, and `ad_hoc_search` across both JSON and SSE (`data: {...}`) streams.
    - REST API client (`https://mediaintelligence.agilitypr.com/api/v1`) supporting `GET /topic` and `POST /topic/search` across all 17+ monitored brand and competitor topics.

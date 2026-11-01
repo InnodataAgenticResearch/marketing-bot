@@ -316,7 +316,7 @@ def build_readme_markdown(
         (
             "**Marketing-Bot** is a custom "
             "[ArtBOT](https://github.com/InnodataAgenticResearch/artbot) instance "
-            f"(`v0.1.0-artbot`) built for **{strategy.company}**. It combines an autonomous "
+            f"(`v0.2.0-artbot`) built for **{strategy.company}**. It combines an autonomous "
             "Microsoft Teams channel agent with a daily PR & market intelligence roundup pipeline "
             "powered by the **Agility PR MCP Server** (`https://apigateway.agilitypr.com/api/mcp`) "
             "and **Agility PR Media Intelligence REST API** "
@@ -398,8 +398,8 @@ def build_readme_markdown(
         "",
         (
             "1. **Upstream ArtBOT Public Contract Lock (`UPSTREAM_ARTBOT.json`):** Pins "
-            "`InnodataAgenticResearch/artbot` at tag `v0.1.0-artbot` "
-            "(`e28cf26c2b71e4f081ce17f3815fae31375a98d3`). `checks/api_contract.star` forbids "
+            "`InnodataAgenticResearch/artbot` at tag `v0.2.0-artbot` "
+            "(`3cfa4e8d2ed6c30c51f03c7a92b58df0a694c781`). `checks/api_contract.star` forbids "
             "importing private `artbot` submodules or underscore-prefixed symbols."
         ),
         "2. **Agility PR Dual-Transport Intelligence (`src/marketing_bot/agility_mcp.py`):**",

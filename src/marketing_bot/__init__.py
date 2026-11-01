@@ -2,6 +2,14 @@
 Marketing-Bot (Custom ArtBOT): Innodata PR & Market Intelligence package.
 """
 
+from artbot import (
+    HttpResponse,
+    HttpTransport,
+    PeerBlackboardHandoff,
+    UrllibHttpTransport,
+    build_peer_blackboard_block,
+)
+
 from marketing_bot.agility_mcp import (
     CATEGORY_BRAND,
     CATEGORY_COMPETITIVE,
@@ -11,10 +19,7 @@ from marketing_bot.agility_mcp import (
     INTELLIGENCE_CATEGORIES,
     AgilityMcpClient,
     EvaluatedMention,
-    HttpResponse,
-    HttpTransport,
     MediaMention,
-    UrllibHttpTransport,
     deduplicate_mentions,
     evaluate_mention_positioning,
     normalize_raw_mention,
@@ -66,10 +71,12 @@ __all__ = [
     "HttpTransport",
     "MarketingStrategy",
     "MediaMention",
+    "PeerBlackboardHandoff",
     "ProprietaryAccelerator",
     "UrllibHttpTransport",
     "__version__",
     "build_parser",
+    "build_peer_blackboard_block",
     "build_readme_markdown",
     "deduplicate_mentions",
     "default_repo_root",
