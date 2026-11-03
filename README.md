@@ -4,14 +4,14 @@
 
 ## Latest Daily Market & PR Intelligence Update
 
-- **Latest Snapshot Date:** `2026-11-02`
-- **Full Executive Roundup:** [`roundups/2026-11-02.md`](roundups/2026-11-02.md)
+- **Latest Snapshot Date:** `2026-11-03`
+- **Full Executive Roundup:** [`roundups/2026-11-03.md`](roundups/2026-11-03.md)
 - **Daily Category Breakdowns:**
-  - [`BrandAndPositioning/2026-11-02/positioning.md`](BrandAndPositioning/2026-11-02/positioning.md)
-  - [`CompetitiveIntelligence/2026-11-02/competitors.md`](CompetitiveIntelligence/2026-11-02/competitors.md)
-  - [`MarketTrends/2026-11-02/trends.md`](MarketTrends/2026-11-02/trends.md)
+  - [`BrandAndPositioning/2026-11-03/positioning.md`](BrandAndPositioning/2026-11-03/positioning.md)
+  - [`CompetitiveIntelligence/2026-11-03/competitors.md`](CompetitiveIntelligence/2026-11-03/competitors.md)
+  - [`MarketTrends/2026-11-03/trends.md`](MarketTrends/2026-11-03/trends.md)
 
-### Top Scored Signals (2026-11-02)
+### Top Scored Signals (2026-11-03)
 
 - **[CompetitiveIntelligence]** [Stock pulse Australian Market](https://ct.moreover.com/?a=60765365149&p=21l&v=1&x=hOsHhm1vPhhF8cLGjcsTHA) (*Global Round Up - Stock Exchange Indices*, Score `1.00`) — Position Innodata (NASDAQ: INOD) against Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit: Full-stack Agent Engineering and Agent Reliability Engineering (ARE) depth with domain-vetted SMEs. Highlight our Agent Engineering, Infrastructure Engineering capabilities.
 - **[CompetitiveIntelligence]** [Weekly: ExlService Holdings, Inc. (NASDAQ:EXLS) dips 2.1% on robust volume; -87c [-2.1%]](https://ct.moreover.com/?a=60759319688&p=21l&v=1&x=o1Nwp75RLir4JGRcgDWJEA) (*Global Round Up - Bullish & Bearish Signals*, Score `1.00`) — Position Innodata (NASDAQ: INOD) against Scale AI, Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit: Publicly traded (NASDAQ: INOD) neutral partner delivering sovereign cloud deployment and tailored Forward Deployed Engineering (FDE). Highlight our Robotic Engineering, Data Engineering, Agent Engineering, Agent Reliability Engineering (ARE), Infrastructure Engineering capabilities.
@@ -21,6 +21,7 @@
 
 ### Daily Roundup Archive
 
+- [`roundups/2026-11-03.md`](roundups/2026-11-03.md) — [Brand & Positioning](BrandAndPositioning/2026-11-03/positioning.md) | [Competitive Intelligence](CompetitiveIntelligence/2026-11-03/competitors.md) | [Market Trends](MarketTrends/2026-11-03/trends.md)
 - [`roundups/2026-11-02.md`](roundups/2026-11-02.md) — [Brand & Positioning](BrandAndPositioning/2026-11-02/positioning.md) | [Competitive Intelligence](CompetitiveIntelligence/2026-11-02/competitors.md) | [Market Trends](MarketTrends/2026-11-02/trends.md)
 - [`roundups/2026-11-01.md`](roundups/2026-11-01.md) — [Brand & Positioning](BrandAndPositioning/2026-11-01/positioning.md) | [Competitive Intelligence](CompetitiveIntelligence/2026-11-01/competitors.md) | [Market Trends](MarketTrends/2026-11-01/trends.md)
 - [`roundups/2026-10-31.md`](roundups/2026-10-31.md) — [Brand & Positioning](BrandAndPositioning/2026-10-31/positioning.md) | [Competitive Intelligence](CompetitiveIntelligence/2026-10-31/competitors.md) | [Market Trends](MarketTrends/2026-10-31/trends.md)
@@ -87,10 +88,10 @@ To connect **Marketing-Bot** to a Microsoft Teams channel without requiring Entr
 - **Generate Daily Intelligence Roundup (Offline Seed or Live Agility PR):**
   ```bash
   # Deterministic seed / offline generation for a specific date:
-  PYTHONPATH=src:vendor python3 -m marketing_bot.cli generate-daily --date 2026-11-02
+  PYTHONPATH=src:vendor python3 -m marketing_bot.cli generate-daily --date 2026-11-03
 
   # Live harvest across Agility PR MCP + Saved Topics when AGILITYPR_API_KEY is set:
-  PYTHONPATH=src:vendor python3 -m marketing_bot.cli generate-daily --date 2026-11-02 --live
+  PYTHONPATH=src:vendor python3 -m marketing_bot.cli generate-daily --date 2026-11-03 --live
   ```
 - **Run an Ad-Hoc Agility PR MCP Expert Boolean Search:**
   ```bash
