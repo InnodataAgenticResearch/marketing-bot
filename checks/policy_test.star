@@ -16,6 +16,7 @@ load(
     "no_unexplained_pragma_or_disable",
     "no_unittest_mock_in_tests",
     "readme_and_agent_contract",
+    "vendor_in_pythonpath",
 )
 
 def test_no_tracked_beads():
@@ -130,4 +131,17 @@ def test_no_private_artbot_apis():
     asserts.eq(
         [(f.filepath, f.line) for f in res_allowlist.findings],
         [("src/marketing_bot/unlisted.py", 1)],
+    )
+
+def test_vendor_in_pythonpath():
+    res = testing.run(vendor_in_pythonpath, files = {
+        "scripts/bad.sh": "PYTHONPATH=src python3 -m marketing_bot.cli\n",
+        "systemd/bad.service": "Environment=PYTHONPATH=%h/marketing-bot/src\n",
+        "justfile": "\tPYTHONPATH=src:vendor python3 -m marketing_bot.cli\n",
+        "scripts/good.sh": "PYTHONPATH=src:vendor python3 -m marketing_bot.cli\n",
+        "systemd/good.service": "Environment=PYTHONPATH=%h/marketing-bot/src:%h/marketing-bot/vendor\n",
+    })
+    asserts.eq(
+        sorted([(f.filepath, f.line) for f in res.findings]),
+        [("scripts/bad.sh", 1), ("systemd/bad.service", 1)],
     )

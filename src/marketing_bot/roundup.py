@@ -472,8 +472,8 @@ def build_readme_markdown(
         "   ```",
         "3. Verify upstream ArtBOT pin and Innodata strategy configuration:",
         "   ```bash",
-        "   PYTHONPATH=src python3 -m marketing_bot.cli upstream-status",
-        "   PYTHONPATH=src python3 -m marketing_bot.cli strategy-summary",
+        "   PYTHONPATH=src:vendor python3 -m marketing_bot.cli upstream-status",
+        "   PYTHONPATH=src:vendor python3 -m marketing_bot.cli strategy-summary",
         "   ```",
         "",
         "## 4. Runtime Execution",
@@ -481,15 +481,18 @@ def build_readme_markdown(
         "- **Generate Daily Intelligence Roundup (Offline Seed or Live Agility PR):**",
         "  ```bash",
         "  # Deterministic seed / offline generation for a specific date:",
-        f"  PYTHONPATH=src python3 -m marketing_bot.cli generate-daily --date {latest_date}",
+        f"  PYTHONPATH=src:vendor python3 -m marketing_bot.cli generate-daily --date {latest_date}",
         "",
         "  # Live harvest across Agility PR MCP + Saved Topics when AGILITYPR_API_KEY is set:",
-        f"  PYTHONPATH=src python3 -m marketing_bot.cli generate-daily --date {latest_date} --live",
+        (
+            "  PYTHONPATH=src:vendor python3 -m marketing_bot.cli "
+            f"generate-daily --date {latest_date} --live"
+        ),
         "  ```",
         "- **Run an Ad-Hoc Agility PR MCP Expert Boolean Search:**",
         "  ```bash",
         (
-            "  PYTHONPATH=src python3 -m marketing_bot.cli mcp-search "
+            "  PYTHONPATH=src:vendor python3 -m marketing_bot.cli mcp-search "
             '\'("Innodata" OR "Scale AI") AND "enterprise AI"\''
         ),
         "  ```",

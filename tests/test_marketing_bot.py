@@ -710,3 +710,13 @@ def test_cli_all_subcommands(tmp_path: Path) -> None:
     client = AgilityMcpClient("direct-key", transport=FakeHttpTransport())
     harvested = harvest_live_mentions(client, strategy)
     assert harvested == []
+
+
+def test_roundup_script_and_systemd_include_vendor_pythonpath() -> None:
+    repo = default_repo_root()
+    script_text = (repo / "scripts" / "run_morning_roundup.sh").read_text(encoding="utf-8")
+    service_text = (repo / "systemd" / "marketingbot-daily-roundup.service").read_text(
+        encoding="utf-8"
+    )
+    assert "PYTHONPATH=src:vendor python3 -m marketing_bot.cli" in script_text
+    assert "Environment=PYTHONPATH=%h/marketing-bot/src:%h/marketing-bot/vendor" in service_text

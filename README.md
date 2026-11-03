@@ -77,8 +77,8 @@ To connect **Marketing-Bot** to a Microsoft Teams channel without requiring Entr
    ```
 3. Verify upstream ArtBOT pin and Innodata strategy configuration:
    ```bash
-   PYTHONPATH=src python3 -m marketing_bot.cli upstream-status
-   PYTHONPATH=src python3 -m marketing_bot.cli strategy-summary
+   PYTHONPATH=src:vendor python3 -m marketing_bot.cli upstream-status
+   PYTHONPATH=src:vendor python3 -m marketing_bot.cli strategy-summary
    ```
 
 ## 4. Runtime Execution
@@ -86,14 +86,14 @@ To connect **Marketing-Bot** to a Microsoft Teams channel without requiring Entr
 - **Generate Daily Intelligence Roundup (Offline Seed or Live Agility PR):**
   ```bash
   # Deterministic seed / offline generation for a specific date:
-  PYTHONPATH=src python3 -m marketing_bot.cli generate-daily --date 2026-11-01
+  PYTHONPATH=src:vendor python3 -m marketing_bot.cli generate-daily --date 2026-11-01
 
   # Live harvest across Agility PR MCP + Saved Topics when AGILITYPR_API_KEY is set:
-  PYTHONPATH=src python3 -m marketing_bot.cli generate-daily --date 2026-11-01 --live
+  PYTHONPATH=src:vendor python3 -m marketing_bot.cli generate-daily --date 2026-11-01 --live
   ```
 - **Run an Ad-Hoc Agility PR MCP Expert Boolean Search:**
   ```bash
-  PYTHONPATH=src python3 -m marketing_bot.cli mcp-search '("Innodata" OR "Scale AI") AND "enterprise AI"'
+  PYTHONPATH=src:vendor python3 -m marketing_bot.cli mcp-search '("Innodata" OR "Scale AI") AND "enterprise AI"'
   ```
 
 ## 5. Repository Structure

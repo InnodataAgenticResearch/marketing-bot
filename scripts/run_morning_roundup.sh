@@ -7,7 +7,7 @@ DATE_STR="${1:-$(TZ=America/New_York date +%Y-%m-%d)}"
 cd "$REPO_DIR"
 git pull --ff-only origin main || true
 
-PYTHONPATH=src python3 -m marketing_bot.cli generate-daily --date "$DATE_STR" --live
+PYTHONPATH=src:vendor python3 -m marketing_bot.cli generate-daily --date "$DATE_STR" --live
 
 git config user.name "Marketing-Bot"
 git config user.email "drosen@innodata.com"

@@ -175,6 +175,21 @@ def no_mutable_bridge_systemd_units(ctx):
                     message = "Systemd service units must use immutable %h/.nix-profile/bin/artbot-bridge instead of mutable PYTHONPATH=%h/artbot/src or /usr/bin/python3 -m artbot.bridge.",
                 )
 
+def vendor_in_pythonpath(ctx):
+    """Require vendor in PYTHONPATH definitions inside scripts/, systemd/, and justfile so artbot imports never fail."""
+    for path in ctx.scm.all_files(include_symlinks = True):
+        if not (path.startswith("scripts/") or path.startswith("systemd/") or path == "justfile"):
+            continue
+        raw = str(ctx.io.read_file(path))
+        for idx, line in enumerate(raw.splitlines()):
+            if line.find("PYTHONPATH=") >= 0 and line.find("vendor") < 0:
+                ctx.emit.finding(
+                    level = "error",
+                    filepath = path,
+                    line = idx + 1,
+                    message = "PYTHONPATH in scripts, systemd units, and justfile must include 'vendor' (e.g. PYTHONPATH=src:vendor) so vendored artbot imports resolve.",
+                )
+
 def register_policy_checks():
     for impl in [
         no_secrets_or_env_files,
@@ -185,6 +200,7 @@ def register_policy_checks():
         no_unittest_mock_in_tests,
         no_heap_limit_bandaids,
         no_mutable_bridge_systemd_units,
+        vendor_in_pythonpath,
         readme_and_agent_contract,
     ]:
         shac.register_check(impl)

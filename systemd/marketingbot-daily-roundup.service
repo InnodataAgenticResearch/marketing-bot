@@ -7,7 +7,7 @@ Wants=network-online.target
 Type=oneshot
 WorkingDirectory=%h/marketing-bot
 EnvironmentFile=%h/.hermes/profiles/marketingbot/.env
-Environment=PYTHONPATH=%h/marketing-bot/src
+Environment=PYTHONPATH=%h/marketing-bot/src:%h/marketing-bot/vendor
 Environment=PATH=%h/.nix-profile/bin:%h/.local/bin:/usr/local/bin:/usr/bin:/bin
 ExecStart=/usr/bin/env bash %h/marketing-bot/scripts/run_morning_roundup.sh
 StandardOutput=journal
