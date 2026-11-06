@@ -4,23 +4,24 @@
 
 ## Latest Daily Market & PR Intelligence Update
 
-- **Latest Snapshot Date:** `2026-11-05`
-- **Full Executive Roundup:** [`roundups/2026-11-05.md`](roundups/2026-11-05.md)
+- **Latest Snapshot Date:** `2026-11-06`
+- **Full Executive Roundup:** [`roundups/2026-11-06.md`](roundups/2026-11-06.md)
 - **Daily Category Breakdowns:**
-  - [`BrandAndPositioning/2026-11-05/positioning.md`](BrandAndPositioning/2026-11-05/positioning.md)
-  - [`CompetitiveIntelligence/2026-11-05/competitors.md`](CompetitiveIntelligence/2026-11-05/competitors.md)
-  - [`MarketTrends/2026-11-05/trends.md`](MarketTrends/2026-11-05/trends.md)
+  - [`BrandAndPositioning/2026-11-06/positioning.md`](BrandAndPositioning/2026-11-06/positioning.md)
+  - [`CompetitiveIntelligence/2026-11-06/competitors.md`](CompetitiveIntelligence/2026-11-06/competitors.md)
+  - [`MarketTrends/2026-11-06/trends.md`](MarketTrends/2026-11-06/trends.md)
 
-### Top Scored Signals (2026-11-05)
+### Top Scored Signals (2026-11-06)
 
-- **[CompetitiveIntelligence]** [Relative Performance Evaluation : NASDAQ Composite Index (+364.5 points, +1.4%) November 04, 2026](https://ct.moreover.com/?a=60781516985&p=21l&v=1&x=YzxXtZJ9yIp15wfqyGFGJg) (*Global Round Up - Stock Exchange Indices*, Score `1.00`) — Position Innodata (NASDAQ: INOD) against Turing: Managed systems, enterprise SLAs, vendor-tail consolidation under one MSA, and production architectures. Highlight our Data Engineering, Agent Reliability Engineering (ARE), Infrastructure Engineering capabilities.
-- **[CompetitiveIntelligence]** [Comparative Analysis of Performance : NASDAQ Composite Index (+364.5 points, +1.4%) November 04, 2026](https://ct.moreover.com/?a=60781280126&p=21l&v=1&x=uWktxOaYr7JlSqpdcehgtw) (*Global Round Up - Stock Exchange Indices*, Score `1.00`) — Position Innodata (NASDAQ: INOD) against Turing: Managed systems, enterprise SLAs, vendor-tail consolidation under one MSA, and production architectures. Highlight our Data Engineering, Agent Reliability Engineering (ARE), Infrastructure Engineering capabilities.
-- **[BrandAndPositioning]** [United States: When AI Hype Meets The Courtroom: Trends In Investor Lawsuits](https://ct.moreover.com/?a=60780823744&p=21l&v=1&x=ReRtVvH5CZpRewesFsvoTQ) (*Mondaq Business Briefing*, Score `1.00`) — Solve 'Pilot Purgatory' via Accelerator-Led De-Risking (2-4 week production POCs) — Forward Deployed Engineering (FDE) + Agent Reliability Engineering (ARE) inside the client's own sovereign cloud with zero proprietary platform lock-in; open accelerators deployed in client gcp, aws, or azure.
-- **[CompetitiveIntelligence]** [-Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI](https://ct.moreover.com/?a=60773604664&p=21l&v=1&x=2NVoMLh_aflbnQp-I2K7lg) (*M2 PressWIRE*, Score `1.00`) — Position Innodata (NASDAQ: INOD) against Scale AI: Publicly traded (NASDAQ: INOD) neutral partner delivering sovereign cloud deployment and tailored Forward Deployed Engineering (FDE). Highlight our Robotic Engineering, Agent Engineering, Agent Reliability Engineering (ARE), Infrastructure Engineering capabilities.
-- **[CompetitiveIntelligence]** [XPeng Inc. ADR (NYSE:XPEV) plummets 18% in past 3 months](https://ct.moreover.com/?a=60780325844&p=21l&v=1&x=1xZ15uMwXR1Mc0Nqq6FZAQ) (*Global Round Up - ADRs and Depository Receipts*, Score `1.00`) — Position Innodata (NASDAQ: INOD) against Mercor, Turing, Surge AI, Invisible Technologies: Managed systems, enterprise SLAs, vendor-tail consolidation under one MSA, and production architectures. Highlight our Robotic Engineering, Agent Reliability Engineering (ARE) capabilities.
+- **[CompetitiveIntelligence]** [Relative Performance Evaluation : NASDAQ Composite Index (-1,421.5 points, -5.5%) November 05, 2026](https://ct.moreover.com/?a=60789214404&p=21l&v=1&x=nkgHykv7xidGkVu_y7xrjA) (*Global Round Up - Stock Exchange Indices*, Score `1.00`) — Position Innodata (NASDAQ: INOD) against Turing: Managed systems, enterprise SLAs, vendor-tail consolidation under one MSA, and production architectures. Highlight our Data Engineering, Agent Reliability Engineering (ARE), Infrastructure Engineering capabilities.
+- **[CompetitiveIntelligence]** [Comparative Analysis of Performance : NASDAQ Composite Index (-1,421.5 points, -5.5%) November 05, 2026](https://ct.moreover.com/?a=60788980314&p=21l&v=1&x=nJJ-mOOZTnrWELTDItr6yQ) (*Global Round Up - Stock Exchange Indices*, Score `1.00`) — Position Innodata (NASDAQ: INOD) against Turing: Managed systems, enterprise SLAs, vendor-tail consolidation under one MSA, and production architectures. Highlight our Data Engineering, Agent Reliability Engineering (ARE), Infrastructure Engineering capabilities.
+- **[CompetitiveIntelligence]** [XPeng Inc. ADR (NYSE:XPEV) plummets 18% in past 3 months](https://ct.moreover.com/?a=60788412061&p=21l&v=1&x=jG0iZrRkmoFRHozlYN63GA) (*Global Round Up - ADRs and Depository Receipts*, Score `1.00`) — Position Innodata (NASDAQ: INOD) against Mercor, Turing, Surge AI, Invisible Technologies: Managed systems, enterprise SLAs, vendor-tail consolidation under one MSA, and production architectures. Highlight our Robotic Engineering, Agent Reliability Engineering (ARE) capabilities.
+- **[CompetitiveIntelligence]** [XPeng Inc.'s (NYSE:XPEV $9.60): Recent News and Research Digest](https://ct.moreover.com/?a=60788173299&p=21l&v=1&x=UfFATGv_1CtAzpwjdECaxw) (*Global Round Up - ADRs and Depository Receipts*, Score `1.00`) — Position Innodata (NASDAQ: INOD) against Mercor, Turing, Surge AI, Invisible Technologies: Managed systems, enterprise SLAs, vendor-tail consolidation under one MSA, and production architectures. Highlight our Robotic Engineering, Agent Reliability Engineering (ARE), Infrastructure Engineering capabilities.
+- **[CompetitiveIntelligence]** [XPENG Researchers and Academic Partners Introduce GroundingPI, An Open-Source Visual Perception Model For Physical AI](https://us.headtopics.com/news/xpeng-researchers-and-academic-partners-introduce-89600723) (*Head Topics US*, Score `0.99`) — Position Innodata (NASDAQ: INOD) against Mercor, Turing, Surge AI, Invisible Technologies: Managed systems, enterprise SLAs, vendor-tail consolidation under one MSA, and production architectures. Highlight our Robotic Engineering, Agent Reliability Engineering (ARE) capabilities.
 
 ### Daily Roundup Archive
 
+- [`roundups/2026-11-06.md`](roundups/2026-11-06.md) — [Brand & Positioning](BrandAndPositioning/2026-11-06/positioning.md) | [Competitive Intelligence](CompetitiveIntelligence/2026-11-06/competitors.md) | [Market Trends](MarketTrends/2026-11-06/trends.md)
 - [`roundups/2026-11-05.md`](roundups/2026-11-05.md) — [Brand & Positioning](BrandAndPositioning/2026-11-05/positioning.md) | [Competitive Intelligence](CompetitiveIntelligence/2026-11-05/competitors.md) | [Market Trends](MarketTrends/2026-11-05/trends.md)
 - [`roundups/2026-11-04.md`](roundups/2026-11-04.md) — [Brand & Positioning](BrandAndPositioning/2026-11-04/positioning.md) | [Competitive Intelligence](CompetitiveIntelligence/2026-11-04/competitors.md) | [Market Trends](MarketTrends/2026-11-04/trends.md)
 - [`roundups/2026-11-03.md`](roundups/2026-11-03.md) — [Brand & Positioning](BrandAndPositioning/2026-11-03/positioning.md) | [Competitive Intelligence](CompetitiveIntelligence/2026-11-03/competitors.md) | [Market Trends](MarketTrends/2026-11-03/trends.md)
@@ -90,10 +91,10 @@ To connect **Marketing-Bot** to a Microsoft Teams channel without requiring Entr
 - **Generate Daily Intelligence Roundup (Offline Seed or Live Agility PR):**
   ```bash
   # Deterministic seed / offline generation for a specific date:
-  PYTHONPATH=src:vendor python3 -m marketing_bot.cli generate-daily --date 2026-11-05
+  PYTHONPATH=src:vendor python3 -m marketing_bot.cli generate-daily --date 2026-11-06
 
   # Live harvest across Agility PR MCP + Saved Topics when AGILITYPR_API_KEY is set:
-  PYTHONPATH=src:vendor python3 -m marketing_bot.cli generate-daily --date 2026-11-05 --live
+  PYTHONPATH=src:vendor python3 -m marketing_bot.cli generate-daily --date 2026-11-06 --live
   ```
 - **Run an Ad-Hoc Agility PR MCP Expert Boolean Search:**
   ```bash

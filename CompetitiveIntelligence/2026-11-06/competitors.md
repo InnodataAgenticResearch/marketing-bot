@@ -1,0 +1,6627 @@
+# Competitive Intelligence — 2026-11-06
+
+> **Innodata Positioning Anchor:** Full-stack enterprise AI solutions and data engineering company bridging raw foundation models and mission-critical production systems in sovereign cloud environments (GCP, AWS, Azure).
+> **Daily Executive Roundup:** [`roundups/2026-11-06.md`](../../roundups/2026-11-06.md)
+
+## Summary (60 Curated Signal(s))
+
+### 1. [Relative Performance Evaluation : NASDAQ Composite Index (-1,421.5 points, -5.5%) November 05, 2026](https://ct.moreover.com/?a=60789214404&p=21l&v=1&x=nkgHykv7xidGkVu_y7xrjA)
+- **Outlet(s):** Global Round Up - Stock Exchange Indices | **Published:** `2026-11-06` | **Sentiment:** `POSITIVE` | **Positioning Relevance Score:** `1.00`
+- **Matched Innodata Pillars:** Data Engineering, Agent Reliability Engineering (ARE), Infrastructure Engineering
+- **Matched Proprietary Accelerators:** Beacon (PDF-Miner)
+- **Matched Competitors:** Turing
+- **Coverage Snippet:** NASDAQ END-OF-DAY COMPARATIVE PERFORMANCE TABLE
+
+COMPARATIVE PERFORMANCE TABLE for the NASDAQ Composite Index, alphabetic sort.
+
+Download CPR 5 Nov 2026.xls Click http://www.buysellsignals.net/BuySellSignals/report/Usnasdaq/Stock/PDF/quarterly/xls/Newsletter_IXIC.xls
+
+For Company searches, or for sorting by Stocks and variables, an interactive version of today's Table is available here. Click http://www.buysellsignals.net/BuySellSignals/report/Usnasdaq/MarketAction/Html/IXIC_Newsletter.html
+
+KEY
+
+COLUMN HEADING DESCRIPTION
+Vol-Index Volume-Index: Number of shares traded on the current date against average number of shares traded per day
+
+1-A
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+1-800-flowers.com, Inc. Class A (FLWS) 2.6 1.6 0.7 96
+1st Source Corporation (SRCE) 87.35 0.6 0.9 2,096
+AAON, Inc. (AAON) 54.42 -34.6 2.5 4,462
+Acacia Research Corporation (ACTG) 4.24 -2.3 1.9 416
+Acadia Healthcare Company, Inc. (ACHC) 34.79 24.0 2.0 3,235
+ACADIA Pharmaceuticals Inc. (ACAD) 21.24 6.5 3.6 3,653
+Accuray Incorporated (ARAY) 0.12 -57.5 0.9 14
+Achieve Life Sciences, Inc. (ACHV) 6.38 -11.9 1.5 657
+ACI Worldwide, Inc. (ACIW) 59.52 18.7 2.6 6,012
+ACNB Corporation (ACNB) 65.49 2.7 1.4 655
+Adamas Trust, Inc. (ADAM) 5.92 -24.2 3.3 533
+Addus HomeCare Corporation (ADUS) 126.81 14.0 1.2 2,409
+Adeia Inc (ADEA) 14.82 -42.4 2.5 1,630
+Adobe Inc. (ADBE) 246.44 3.7 1.4 95,865
+Automatic Data Processing, Inc. (ADP) 307.14 19.2 1.3 121,627
+ADTRAN Holdings Inc. (ADTN) 4.13 -41.3 2.1 335
+Advanced Energy Industries Inc. (AEIS) 185.66 -39.0 2.2 7,426
+Advanced Micro Devices, Inc. (AMD) 404.4 -36.2 2.8 659,981
+Aehr Test Systems (AEHR) 49.16 -54.1 2.5 1,622
+Aemetis Inc (AMTX) 1.73 0.6 14.0 125
+AeroVironment, Inc. (AVAV) 102.08 -27.5 1.6 5,206
+Agenus Inc. (AGEN) 6.44 -23.0 0.8 290
+Agilysys, Inc. (AGYS) 119.76 20.7 1.0 3,353
+Agios Pharmaceuticals Inc. (AGIO) 28.27 -11.1 2.1 1,696
+AGNC Investment Corp. (AGNC) 8.82 0.3 1.4 11,237
+AI Financial Corporation (AIFC) 0.161 -68.4 1.7 22
+Air T, Inc. (AIRT) 28.14 -5.6 0.4 84
+Akamai Technologies, Inc. (AKAM) 77.84 -28.5 2.4 11,209
+Akebia Therapeutics Inc. (AKBA) 0.425 -50.8 3.6 118
+Alaunos Therapeutics, Inc (TCRT) 1.84 124.4 0.1 6
+
+A
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Aldeyra Therapeutics Inc. (ALDX) 0.616 -47.4 0.5 37
+Alico, Inc. (ALCO) 37.21 -2.9 1.4 260
+Align Technology, Inc. (ALGN) 159.37 10.9 1.3 11,315
+Alkermes PLC (ALKS) 44.54 6.7 0.9 7,483
+Alliance Resource Partners, L.P. (ARLP) 24.65 0.5 1.8 3,180
+Allot Ltd. (ALLT) 8.18 -3.0 1.3 393
+Alnylam Pharmaceuticals, Inc. (ALNY) 156.66 -28.7 2.2 20,992
+Alpha and Omega Semiconductor Limited (AOSL) 18.48 -38.9 2.2 554
+Alphabet Inc. Class A (GOOGL) 282.57 -17.8 2.3 1,658,121
+Alphabet Inc. Class C (GOOG) 281.74 -17.2 2.6 1,557,177
+Alphatec Holdings, Inc. (ATEC) 7.8 -22.2 1.4 1,209
+Altisource Portfolio Solutions S.A. (ASPS) 5.72 -10.2 1.1 63
+Alto Ingredients Inc (ALTO) 3.67 -2.7 1.1 286
+Amarin Corporation PLC (AMRN) 11.575 -6.3 1.3 4,850
+Amazon.com, Inc. (AMZN) 260.21 3.5 2.6 2,806,625
+Ambarella Inc. (AMBA) 55.17 -19.6 1.2 2,427
+AMC Global Media Inc. Class A (AMCX) 8.43 -24.5 1.1 253
+Amdocs Limited (DOX) 43.83 -24.6 4.4 4,734
+America's Car-Mart, Inc. (CRMT) 1.52 44.8 0.7 12
+American Airlines Group Inc. (AAL) 12.93 -0.04 0.8 8,560
+American Public Education, Inc. (APEI) 38.22 -12.6 1.1 688
+American Superconductor Corporation (AMSC) 23.98 -20.1 2.2 1,151
+AMERISAFE, Inc. (AMSF) 20.33 -13.8 1.9 386
+AmeriServ Financial Inc. (ASRV) 4.88 5.1 1.1 83
+Ames National Corporation (ATLO) 34.04 5.2 0.5 306
+Amgen Inc. (AMGN) 460.28 14.2 1.6 249,011
+Amkor Technology, Inc. (AMKR) 30.49 -45.6 1.8 7,562
+Amphastar Pharmaceuticals Inc. (AMPH) 27.66 8.8 1.2 1,189
+Amtech Systems, Inc. (ASYS) 11.09 -38.4 2.0 200
+Analog Devices, Inc. (ADI) 361.01 -13.5 3.6 175,090
+
+T-A
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+The Andersons, Inc. (ANDE) 55.16 -18.5 2.1 1,875
+Angi Inc. Class A (ANGI) 7.32 21.0 1.4 300
+Anika Therapeutics Inc. (ANIK) 19.33 1.2 1.0 251
+Apogee Enterprises, Inc. (APOG) 45.92 29.8 1.2 964
+Apple Inc. (AAPL) 344.17 3.1 2.2 5,022,879
+Applied Materials, Inc. (AMAT) 319.25 -40.9 2.8 253,484
+Applied Optoelectronics Inc. (AAOI) 46.89 -59.4 3.7 3,986
+Aqua Metals, Inc. (AQMS) 1.17 -49.8 0.7 5
+Arbutus Biopharma Corporation (ABUS) 3.67 -17.5 2.4 727
+Arcadia Biosciences Inc (RKDA) 0.17 -41.0 0.3 0.3
+ArcBest Corporation (ARCB) 133.59 0.7 1.5 2,939
+Arch Capital Group Ltd. (ACGL) 110.57 18.1 0.9 37,704
+Arcturus Therapeutics Holdings Inc. (ARCT) 9.36 -28.2 1.1 262
+Ardelyx Inc. (ARDX) 2.99 -10.5 2.0 745
+Ark Restaurants Corp. (ARKR) 4.7 4.4 0.1 19
+Arrow Financial Corporation (AROW) 38.61 2.2 1.2 734
+Arrowhead Pharmaceuticals, Inc. (ARWR) 57.46 -10.5 0.8 8,102
+Art's-Way Manufacturing Co., Inc. (ARTW) 2.74 -12.3 - 14
+Artesian Resources Corporation Class A (ARTNA) 33.3 -1.0 0.7 300
+Ascendis Pharma A/S (ASND) 253.45 11.2 0.8 15,714
+Ascent Industries Co (ACNT) 13.585 -1.3 0.7 122
+Asia Pacific Wire & Cable Corporation Limited (APWC) 1.11 -15.9 - 23
+Assembly Biosciences Inc. (ASMB) 20.0 -11.3 2.8 400
+Astec Industries, Inc. (ASTE) 35.36 -15.8 2.3 813
+Astronics Corporation (ATRO) 52.88 -22.5 1.1 1,904
+Astrotech Corporation (ASTC) 3.97 -43.8 - 8
+Asure Software Inc. (ASUR) 9.6 25.0 3.4 278
+Atara Biotherapeutics, Inc. (ATRA) 7.96 -16.0 0.1 80
+Atlantic American Corporation (AAME) 1.15 -9.4 0.2 23
+Atlanticus Holdings Corporation (ATLC) 96.45 5.0 1.5 1,447
+
+A
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+ATN International, Inc. (ATNI) 26.59 -4.7 2.4 399
+Atossa Therapeutics, Inc. (ATOS) 2.02 -13.7 0.7 20
+AtriCure, Inc. (ATRC) 61.28 11.1 1.2 3,125
+Auburn National Bancorporation, Inc. (AUBN) 26.45 -2.0 0.1 79
+AudioCodes Ltd. (AUDC) 7.65 -31.0 2.0 199
+Autodesk, Inc. (ADSK) 269.16 27.0 1.9 56,254
+Aviat Networks, Inc. (AVNW) 16.97 -17.9 1.4 221
+Avis Budget Group, Inc. (CAR) 120.44 8.3 0.6 4,215
+Aware, Inc. (AWRE) 0.96 -12.7 1.8 21
+Axcelis Technologies, Inc. (ACLS) 90.0 -39.1 1.8 2,790
+Axogen, Inc. (AXGN) 48.75 30.4 1.1 2,925
+
+A-B
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Axon Enterprise, Inc. (AXON) 382.56 -7.4 3.9 30,987
+AXT Inc. (AXTI) 36.72 -57.2 2.6 2,424
+Azenta, Inc (AZTA) 37.38 -3.5 1.2 1,645
+B.O.S. Better Online Solutions (BOSC) 3.92 -15.3 2.2 27
+Baidu, Inc. (BIDU) 79.48 -5.7 1.7 174,697
+Balchem Corporation (BCPC) 179.71 7.9 2.7 5,751
+Ballard Power Systems, Inc. (BLDP) 1.46 -28.8 0.6 512
+BancFirst Corporation (BANF) 115.12 6.5 2.5 3,914
+The Bancorp, Inc. (TBBK) 47.74 -2.2 1.3 1,957
+Bank of Marin Bancorp (BMRC) 28.58 3.1 0.9 457
+Bank of the James Financial Group Inc. (BOTJ) 23.96 -12.2 0.7 120
+Bank OZK (OZK) 51.09 10.6 1.5 5,875
+Bankwell Financial Group Inc. (BWFG) 70.23 5.4 1.4 562
+Banner Corporation (BANR) 70.12 3.3 1.1 2,524
+Barrett Business Services, Inc. (BBSI) 30.39 -0.4 1.1 729
+Bassett Furniture Industries, Incorporated (BSET) 22.13 6.8 1.1 199
+BCB Bancorp, Inc. (NJ) (BCBP) 9.13 7.4 2.2 283
+Beasley Broadcast Group, Inc. Class A (BBGI) 5.58 -49.6 - 6
+Bel Fuse Inc. Class B (BELFB) 195.94 -24.0 2.0 2,351
+Bel Fuse Inc. Class A (BELFA) 154.76 -26.1 0.9 310
+BGC Group, Inc. Class A (BGC) 10.46 -11.2 1.9 3,734
+Big Sky Industrial Inc (BSIN) 1.32 -7.0 0.3 69
+Bio-Techne Corp (TECH) 72.66 0.4 1.5 11,408
+BioCryst Pharmaceuticals, Inc. (BCRX) 7.63 -6.6 3.3 1,953
+Biogen Inc. (BIIB) 243.93 10.9 0.9 36,102
+BioLine RX Ltd. (BLRX) 1.768 -25.4 0.6 7
+BioMarin Pharmaceutical Inc. (BMRN) 56.12 -1.9 1.0 10,887
+BJ's Restaurants, Inc. (BJRI) 58.45 -5.6 1.8 1,227
+Blackbaud, Inc. (BLKB) 55.8 33.6 0.7 2,511
+Bloomin' Brands, Inc. (BLMN) 10.47 23.5 1.3 900
+
+B
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Blue Bird Corporation (BLBD) 59.19 4.7 1.1 1,835
+BOK Financial Corporation (BOKF) 130.03 1.3 0.8 7,932
+BRC Group Holdings, Inc. (RILY) 3.79 -22.0 1.0 152
+Bridgeline Digital, Inc. (BLIN) 0.669 -17.5 0.5 9
+Bridgford Foods Corporation (BRID) 5.27 -5.7 4.0 47
+
+B-C
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Broadcom Inc. (AVGO) 291.53 -17.9 2.9 1,391,764
+Broadway Financial Corporation (BYFC) 11.52 0.9 2.1 69
+Broadwind Inc. (BWEN) 2.64 -37.9 1.0 63
+Bruker Corporation (BRKR) 58.06 -8.2 1.4 8,825
+CandF Financial Corporation (CFFI) 108.35 10.2 3.5 325
+C.H. Robinson Worldwide, Inc. (CHRW) 128.31 -18.6 0.8 14,756
+Cadence Design Systems, Inc. (CDNS) 311.43 -11.4 1.5 85,643
+Cadiz, Inc. (CDZI) 3.4 -11.2 1.8 289
+Caesars Entertainment, Inc. (CZR) 29.18 -1.6 0.9 5,953
+Caesarstone Ltd (CSTE) 1.28 -55.4 0.3 45
+Cal-Maine Foods, Inc. (CALM) 65.67 -1.5 1.0 3,086
+Calumet Specialty Products Partners LP (CLMT) 43.35 -21.6 1.6 3,815
+Camden National Corporation (CAC) 57.92 1.3 1.1 985
+Camtek Ltd. (CAMT) 91.92 -44.4 2.2 4,320
+Canadian Solar Inc. (CSIQ) 10.31 -7.9 1.2 701
+Canterbury Park Holding Corporation (CPHC) 15.87 0.8 5.4 79
+Capital City Bank Group (CCBG) 50.34 1.4 1.2 856
+Capital Clean Energy Carriers Corp (CCEC) 20.73 -1.2 1.0 1,244
+Capital Southwest Corporation (CSWC) 23.27 -1.1 1.1 1,536
+Capitol Federal Financial, Inc. (CFFN) 8.49 -1.0 1.4 1,070
+Cardiff Oncology, Inc (CRDF) 0.755 -32.6 0.7 59
+CareCloud Inc (CCLD) 2.16 6.9 8.6 91
+CareDx Inc. (CDNA) 76.33 13.7 2.2 4,045
+CarParts.com, Inc. (PRTS) 7.9 -8.5 0.6 63
+Casella Waste Systems, Inc. Class A (CWST) 100.06 20.9 1.2 6,304
+Casey's General Stores, Inc. (CASY) 689.53 11.6 1.2 25,513
+Cass Information Systems, Inc. (CASS) 54.31 0.5 0.8 706
+Cathay General Bancorp (CATY) 64.16 5.5 1.3 4,299
+Cavco Industries, Inc. (CVCO) 643.97 10.1 1.2 5,152
+CBAK Energy Technology, Inc. (CBAT) 1.02 -26.6 0.7 91
+
+C
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+CDW Corporation (CDW) 158.39 18.8 1.6 19,799
+Celldex Therapeutics, Inc. (CLDX) 28.27 -10.7 1.1 2,233
+Cellectar Biosciences Inc. (CLRB) 1.15 -35.4 0.5 10
+Cemtrex Inc (CETX) 0.779 -61.8 0.9 2
+Central Garden & Pet Company (CENT) 47.94 20.4 1.2 479
+Central Garden & Pet Company Class A (CENTA) 41.08 19.8 1.0 2,095
+Century Aluminum Company (CENX) 30.07 -15.6 1.5 2,977
+Century Casinos, Inc. (CNTY) 0.575 -44.7 0.3 16
+Ceragon Networks Ltd. (CRNT) 2.11 -3.2 2.9 192
+Cerenome, Inc. (CNSY) 0.67 -58.1 3.3 5
+Cerus Corporation (CERS) 2.13 -6.8 1.2 430
+CEVA, Inc. (CEVA) 24.56 -33.8 1.4 688
+CF Bankshares Inc (CFBK) 34.59 0.5 1.4 208
+Check Point Software Technologies Ltd. (CHKP) 148.18 13.7 1.3 15,114
+The Cheesecake Factory Incorporated (CAKE) 110.71 1.0 1.1 5,536
+The Chefs Warehouse, Inc. (CHEF) 103.35 -11.2 0.7 4,237
+Chemung Financial Corporation (CHMG) 84.88 3.6 2.2 424
+Children's Place, Inc. (The) (PLCE) 0.336 -83.1 - 7
+China Automotive Systems, Inc. (CAAS) 4.13 -10.6 0.5 124
+China Natural Resources, Inc. (CHNR) 3.97 2.8 - 4
+ChipMOS Technologies Inc (IMOS) 42.4 -49.1 1.6 1,484
+Churchill Downs, Incorporated (CHDN) 98.18 29.1 1.2 6,873
+Cimpress PLC (CMPR) 61.92 -17.5 2.2 1,486
+Cincinnati Financial Corporation (CINF) 188.31 16.3 1.3 28,811
+Cineverse Corp (CNVS) 1.51 -20.5 0.5 36
+Cintas Corporation (CTAS) 226.41 17.3 1.5 89,885
+Cirrus Logic, Inc. (CRUS) 110.23 -9.0 2.3 5,512
+Cisco Systems, Inc. (CSCO) 95.72 -14.7 2.2 377,424
+Citi Trends, Inc. (CTRN) 52.49 9.6 1.7 420
+Citizens & Northern Corp. (CZNC) 28.25 10.2 2.6 508
+
+C
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Citizens Community Bancorp, Inc. (CZWI) 23.74 11.5 1.2 237
+City Holding Company (CHCO) 142.05 -0.5 1.2 1,989
+Civista Bancshares, Inc (CIVB) 28.16 4.4 1.7 591
+Clarus Corporation (CLAR) 4.25 23.2 1.5 162
+Clean Energy Fuels Corp. (CLNE) 1.51 -3.5 1.2 332
+ClearOne, Inc. (CLRO) 4.54 11.3 0.1 14
+ClearSign Technologies Corporation (CLIR) 2.31 -34.2 0.9 16
+Climb Global Solutions (CLMB) 39.85 21.5 1.3 757
+CME Group Inc. Class A (CME) 307.24 16.8 0.9 110,606
+CNB Financial Corporation (CCNE) 35.96 5.5 1.1 1,079
+Coca-Cola Consolidated, Inc. (COKE) 212.5 10.7 1.7 12,112
+Codexis Inc. (CDXS) 1.02 -25.0 0.7 112
+Coffee Holding Co., Inc. (JVA) 4.82 21.1 0.7 29
+Cogent Communications Holdings Inc. (CCOI) 4.69 -44.6 2.7 239
+Cognex Corporation (CGNX) 47.49 -26.9 2.8 7,978
+Cognizant Technology Solutions Corporation Class A (CTSH) 66.54 13.7 1.1 29,943
+Coherus BioSciences Inc. (CHRS) 0.749 -35.4 1.2 116
+Cohu, Inc. (COHU) 34.9 -52.5 3.9 1,640
+Colliers International Group Inc (CIGI) 96.02 7.0 1.5 4,801
+Columbia Banking System, Inc. (COLB) 30.425 5.2 1.1 8,610
+Columbia Sportswear Company (COLM) 69.12 20.7 1.6 3,525
+Columbus McKinnon Corporation (CMCO) 16.53 -1.2 2.4 479
+Comcast Corporation Class A (CMCSA) 24.95 17.4 1.3 88,298
+Commerce Bancshares, Inc. (CBSH) 55.22 -0.1 0.8 7,896
+Commercial Vehicle Group, Inc. (CVGI) 3.27 10.5 0.8 134
+Community Trust Bancorp, Inc. (CTBI) 69.35 -9.0 1.6 1,248
+Community West Bancshares (CWBC) 26.06 -1.8 1.0 704
+CommVault Systems, Inc. (CVLT) 157.62 4.9 1.0 6,462
+Compugen Ltd. (CGEN) 1.92 -16.9 0.8 180
+Comstock Holding Companies, Inc. Class A (CHCI) 18.61 -0.9 1.3 186
+
+C
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Comtech Telecommunications Corp. (CMTL) 1.18 -10.3 0.9 35
+Connectone Bancorp, Inc. (CNOB) 32.46 5.5 1.1 1,623
+Consolidated Water Co. Ltd. (CWCO) 26.54 -12.0 1.3 425
+Consumer Portfolio Services, Inc. (CPSS) 9.88 8.7 1.0 217
+Copart, Inc. (CPRT) 32.48 19.3 1.9 30,076
+Corcept Therapeutics Incorporated (CORT) 71.63 -38.4 1.1 7,736
+CorVel Corp. (CRVL) 85.91 13.8 1.1 4,381
+CoStar Group, Inc. (CSGP) 32.05 17.1 1.0 12,980
+Costco Wholesale Corporation (COST) 1,065.59 15.7 2.4 472,056
+CPS Technologies Corp (CPSH) 3.6 -6.2 0.4 68
+CRA International, Inc. (CRAI) 202.94 19.1 2.4 1,218
+Cracker Barrel Old Country Store, Inc. (CBRL) 67.92 21.8 0.5 1,494
+Creative Media & Community Trust Corporation (CMCT) 3.58 -4.8 - 11
+Credit Acceptance Corporation (CACC) 522.58 -0.9 1.2 5,226
+Crescent Biopharma, Inc. (CBIO) 12.94 -9.6 0.7 479
+Cresud S.A.C.I.F. y A. (CRESY) 9.03 -20.4 0.7 5,707
+Crocs, Inc. (CROX) 152.93 29.5 1.1 7,341
+Crown Crafts, Inc. (CRWS) 2.56 3.2 1.7 28
+CryoPort Inc (CYRX) 16.05 -7.9 3.5 819
+CSP Inc. (CSPI) 7.17 -5.3 0.5 72
+
+C-D
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Cumberland Pharmaceuticals Inc (CPIX) 5.01 -32.2 0.9 75
+Curis, Inc. (CRIS) 0.85 6.2 12.5 2
+CVB Financial Corporation (CVBF) 22.86 2.6 1.4 4,023
+CVD Equipment Corporation (CVV) 3.61 -16.6 0.9 25
+Cyclacel Pharmaceuticals Inc. (BGMS) 0.865 -1.7 0.4 6
+Cytokinetics, Incorporated (CYTK) 55.55 -15.3 3.3 7,721
+Daily Journal Corporation (DJCO) 640.11 -2.5 0.6 640
+Daktronics, Inc. (DAKT) 19.24 7.1 1.0 924
+Dare Bioscience, Inc. (DARE) 0.624 -26.0 0.5 12
+Data I/O Corporation (DAIO) 2.37 -20.5 1.8 24
+Dave & Buster'S Entertainment, Inc. (PLAY) 8.15 20.7 1.0 285
+Dawson Geophysical Company (DWSN) 1.58 -42.8 0.4 49
+Decoy Therapeutics Inc. (DCOY) 1.12 -36.1 0.1 2
+Dentsply Sirona Inc (XRAY) 10.09 16.4 1.7 2,008
+The Descartes Systems Group Inc. (DSGX) 94.82 18.4 0.9 8,118
+Destination XL Group, Inc. (DXLG) 0.442 1.8 0.4 24
+Deswell Industries, Inc. (DSWL) 2.96 -3.6 1.4 47
+DexCom, Inc. (DXCM) 84.46 -1.1 1.0 31,841
+Diamondback Energy, Inc. (FANG) 179.58 -2.8 1.5 50,282
+Digi International Inc. (DGII) 62.34 -17.6 3.3 2,369
+Digimarc Corporation (DMRC) 7.37 15.9 0.7 199
+Digital Turbine, Inc (APPS) 9.67 -13.4 1.3 1,180
+Diodes Incorporated (DIOD) 68.36 -34.2 2.7 3,145
+Distribution Solutions Group, Inc (DSGR) 34.98 0.0 3.2 1,609
+DLH Holdings Corp. (DLHC) 3.63 -10.4 0.1 51
+DMC Global Inc. (BOOM) 7.05 21.6 2.3 148
+Dollar Tree, Inc. (DLTR) 137.94 23.0 1.3 25,933
+
+D-E
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Dominari Holdings Inc (DOMH) 1.45 -35.3 1.8 35
+Donegal Group, Inc. Class B (DGICB) 25.64 54.0 0.6 154
+Donegal Group, Inc. Class A (DGICA) 18.96 3.8 0.9 607
+Dorchester Minerals LP (DMLP) 27.26 -4.8 1.3 1,336
+Dorman Products, Inc. (DORM) 139.48 13.3 0.8 4,184
+Duluth Holdings Inc. Class B (DLTH) 4.08 3.8 0.3 143
+DXP Enterprises, Inc. (DXPE) 132.87 -31.5 1.7 2,126
+Eagle Bancorp, Inc. (EGBN) 33.61 18.4 1.0 1,008
+Eagle Bancorp Montana Inc. (EBMT) 20.88 -1.7 0.5 167
+East West Bancorp, Inc. (EWBC) 129.04 2.2 1.0 17,678
+Eastern Company (The) (EML) 27.21 10.6 0.5 163
+Ebay Inc. (EBAY) 123.35 15.9 0.9 54,891
+EchoStar Corporation Class A Shares (ECHO) 89.92 -4.6 1.6 14,297
+Educational Development Corporation (EDUC) 0.98 -24.6 0.4 9
+Egain Corporation (EGAN) 5.9 0.5 0.6 148
+Ehealth, Inc. (EHTH) 0.52 -22.6 1.5 17
+El Pollo Loco Holdings Inc. (LOCO) 16.46 15.8 1.9 494
+Elbit Systems Ltd. (ESLT) 651.31 -6.5 1.0 29,960
+Eledon Pharmaceuticals Inc (ELDN) 2.46 -1.6 0.5 199
+Eltek Ltd. (ELTK) 6.02 -24.5 0.1 42
+Enanta Pharmaceuticals, Inc. (ENTA) 10.08 -22.2 1.4 292
+Encore Capital Group Inc. (ECPG) 126.17 31.5 2.5 2,650
+Energous Corporation (WATT) 7.02 -47.4 0.8 42
+Energy Focus, Inc. (EFOI) 3.69 23.6 - 22
+Energy Recovery, Inc. (ERII) 6.71 -0.9 2.4 342
+Enlivex Therapeutics Ltd (ENLV) 1.27 -79.7 2.0 25
+Enphase Energy Inc. (ENPH) 28.97 -13.4 2.0 3,824
+The Ensign Group, Inc. (ENSG) 182.39 6.2 0.8 10,579
+Entegris, Inc. (ENTG) 124.75 -25.1 3.3 19,087
+Enterprise Financial Services Corporation (EFSC) 62.29 3.7 1.2 2,242
+
+E
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Eocene Ltd (EOCN) 2.45 0.0 0.1 2
+Eplus Inc. (PLUS) 82.43 -11.7 2.4 2,143
+Equinix, Inc. (EQIX) 997.35 -2.8 1.7 98,738
+Erie Indemnity Company Class A (ERIE) 285.63 30.1 1.3 13,139
+Escalade, Incorporated (ESCA) 20.39 6.7 1.1 285
+Euro Tech Holdings Company Limited (CLWT) 1.19 -11.2 0.1 8
+Euronet Worldwide, Inc. (EEFT) 71.15 12.0 1.2 2,633
+
+E-F
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Euroseas Ltd. (ESEA) 63.22 -12.7 0.7 443
+Exelixis, Inc. (EXEL) 68.71 17.7 1.7 17,040
+ExlService Holdings, Inc. (EXLS) 43.61 22.0 1.1 6,629
+Expedia Group, Inc. (EXPE) 272.48 2.8 2.7 31,063
+Exponent, Inc. (EXPO) 85.83 27.5 1.2 4,120
+Extreme Networks, Inc. (EXTR) 21.05 -9.0 1.6 2,779
+EyePoint, Inc. (EYPT) 0.356 -89.1 1.8 31
+EZCORP, Inc. Class A Non Voting (EZPW) 28.72 -4.9 0.7 1,666
+F5, Inc (FFIV) 311.74 -31.3 1.7 17,769
+Fabric.AI, Inc. (FABC) 1.53 -34.6 0.4 11
+Farmers National Banc Corp. (FMNB) 15.52 1.2 1.1 916
+Fastenal Company (FAST) 52.9 4.2 1.6 60,676
+Fate Therapeutics Inc. (FATE) 1.85 -20.6 1.3 222
+Ferroglobe PLC (GSM) 2.53 -40.6 2.2 473
+Filana Therapeutics, Inc. (FLNA) 0.45 -51.7 1.3 22
+First Bancorp (FBNC) 64.77 3.9 1.1 2,656
+The First Bancorp, Inc. (FNLC) 36.59 7.0 1.8 402
+First Busey Corporation (BUSE) 28.67 -3.6 1.6 2,322
+First Business Financial Services, Inc. (FBIZ) 74.87 5.6 2.3 599
+First Capital, Inc. (FCAP) 61.99 -1.4 5.7 186
+First Citizens BancShares, Inc. Class A (FCNCA) 2,304.72 11.2 0.9 23,047
+First Community Corporation (FCCO) 32.61 -0.2 0.9 293
+First Community Bancshares, Inc. (FCBC) 45.4 -5.4 1.4 863
+First Financial Bancorp (FFBC) 32.5 2.0 1.4 3,412
+First Financial Bankshares, Inc. (FFIN) 30.68 -4.6 1.4 4,387
+First Financial Corporation (THFF) 76.59 2.1 1.7 1,225
+First Internet Bancorp (INBK) 25.77 -6.7 0.7 232
+First Interstate Bancsystem Inc. (FIBK) 38.01 5.6 1.2 3,611
+First Merchants Corporation (FRME) 41.06 2.3 1.4 2,587
+First Mid Bancshares, Inc. (FMBH) 50.86 1.8 1.5 1,373
+
+F
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+First Northwest Bancorp (FNWB) 10.1 1.5 0.4 101
+First Solar, Inc. (FSLR) 195.76 12.1 3.1 20,946
+First United Corporation (FUNC) 45.68 4.7 1.4 274
+First US Bancshares, Inc. (FUSB) 16.45 -0.3 0.5 99
+FirstCash Holdings Inc. (FCFS) 187.55 -10.8 1.0 8,065
+Five Below, Inc. (FIVE) 241.26 9.1 0.6 13,269
+Five9 Inc. (FIVN) 34.14 -0.6 1.1 2,560
+Flex Ltd. (FLEX) 66.73 -42.7 2.9 24,623
+Flexsteel Industries, Inc. (FLXS) 73.43 -17.3 1.1 294
+FormFactor, Inc. (FORM) 71.76 -51.9 1.9 5,597
+Formula Systems 1985 Ltd. (FORTY) 110.25 -2.9 1.7 1,654
+Forrester Research, Inc. (FORR) 8.7 -22.5 1.5 165
+Fortinet, Inc. (FTNT) 122.51 -32.3 1.4 89,922
+Fortress Biotech, Inc (FBIO) 1.84 -9.4 0.5 61
+Forward Air Corporation (FWRD) 16.93 6.4 0.6 576
+Forward Industries, Inc. (FWDI) 5.7 -30.1 1.8 433
+Fossil Group Inc. (FOSL) 7.76 14.1 2.0 458
+Fox Factory Holding Corporation (FOXF) 16.92 -9.3 1.8 711
+Franklin Electric Co., Inc. (FELE) 95.91 -2.8 1.5 4,220
+FreightCar America, Inc. (RAIL) 4.15 -39.9 1.3 137
+
+F-G
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Frequency Electronics, Inc. (FEIM) 54.24 -37.0 1.8 597
+Freshpet, Inc. (FRPT) 64.815 7.6 0.9 3,111
+FRP Holdings Inc (FRPH) 18.3 -9.8 3.0 348
+FS Bancorp, Inc. (FSBW) 43.79 -1.2 2.1 350
+Fuel Tech, Inc. (FTEK) 1.33 -19.9 1.0 41
+FuelCell Energy, Inc. (FCEL) 8.93 -51.7 1.8 714
+Full House Resorts Inc. (FLL) 0.725 -47.9 2.5 27
+Fulton Financial Corp. (FULT) 23.79 4.3 1.6 4,544
+Future FinTech Group Inc. (FTFT) 3.78 12.7 0.1 34
+G-III Apparel Group, LTD. (GIII) 32.02 17.0 0.8 1,377
+Gaia, Inc. Class A (GAIA) 1.28 -7.9 0.8 26
+Galectin Therapeutics Inc. (GALT) 2.985 -23.5 0.9 301
+Gaming and Leisure Properties Inc. (GLPI) 39.44 4.7 1.2 11,477
+Gen Digital Inc (GEN) 30.6 39.2 1.3 18,329
+Genasys Inc (GNSS) 1.31 -9.7 0.8 60
+Gentex Corporation (GNTX) 20.21 -8.5 0.9 4,264
+Gentherm Incorporated. (THRM) 29.63 -5.3 1.8 1,600
+Geospace Technologies Corporation (GEOS) 3.6 -25.0 0.9 47
+German American Bancorp, Inc. (GABC) 50.56 2.3 2.0 1,921
+Geron Corporation (GERN) 0.95 -20.8 2.1 610
+Gevo, Inc. (GEVO) 1.22 -6.9 1.0 301
+Gibraltar Industries, Inc. (ROCK) 31.69 -21.1 6.6 951
+GigaMedia Limited (GIGM) 1.4 -2.1 0.1 15
+Gilat Satellite Networks Ltd. (GILT) 6.68 -33.5 2.0 501
+Gilead Sciences, Inc. (GILD) 167.57 15.8 1.8 207,787
+Gladstone Commercial Corporation (GOOD) 10.45 -19.2 3.0 502
+Gladstone Land Corp. (LAND) 7.03 -26.5 2.6 302
+Globus Maritime Ltd. (GLBS) 2.52 -28.0 0.9 55
+Gogo Inc. (GOGO) 2.27 7.6 0.7 309
+Golar LNG Limited (GLNG) 42.57 -13.5 1.5 4,300
+
+G
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Good Times Restaurants Inc. (GTIM) 1.27 -15.3 1.3 14
+The Goodyear Tire & Rubber Company (GT) 4.45 -8.1 1.8 1,282
+GoPro, Inc. Class A (GPRO) 0.86 -36.1 0.7 136
+Grace Therapeutics, Inc. (GRCE) 1.78 -14.0 0.3 37
+
+G-H
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Grand Canyon Education, Inc. (LOPE) 122.25 -21.5 3.8 3,178
+Gravity Co Ltd. (GRVY) 66.48 -2.9 0.9 465
+Great Southern Bancorp, Inc. (GSBC) 80.73 1.8 1.2 888
+Green Plains Inc. (GPRE) 13.7 -10.0 1.0 959
+Greene County Bancorp, Inc. (GCBC) 36.0 5.1 1.6 612
+Greenlight Capital Re, Ltd. Class A (GLRE) 16.38 11.1 1.5 541
+GSI Technology, Inc. (GSIT) 3.2 -43.0 0.7 122
+Gulf Resources Inc. (GURE) 3.05 1.2 0.5 6
+Gyre Therapeutics, Inc (GYRE) 4.01 -43.6 2.7 425
+Gyrodyne, LLC (GYRO) 4.0 -12.3 1.8 8
+The Hackett Group, Inc. (HCKT) 13.28 23.2 1.3 332
+The Hain Celestial Group, Inc. (HAIN) 0.136 -73.8 0.7 12
+Hallador Energy Company (HNRG) 9.36 -30.6 2.9 440
+Halozyme Therapeutics, Inc. (HALO) 122.96 11.9 1.5 13,894
+Hancock Whitney Corporation (HWC) 71.41 -2.3 0.7 5,713
+Hanmi Financial Corporation (HAFC) 32.53 2.7 1.0 976
+Harmonic Inc. (HLIT) 9.31 -16.7 1.8 1,015
+Harrow Health Inc (HROW) 26.04 -14.6 1.1 963
+Harvard Bioscience, Inc. (HBIO) 8.46 1.4 1.7 42
+Hasbro, Inc. (HAS) 119.54 33.5 1.1 16,855
+Hawkins, Inc. (HWKN) 152.0 15.7 0.9 3,192
+Hawthorn Bancshares, Inc. (HWBK) 38.89 0.7 3.6 272
+Healthcare Services Group, Inc. (HCSG) 25.11 20.3 1.2 1,733
+HealthEquity Inc. (HQY) 103.46 14.9 1.5 8,587
+HealthStream, Inc. (HSTM) 29.6 -4.0 1.6 918
+Heartland Express, Inc. (HTLD) 10.15 -14.7 1.0 782
+Helen of Troy Limited (HELE) 37.77 41.2 2.2 869
+Henry Schein, Inc. (HSIC) 85.31 0.5 1.6 9,469
+Heritage Financial Corporation (HFWA) 28.56 1.5 1.4 1,171
+Highway Holdings Limited (HIHO) 0.858 -4.7 0.3 4
+
+H-I
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Himax Technologies Inc. (HIMX) 7.68 -49.6 2.4 2,680
+Hingham Institution for Savings (HIFS) 302.46 5.1 1.0 605
+Home Bancorp (HBCP) 60.71 -10.1 1.3 486
+Hooker Furnishings Corporation (HOFT) 14.61 10.9 1.0 161
+Hope Bancorp Inc (HOPE) 13.07 -4.5 1.4 1,673
+Horizon Bancorp Inc. (HBNC) 20.85 7.0 1.2 1,063
+Horizon Technology Finance Corporation (HRZN) 3.96 -14.3 0.9 265
+Hub Group, Inc. Class A (HUBG) 25.08 -15.8 0.9 1,530
+Hudson Technologies, Inc. (HDSN) 4.09 -21.8 1.4 172
+Huntington Bancshares Incorporated (HBAN) 15.61 1.8 1.0 31,532
+Hurco Companies, Inc. (HURC) 21.11 -5.3 1.8 127
+Huron Consulting Group Inc. (HURN) 175.73 8.4 2.8 2,812
+Icahn Enterprises, L.P. (IEP) 5.13 -23.1 1.4 3,647
+ICF International, Inc. (ICFI) 95.38 16.5 1.0 1,717
+ICON PLC (ICLR) 201.65 24.4 1.2 15,527
+Icon Energy Corp. (ICON) 1.0 3.1 0.1 4
+ICU Medical, Inc. (ICUI) 167.65 5.2 1.9 4,191
+Ideal Power Inc. (IPWR) 2.1 -48.1 0.7 34
+IDEXX Laboratories, Inc. (IDXX) 670.71 29.4 1.5 52,986
+IES Holdings, Inc. (IESC) 145.58 -57.0 2.5 5,823
+Illumina, Inc. (ILMN) 208.0 -23.8 2.1 31,408
+Immersion Corporation (IMMR) 6.67 -9.7 1.7 220
+ImmuCell Corporation (ICCC) 9.95 2.1 0.3 90
+Immunic, Inc. (IMUX) 7.32 -8.0 1.0 102
+ImmunityBio Inc (IBRX) 8.01 -22.2 0.7 8,491
+Imunon, Inc (IMNN) 0.9 -29.7 0.8 5
+Incyte Corporation (INCY) 118.01 2.4 0.9 23,956
+Independent Bank Corp. (INDB) 84.4 5.4 1.1 3,967
+Independent Bank Corporation(MI) (IBCP) 36.33 -0.1 1.8 799
+Information Services Group, Inc. (III) 5.96 4.6 1.0 286
+
+I-T
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Ingles Markets, Incorporated Class A (IMKTA) 84.48 -2.5 0.6 1,267
+Innodata Inc. (INOD) 38.62 -44.9 2.8 1,313
+Innospec Inc. (IOSP) 79.13 -18.8 2.1 1,978
+Innovative Aerosystems, Inc. (IA) 18.12 -4.6 1.0 326
+Innoviva Inc (INVA) 19.24 -6.1 3.4 1,385
+Inogen Inc. (INGN) 6.77 13.4 1.1 183
+Insight Enterprises, Inc. (NSIT) 152.72 -4.9 1.4 4,429
+Insmed, Inc. (INSM) 108.76 -2.1 0.9 23,710
+Insulet Corporation (PODD) 156.12 18.6 1.0 10,772
+Integra Lifesciences Holdings Corp. (IART) 14.12 11.4 1.1 1,101
+Intel Corporation (INTC) 52.25 -56.2 2.9 274,574
+Inter Parfums, Inc. (IPAR) 135.28 18.7 2.9 4,329
+Interactive Brokers Group, Inc. Class A (IBKR) 72.73 -17.6 2.7 32,947
+InterDigital, Inc. (IDCC) 286.53 -14.3 0.9 7,450
+Interface, Inc. (TILE) 37.82 8.4 1.3 2,194
+The Intergroup Corporation (INTG) 38.9 39.6 0.6 78
+
+I-J
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Intuit Inc. (INTU) 354.84 26.2 1.3 94,742
+Intuitive Surgical, Inc. (ISRG) 468.52 19.5 2.2 165,388
+INVE Technologies, Inc (INVE) 2.55 8.5 2.8 61
+Investar Holding Corporation (ISTR) 27.8 -5.5 0.8 389
+Investcorp Credit Management BDC Inc. (ICMB) 0.61 -22.7 0.5 9
+Investors Title Company (ITIC) 261.3 -10.0 1.5 523
+Ionis Pharmaceuticals Inc (IONS) 38.8 -10.9 1.1 6,441
+IPG Photonics Corporation (IPGP) 62.03 -26.2 1.3 2,667
+Iradimed Corp. (IRMD) 85.54 0.2 1.2 1,112
+IRIDEX Corporation (IRIX) 0.68 5.7 0.2 12
+Iridium Communications (IRDM) 42.02 -14.2 0.6 4,454
+Itron, Inc. (ITRI) 99.46 15.0 1.1 4,376
+Ituran Location and Control Ltd. (ITRN) 49.93 -4.9 1.6 999
+J&J Snack Foods Corp. (JJSF) 91.13 16.5 1.2 1,731
+Jack Henry & Associates, Inc. (JKHY) 180.26 26.5 1.1 12,618
+Jack In The Box Inc. (JACK) 14.33 15.1 0.7 272
+
+J-K
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Jaguar Health, Inc. (JAGX) 0.407 -88.8 4.1 0.8
+JAKKS Pacific, Inc. (JAKK) 32.99 21.5 2.7 363
+James River Group Holdings, Ltd. (JRVR) 4.0 14.6 0.7 184
+Jazz Pharmaceuticals plc (Ireland) (JAZZ) 227.32 -3.5 0.7 14,776
+J.B. Hunt Transport Services, Inc. (JBHT) 218.99 -6.5 1.0 20,585
+JD.com Inc. (JD) 28.64 11.2 2.0 71,514
+JetBlue Airways Corporation (JBLU) 3.49 -15.8 1.1 1,316
+Jewett-Cameron Trading Company (JCTC) 2.86 -3.1 2.4 11
+John B. Sanfilippo & Son Inc. (JBSS) 54.52 -20.4 2.2 491
+Johnson Outdoors Inc. Class A (JOUT) 47.47 5.7 0.8 427
+Joint Corp. (JYNT) 7.37 1.2 0.7 103
+JOYY Inc. (JOYY) 80.0 1.0 0.8 54,480
+J.W. Mays, Inc. (MAYS) 44.0 9.7 2.1 88
+Kaiser Aluminum Corp. (KALU) 103.54 -31.9 1.5 1,657
+Kamada Ltd. (KMDA) 6.87 -17.3 3.1 398
+Kandi Technologies Group Inc (KNDI) 3.32 -59.4 0.1 33
+Karyopharm Therapeutics Inc. (KPTI) 0.06 -92.5 12.7 1
+Kearny Financial (KRNY) 9.03 -3.1 1.4 587
+Kelly Services, Inc. Class A (KELYA) 14.05 -10.6 2.0 436
+Kentucky First Federal Bancorp (KFFB) 5.59 -0.9 1.1 45
+
+K-L
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Kewaunee Scientific Corporation (KEQU) 34.11 -0.1 0.8 102
+Key Tronic Corporation (KTCC) 1.3 -42.5 4.5 14
+Kimball Electronics Inc (KE) 20.45 -29.0 3.3 491
+Kingstone Companies (KINS) 18.96 2.5 1.0 265
+KLA Corporation (KLAC) 129.8 -37.3 3.7 169,389
+Kopin Corporation (KOPN) 2.75 -44.0 1.5 512
+Kornit Digital Ltd (KRNT) 16.41 -6.2 1.4 706
+Koss Corporation (KOSS) 3.03 -21.5 1.7 27
+Kratos Defense & Security Solutions, Inc. (KTOS) 33.39 -22.5 2.9 6,277
+Kulicke and Soffa Industries, Inc. (KLIC) 59.83 -40.6 2.6 3,111
+Kustom Entertainment, Inc. (KUST) 3.19 -28.8 0.1 3
+KVH Industries, Inc. (KVHI) 6.04 -13.8 0.8 109
+Kyntra Bio, Inc. (KYNB) 3.66 -42.0 1.6 15
+L.B. Foster Company (FSTR) 39.07 4.8 1.1 430
+Lakeland Financial Corporation (LKFN) 61.37 3.9 1.4 1,534
+Lakeland Industries, Inc. (LAKE) 8.94 -13.0 0.7 89
+Lam Research Corporation (LRCX) 185.2 -46.7 3.7 231,685
+Lamar Advertising Company Class A (LAMR) 157.3 9.1 2.0 13,685
+Landmark Bancorp Inc. (LARK) 31.7 1.1 0.8 190
+Lands' End Inc (LE) 9.46 -8.1 0.7 284
+Landstar System, Inc. (LSTR) 145.64 -16.0 1.1 4,952
+Lantheus Holdings, Inc (LNTH) 100.7 0.7 1.1 6,546
+Lantronix, Inc. (LTRX) 5.0 -30.5 1.2 235
+Larimar Therapeutics, Inc. (LRMR) 2.32 -21.6 0.8 241
+Lattice Semiconductor (LSCC) 98.03 -26.8 1.5 13,920
+LCNB Corp. (LCNB) 19.53 3.1 0.9 273
+LeMaitre Vascular, Inc. (LMAT) 83.49 5.7 2.1 1,920
+LendingTree, Inc. (TREE) 38.73 57.3 2.3 542
+Lesaka Technologies, Inc (LSAK) 3.57 -17.6 2.4 307
+Lexicon Pharmaceuticals, Inc. (LXRX) 1.61 -11.5 1.4 716
+
+L
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+LGI Homes, Inc. (LGIH) 47.15 -2.1 0.9 1,084
+Liberty Media Corporation Series A Liberty Formula One (FWONA) 99.72 19.6 5.2 2,393
+Liberty Global Ltd. Class A (LBTYA) 9.71 8.9 3.5 1,719
+Liberty Global Ltd. Class B (LBTYB) 11.24 -9.1 3.8 146
+Liberty Global Ltd. Class C (LBTYK) 9.515 8.7 2.5 1,418
+Liberty Latin America Ltd. Class C (LILAK) 8.91 4.8 4.2 1,390
+Liberty Media Corporation Series C Liberty Formula One (FWONK) 106.52 16.8 4.8 23,860
+Lifecore Biomedical, Inc (LFCR) 6.4 -2.1 2.6 243
+Lifetime Brands, Inc. (LCUT) 7.77 -14.4 1.7 179
+Lifevantage Corp. (LFVN) 5.05 -16.8 0.1 66
+Lifeway Foods, Inc. (LWAY) 22.2 4.7 0.9 333
+Ligand Pharmaceuticals Inc. (LGND) 299.0 -1.3 1.0 5,980
+Lightbridge (LTBR) 3.99 -37.6 1.2 156
+LightPath Technologies, Inc. Class A (LPTH) 6.15 -44.3 1.8 430
+Limoneira Co (LMNR) 10.41 -13.2 1.0 187
+Lincoln Educational Services Corporation (LINC) 17.55 -19.9 2.3 562
+Lincoln Electric Holdings, Inc. (LECO) 272.13 -0.8 1.5 14,967
+
+L-M
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Lindblad Expeditions Holdings Inc (LIND) 31.57 -9.2 1.3 2,084
+Lipocine Inc (LPCN) 1.53 -25.4 0.7 12
+Liquidity Services, Inc. (LQDT) 44.72 3.4 1.3 1,386
+Lisata Therapeutics, Inc (LSTA) 0.99 -32.7 0.4 9
+Lite Strategy, Inc (LITS) 0.972 -29.0 2.8 29
+Littelfuse, Inc. (LFUS) 348.39 -23.7 1.3 8,710
+Live Ventures Incorporated (LIVE) 7.5 -1.3 0.1 22
+LKQ Corporation (LKQ) 20.54 -9.9 1.3 5,197
+Logitech International SA (LOGI) 98.17 -5.9 1.6 14,431
+LPL Financial Holdings Inc. (LPLA) 300.89 -4.9 1.4 23,770
+LSI Industries Inc. (LYTS) 17.79 -16.3 2.7 658
+Lululemon Athletica Inc. (LULU) 111.77 18.3 1.0 11,848
+Lumentum Holdings Inc (LITE) 509.7 -53.0 2.3 46,383
+MacroGenics Inc. (MGNX) 2.22 -38.0 1.2 142
+Madrigal Pharmaceuticals, Inc. (MDGL) 400.1 -19.9 2.5 9,202
+Magyar Bancorp, Inc. (MGYR) 22.02 14.0 2.8 132
+MakeMyTrip Limited (MMYT) 51.28 14.9 2.8 4,564
+Malibu Boats, Inc. Class A (MBUU) 20.64 -10.3 3.5 413
+Manhattan Associates, Inc. (MANH) 255.17 25.0 1.5 14,800
+Manhattan Bridge Capital, Inc. (LOAN) 3.31 -9.7 1.2 36
+Mannatech, Inc. (MTEX) 8.06 21.4 2.6 16
+MannKind Corporation (MNKD) 3.76 -1.1 1.2 1,211
+MARA Holdings, Inc. (MARA) 5.875 -47.7 1.0 2,268
+Marchex, Inc. Class B (MCHX) 1.27 -1.6 1.2 51
+Marine Petroleum Trust (MARPS) 4.26 4.7 0.2 9
+MarketAxess Holdings, Inc. (MKTX) 165.54 0.9 1.4 5,794
+Marriott International Class A (MAR) 417.28 16.2 1.9 108,910
+Marten Transport, Ltd. (MRTN) 11.98 -10.2 1.1 982
+Martin Midstream Partners LP (MMLP) 1.97 -9.6 1.5 77
+Marvell Technology, Inc. (MRVL) 133.55 -51.0 3.3 117,123
+
+M
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Mastercraft Boat Holdings Inc (MCFT) 20.78 3.4 1.3 499
+Matrix Service Company (MTRX) 8.62 -16.1 4.6 241
+Mattel, Inc. (MAT) 14.97 -2.0 1.2 4,281
+Matthews International Corporation Class A (MATW) 19.8 2.6 1.3 614
+McGrath RentCorp (MGRC) 127.48 8.4 4.3 3,060
+MediciNova, Inc. (MNOV) 1.45 -19.4 1.1 71
+MediWound Ltd. (MDWD) 13.33 -1.4 2.6 173
+Melco Resorts & Entertainment Limited (MLCO) 4.56 8.8 1.4 5,627
+MercadoLibre, Inc. (MELI) 1,530.28 -9.8 4.3 78,044
+Mercantile Bank Corporation (MBWM) 60.26 1.3 1.3 1,024
+Mercer International Inc. (MERC) 0.249 -4.3 1.7 17
+Mercury Systems, Inc. (MRCY) 65.55 -22.8 2.1 3,999
+Merit Medical Systems, Inc. (MMSI) 89.62 5.0 1.2 5,377
+Mesa Laboratories, Inc. (MLAB) 119.3 -10.0 0.8 716
+Meta Platforms, Inc. Class A (META) 605.08 -16.9 2.1 1,334,201
+Methanex Corporation (MEOH) 65.46 12.0 1.3 5,040
+MGE Energy Inc. (MGEE) 78.36 10.7 1.8 2,978
+Microchip Technology Inc. (MCHP) 64.85 -20.3 4.7 35,214
+Micron Technology, Inc. (MU) 656.39 -38.9 2.5 742,377
+Microsoft Corporation (MSFT) 535.93 3.5 1.8 3,979,816
+Microvision, Inc. (MVIS) 1.14 -23.0 1.7 35
+Mid Penn Bancorp (MPB) 34.3 -5.8 1.6 858
+The Middleby Corporation (MIDD) 130.14 24.5 1.2 5,856
+Middlesex Water Company (MSEX) 59.5 11.1 1.7 1,130
+MillerKnoll Inc (MLKN) 21.99 8.6 0.6 1,517
+MIND C.T.I. Ltd. (MNDO) 0.87 -13.8 0.7 17
+
+M-N
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Minerva Neurosciences Inc. (NERV) 2.3 -29.9 1.1 110
+Mitcham Industries, Inc. (MIND) 3.27 -27.5 0.7 29
+Mitek Systems, Inc. (MITK) 16.93 -4.6 1.3 762
+MKS Inc. (MKSI) 176.82 -36.7 2.7 12,024
+Momo Inc. (MOMO) 4.57 -3.2 0.6 983
+Monarch Casino & Resort, Inc. (MCRI) 109.34 -7.0 1.0 1,968
+Mondelez International, Inc. Class A (MDLZ) 66.82 14.8 1.4 85,262
+Monolithic Power Systems, Inc. (MPWR) 1,131.43 -21.4 3.9 55,440
+Monro, Inc. (MNRO) 11.31 -20.2 1.1 351
+Monster Beverage Corporation (MNST) 47.83 11.4 1.6 93,699
+Morningstar, Inc. (MORN) 247.17 34.7 1.2 9,392
+Motorcar Parts of America, Inc. (MPAA) 10.155 -3.6 0.8 193
+MYR Group, Inc. (MYRG) 246.59 -19.1 2.3 3,839
+Myriad Genetics, Inc. (MYGN) 6.29 38.5 2.2 604
+NAPCO Security Technologies, Inc. (NSSC) 29.99 -17.1 1.9 1,080
+NASDAQ Inc (NDAQ) 106.83 18.3 1.4 59,718
+Natera, Inc. (NTRA) 363.76 -11.4 2.3 52,381
+National Bankshares, Inc. (NKSH) 39.41 -7.6 0.9 236
+National Beverage Corp. (FIZZ) 37.16 22.6 1.1 3,493
+National CineMedia, Inc. (NCMI) 1.62 -23.2 1.0 152
+Natural Alternatives International, Inc. (NAII) 1.12 -24.3 0.1 7
+Natures Sunshine Products Inc (NATR) 10.26 -17.6 11.6 185
+Navient Corp (NAVI) 8.82 -4.0 1.9 829
+NBT Bancorp Inc. (NBTB) 52.97 2.8 1.3 2,754
+Nektar Therapeutics (NKTR) 36.15 -17.0 0.7 1,229
+Neogen Corporation (NEOG) 11.68 -3.9 1.2 2,546
+NeoGenomics, Inc. (NEO) 16.49 -10.7 1.0 2,111
+Neonode Inc. (NEON) 0.599 -34.9 0.5 10
+NetApp, Inc. (NTAP) 169.38 -25.2 1.0 33,198
+NetEase Inc. (NTES) 126.56 8.0 1.7 80,239
+
+N
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Netflix, Inc. (NFLX) 65.56 -2.3 1.4 272,992
+NETGEAR, Inc. (NTGR) 19.03 -19.2 1.9 514
+NetScout Systems, Inc. (NTCT) 31.83 -22.3 1.9 2,324
+NetSol Technologies Inc. (NTWK) 6.47 8.7 2.4 78
+Neurocrine Biosciences, Inc. (NBIX) 159.76 11.6 1.3 16,296
+Newegg Commerce Inc (NEGG) 9.25 -19.5 0.5 194
+News Corporation Class A (NWSA) 26.48 -7.7 2.3 9,559
+NewtekOne, Inc. (NEWT) 10.67 -4.6 1.2 309
+NMI Holdings Inc. Class A (NMIH) 44.27 14.0 1.8 3,320
+Noodles & Company Class A (NDLS) 15.05 12.3 0.9 90
+Nordson Corporation (NDSN) 310.49 -6.9 1.1 17,387
+
+N-O
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Nortech Systems Incorporated (NSYS) 10.5 -9.3 0.2 32
+Northeast Bank (NBN) 124.93 -1.5 1.3 999
+Northern Technologies International Corporation (NTIC) 7.58 -1.6 0.2 68
+Northern Trust Corporation (NTRS) 171.39 -0.01 1.2 31,364
+Northrim BanCorp Inc. (NRIM) 23.57 -4.8 1.2 519
+Northwest Bancshares (NWBI) 15.31 0.8 1.3 2,235
+Norwood Financial Corp. (NWFL) 35.87 6.4 1.8 395
+Nova Ltd (NVMI) 280.3 -29.2 1.3 8,970
+Novavax, Inc. (NVAX) 9.78 -6.5 1.8 1,614
+Nuwellis Inc (NUWE) 4.66 -25.4 0.4 19
+NVE Corporation (NVEC) 71.23 -36.1 1.1 356
+NVIDIA Corporation (NVDA) 181.6 -22.4 2.5 4,376,560
+NWPX Infrastructure, Inc. (NWPX) 82.83 -21.9 1.5 828
+NXP Semiconductors NV (NXPI) 244.43 0.3 3.8 61,596
+O'Reilly Automotive, Inc. (ORLY) 91.49 7.8 1.7 74,015
+Oak Valley Bancorp (CA) (OVLY) 34.24 0.4 0.7 274
+OceanFirst Financial Corp. (OCFC) 18.34 9.3 1.6 1,816
+Ocugen, Inc. (OCGN) 0.817 -20.0 1.1 277
+Ocular Therapeutix Inc. (OCUL) 6.43 -7.6 0.9 1,415
+Odyssey Marine Exploration, Inc. (OMEX) 11.07 -32.9 0.4 653
+Ohio Valley Banc Corp. (OVBC) 48.23 8.1 1.5 241
+Old Dominion Freight Line, Inc. (ODFL) 170.56 -5.5 1.3 35,306
+Old National Bancorp (ONB) 25.05 0.4 1.1 9,594
+Old Second Bancorp, Inc. (OSBC) 24.35 -2.4 1.8 1,242
+Ollie'S Bargain Outlet Holdings, Inc. (OLLI) 93.0 5.6 0.8 5,487
+Omega Flex, Inc. (OFLX) 24.38 -7.4 0.9 244
+Omeros (OMER) 17.07 -8.3 0.6 1,229
+
+O-P
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Omnicell, Inc. (OMCL) 38.03 13.2 1.3 1,749
+ON Semiconductor Corporation (ON) 63.01 -25.8 3.0 24,511
+OneSpan Inc. (OSPN) 21.9 20.9 1.6 810
+Open Text Corporation (OTEX) 26.12 17.6 1.0 6,582
+Optical Cable Corporation (OCC) 8.96 -50.9 0.9 81
+Option Care Health Inc (OPCH) 31.5 39.1 1.7 4,725
+Oramed Pharmaceuticals Inc. (ORMP) 3.89 -13.4 0.9 163
+OraSure Technologies, Inc. (OSUR) 3.37 -14.9 0.6 233
+Origin Agritech Limited (SEED) 0.71 -4.1 0.1 10
+Orrstown Financial Services (ORRF) 43.96 5.5 0.7 879
+Orthofix Medical Inc. (OFIX) 8.92 -1.9 4.1 366
+OSI Systems, Inc. (OSIS) 191.61 -2.6 0.7 3,066
+Otter Tail Corporation (OTTR) 80.0 -10.0 1.5 3,360
+Oxbridge Re Holdings Ltd. (OXBR) 0.77 -31.3 - 6
+PACCAR Inc. (PCAR) 104.5 -4.7 1.8 54,967
+Pacific Biosciences Of California Inc. (PACB) 2.43 -4.3 2.5 756
+Pacira Biosciences Inc (PCRX) 36.42 44.5 1.3 1,457
+PAMT CORP (PAMT) 13.1 7.0 2.9 275
+Papa John's International, Inc. (PZZA) 19.89 2.3 2.2 656
+Park-Ohio Holdings Corp. (PKOH) 39.61 -16.4 2.2 555
+Parke Bancorp, Inc. (PKBK) 32.48 -1.2 0.8 390
+Pathfinder Bancorp, Inc. (PBHC) 16.72 -4.1 2.9 84
+Pathward Financial, Inc (CASH) 76.64 3.6 1.1 1,609
+Patrick Industries, Inc. (PATK) 83.11 23.7 1.6 2,660
+Patriot National Bancorp Inc. (PNBK) 0.822 -11.6 0.7 102
+Patterson-UTI Energy, Inc. (PTEN) 9.95 -11.2 0.9 3,791
+Paychex, Inc. (PAYX) 119.5 20.8 1.2 42,542
+Paylocity Holding Corp. (PCTY) 169.57 17.4 1.3 8,987
+PayPal Holdings, Inc (PYPL) 58.96 11.7 0.9 50,411
+PC Connection, Inc. (CNXN) 79.67 -13.8 2.3 1,992
+
+P
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+PDF Solutions, Inc. (PDFS) 34.52 -37.8 2.2 1,450
+Peapack-Gladstone Financial Corp. (PGC) 45.78 2.7 1.1 824
+Pegasystems Inc. (PEGA) 33.57 -1.1 1.4 5,505
+PENN Entertainment, Inc. (PENN) 17.34 17.4 1.2 2,324
+People Incorporated (PPLI) 41.01 -0.8 1.5 2,830
+Peoples Bancorp Inc. (PEBO) 38.76 3.4 1.6 1,395
+Peoples Bancorp of North Carolina, Inc. (PEBK) 43.22 -2.4 1.2 216
+Peoples Financial Services Corporation (PFIS) 72.94 5.3 1.4 729
+Peraso, Inc (PRSO) 0.35 -26.0 0.1 5
+Perdoceo Education Corporation (PRDO) 26.55 -16.8 2.3 1,673
+Performance Shipping Inc. (PSHG) 1.9 12.4 1.4 23
+Perion Network Ltd. (PERI) 11.41 34.2 2.9 445
+Perma-Fix Environmental Services, Inc. (PESI) 12.84 -17.5 2.1 270
+Perma-Pipe International Holdings (PPIH) 27.21 -14.6 1.5 218
+PetMed Express, Inc. (PETS) 1.24 -8.8 0.1 27
+Phibro Animal Health Corporation Class A (PAHC) 35.4 -4.9 1.3 743
+Pilgrim's Pride Corporation (PPC) 28.62 4.1 0.8 6,812
+Pioneer Power Solutions Inc (PPSI) 2.22 -32.9 0.6 24
+Pixelworks, Inc. (PXLW) 4.88 -30.6 0.8 29
+Plexus Corp. (PLXS) 187.73 -31.3 1.5 5,069
+Plug Power, Inc. (PLUG) 1.35 -28.8 1.3 1,886
+Plumas Bancorp (PLBC) 62.59 0.2 1.6 438
+Pluri Inc. (PLUR) 1.19 17.8 1.0 15
+Pool Corporation (POOL) 216.66 34.2 0.8 7,800
+Popular Inc (BPOP) 156.07 -1.3 1.2 9,988
+Powell Industries, Inc. (POWL) 125.06 -36.2 2.6 4,502
+Power Integrations, Inc. (POWI) 38.84 -28.7 2.4 2,175
+PowerFleet, Inc. (AIOT) 2.59 -7.8 1.2 347
+
+P-R
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+PRA Group, Inc. (PRAA) 20.42 8.2 1.2 776
+Preferred Bank Los Angeles (PFBC) 103.49 -2.1 1.0 1,552
+Preformed Line Products Company (PLPC) 252.03 -39.9 0.9 1,260
+Presurance Holdings, Inc. (PRHI) 6.83 -0.4 0.8 27
+PriceSmart, Inc. (PSMT) 162.56 -4.8 1.5 5,039
+PrimeEnergy Resources Corporation (PNRG) 180.84 -11.6 0.7 362
+Primis Financial Corp (FRST) 14.66 -6.1 1.1 366
+Pro-Dex, Inc. (PDEX) 61.2 -4.5 0.8 184
+Professional Diversity Network, Inc. (IPDN) 1.37 -57.5 1.1 1
+Progress Software Corporation (PRGS) 44.59 20.8 1.0 1,828
+ProQR Therapeutics NV (PRQR) 1.33 -18.4 1.4 184
+Provident Financial Holdings, Inc. (PROV) 18.19 -0.7 2.4 109
+PTC Therapeutics, Inc. (PTCT) 65.67 3.5 0.9 5,451
+Pure Cycle Corporation (PCYO) 10.71 -1.7 1.8 257
+QCR Holdings, Inc. (QCRH) 101.12 0.2 1.3 1,618
+QUALCOMM, Inc. (QCOM) 156.75 -15.2 3.7 167,409
+Qualys, Inc. (QLYS) 199.63 3.4 1.4 6,987
+Quest Resource Holding Corp (QRHC) 1.04 -24.1 0.5 22
+QuickLogic Corporation (QUIK) 7.34 -38.2 1.0 132
+QuidelOrtho Corporation (QDEL) 12.84 19.2 2.5 886
+Quinstreet, Inc. (QNST) 20.32 35.7 3.0 1,158
+Radcom Ltd. (RDCM) 9.92 -3.6 1.2 169
+RadNet, Inc. (RDNT) 78.01 11.6 1.3 6,163
+Radware Ltd. (RDWR) 30.18 -1.7 1.4 1,268
+Rambus, Inc. (RMBS) 69.68 -37.8 1.5 7,525
+Rapid7, Inc. (RPD) 15.44 26.7 1.6 1,034
+RAVE Restaurant Group, Inc. (RAVE) 2.13 -7.8 0.5 30
+RCI Hospitality Holdings, Inc. (RICK) 29.21 9.7 0.9 234
+RCM Technologies, Inc. (RCMT) 31.82 -24.3 1.4 223
+Reading International Inc Class B (RDIB) 10.2 -36.6 0.1 20
+
+R
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Reading International Inc Class A (RDI) 1.65 -16.0 1.3 35
+Recon Technology, Ltd. (RCON) 0.82 -34.4 0.5 0.8
+Red Robin Gourmet Burgers, Inc. (RRGB) 8.91 12.1 0.9 169
+Regeneron Pharmaceuticals, Inc. (REGN) 902.9 22.8 1.7 91,193
+Repligen Corporation (RGEN) 168.48 -7.3 1.3 10,614
+Republic Bancorp, Inc. Class A (RBCAA) 91.13 -2.7 1.6 1,549
+Research Frontiers, Inc. (REFR) 0.369 -49.4 0.1 13
+Resources Connection, Inc. (RGP) 2.63 -32.4 0.9 92
+RF Industries, Ltd. (RFIL) 6.55 -22.0 0.9 72
+RGC Resources Inc. (RGCO) 23.14 6.1 1.0 231
+Ribbon Communication Inc. (RBBN) 1.38 -22.0 0.6 247
+
+R-S
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Richardson Electronics, Ltd. (RELL) 16.54 -12.9 2.0 215
+Ridgetech, Inc (RDGT) 0.746 -14.7 - 3
+Rigel Pharmaceuticals, Inc. (RIGL) 45.71 -3.1 1.5 868
+Riot Platforms Inc. (RIOT) 14.76 -25.2 2.9 5,535
+Riverview Bancorp Inc. (RVSB) 6.12 2.2 0.9 122
+The RMR Group Inc. Class A (RMR) 15.93 -10.2 1.0 255
+Rocket Pharmaceuticals, Inc. (RCKT) 2.43 -5.1 0.9 267
+Rockwell Medical, Inc. (RMTI) 7.6 -12.1 0.8 30
+Rocky Brands, Inc. (RCKY) 51.98 11.2 1.0 364
+Rocky Mountain Chocolate Factory, Inc. (RMCF) 0.775 -12.3 0.1 8
+Ross Stores, Inc. (ROST) 235.23 2.9 1.2 75,038
+Royal Gold, Inc. (RGLD) 261.28 11.4 1.4 22,209
+Rush Enterprises, Inc. Class A (RUSHA) 45.32 -3.9 1.0 4,169
+Rush Enterprises, Inc. Class B (RUSHB) 59.11 4.2 1.0 1,005
+Ryanair Holdings PLC (RYAAY) 58.53 6.3 1.8 60,813
+S&T Bancorp, Inc. (STBA) 50.89 2.5 0.9 1,781
+Sabra Healthcare REIT, Inc. (SBRA) 20.89 9.0 1.4 5,473
+Sabre Corporation (SABR) 1.68 -14.7 1.1 679
+Safety Insurance Group, Inc. (SAFT) 104.36 0.4 1.7 1,565
+Saia, Inc. (SAIA) 335.17 -4.5 0.8 9,050
+Sanmina Corporation (SANM) 130.23 -43.1 2.3 7,032
+Sarepta Therapeutics, Inc. (SRPT) 17.57 0.4 0.7 1,862
+SB Financial Group, Inc. (SBFG) 28.69 -2.4 1.3 172
+SBA Communications Corporation Class A (SBAC) 193.08 21.8 1.2 20,466
+ScanSource, Inc. (SCSC) 45.07 -27.0 3.1 901
+Scholastic Corporation (SCHL) 36.86 1.8 0.6 663
+Scynexis Inc. (SCYX) 3.3 -35.5 1.2 33
+Seacoast Banking Corporation of Florida (SBCF) 33.6 2.8 1.1 3,259
+Seagate Technology Holdings PLC (STX) 466.53 -45.0 2.6 105,902
+Seanergy Maritime Holdings Corp. (SHIP) 13.85 -22.3 1.2 305
+
+S
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Security National Financial Corporation Class A (SNFCA) 9.35 3.1 1.3 224
+SEI Investments Company (SEIC) 105.18 2.7 0.9 12,622
+Selective Insurance Group, Inc. (SIGI) 101.77 18.9 1.4 6,106
+SELLAS Life Sciences Group, Inc. (SLS) 7.88 -32.9 1.5 1,592
+SemiLEDs Corp (LEDS) 2.22 -4.3 0.1 18
+Semtech Corporation (SMTC) 91.54 -53.1 2.8 8,513
+Seneca Foods Corp. Class A (SENEA) 144.21 -18.7 1.5 721
+Senstar Technologies Ltd (SNT) 1.3 -15.6 3.1 30
+Sharplink, Inc. (SBET) 6.42 -31.3 1.4 1,393
+Shenandoah Telecommunications Co (SHEN) 9.72 -10.5 1.2 535
+Shoe Station Group, Inc. (SHOE) 15.18 20.7 0.9 410
+Shore Bancshares Inc. (SHBI) 22.4 -2.6 1.1 739
+Siebert Financial Corp. (SIEB) 1.82 -17.3 0.5 76
+Sierra Bancorp (BSRR) 41.96 5.5 1.6 545
+Silicom Ltd. (SILC) 26.4 -56.0 2.1 158
+Silicon Laboratories, Inc. (SLAB) 221.35 -0.6 2.0 7,305
+Silicon Motion Technology Corp. (SIMO) 156.27 -44.3 3.0 21,253
+Silvercrest Asset Management Group Inc. Class A (SAMG) 10.98 4.2 1.8 88
+Simmons First National Corporation Class A Shares (SFNC) 23.23 1.4 1.5 3,368
+Sinclair, Inc. Class A (SBGI) 14.17 14.0 4.6 694
+Singularity Future Technology Ltd (SGLY) 0.422 -41.6 0.2 2
+SINTX Technologies Inc (SINT) 1.62 -26.7 1.2 13
+Sirius XM Holdings Inc. (SIRI) 33.22 29.2 1.4 11,195
+SkyWest, Inc. (SKYW) 79.91 -17.1 1.2 3,116
+Skyworks Solutions, Inc. (SWKS) 81.21 -4.5 1.7 19,084
+SLM Corporation (SLM) 17.52 -23.0 1.3 3,294
+Smith & Wesson Brands, Inc (SWBI) 14.34 -2.0 2.0 645
+Smith Micro Software, Inc. (SMSI) 2.29 -13.6 0.6 14
+SolarEdge Technologies Inc (SEDG) 26.2 -20.8 2.2 1,624
+Sonoma Pharmaceuticals, Inc. (SNOA) 1.07 -13.7 0.6 5
+
+S
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Sound Financial Bancorp, Inc. (SFBC) 45.062 -2.5 0.1 135
+Southern First Bancshares, Inc. (SFST) 59.2 -2.7 1.1 533
+Southern Missouri Bancorp, Inc. (SMBC) 70.64 -2.7 1.0 777
+Spok Holdings, Inc. (SPOK) 11.75 7.9 1.4 247
+Sportsman's Warehouse Holdings Inc. (SPWH) 1.1 -2.7 0.9 43
+Sprouts Farmers Market, Inc. (SFM) 51.6 -20.0 1.8 4,799
+Sps Commerce Inc. (SPSC) 82.57 0.3 0.6 2,973
+Ss&C Technologies Holdings Inc. (SSNC) 78.305 -0.3 4.4 18,402
+SSR Mining Inc. (SSRM) 27.92 -16.1 1.1 5,662
+STAAR Surgical Company (STAA) 26.72 18.9 1.4 1,336
+Stagwell Inc. Class A (STGW) 10.83 29.5 1.6 2,643
+Standard BioTools Inc (LAB) 0.62 -16.7 0.4 244
+Star Bulk Carriers Corp. (SBLK) 26.5 -13.8 1.3 2,968
+Star Equity Holdings Inc (STRR) 9.5 -2.7 0.1 38
+Starbucks Corporation (SBUX) 106.16 12.1 1.8 121,022
+StealthGas, Inc. (GASS) 7.87 -15.7 2.7 299
+Steel Dynamics, Inc. (STLD) 221.9 -4.3 1.6 31,732
+Sterling Infrastructure Inc. (STRL) 244.34 -54.2 3.3 7,575
+Steven Madden, Ltd. (SHOO) 38.99 -15.2 4.5 2,846
+Stock Yards Bancorp Inc. (SYBT) 79.31 0.9 1.0 2,459
+StoneX Group Inc (SNEX) 53.62 -18.5 0.8 6,488
+
+S-T
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Stratasys, Inc. (SSYS) 6.11 -29.8 1.1 538
+Strategic Education, Inc. (STRA) 58.47 -26.7 3.5 1,286
+Strategy Inc Class A (MSTR) 129.3 -19.2 1.5 51,979
+Strattec Security Corporation (STRT) 60.43 -8.2 0.7 242
+Summit State Bank (SSBI) 11.39 -6.5 - 80
+SUNation Energy, Inc (SUNE) 2.0 -14.5 0.1 14
+SunPower Corporation (SPWR) 0.245 -18.2 1.1 79
+Sunrun Inc. (RUN) 9.87 28.0 4.4 2,379
+SuperCom Ltd (SPCB) 8.3 -11.8 1.1 58
+Superior Group of Companies, Inc. (SGC) 13.31 2.5 0.8 213
+Super Micro Computer, Inc. (SMCI) 27.08 -38.0 1.8 17,792
+Supernus Pharmaceuticals Inc. (SUPN) 26.74 -36.9 7.3 1,551
+Synaptics, Incorporated (SYNA) 116.4 -3.9 3.2 4,656
+Synopsys, Inc. (SNPS) 440.31 -10.1 1.4 84,540
+Sypris Solutions, Inc. (SYPR) 1.22 -32.2 1.4 28
+T. Rowe Price Group, Inc. (TROW) 108.71 3.9 1.3 23,155
+T-Mobile US, Inc. (TMUS) 160.59 -1.9 1.5 172,313
+Take-Two Interactive Software, Inc. (TTWO) 213.36 5.2 2.8 39,898
+Talphera Inc (TLPH) 1.01 -10.6 0.2 53
+Tandem Diabetes Care Inc. (TNDM) 17.99 9.0 1.5 1,259
+Tandy Leather Factory, Inc. (TLF) 2.13 -13.1 1.4 17
+Tantech Holdings Ltd. Class A (TANH) 13.47 -8.9 1.9 13
+Taoping Inc. (TAOP) 0.29 -28.7 0.2 3
+TAT Technologies Ltd. (TATT) 35.91 2.0 1.0 467
+TechTarget Inc. (TTGT) 3.43 -3.9 1.0 247
+Telefonaktiebolaget LM Ericsson (ERIC) 10.44 12.4 1.6 32,468
+Tenax Therapeutics, Inc. (TENX) 1.63 -18.1 1.1 60
+Tesla, Inc. (TSLA) 343.69 -7.3 1.7 1,358,607
+Tetra Tech, Inc. (TTEK) 40.56 22.5 1.1 10,383
+Texas Instruments Incorporated (TXN) 278.15 -5.3 2.8 253,951
+
+T
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+TFS Financial Corporation (TFSL) 16.43 -2.3 1.2 4,600
+The Carlyle Group Inc (CG) 39.96 0.4 1.5 14,226
+The Marzetti Company (MZTI) 108.5 9.0 1.5 2,930
+The ONE Group Hospitality Inc. (STKS) 1.13 -27.6 1.2 36
+Timberland Bancorp, Inc. (TSBK) 47.77 5.0 1.6 382
+Titan Machinery Inc. (TITN) 21.24 -16.4 0.9 510
+Tower Semiconductor Ltd. (TSEM) 130.99 -45.6 3.8 14,671
+Tractor Supply Company (TSCO) 36.61 17.8 1.2 19,074
+TransAct Technologies Incorporated (TACT) 5.04 4.8 0.5 50
+Transcat, Inc. (TRNS) 100.38 11.1 2.4 903
+Travelzoo (TZOO) 5.03 -3.5 0.5 50
+Travere Therapeutics Inc (TVTX) 48.87 -14.2 1.1 4,594
+TriCo Bancshares (TCBK) 52.44 -0.3 1.3 1,678
+TriMas Corporation (TRS) 37.86 -3.2 1.4 1,363
+Trimble Inc. (TRMB) 53.64 -6.7 2.1 12,498
+Trip.com Group Limited (TCOM) 43.81 15.0 2.1 30,185
+TripAdvisor, Inc. (TRIP) 7.38 -13.3 6.3 863
+TROOPS, Inc (TROO) 1.74 1.2 1.5 212
+TrustCo Bank Corp NY (TRST) 56.54 1.5 1.5 961
+Trustmark Corp. (TRMK) 44.73 -2.6 1.1 2,594
+TTEC Holdings, Inc. (TTEC) 1.48 7.2 0.4 73
+TTM Technologies, Inc. (TTMI) 62.22 -52.8 3.9 6,533
+Tucows Inc. Class A (TCX) 11.92 26.9 0.9 131
+Tuniu Corporation (TOUR) 4.695 -5.5 0.3 1,451
+Turtle Beach Corporation (TBCH) 16.65 19.0 2.1 300
+
+T-U
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Tvardi Therapeutics, Inc (TVRD) 0.865 -24.8 0.3 11
+Twin Disc, Incorporated (TWIN) 22.97 -19.4 1.6 345
+U.S. Gold Corp. (USAU) 10.58 -26.9 0.9 180
+UFP Industries, Inc. (UFPI) 82.97 7.5 1.2 4,563
+UFP Technologies, Inc. (UFPT) 299.82 -0.3 1.0 2,399
+Ulta Beauty, Inc. (ULTA) 649.8 19.5 1.0 27,941
+Ultra Clean Holdings, Inc. (UCTT) 37.2 -48.8 2.5 1,674
+Ultragenyx Pharmaceutical Inc. (RARE) 15.57 2.3 2.1 1,541
+Ultralife Corporation (ULBI) 15.63 140.1 4.1 266
+UMB Financial Corporation (UMBF) 134.7 2.9 1.0 10,237
+Union Bankshares, Inc. (UNB) 22.75 -1.2 0.6 114
+Uniqure NV (QURE) 21.01 -10.4 2.2 1,450
+United Bancorp, Inc. (UBCP) 14.52 -1.8 0.6 87
+United Bankshares, Inc. (UBSI) 48.39 2.9 1.1 6,581
+United Fire Group Inc (UFCS) 47.35 -13.3 1.9 1,231
+United States Lime & Minerals, Inc. (USLM) 119.41 7.6 1.2 3,463
+United Therapeutics Corporation (UTHR) 565.72 4.4 1.2 24,326
+United-Guardian, Inc. (UG) 6.8 -4.6 2.2 34
+Uniti Group Inc. (UNIT) 5.36 -33.3 3.6 1,302
+Unity Bancorp, Inc. (UNTY) 57.77 4.4 1.9 578
+Universal Display Corporation (OLED) 87.13 8.4 1.3 4,008
+Universal Electronics Inc. (UEIC) 4.86 -14.3 2.0 63
+Universal Logistics Holdings, Inc. (ULH) 29.47 59.6 1.9 766
+Univest Financial Corporation (UVSP) 40.3 -3.6 1.7 1,088
+Upbound Group Inc (UPBD) 24.88 56.4 1.7 1,443
+Upland Software, Inc. (UPLD) 3.93 5.4 2.6 12
+Urban One, Inc. Class A (UONE) 4.14 4.0 0.2 4
+Urban One, Inc. Class D (UONEK) 3.54 -0.8 0.2 14
+Urban Outfitters, Inc. (URBN) 87.57 8.4 0.6 7,531
+U.S. Global Investors, Inc. Class A (GROW) 2.46 -13.8 0.8 25
+
+U-V
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Utah Medical Products, Inc. (UTMD) 71.04 -4.2 1.2 213
+UTStarcom, Inc. (UTSI) 2.01 -10.3 0.2 18
+Value Line, Inc. (VALU) 44.23 9.2 0.7 398
+Vanda Pharmaceuticals Inc. (VNDA) 3.59 -22.5 0.9 215
+Veeco Instruments Inc. (VECO) 33.25 -42.1 2.1 2,028
+VEON Ltd (VEON) 75.34 -0.4 1.7 5,281
+Vera Bradley, Inc. (VRA) 6.98 36.6 1.5 202
+Verastem, Inc. (VSTM) 9.38 21.8 1.3 1,144
+Vericel Corporation (VCEL) 51.78 29.0 4.6 2,641
+VeriSign, Inc. (VRSN) 312.06 8.2 1.6 28,085
+Verisk Analytics, Inc. (VRSK) 211.47 29.0 1.4 27,491
+Vertex Pharmaceuticals Incorporated (VRTX) 542.5 7.5 1.9 137,252
+Veru Inc. (VERU) 2.06 -17.9 0.4 35
+ViaSat, Inc. (VSAT) 59.38 -17.5 2.2 8,194
+Viavi Solutions Inc (VIAV) 26.3 -44.2 2.9 6,496
+Vicor Corporation (VICR) 135.1 -56.3 2.1 4,593
+Viking Therapeutics, Inc. (VKTX) 25.79 -13.9 1.6 3,250
+Village Super Market, Inc. Class A (VLGEA) 42.6 -7.4 1.0 469
+Viper Energy, Inc. Class A (VNOM) 39.7 -2.3 1.5 7,702
+Virco Mfg. Corporation (VIRC) 5.97 -8.3 0.3 96
+Viridian Therapeutics Inc (VRDN) 28.55 47.2 1.7 3,226
+Vistance Networks, Inc. (VISN) 5.405 -13.0 2.9 1,249
+Vivani Medical, Inc (VANI) 1.04 -15.4 1.4 94
+VNET Group, Inc. (VNET) 3.15 -38.6 2.0 5,283
+Vodafone Group PLC (VOD) 15.95 -5.2 0.9 37,578
+VSE Corporation (VSEC) 164.71 -1.5 2.4 4,612
+
+V-W
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Vtv Therapeutics Inc. (VTVT) 21.74 -28.9 0.4 87
+Vuzix Corporation (VUZI) 1.83 -38.6 1.0 154
+WaFd, Inc (WAFD) 29.49 -4.3 1.1 2,182
+Washington Trust Bancorp, Inc. (WASH) 38.67 0.5 1.4 735
+Waterstone Financial Inc. (MD) (WSBF) 20.06 0.6 0.9 361
+WD-40 Company (WDFC) 227.33 12.0 1.0 2,955
+Wendy's Company (WEN) 7.94 29.6 1.2 1,517
+Werner Enterprises, Inc. (WERN) 27.96 -20.6 1.1 1,678
+WesBanco, Inc. (WSBC) 38.67 1.5 1.0 3,712
+West Bancorporation (WTBA) 30.71 2.1 2.5 522
+WestAmerica Bancorp. (WABC) 59.77 0.3 0.9 1,375
+Western Digital Corp. (WDC) 267.63 -35.5 2.7 96,614
+Western New England Bancorp, Inc. (WNEB) 13.68 -1.8 0.9 274
+Weyco Group, Inc. (WEYS) 63.07 23.9 6.3 631
+Wheeler Real Estate Investment Trust, Inc. (WHLR) 0.458 -96.3 8.1 0.9
+Willamette Valley Vineyards, Inc. (WVVI) 1.73 -12.2 1.0 9
+Willdan Group, Inc. (WLDN) 70.85 -3.7 0.9 1,063
+Willis Lease Finance Corporation (WLFC) 46.92 2.7 0.9 985
+Willis Towers Watson Public Limited (WTW) 336.51 16.6 1.0 31,295
+WillScot Holdings Corporation (WSC) 17.84 3.1 1.6 3,229
+Wingstop Inc (WING) 165.73 55.0 1.2 4,475
+Winmark Corporation (WINA) 268.59 -9.8 1.0 1,074
+Wintrust Financial Corporation (WTFC) 151.72 4.6 1.0 10,165
+Wix.com Ltd. (WIX) 76.69 5.6 0.4 3,221
+Woodward, Inc. (WWD) 306.86 -7.5 1.0 18,105
+World Acceptance Corp. (WRLD) 149.58 -14.3 0.6 748
+
+W-Z
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+WSFS Financial Corporation (WSFS) 79.13 1.4 0.8 4,036
+Wynn Resorts, Limited (WYNN) 79.32 4.5 2.3 8,170
+Xcel Brands, Inc. (XELB) 0.349 -46.9 0.1 2
+Xencor Inc. (XNCR) 34.05 37.1 1.4 2,520
+Xenon Pharmaceuticals Inc. (XENE) 37.68 -0.9 0.8 3,655
+XWELL, Inc (XWEL) 0.573 -31.7 - 6
+Yueda Digital Holding Class A (YDKG) 1.0 7.5 2.0 6
+Yunhong Green CTI Ltd (YHGJ) 3.11 11.7 0.5 9
+Zebra Technologies Corporation Class A (ZBRA) 321.64 -14.4 1.5 15,117
+Zeta Network Group (ZNB) 1.07 -29.6 - 5
+Ziff Davis Inc (ZD) 54.28 -1.7 1.1 1,846
+Zillow Group, Inc. Class C Capital Stock (Z) 30.29 10.5 2.9 5,361
+Zillow Group, Inc. Class A (ZG) 31.21 11.1 1.7 1,280
+Zions Bancorporation NA (ZION) 64.93 2.8 1.2 9,480
+
+Source: www.BuySellSignals.com
+- **Why it matters to Innodata:** Active coverage on Turing (Talent Marketplaces & Gig Networks) exposes buyer sensitivity around talent marketplaces selling individual headcount with high churn and zero production architecture slas.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Turing: Managed systems, enterprise SLAs, vendor-tail consolidation under one MSA, and production architectures. Highlight our Data Engineering, Agent Reliability Engineering (ARE), Infrastructure Engineering capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Turing accounts using Beacon (PDF-Miner) as a 2-4 week production POC wedge.
+
+### 2. [Comparative Analysis of Performance : NASDAQ Composite Index (-1,421.5 points, -5.5%) November 05, 2026](https://ct.moreover.com/?a=60788980314&p=21l&v=1&x=nJJ-mOOZTnrWELTDItr6yQ)
+- **Outlet(s):** Global Round Up - Stock Exchange Indices | **Published:** `2026-11-06` | **Sentiment:** `POSITIVE` | **Positioning Relevance Score:** `1.00`
+- **Matched Innodata Pillars:** Data Engineering, Agent Reliability Engineering (ARE), Infrastructure Engineering
+- **Matched Proprietary Accelerators:** Beacon (PDF-Miner)
+- **Matched Competitors:** Turing
+- **Coverage Snippet:** NASDAQ END-OF-DAY COMPARATIVE PERFORMANCE TABLE
+
+COMPARATIVE PERFORMANCE TABLE for the NASDAQ Composite Index, alphabetic sort.
+
+Download CPR 5 Nov 2026.xls Click http://www.buysellsignals.net/BuySellSignals/report/Usnasdaq/Stock/PDF/quarterly/xls/Newsletter_IXIC.xls
+
+For Company searches, or for sorting by Stocks and variables, an interactive version of today's Table is available here. Click http://www.buysellsignals.net/BuySellSignals/report/Usnasdaq/MarketAction/Html/IXIC_Newsletter.html
+
+KEY
+
+COLUMN HEADING DESCRIPTION
+Vol-Index Volume-Index: Number of shares traded on the current date against average number of shares traded per day
+
+1-A
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+1-800-flowers.com, Inc. Class A (FLWS) 2.6 1.6 0.7 96
+1st Source Corporation (SRCE) 87.35 0.6 0.9 2,096
+AAON, Inc. (AAON) 54.42 -34.6 2.5 4,462
+Acacia Research Corporation (ACTG) 4.24 -2.3 1.9 416
+Acadia Healthcare Company, Inc. (ACHC) 34.79 24.0 2.0 3,235
+ACADIA Pharmaceuticals Inc. (ACAD) 21.24 6.5 3.6 3,653
+Accuray Incorporated (ARAY) 0.12 -57.5 0.9 14
+Achieve Life Sciences, Inc. (ACHV) 6.38 -11.9 1.5 657
+ACI Worldwide, Inc. (ACIW) 59.52 18.7 2.6 6,012
+ACNB Corporation (ACNB) 65.49 2.7 1.4 655
+Adamas Trust, Inc. (ADAM) 5.92 -24.2 3.3 533
+Addus HomeCare Corporation (ADUS) 126.81 14.0 1.2 2,409
+Adeia Inc (ADEA) 14.82 -42.4 2.5 1,630
+Adobe Inc. (ADBE) 246.44 3.7 1.4 95,865
+Automatic Data Processing, Inc. (ADP) 307.14 19.2 1.3 121,627
+ADTRAN Holdings Inc. (ADTN) 4.13 -41.3 2.1 335
+Advanced Energy Industries Inc. (AEIS) 185.66 -39.0 2.2 7,426
+Advanced Micro Devices, Inc. (AMD) 404.4 -36.2 2.8 659,981
+Aehr Test Systems (AEHR) 49.16 -54.1 2.5 1,622
+Aemetis Inc (AMTX) 1.73 0.6 14.0 125
+AeroVironment, Inc. (AVAV) 102.08 -27.5 1.6 5,206
+Agenus Inc. (AGEN) 6.44 -23.0 0.8 290
+Agilysys, Inc. (AGYS) 119.76 20.7 1.0 3,353
+Agios Pharmaceuticals Inc. (AGIO) 28.27 -11.1 2.1 1,696
+AGNC Investment Corp. (AGNC) 8.82 0.3 1.4 11,237
+AI Financial Corporation (AIFC) 0.161 -68.4 1.7 22
+Air T, Inc. (AIRT) 28.14 -5.6 0.4 84
+Akamai Technologies, Inc. (AKAM) 77.84 -28.5 2.4 11,209
+Akebia Therapeutics Inc. (AKBA) 0.425 -50.8 3.6 118
+Alaunos Therapeutics, Inc (TCRT) 1.84 124.4 0.1 6
+
+A
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Aldeyra Therapeutics Inc. (ALDX) 0.616 -47.4 0.5 37
+Alico, Inc. (ALCO) 37.21 -2.9 1.4 260
+Align Technology, Inc. (ALGN) 159.37 10.9 1.3 11,315
+Alkermes PLC (ALKS) 44.54 6.7 0.9 7,483
+Alliance Resource Partners, L.P. (ARLP) 24.65 0.5 1.8 3,180
+Allot Ltd. (ALLT) 8.18 -3.0 1.3 393
+Alnylam Pharmaceuticals, Inc. (ALNY) 156.66 -28.7 2.2 20,992
+Alpha and Omega Semiconductor Limited (AOSL) 18.48 -38.9 2.2 554
+Alphabet Inc. Class A (GOOGL) 282.57 -17.8 2.3 1,658,121
+Alphabet Inc. Class C (GOOG) 281.74 -17.2 2.6 1,557,177
+Alphatec Holdings, Inc. (ATEC) 7.8 -22.2 1.4 1,209
+Altisource Portfolio Solutions S.A. (ASPS) 5.72 -10.2 1.1 63
+Alto Ingredients Inc (ALTO) 3.67 -2.7 1.1 286
+Amarin Corporation PLC (AMRN) 11.575 -6.3 1.3 4,850
+Amazon.com, Inc. (AMZN) 260.21 3.5 2.6 2,806,625
+Ambarella Inc. (AMBA) 55.17 -19.6 1.2 2,427
+AMC Global Media Inc. Class A (AMCX) 8.43 -24.5 1.1 253
+Amdocs Limited (DOX) 43.83 -24.6 4.4 4,734
+America's Car-Mart, Inc. (CRMT) 1.52 44.8 0.7 12
+American Airlines Group Inc. (AAL) 12.93 -0.04 0.8 8,560
+American Public Education, Inc. (APEI) 38.22 -12.6 1.1 688
+American Superconductor Corporation (AMSC) 23.98 -20.1 2.2 1,151
+AMERISAFE, Inc. (AMSF) 20.33 -13.8 1.9 386
+AmeriServ Financial Inc. (ASRV) 4.88 5.1 1.1 83
+Ames National Corporation (ATLO) 34.04 5.2 0.5 306
+Amgen Inc. (AMGN) 460.28 14.2 1.6 249,011
+Amkor Technology, Inc. (AMKR) 30.49 -45.6 1.8 7,562
+Amphastar Pharmaceuticals Inc. (AMPH) 27.66 8.8 1.2 1,189
+Amtech Systems, Inc. (ASYS) 11.09 -38.4 2.0 200
+Analog Devices, Inc. (ADI) 361.01 -13.5 3.6 175,090
+
+T-A
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+The Andersons, Inc. (ANDE) 55.16 -18.5 2.1 1,875
+Angi Inc. Class A (ANGI) 7.32 21.0 1.4 300
+Anika Therapeutics Inc. (ANIK) 19.33 1.2 1.0 251
+Apogee Enterprises, Inc. (APOG) 45.92 29.8 1.2 964
+Apple Inc. (AAPL) 344.17 3.1 2.2 5,022,879
+Applied Materials, Inc. (AMAT) 319.25 -40.9 2.8 253,484
+Applied Optoelectronics Inc. (AAOI) 46.89 -59.4 3.7 3,986
+Aqua Metals, Inc. (AQMS) 1.17 -49.8 0.7 5
+Arbutus Biopharma Corporation (ABUS) 3.67 -17.5 2.4 727
+Arcadia Biosciences Inc (RKDA) 0.17 -41.0 0.3 0.3
+ArcBest Corporation (ARCB) 133.59 0.7 1.5 2,939
+Arch Capital Group Ltd. (ACGL) 110.57 18.1 0.9 37,704
+Arcturus Therapeutics Holdings Inc. (ARCT) 9.36 -28.2 1.1 262
+Ardelyx Inc. (ARDX) 2.99 -10.5 2.0 745
+Ark Restaurants Corp. (ARKR) 4.7 4.4 0.1 19
+Arrow Financial Corporation (AROW) 38.61 2.2 1.2 734
+Arrowhead Pharmaceuticals, Inc. (ARWR) 57.46 -10.5 0.8 8,102
+Art's-Way Manufacturing Co., Inc. (ARTW) 2.74 -12.3 - 14
+Artesian Resources Corporation Class A (ARTNA) 33.3 -1.0 0.7 300
+Ascendis Pharma A/S (ASND) 253.45 11.2 0.8 15,714
+Ascent Industries Co (ACNT) 13.585 -1.3 0.7 122
+Asia Pacific Wire & Cable Corporation Limited (APWC) 1.11 -15.9 - 23
+Assembly Biosciences Inc. (ASMB) 20.0 -11.3 2.8 400
+Astec Industries, Inc. (ASTE) 35.36 -15.8 2.3 813
+Astronics Corporation (ATRO) 52.88 -22.5 1.1 1,904
+Astrotech Corporation (ASTC) 3.97 -43.8 - 8
+Asure Software Inc. (ASUR) 9.6 25.0 3.4 278
+Atara Biotherapeutics, Inc. (ATRA) 7.96 -16.0 0.1 80
+Atlantic American Corporation (AAME) 1.15 -9.4 0.2 23
+Atlanticus Holdings Corporation (ATLC) 96.45 5.0 1.5 1,447
+
+A
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+ATN International, Inc. (ATNI) 26.59 -4.7 2.4 399
+Atossa Therapeutics, Inc. (ATOS) 2.02 -13.7 0.7 20
+AtriCure, Inc. (ATRC) 61.28 11.1 1.2 3,125
+Auburn National Bancorporation, Inc. (AUBN) 26.45 -2.0 0.1 79
+AudioCodes Ltd. (AUDC) 7.65 -31.0 2.0 199
+Autodesk, Inc. (ADSK) 269.16 27.0 1.9 56,254
+Aviat Networks, Inc. (AVNW) 16.97 -17.9 1.4 221
+Avis Budget Group, Inc. (CAR) 120.44 8.3 0.6 4,215
+Aware, Inc. (AWRE) 0.96 -12.7 1.8 21
+Axcelis Technologies, Inc. (ACLS) 90.0 -39.1 1.8 2,790
+Axogen, Inc. (AXGN) 48.75 30.4 1.1 2,925
+
+A-B
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Axon Enterprise, Inc. (AXON) 382.56 -7.4 3.9 30,987
+AXT Inc. (AXTI) 36.72 -57.2 2.6 2,424
+Azenta, Inc (AZTA) 37.38 -3.5 1.2 1,645
+B.O.S. Better Online Solutions (BOSC) 3.92 -15.3 2.2 27
+Baidu, Inc. (BIDU) 79.48 -5.7 1.7 174,697
+Balchem Corporation (BCPC) 179.71 7.9 2.7 5,751
+Ballard Power Systems, Inc. (BLDP) 1.46 -28.8 0.6 512
+BancFirst Corporation (BANF) 115.12 6.5 2.5 3,914
+The Bancorp, Inc. (TBBK) 47.74 -2.2 1.3 1,957
+Bank of Marin Bancorp (BMRC) 28.58 3.1 0.9 457
+Bank of the James Financial Group Inc. (BOTJ) 23.96 -12.2 0.7 120
+Bank OZK (OZK) 51.09 10.6 1.5 5,875
+Bankwell Financial Group Inc. (BWFG) 70.23 5.4 1.4 562
+Banner Corporation (BANR) 70.12 3.3 1.1 2,524
+Barrett Business Services, Inc. (BBSI) 30.39 -0.4 1.1 729
+Bassett Furniture Industries, Incorporated (BSET) 22.13 6.8 1.1 199
+BCB Bancorp, Inc. (NJ) (BCBP) 9.13 7.4 2.2 283
+Beasley Broadcast Group, Inc. Class A (BBGI) 5.58 -49.6 - 6
+Bel Fuse Inc. Class B (BELFB) 195.94 -24.0 2.0 2,351
+Bel Fuse Inc. Class A (BELFA) 154.76 -26.1 0.9 310
+BGC Group, Inc. Class A (BGC) 10.46 -11.2 1.9 3,734
+Big Sky Industrial Inc (BSIN) 1.32 -7.0 0.3 69
+Bio-Techne Corp (TECH) 72.66 0.4 1.5 11,408
+BioCryst Pharmaceuticals, Inc. (BCRX) 7.63 -6.6 3.3 1,953
+Biogen Inc. (BIIB) 243.93 10.9 0.9 36,102
+BioLine RX Ltd. (BLRX) 1.768 -25.4 0.6 7
+BioMarin Pharmaceutical Inc. (BMRN) 56.12 -1.9 1.0 10,887
+BJ's Restaurants, Inc. (BJRI) 58.45 -5.6 1.8 1,227
+Blackbaud, Inc. (BLKB) 55.8 33.6 0.7 2,511
+Bloomin' Brands, Inc. (BLMN) 10.47 23.5 1.3 900
+
+B
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Blue Bird Corporation (BLBD) 59.19 4.7 1.1 1,835
+BOK Financial Corporation (BOKF) 130.03 1.3 0.8 7,932
+BRC Group Holdings, Inc. (RILY) 3.79 -22.0 1.0 152
+Bridgeline Digital, Inc. (BLIN) 0.669 -17.5 0.5 9
+Bridgford Foods Corporation (BRID) 5.27 -5.7 4.0 47
+
+B-C
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Broadcom Inc. (AVGO) 291.53 -17.9 2.9 1,391,764
+Broadway Financial Corporation (BYFC) 11.52 0.9 2.1 69
+Broadwind Inc. (BWEN) 2.64 -37.9 1.0 63
+Bruker Corporation (BRKR) 58.06 -8.2 1.4 8,825
+CandF Financial Corporation (CFFI) 108.35 10.2 3.5 325
+C.H. Robinson Worldwide, Inc. (CHRW) 128.31 -18.6 0.8 14,756
+Cadence Design Systems, Inc. (CDNS) 311.43 -11.4 1.5 85,643
+Cadiz, Inc. (CDZI) 3.4 -11.2 1.8 289
+Caesars Entertainment, Inc. (CZR) 29.18 -1.6 0.9 5,953
+Caesarstone Ltd (CSTE) 1.28 -55.4 0.3 45
+Cal-Maine Foods, Inc. (CALM) 65.67 -1.5 1.0 3,086
+Calumet Specialty Products Partners LP (CLMT) 43.35 -21.6 1.6 3,815
+Camden National Corporation (CAC) 57.92 1.3 1.1 985
+Camtek Ltd. (CAMT) 91.92 -44.4 2.2 4,320
+Canadian Solar Inc. (CSIQ) 10.31 -7.9 1.2 701
+Canterbury Park Holding Corporation (CPHC) 15.87 0.8 5.4 79
+Capital City Bank Group (CCBG) 50.34 1.4 1.2 856
+Capital Clean Energy Carriers Corp (CCEC) 20.73 -1.2 1.0 1,244
+Capital Southwest Corporation (CSWC) 23.27 -1.1 1.1 1,536
+Capitol Federal Financial, Inc. (CFFN) 8.49 -1.0 1.4 1,070
+Cardiff Oncology, Inc (CRDF) 0.755 -32.6 0.7 59
+CareCloud Inc (CCLD) 2.16 6.9 8.6 91
+CareDx Inc. (CDNA) 76.33 13.7 2.2 4,045
+CarParts.com, Inc. (PRTS) 7.9 -8.5 0.6 63
+Casella Waste Systems, Inc. Class A (CWST) 100.06 20.9 1.2 6,304
+Casey's General Stores, Inc. (CASY) 689.53 11.6 1.2 25,513
+Cass Information Systems, Inc. (CASS) 54.31 0.5 0.8 706
+Cathay General Bancorp (CATY) 64.16 5.5 1.3 4,299
+Cavco Industries, Inc. (CVCO) 643.97 10.1 1.2 5,152
+CBAK Energy Technology, Inc. (CBAT) 1.02 -26.6 0.7 91
+
+C
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+CDW Corporation (CDW) 158.39 18.8 1.6 19,799
+Celldex Therapeutics, Inc. (CLDX) 28.27 -10.7 1.1 2,233
+Cellectar Biosciences Inc. (CLRB) 1.15 -35.4 0.5 10
+Cemtrex Inc (CETX) 0.779 -61.8 0.9 2
+Central Garden & Pet Company (CENT) 47.94 20.4 1.2 479
+Central Garden & Pet Company Class A (CENTA) 41.08 19.8 1.0 2,095
+Century Aluminum Company (CENX) 30.07 -15.6 1.5 2,977
+Century Casinos, Inc. (CNTY) 0.575 -44.7 0.3 16
+Ceragon Networks Ltd. (CRNT) 2.11 -3.2 2.9 192
+Cerenome, Inc. (CNSY) 0.67 -58.1 3.3 5
+Cerus Corporation (CERS) 2.13 -6.8 1.2 430
+CEVA, Inc. (CEVA) 24.56 -33.8 1.4 688
+CF Bankshares Inc (CFBK) 34.59 0.5 1.4 208
+Check Point Software Technologies Ltd. (CHKP) 148.18 13.7 1.3 15,114
+The Cheesecake Factory Incorporated (CAKE) 110.71 1.0 1.1 5,536
+The Chefs Warehouse, Inc. (CHEF) 103.35 -11.2 0.7 4,237
+Chemung Financial Corporation (CHMG) 84.88 3.6 2.2 424
+Children's Place, Inc. (The) (PLCE) 0.336 -83.1 - 7
+China Automotive Systems, Inc. (CAAS) 4.13 -10.6 0.5 124
+China Natural Resources, Inc. (CHNR) 3.97 2.8 - 4
+ChipMOS Technologies Inc (IMOS) 42.4 -49.1 1.6 1,484
+Churchill Downs, Incorporated (CHDN) 98.18 29.1 1.2 6,873
+Cimpress PLC (CMPR) 61.92 -17.5 2.2 1,486
+Cincinnati Financial Corporation (CINF) 188.31 16.3 1.3 28,811
+Cineverse Corp (CNVS) 1.51 -20.5 0.5 36
+Cintas Corporation (CTAS) 226.41 17.3 1.5 89,885
+Cirrus Logic, Inc. (CRUS) 110.23 -9.0 2.3 5,512
+Cisco Systems, Inc. (CSCO) 95.72 -14.7 2.2 377,424
+Citi Trends, Inc. (CTRN) 52.49 9.6 1.7 420
+Citizens & Northern Corp. (CZNC) 28.25 10.2 2.6 508
+
+C
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Citizens Community Bancorp, Inc. (CZWI) 23.74 11.5 1.2 237
+City Holding Company (CHCO) 142.05 -0.5 1.2 1,989
+Civista Bancshares, Inc (CIVB) 28.16 4.4 1.7 591
+Clarus Corporation (CLAR) 4.25 23.2 1.5 162
+Clean Energy Fuels Corp. (CLNE) 1.51 -3.5 1.2 332
+ClearOne, Inc. (CLRO) 4.54 11.3 0.1 14
+ClearSign Technologies Corporation (CLIR) 2.31 -34.2 0.9 16
+Climb Global Solutions (CLMB) 39.85 21.5 1.3 757
+CME Group Inc. Class A (CME) 307.24 16.8 0.9 110,606
+CNB Financial Corporation (CCNE) 35.96 5.5 1.1 1,079
+Coca-Cola Consolidated, Inc. (COKE) 212.5 10.7 1.7 12,112
+Codexis Inc. (CDXS) 1.02 -25.0 0.7 112
+Coffee Holding Co., Inc. (JVA) 4.82 21.1 0.7 29
+Cogent Communications Holdings Inc. (CCOI) 4.69 -44.6 2.7 239
+Cognex Corporation (CGNX) 47.49 -26.9 2.8 7,978
+Cognizant Technology Solutions Corporation Class A (CTSH) 66.54 13.7 1.1 29,943
+Coherus BioSciences Inc. (CHRS) 0.749 -35.4 1.2 116
+Cohu, Inc. (COHU) 34.9 -52.5 3.9 1,640
+Colliers International Group Inc (CIGI) 96.02 7.0 1.5 4,801
+Columbia Banking System, Inc. (COLB) 30.425 5.2 1.1 8,610
+Columbia Sportswear Company (COLM) 69.12 20.7 1.6 3,525
+Columbus McKinnon Corporation (CMCO) 16.53 -1.2 2.4 479
+Comcast Corporation Class A (CMCSA) 24.95 17.4 1.3 88,298
+Commerce Bancshares, Inc. (CBSH) 55.22 -0.1 0.8 7,896
+Commercial Vehicle Group, Inc. (CVGI) 3.27 10.5 0.8 134
+Community Trust Bancorp, Inc. (CTBI) 69.35 -9.0 1.6 1,248
+Community West Bancshares (CWBC) 26.06 -1.8 1.0 704
+CommVault Systems, Inc. (CVLT) 157.62 4.9 1.0 6,462
+Compugen Ltd. (CGEN) 1.92 -16.9 0.8 180
+Comstock Holding Companies, Inc. Class A (CHCI) 18.61 -0.9 1.3 186
+
+C
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Comtech Telecommunications Corp. (CMTL) 1.18 -10.3 0.9 35
+Connectone Bancorp, Inc. (CNOB) 32.46 5.5 1.1 1,623
+Consolidated Water Co. Ltd. (CWCO) 26.54 -12.0 1.3 425
+Consumer Portfolio Services, Inc. (CPSS) 9.88 8.7 1.0 217
+Copart, Inc. (CPRT) 32.48 19.3 1.9 30,076
+Corcept Therapeutics Incorporated (CORT) 71.63 -38.4 1.1 7,736
+CorVel Corp. (CRVL) 85.91 13.8 1.1 4,381
+CoStar Group, Inc. (CSGP) 32.05 17.1 1.0 12,980
+Costco Wholesale Corporation (COST) 1,065.59 15.7 2.4 472,056
+CPS Technologies Corp (CPSH) 3.6 -6.2 0.4 68
+CRA International, Inc. (CRAI) 202.94 19.1 2.4 1,218
+Cracker Barrel Old Country Store, Inc. (CBRL) 67.92 21.8 0.5 1,494
+Creative Media & Community Trust Corporation (CMCT) 3.58 -4.8 - 11
+Credit Acceptance Corporation (CACC) 522.58 -0.9 1.2 5,226
+Crescent Biopharma, Inc. (CBIO) 12.94 -9.6 0.7 479
+Cresud S.A.C.I.F. y A. (CRESY) 9.03 -20.4 0.7 5,707
+Crocs, Inc. (CROX) 152.93 29.5 1.1 7,341
+Crown Crafts, Inc. (CRWS) 2.56 3.2 1.7 28
+CryoPort Inc (CYRX) 16.05 -7.9 3.5 819
+CSP Inc. (CSPI) 7.17 -5.3 0.5 72
+
+C-D
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Cumberland Pharmaceuticals Inc (CPIX) 5.01 -32.2 0.9 75
+Curis, Inc. (CRIS) 0.85 6.2 12.5 2
+CVB Financial Corporation (CVBF) 22.86 2.6 1.4 4,023
+CVD Equipment Corporation (CVV) 3.61 -16.6 0.9 25
+Cyclacel Pharmaceuticals Inc. (BGMS) 0.865 -1.7 0.4 6
+Cytokinetics, Incorporated (CYTK) 55.55 -15.3 3.3 7,721
+Daily Journal Corporation (DJCO) 640.11 -2.5 0.6 640
+Daktronics, Inc. (DAKT) 19.24 7.1 1.0 924
+Dare Bioscience, Inc. (DARE) 0.624 -26.0 0.5 12
+Data I/O Corporation (DAIO) 2.37 -20.5 1.8 24
+Dave & Buster'S Entertainment, Inc. (PLAY) 8.15 20.7 1.0 285
+Dawson Geophysical Company (DWSN) 1.58 -42.8 0.4 49
+Decoy Therapeutics Inc. (DCOY) 1.12 -36.1 0.1 2
+Dentsply Sirona Inc (XRAY) 10.09 16.4 1.7 2,008
+The Descartes Systems Group Inc. (DSGX) 94.82 18.4 0.9 8,118
+Destination XL Group, Inc. (DXLG) 0.442 1.8 0.4 24
+Deswell Industries, Inc. (DSWL) 2.96 -3.6 1.4 47
+DexCom, Inc. (DXCM) 84.46 -1.1 1.0 31,841
+Diamondback Energy, Inc. (FANG) 179.58 -2.8 1.5 50,282
+Digi International Inc. (DGII) 62.34 -17.6 3.3 2,369
+Digimarc Corporation (DMRC) 7.37 15.9 0.7 199
+Digital Turbine, Inc (APPS) 9.67 -13.4 1.3 1,180
+Diodes Incorporated (DIOD) 68.36 -34.2 2.7 3,145
+Distribution Solutions Group, Inc (DSGR) 34.98 0.0 3.2 1,609
+DLH Holdings Corp. (DLHC) 3.63 -10.4 0.1 51
+DMC Global Inc. (BOOM) 7.05 21.6 2.3 148
+Dollar Tree, Inc. (DLTR) 137.94 23.0 1.3 25,933
+
+D-E
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Dominari Holdings Inc (DOMH) 1.45 -35.3 1.8 35
+Donegal Group, Inc. Class B (DGICB) 25.64 54.0 0.6 154
+Donegal Group, Inc. Class A (DGICA) 18.96 3.8 0.9 607
+Dorchester Minerals LP (DMLP) 27.26 -4.8 1.3 1,336
+Dorman Products, Inc. (DORM) 139.48 13.3 0.8 4,184
+Duluth Holdings Inc. Class B (DLTH) 4.08 3.8 0.3 143
+DXP Enterprises, Inc. (DXPE) 132.87 -31.5 1.7 2,126
+Eagle Bancorp, Inc. (EGBN) 33.61 18.4 1.0 1,008
+Eagle Bancorp Montana Inc. (EBMT) 20.88 -1.7 0.5 167
+East West Bancorp, Inc. (EWBC) 129.04 2.2 1.0 17,678
+Eastern Company (The) (EML) 27.21 10.6 0.5 163
+Ebay Inc. (EBAY) 123.35 15.9 0.9 54,891
+EchoStar Corporation Class A Shares (ECHO) 89.92 -4.6 1.6 14,297
+Educational Development Corporation (EDUC) 0.98 -24.6 0.4 9
+Egain Corporation (EGAN) 5.9 0.5 0.6 148
+Ehealth, Inc. (EHTH) 0.52 -22.6 1.5 17
+El Pollo Loco Holdings Inc. (LOCO) 16.46 15.8 1.9 494
+Elbit Systems Ltd. (ESLT) 651.31 -6.5 1.0 29,960
+Eledon Pharmaceuticals Inc (ELDN) 2.46 -1.6 0.5 199
+Eltek Ltd. (ELTK) 6.02 -24.5 0.1 42
+Enanta Pharmaceuticals, Inc. (ENTA) 10.08 -22.2 1.4 292
+Encore Capital Group Inc. (ECPG) 126.17 31.5 2.5 2,650
+Energous Corporation (WATT) 7.02 -47.4 0.8 42
+Energy Focus, Inc. (EFOI) 3.69 23.6 - 22
+Energy Recovery, Inc. (ERII) 6.71 -0.9 2.4 342
+Enlivex Therapeutics Ltd (ENLV) 1.27 -79.7 2.0 25
+Enphase Energy Inc. (ENPH) 28.97 -13.4 2.0 3,824
+The Ensign Group, Inc. (ENSG) 182.39 6.2 0.8 10,579
+Entegris, Inc. (ENTG) 124.75 -25.1 3.3 19,087
+Enterprise Financial Services Corporation (EFSC) 62.29 3.7 1.2 2,242
+
+E
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Eocene Ltd (EOCN) 2.45 0.0 0.1 2
+Eplus Inc. (PLUS) 82.43 -11.7 2.4 2,143
+Equinix, Inc. (EQIX) 997.35 -2.8 1.7 98,738
+Erie Indemnity Company Class A (ERIE) 285.63 30.1 1.3 13,139
+Escalade, Incorporated (ESCA) 20.39 6.7 1.1 285
+Euro Tech Holdings Company Limited (CLWT) 1.19 -11.2 0.1 8
+Euronet Worldwide, Inc. (EEFT) 71.15 12.0 1.2 2,633
+
+E-F
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Euroseas Ltd. (ESEA) 63.22 -12.7 0.7 443
+Exelixis, Inc. (EXEL) 68.71 17.7 1.7 17,040
+ExlService Holdings, Inc. (EXLS) 43.61 22.0 1.1 6,629
+Expedia Group, Inc. (EXPE) 272.48 2.8 2.7 31,063
+Exponent, Inc. (EXPO) 85.83 27.5 1.2 4,120
+Extreme Networks, Inc. (EXTR) 21.05 -9.0 1.6 2,779
+EyePoint, Inc. (EYPT) 0.356 -89.1 1.8 31
+EZCORP, Inc. Class A Non Voting (EZPW) 28.72 -4.9 0.7 1,666
+F5, Inc (FFIV) 311.74 -31.3 1.7 17,769
+Fabric.AI, Inc. (FABC) 1.53 -34.6 0.4 11
+Farmers National Banc Corp. (FMNB) 15.52 1.2 1.1 916
+Fastenal Company (FAST) 52.9 4.2 1.6 60,676
+Fate Therapeutics Inc. (FATE) 1.85 -20.6 1.3 222
+Ferroglobe PLC (GSM) 2.53 -40.6 2.2 473
+Filana Therapeutics, Inc. (FLNA) 0.45 -51.7 1.3 22
+First Bancorp (FBNC) 64.77 3.9 1.1 2,656
+The First Bancorp, Inc. (FNLC) 36.59 7.0 1.8 402
+First Busey Corporation (BUSE) 28.67 -3.6 1.6 2,322
+First Business Financial Services, Inc. (FBIZ) 74.87 5.6 2.3 599
+First Capital, Inc. (FCAP) 61.99 -1.4 5.7 186
+First Citizens BancShares, Inc. Class A (FCNCA) 2,304.72 11.2 0.9 23,047
+First Community Corporation (FCCO) 32.61 -0.2 0.9 293
+First Community Bancshares, Inc. (FCBC) 45.4 -5.4 1.4 863
+First Financial Bancorp (FFBC) 32.5 2.0 1.4 3,412
+First Financial Bankshares, Inc. (FFIN) 30.68 -4.6 1.4 4,387
+First Financial Corporation (THFF) 76.59 2.1 1.7 1,225
+First Internet Bancorp (INBK) 25.77 -6.7 0.7 232
+First Interstate Bancsystem Inc. (FIBK) 38.01 5.6 1.2 3,611
+First Merchants Corporation (FRME) 41.06 2.3 1.4 2,587
+First Mid Bancshares, Inc. (FMBH) 50.86 1.8 1.5 1,373
+
+F
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+First Northwest Bancorp (FNWB) 10.1 1.5 0.4 101
+First Solar, Inc. (FSLR) 195.76 12.1 3.1 20,946
+First United Corporation (FUNC) 45.68 4.7 1.4 274
+First US Bancshares, Inc. (FUSB) 16.45 -0.3 0.5 99
+FirstCash Holdings Inc. (FCFS) 187.55 -10.8 1.0 8,065
+Five Below, Inc. (FIVE) 241.26 9.1 0.6 13,269
+Five9 Inc. (FIVN) 34.14 -0.6 1.1 2,560
+Flex Ltd. (FLEX) 66.73 -42.7 2.9 24,623
+Flexsteel Industries, Inc. (FLXS) 73.43 -17.3 1.1 294
+FormFactor, Inc. (FORM) 71.76 -51.9 1.9 5,597
+Formula Systems 1985 Ltd. (FORTY) 110.25 -2.9 1.7 1,654
+Forrester Research, Inc. (FORR) 8.7 -22.5 1.5 165
+Fortinet, Inc. (FTNT) 122.51 -32.3 1.4 89,922
+Fortress Biotech, Inc (FBIO) 1.84 -9.4 0.5 61
+Forward Air Corporation (FWRD) 16.93 6.4 0.6 576
+Forward Industries, Inc. (FWDI) 5.7 -30.1 1.8 433
+Fossil Group Inc. (FOSL) 7.76 14.1 2.0 458
+Fox Factory Holding Corporation (FOXF) 16.92 -9.3 1.8 711
+Franklin Electric Co., Inc. (FELE) 95.91 -2.8 1.5 4,220
+FreightCar America, Inc. (RAIL) 4.15 -39.9 1.3 137
+
+F-G
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Frequency Electronics, Inc. (FEIM) 54.24 -37.0 1.8 597
+Freshpet, Inc. (FRPT) 64.815 7.6 0.9 3,111
+FRP Holdings Inc (FRPH) 18.3 -9.8 3.0 348
+FS Bancorp, Inc. (FSBW) 43.79 -1.2 2.1 350
+Fuel Tech, Inc. (FTEK) 1.33 -19.9 1.0 41
+FuelCell Energy, Inc. (FCEL) 8.93 -51.7 1.8 714
+Full House Resorts Inc. (FLL) 0.725 -47.9 2.5 27
+Fulton Financial Corp. (FULT) 23.79 4.3 1.6 4,544
+Future FinTech Group Inc. (FTFT) 3.78 12.7 0.1 34
+G-III Apparel Group, LTD. (GIII) 32.02 17.0 0.8 1,377
+Gaia, Inc. Class A (GAIA) 1.28 -7.9 0.8 26
+Galectin Therapeutics Inc. (GALT) 2.985 -23.5 0.9 301
+Gaming and Leisure Properties Inc. (GLPI) 39.44 4.7 1.2 11,477
+Gen Digital Inc (GEN) 30.6 39.2 1.3 18,329
+Genasys Inc (GNSS) 1.31 -9.7 0.8 60
+Gentex Corporation (GNTX) 20.21 -8.5 0.9 4,264
+Gentherm Incorporated. (THRM) 29.63 -5.3 1.8 1,600
+Geospace Technologies Corporation (GEOS) 3.6 -25.0 0.9 47
+German American Bancorp, Inc. (GABC) 50.56 2.3 2.0 1,921
+Geron Corporation (GERN) 0.95 -20.8 2.1 610
+Gevo, Inc. (GEVO) 1.22 -6.9 1.0 301
+Gibraltar Industries, Inc. (ROCK) 31.69 -21.1 6.6 951
+GigaMedia Limited (GIGM) 1.4 -2.1 0.1 15
+Gilat Satellite Networks Ltd. (GILT) 6.68 -33.5 2.0 501
+Gilead Sciences, Inc. (GILD) 167.57 15.8 1.8 207,787
+Gladstone Commercial Corporation (GOOD) 10.45 -19.2 3.0 502
+Gladstone Land Corp. (LAND) 7.03 -26.5 2.6 302
+Globus Maritime Ltd. (GLBS) 2.52 -28.0 0.9 55
+Gogo Inc. (GOGO) 2.27 7.6 0.7 309
+Golar LNG Limited (GLNG) 42.57 -13.5 1.5 4,300
+
+G
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Good Times Restaurants Inc. (GTIM) 1.27 -15.3 1.3 14
+The Goodyear Tire & Rubber Company (GT) 4.45 -8.1 1.8 1,282
+GoPro, Inc. Class A (GPRO) 0.86 -36.1 0.7 136
+Grace Therapeutics, Inc. (GRCE) 1.78 -14.0 0.3 37
+
+G-H
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Grand Canyon Education, Inc. (LOPE) 122.25 -21.5 3.8 3,178
+Gravity Co Ltd. (GRVY) 66.48 -2.9 0.9 465
+Great Southern Bancorp, Inc. (GSBC) 80.73 1.8 1.2 888
+Green Plains Inc. (GPRE) 13.7 -10.0 1.0 959
+Greene County Bancorp, Inc. (GCBC) 36.0 5.1 1.6 612
+Greenlight Capital Re, Ltd. Class A (GLRE) 16.38 11.1 1.5 541
+GSI Technology, Inc. (GSIT) 3.2 -43.0 0.7 122
+Gulf Resources Inc. (GURE) 3.05 1.2 0.5 6
+Gyre Therapeutics, Inc (GYRE) 4.01 -43.6 2.7 425
+Gyrodyne, LLC (GYRO) 4.0 -12.3 1.8 8
+The Hackett Group, Inc. (HCKT) 13.28 23.2 1.3 332
+The Hain Celestial Group, Inc. (HAIN) 0.136 -73.8 0.7 12
+Hallador Energy Company (HNRG) 9.36 -30.6 2.9 440
+Halozyme Therapeutics, Inc. (HALO) 122.96 11.9 1.5 13,894
+Hancock Whitney Corporation (HWC) 71.41 -2.3 0.7 5,713
+Hanmi Financial Corporation (HAFC) 32.53 2.7 1.0 976
+Harmonic Inc. (HLIT) 9.31 -16.7 1.8 1,015
+Harrow Health Inc (HROW) 26.04 -14.6 1.1 963
+Harvard Bioscience, Inc. (HBIO) 8.46 1.4 1.7 42
+Hasbro, Inc. (HAS) 119.54 33.5 1.1 16,855
+Hawkins, Inc. (HWKN) 152.0 15.7 0.9 3,192
+Hawthorn Bancshares, Inc. (HWBK) 38.89 0.7 3.6 272
+Healthcare Services Group, Inc. (HCSG) 25.11 20.3 1.2 1,733
+HealthEquity Inc. (HQY) 103.46 14.9 1.5 8,587
+HealthStream, Inc. (HSTM) 29.6 -4.0 1.6 918
+Heartland Express, Inc. (HTLD) 10.15 -14.7 1.0 782
+Helen of Troy Limited (HELE) 37.77 41.2 2.2 869
+Henry Schein, Inc. (HSIC) 85.31 0.5 1.6 9,469
+Heritage Financial Corporation (HFWA) 28.56 1.5 1.4 1,171
+Highway Holdings Limited (HIHO) 0.858 -4.7 0.3 4
+
+H-I
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Himax Technologies Inc. (HIMX) 7.68 -49.6 2.4 2,680
+Hingham Institution for Savings (HIFS) 302.46 5.1 1.0 605
+Home Bancorp (HBCP) 60.71 -10.1 1.3 486
+Hooker Furnishings Corporation (HOFT) 14.61 10.9 1.0 161
+Hope Bancorp Inc (HOPE) 13.07 -4.5 1.4 1,673
+Horizon Bancorp Inc. (HBNC) 20.85 7.0 1.2 1,063
+Horizon Technology Finance Corporation (HRZN) 3.96 -14.3 0.9 265
+Hub Group, Inc. Class A (HUBG) 25.08 -15.8 0.9 1,530
+Hudson Technologies, Inc. (HDSN) 4.09 -21.8 1.4 172
+Huntington Bancshares Incorporated (HBAN) 15.61 1.8 1.0 31,532
+Hurco Companies, Inc. (HURC) 21.11 -5.3 1.8 127
+Huron Consulting Group Inc. (HURN) 175.73 8.4 2.8 2,812
+Icahn Enterprises, L.P. (IEP) 5.13 -23.1 1.4 3,647
+ICF International, Inc. (ICFI) 95.38 16.5 1.0 1,717
+ICON PLC (ICLR) 201.65 24.4 1.2 15,527
+Icon Energy Corp. (ICON) 1.0 3.1 0.1 4
+ICU Medical, Inc. (ICUI) 167.65 5.2 1.9 4,191
+Ideal Power Inc. (IPWR) 2.1 -48.1 0.7 34
+IDEXX Laboratories, Inc. (IDXX) 670.71 29.4 1.5 52,986
+IES Holdings, Inc. (IESC) 145.58 -57.0 2.5 5,823
+Illumina, Inc. (ILMN) 208.0 -23.8 2.1 31,408
+Immersion Corporation (IMMR) 6.67 -9.7 1.7 220
+ImmuCell Corporation (ICCC) 9.95 2.1 0.3 90
+Immunic, Inc. (IMUX) 7.32 -8.0 1.0 102
+ImmunityBio Inc (IBRX) 8.01 -22.2 0.7 8,491
+Imunon, Inc (IMNN) 0.9 -29.7 0.8 5
+Incyte Corporation (INCY) 118.01 2.4 0.9 23,956
+Independent Bank Corp. (INDB) 84.4 5.4 1.1 3,967
+Independent Bank Corporation(MI) (IBCP) 36.33 -0.1 1.8 799
+Information Services Group, Inc. (III) 5.96 4.6 1.0 286
+
+I-T
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Ingles Markets, Incorporated Class A (IMKTA) 84.48 -2.5 0.6 1,267
+Innodata Inc. (INOD) 38.62 -44.9 2.8 1,313
+Innospec Inc. (IOSP) 79.13 -18.8 2.1 1,978
+Innovative Aerosystems, Inc. (IA) 18.12 -4.6 1.0 326
+Innoviva Inc (INVA) 19.24 -6.1 3.4 1,385
+Inogen Inc. (INGN) 6.77 13.4 1.1 183
+Insight Enterprises, Inc. (NSIT) 152.72 -4.9 1.4 4,429
+Insmed, Inc. (INSM) 108.76 -2.1 0.9 23,710
+Insulet Corporation (PODD) 156.12 18.6 1.0 10,772
+Integra Lifesciences Holdings Corp. (IART) 14.12 11.4 1.1 1,101
+Intel Corporation (INTC) 52.25 -56.2 2.9 274,574
+Inter Parfums, Inc. (IPAR) 135.28 18.7 2.9 4,329
+Interactive Brokers Group, Inc. Class A (IBKR) 72.73 -17.6 2.7 32,947
+InterDigital, Inc. (IDCC) 286.53 -14.3 0.9 7,450
+Interface, Inc. (TILE) 37.82 8.4 1.3 2,194
+The Intergroup Corporation (INTG) 38.9 39.6 0.6 78
+
+I-J
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Intuit Inc. (INTU) 354.84 26.2 1.3 94,742
+Intuitive Surgical, Inc. (ISRG) 468.52 19.5 2.2 165,388
+INVE Technologies, Inc (INVE) 2.55 8.5 2.8 61
+Investar Holding Corporation (ISTR) 27.8 -5.5 0.8 389
+Investcorp Credit Management BDC Inc. (ICMB) 0.61 -22.7 0.5 9
+Investors Title Company (ITIC) 261.3 -10.0 1.5 523
+Ionis Pharmaceuticals Inc (IONS) 38.8 -10.9 1.1 6,441
+IPG Photonics Corporation (IPGP) 62.03 -26.2 1.3 2,667
+Iradimed Corp. (IRMD) 85.54 0.2 1.2 1,112
+IRIDEX Corporation (IRIX) 0.68 5.7 0.2 12
+Iridium Communications (IRDM) 42.02 -14.2 0.6 4,454
+Itron, Inc. (ITRI) 99.46 15.0 1.1 4,376
+Ituran Location and Control Ltd. (ITRN) 49.93 -4.9 1.6 999
+J&J Snack Foods Corp. (JJSF) 91.13 16.5 1.2 1,731
+Jack Henry & Associates, Inc. (JKHY) 180.26 26.5 1.1 12,618
+Jack In The Box Inc. (JACK) 14.33 15.1 0.7 272
+
+J-K
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Jaguar Health, Inc. (JAGX) 0.407 -88.8 4.1 0.8
+JAKKS Pacific, Inc. (JAKK) 32.99 21.5 2.7 363
+James River Group Holdings, Ltd. (JRVR) 4.0 14.6 0.7 184
+Jazz Pharmaceuticals plc (Ireland) (JAZZ) 227.32 -3.5 0.7 14,776
+J.B. Hunt Transport Services, Inc. (JBHT) 218.99 -6.5 1.0 20,585
+JD.com Inc. (JD) 28.64 11.2 2.0 71,514
+JetBlue Airways Corporation (JBLU) 3.49 -15.8 1.1 1,316
+Jewett-Cameron Trading Company (JCTC) 2.86 -3.1 2.4 11
+John B. Sanfilippo & Son Inc. (JBSS) 54.52 -20.4 2.2 491
+Johnson Outdoors Inc. Class A (JOUT) 47.47 5.7 0.8 427
+Joint Corp. (JYNT) 7.37 1.2 0.7 103
+JOYY Inc. (JOYY) 80.0 1.0 0.8 54,480
+J.W. Mays, Inc. (MAYS) 44.0 9.7 2.1 88
+Kaiser Aluminum Corp. (KALU) 103.54 -31.9 1.5 1,657
+Kamada Ltd. (KMDA) 6.87 -17.3 3.1 398
+Kandi Technologies Group Inc (KNDI) 3.32 -59.4 0.1 33
+Karyopharm Therapeutics Inc. (KPTI) 0.06 -92.5 12.7 1
+Kearny Financial (KRNY) 9.03 -3.1 1.4 587
+Kelly Services, Inc. Class A (KELYA) 14.05 -10.6 2.0 436
+Kentucky First Federal Bancorp (KFFB) 5.59 -0.9 1.1 45
+
+K-L
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Kewaunee Scientific Corporation (KEQU) 34.11 -0.1 0.8 102
+Key Tronic Corporation (KTCC) 1.3 -42.5 4.5 14
+Kimball Electronics Inc (KE) 20.45 -29.0 3.3 491
+Kingstone Companies (KINS) 18.96 2.5 1.0 265
+KLA Corporation (KLAC) 129.8 -37.3 3.7 169,389
+Kopin Corporation (KOPN) 2.75 -44.0 1.5 512
+Kornit Digital Ltd (KRNT) 16.41 -6.2 1.4 706
+Koss Corporation (KOSS) 3.03 -21.5 1.7 27
+Kratos Defense & Security Solutions, Inc. (KTOS) 33.39 -22.5 2.9 6,277
+Kulicke and Soffa Industries, Inc. (KLIC) 59.83 -40.6 2.6 3,111
+Kustom Entertainment, Inc. (KUST) 3.19 -28.8 0.1 3
+KVH Industries, Inc. (KVHI) 6.04 -13.8 0.8 109
+Kyntra Bio, Inc. (KYNB) 3.66 -42.0 1.6 15
+L.B. Foster Company (FSTR) 39.07 4.8 1.1 430
+Lakeland Financial Corporation (LKFN) 61.37 3.9 1.4 1,534
+Lakeland Industries, Inc. (LAKE) 8.94 -13.0 0.7 89
+Lam Research Corporation (LRCX) 185.2 -46.7 3.7 231,685
+Lamar Advertising Company Class A (LAMR) 157.3 9.1 2.0 13,685
+Landmark Bancorp Inc. (LARK) 31.7 1.1 0.8 190
+Lands' End Inc (LE) 9.46 -8.1 0.7 284
+Landstar System, Inc. (LSTR) 145.64 -16.0 1.1 4,952
+Lantheus Holdings, Inc (LNTH) 100.7 0.7 1.1 6,546
+Lantronix, Inc. (LTRX) 5.0 -30.5 1.2 235
+Larimar Therapeutics, Inc. (LRMR) 2.32 -21.6 0.8 241
+Lattice Semiconductor (LSCC) 98.03 -26.8 1.5 13,920
+LCNB Corp. (LCNB) 19.53 3.1 0.9 273
+LeMaitre Vascular, Inc. (LMAT) 83.49 5.7 2.1 1,920
+LendingTree, Inc. (TREE) 38.73 57.3 2.3 542
+Lesaka Technologies, Inc (LSAK) 3.57 -17.6 2.4 307
+Lexicon Pharmaceuticals, Inc. (LXRX) 1.61 -11.5 1.4 716
+
+L
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+LGI Homes, Inc. (LGIH) 47.15 -2.1 0.9 1,084
+Liberty Media Corporation Series A Liberty Formula One (FWONA) 99.72 19.6 5.2 2,393
+Liberty Global Ltd. Class A (LBTYA) 9.71 8.9 3.5 1,719
+Liberty Global Ltd. Class B (LBTYB) 11.24 -9.1 3.8 146
+Liberty Global Ltd. Class C (LBTYK) 9.515 8.7 2.5 1,418
+Liberty Latin America Ltd. Class C (LILAK) 8.91 4.8 4.2 1,390
+Liberty Media Corporation Series C Liberty Formula One (FWONK) 106.52 16.8 4.8 23,860
+Lifecore Biomedical, Inc (LFCR) 6.4 -2.1 2.6 243
+Lifetime Brands, Inc. (LCUT) 7.77 -14.4 1.7 179
+Lifevantage Corp. (LFVN) 5.05 -16.8 0.1 66
+Lifeway Foods, Inc. (LWAY) 22.2 4.7 0.9 333
+Ligand Pharmaceuticals Inc. (LGND) 299.0 -1.3 1.0 5,980
+Lightbridge (LTBR) 3.99 -37.6 1.2 156
+LightPath Technologies, Inc. Class A (LPTH) 6.15 -44.3 1.8 430
+Limoneira Co (LMNR) 10.41 -13.2 1.0 187
+Lincoln Educational Services Corporation (LINC) 17.55 -19.9 2.3 562
+Lincoln Electric Holdings, Inc. (LECO) 272.13 -0.8 1.5 14,967
+
+L-M
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Lindblad Expeditions Holdings Inc (LIND) 31.57 -9.2 1.3 2,084
+Lipocine Inc (LPCN) 1.53 -25.4 0.7 12
+Liquidity Services, Inc. (LQDT) 44.72 3.4 1.3 1,386
+Lisata Therapeutics, Inc (LSTA) 0.99 -32.7 0.4 9
+Lite Strategy, Inc (LITS) 0.972 -29.0 2.8 29
+Littelfuse, Inc. (LFUS) 348.39 -23.7 1.3 8,710
+Live Ventures Incorporated (LIVE) 7.5 -1.3 0.1 22
+LKQ Corporation (LKQ) 20.54 -9.9 1.3 5,197
+Logitech International SA (LOGI) 98.17 -5.9 1.6 14,431
+LPL Financial Holdings Inc. (LPLA) 300.89 -4.9 1.4 23,770
+LSI Industries Inc. (LYTS) 17.79 -16.3 2.7 658
+Lululemon Athletica Inc. (LULU) 111.77 18.3 1.0 11,848
+Lumentum Holdings Inc (LITE) 509.7 -53.0 2.3 46,383
+MacroGenics Inc. (MGNX) 2.22 -38.0 1.2 142
+Madrigal Pharmaceuticals, Inc. (MDGL) 400.1 -19.9 2.5 9,202
+Magyar Bancorp, Inc. (MGYR) 22.02 14.0 2.8 132
+MakeMyTrip Limited (MMYT) 51.28 14.9 2.8 4,564
+Malibu Boats, Inc. Class A (MBUU) 20.64 -10.3 3.5 413
+Manhattan Associates, Inc. (MANH) 255.17 25.0 1.5 14,800
+Manhattan Bridge Capital, Inc. (LOAN) 3.31 -9.7 1.2 36
+Mannatech, Inc. (MTEX) 8.06 21.4 2.6 16
+MannKind Corporation (MNKD) 3.76 -1.1 1.2 1,211
+MARA Holdings, Inc. (MARA) 5.875 -47.7 1.0 2,268
+Marchex, Inc. Class B (MCHX) 1.27 -1.6 1.2 51
+Marine Petroleum Trust (MARPS) 4.26 4.7 0.2 9
+MarketAxess Holdings, Inc. (MKTX) 165.54 0.9 1.4 5,794
+Marriott International Class A (MAR) 417.28 16.2 1.9 108,910
+Marten Transport, Ltd. (MRTN) 11.98 -10.2 1.1 982
+Martin Midstream Partners LP (MMLP) 1.97 -9.6 1.5 77
+Marvell Technology, Inc. (MRVL) 133.55 -51.0 3.3 117,123
+
+M
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Mastercraft Boat Holdings Inc (MCFT) 20.78 3.4 1.3 499
+Matrix Service Company (MTRX) 8.62 -16.1 4.6 241
+Mattel, Inc. (MAT) 14.97 -2.0 1.2 4,281
+Matthews International Corporation Class A (MATW) 19.8 2.6 1.3 614
+McGrath RentCorp (MGRC) 127.48 8.4 4.3 3,060
+MediciNova, Inc. (MNOV) 1.45 -19.4 1.1 71
+MediWound Ltd. (MDWD) 13.33 -1.4 2.6 173
+Melco Resorts & Entertainment Limited (MLCO) 4.56 8.8 1.4 5,627
+MercadoLibre, Inc. (MELI) 1,530.28 -9.8 4.3 78,044
+Mercantile Bank Corporation (MBWM) 60.26 1.3 1.3 1,024
+Mercer International Inc. (MERC) 0.249 -4.3 1.7 17
+Mercury Systems, Inc. (MRCY) 65.55 -22.8 2.1 3,999
+Merit Medical Systems, Inc. (MMSI) 89.62 5.0 1.2 5,377
+Mesa Laboratories, Inc. (MLAB) 119.3 -10.0 0.8 716
+Meta Platforms, Inc. Class A (META) 605.08 -16.9 2.1 1,334,201
+Methanex Corporation (MEOH) 65.46 12.0 1.3 5,040
+MGE Energy Inc. (MGEE) 78.36 10.7 1.8 2,978
+Microchip Technology Inc. (MCHP) 64.85 -20.3 4.7 35,214
+Micron Technology, Inc. (MU) 656.39 -38.9 2.5 742,377
+Microsoft Corporation (MSFT) 535.93 3.5 1.8 3,979,816
+Microvision, Inc. (MVIS) 1.14 -23.0 1.7 35
+Mid Penn Bancorp (MPB) 34.3 -5.8 1.6 858
+The Middleby Corporation (MIDD) 130.14 24.5 1.2 5,856
+Middlesex Water Company (MSEX) 59.5 11.1 1.7 1,130
+MillerKnoll Inc (MLKN) 21.99 8.6 0.6 1,517
+MIND C.T.I. Ltd. (MNDO) 0.87 -13.8 0.7 17
+
+M-N
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Minerva Neurosciences Inc. (NERV) 2.3 -29.9 1.1 110
+Mitcham Industries, Inc. (MIND) 3.27 -27.5 0.7 29
+Mitek Systems, Inc. (MITK) 16.93 -4.6 1.3 762
+MKS Inc. (MKSI) 176.82 -36.7 2.7 12,024
+Momo Inc. (MOMO) 4.57 -3.2 0.6 983
+Monarch Casino & Resort, Inc. (MCRI) 109.34 -7.0 1.0 1,968
+Mondelez International, Inc. Class A (MDLZ) 66.82 14.8 1.4 85,262
+Monolithic Power Systems, Inc. (MPWR) 1,131.43 -21.4 3.9 55,440
+Monro, Inc. (MNRO) 11.31 -20.2 1.1 351
+Monster Beverage Corporation (MNST) 47.83 11.4 1.6 93,699
+Morningstar, Inc. (MORN) 247.17 34.7 1.2 9,392
+Motorcar Parts of America, Inc. (MPAA) 10.155 -3.6 0.8 193
+MYR Group, Inc. (MYRG) 246.59 -19.1 2.3 3,839
+Myriad Genetics, Inc. (MYGN) 6.29 38.5 2.2 604
+NAPCO Security Technologies, Inc. (NSSC) 29.99 -17.1 1.9 1,080
+NASDAQ Inc (NDAQ) 106.83 18.3 1.4 59,718
+Natera, Inc. (NTRA) 363.76 -11.4 2.3 52,381
+National Bankshares, Inc. (NKSH) 39.41 -7.6 0.9 236
+National Beverage Corp. (FIZZ) 37.16 22.6 1.1 3,493
+National CineMedia, Inc. (NCMI) 1.62 -23.2 1.0 152
+Natural Alternatives International, Inc. (NAII) 1.12 -24.3 0.1 7
+Natures Sunshine Products Inc (NATR) 10.26 -17.6 11.6 185
+Navient Corp (NAVI) 8.82 -4.0 1.9 829
+NBT Bancorp Inc. (NBTB) 52.97 2.8 1.3 2,754
+Nektar Therapeutics (NKTR) 36.15 -17.0 0.7 1,229
+Neogen Corporation (NEOG) 11.68 -3.9 1.2 2,546
+NeoGenomics, Inc. (NEO) 16.49 -10.7 1.0 2,111
+Neonode Inc. (NEON) 0.599 -34.9 0.5 10
+NetApp, Inc. (NTAP) 169.38 -25.2 1.0 33,198
+NetEase Inc. (NTES) 126.56 8.0 1.7 80,239
+
+N
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Netflix, Inc. (NFLX) 65.56 -2.3 1.4 272,992
+NETGEAR, Inc. (NTGR) 19.03 -19.2 1.9 514
+NetScout Systems, Inc. (NTCT) 31.83 -22.3 1.9 2,324
+NetSol Technologies Inc. (NTWK) 6.47 8.7 2.4 78
+Neurocrine Biosciences, Inc. (NBIX) 159.76 11.6 1.3 16,296
+Newegg Commerce Inc (NEGG) 9.25 -19.5 0.5 194
+News Corporation Class A (NWSA) 26.48 -7.7 2.3 9,559
+NewtekOne, Inc. (NEWT) 10.67 -4.6 1.2 309
+NMI Holdings Inc. Class A (NMIH) 44.27 14.0 1.8 3,320
+Noodles & Company Class A (NDLS) 15.05 12.3 0.9 90
+Nordson Corporation (NDSN) 310.49 -6.9 1.1 17,387
+
+N-O
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Nortech Systems Incorporated (NSYS) 10.5 -9.3 0.2 32
+Northeast Bank (NBN) 124.93 -1.5 1.3 999
+Northern Technologies International Corporation (NTIC) 7.58 -1.6 0.2 68
+Northern Trust Corporation (NTRS) 171.39 -0.01 1.2 31,364
+Northrim BanCorp Inc. (NRIM) 23.57 -4.8 1.2 519
+Northwest Bancshares (NWBI) 15.31 0.8 1.3 2,235
+Norwood Financial Corp. (NWFL) 35.87 6.4 1.8 395
+Nova Ltd (NVMI) 280.3 -29.2 1.3 8,970
+Novavax, Inc. (NVAX) 9.78 -6.5 1.8 1,614
+Nuwellis Inc (NUWE) 4.66 -25.4 0.4 19
+NVE Corporation (NVEC) 71.23 -36.1 1.1 356
+NVIDIA Corporation (NVDA) 181.6 -22.4 2.5 4,376,560
+NWPX Infrastructure, Inc. (NWPX) 82.83 -21.9 1.5 828
+NXP Semiconductors NV (NXPI) 244.43 0.3 3.8 61,596
+O'Reilly Automotive, Inc. (ORLY) 91.49 7.8 1.7 74,015
+Oak Valley Bancorp (CA) (OVLY) 34.24 0.4 0.7 274
+OceanFirst Financial Corp. (OCFC) 18.34 9.3 1.6 1,816
+Ocugen, Inc. (OCGN) 0.817 -20.0 1.1 277
+Ocular Therapeutix Inc. (OCUL) 6.43 -7.6 0.9 1,415
+Odyssey Marine Exploration, Inc. (OMEX) 11.07 -32.9 0.4 653
+Ohio Valley Banc Corp. (OVBC) 48.23 8.1 1.5 241
+Old Dominion Freight Line, Inc. (ODFL) 170.56 -5.5 1.3 35,306
+Old National Bancorp (ONB) 25.05 0.4 1.1 9,594
+Old Second Bancorp, Inc. (OSBC) 24.35 -2.4 1.8 1,242
+Ollie'S Bargain Outlet Holdings, Inc. (OLLI) 93.0 5.6 0.8 5,487
+Omega Flex, Inc. (OFLX) 24.38 -7.4 0.9 244
+Omeros (OMER) 17.07 -8.3 0.6 1,229
+
+O-P
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Omnicell, Inc. (OMCL) 38.03 13.2 1.3 1,749
+ON Semiconductor Corporation (ON) 63.01 -25.8 3.0 24,511
+OneSpan Inc. (OSPN) 21.9 20.9 1.6 810
+Open Text Corporation (OTEX) 26.12 17.6 1.0 6,582
+Optical Cable Corporation (OCC) 8.96 -50.9 0.9 81
+Option Care Health Inc (OPCH) 31.5 39.1 1.7 4,725
+Oramed Pharmaceuticals Inc. (ORMP) 3.89 -13.4 0.9 163
+OraSure Technologies, Inc. (OSUR) 3.37 -14.9 0.6 233
+Origin Agritech Limited (SEED) 0.71 -4.1 0.1 10
+Orrstown Financial Services (ORRF) 43.96 5.5 0.7 879
+Orthofix Medical Inc. (OFIX) 8.92 -1.9 4.1 366
+OSI Systems, Inc. (OSIS) 191.61 -2.6 0.7 3,066
+Otter Tail Corporation (OTTR) 80.0 -10.0 1.5 3,360
+Oxbridge Re Holdings Ltd. (OXBR) 0.77 -31.3 - 6
+PACCAR Inc. (PCAR) 104.5 -4.7 1.8 54,967
+Pacific Biosciences Of California Inc. (PACB) 2.43 -4.3 2.5 756
+Pacira Biosciences Inc (PCRX) 36.42 44.5 1.3 1,457
+PAMT CORP (PAMT) 13.1 7.0 2.9 275
+Papa John's International, Inc. (PZZA) 19.89 2.3 2.2 656
+Park-Ohio Holdings Corp. (PKOH) 39.61 -16.4 2.2 555
+Parke Bancorp, Inc. (PKBK) 32.48 -1.2 0.8 390
+Pathfinder Bancorp, Inc. (PBHC) 16.72 -4.1 2.9 84
+Pathward Financial, Inc (CASH) 76.64 3.6 1.1 1,609
+Patrick Industries, Inc. (PATK) 83.11 23.7 1.6 2,660
+Patriot National Bancorp Inc. (PNBK) 0.822 -11.6 0.7 102
+Patterson-UTI Energy, Inc. (PTEN) 9.95 -11.2 0.9 3,791
+Paychex, Inc. (PAYX) 119.5 20.8 1.2 42,542
+Paylocity Holding Corp. (PCTY) 169.57 17.4 1.3 8,987
+PayPal Holdings, Inc (PYPL) 58.96 11.7 0.9 50,411
+PC Connection, Inc. (CNXN) 79.67 -13.8 2.3 1,992
+
+P
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+PDF Solutions, Inc. (PDFS) 34.52 -37.8 2.2 1,450
+Peapack-Gladstone Financial Corp. (PGC) 45.78 2.7 1.1 824
+Pegasystems Inc. (PEGA) 33.57 -1.1 1.4 5,505
+PENN Entertainment, Inc. (PENN) 17.34 17.4 1.2 2,324
+People Incorporated (PPLI) 41.01 -0.8 1.5 2,830
+Peoples Bancorp Inc. (PEBO) 38.76 3.4 1.6 1,395
+Peoples Bancorp of North Carolina, Inc. (PEBK) 43.22 -2.4 1.2 216
+Peoples Financial Services Corporation (PFIS) 72.94 5.3 1.4 729
+Peraso, Inc (PRSO) 0.35 -26.0 0.1 5
+Perdoceo Education Corporation (PRDO) 26.55 -16.8 2.3 1,673
+Performance Shipping Inc. (PSHG) 1.9 12.4 1.4 23
+Perion Network Ltd. (PERI) 11.41 34.2 2.9 445
+Perma-Fix Environmental Services, Inc. (PESI) 12.84 -17.5 2.1 270
+Perma-Pipe International Holdings (PPIH) 27.21 -14.6 1.5 218
+PetMed Express, Inc. (PETS) 1.24 -8.8 0.1 27
+Phibro Animal Health Corporation Class A (PAHC) 35.4 -4.9 1.3 743
+Pilgrim's Pride Corporation (PPC) 28.62 4.1 0.8 6,812
+Pioneer Power Solutions Inc (PPSI) 2.22 -32.9 0.6 24
+Pixelworks, Inc. (PXLW) 4.88 -30.6 0.8 29
+Plexus Corp. (PLXS) 187.73 -31.3 1.5 5,069
+Plug Power, Inc. (PLUG) 1.35 -28.8 1.3 1,886
+Plumas Bancorp (PLBC) 62.59 0.2 1.6 438
+Pluri Inc. (PLUR) 1.19 17.8 1.0 15
+Pool Corporation (POOL) 216.66 34.2 0.8 7,800
+Popular Inc (BPOP) 156.07 -1.3 1.2 9,988
+Powell Industries, Inc. (POWL) 125.06 -36.2 2.6 4,502
+Power Integrations, Inc. (POWI) 38.84 -28.7 2.4 2,175
+PowerFleet, Inc. (AIOT) 2.59 -7.8 1.2 347
+
+P-R
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+PRA Group, Inc. (PRAA) 20.42 8.2 1.2 776
+Preferred Bank Los Angeles (PFBC) 103.49 -2.1 1.0 1,552
+Preformed Line Products Company (PLPC) 252.03 -39.9 0.9 1,260
+Presurance Holdings, Inc. (PRHI) 6.83 -0.4 0.8 27
+PriceSmart, Inc. (PSMT) 162.56 -4.8 1.5 5,039
+PrimeEnergy Resources Corporation (PNRG) 180.84 -11.6 0.7 362
+Primis Financial Corp (FRST) 14.66 -6.1 1.1 366
+Pro-Dex, Inc. (PDEX) 61.2 -4.5 0.8 184
+Professional Diversity Network, Inc. (IPDN) 1.37 -57.5 1.1 1
+Progress Software Corporation (PRGS) 44.59 20.8 1.0 1,828
+ProQR Therapeutics NV (PRQR) 1.33 -18.4 1.4 184
+Provident Financial Holdings, Inc. (PROV) 18.19 -0.7 2.4 109
+PTC Therapeutics, Inc. (PTCT) 65.67 3.5 0.9 5,451
+Pure Cycle Corporation (PCYO) 10.71 -1.7 1.8 257
+QCR Holdings, Inc. (QCRH) 101.12 0.2 1.3 1,618
+QUALCOMM, Inc. (QCOM) 156.75 -15.2 3.7 167,409
+Qualys, Inc. (QLYS) 199.63 3.4 1.4 6,987
+Quest Resource Holding Corp (QRHC) 1.04 -24.1 0.5 22
+QuickLogic Corporation (QUIK) 7.34 -38.2 1.0 132
+QuidelOrtho Corporation (QDEL) 12.84 19.2 2.5 886
+Quinstreet, Inc. (QNST) 20.32 35.7 3.0 1,158
+Radcom Ltd. (RDCM) 9.92 -3.6 1.2 169
+RadNet, Inc. (RDNT) 78.01 11.6 1.3 6,163
+Radware Ltd. (RDWR) 30.18 -1.7 1.4 1,268
+Rambus, Inc. (RMBS) 69.68 -37.8 1.5 7,525
+Rapid7, Inc. (RPD) 15.44 26.7 1.6 1,034
+RAVE Restaurant Group, Inc. (RAVE) 2.13 -7.8 0.5 30
+RCI Hospitality Holdings, Inc. (RICK) 29.21 9.7 0.9 234
+RCM Technologies, Inc. (RCMT) 31.82 -24.3 1.4 223
+Reading International Inc Class B (RDIB) 10.2 -36.6 0.1 20
+
+R
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Reading International Inc Class A (RDI) 1.65 -16.0 1.3 35
+Recon Technology, Ltd. (RCON) 0.82 -34.4 0.5 0.8
+Red Robin Gourmet Burgers, Inc. (RRGB) 8.91 12.1 0.9 169
+Regeneron Pharmaceuticals, Inc. (REGN) 902.9 22.8 1.7 91,193
+Repligen Corporation (RGEN) 168.48 -7.3 1.3 10,614
+Republic Bancorp, Inc. Class A (RBCAA) 91.13 -2.7 1.6 1,549
+Research Frontiers, Inc. (REFR) 0.369 -49.4 0.1 13
+Resources Connection, Inc. (RGP) 2.63 -32.4 0.9 92
+RF Industries, Ltd. (RFIL) 6.55 -22.0 0.9 72
+RGC Resources Inc. (RGCO) 23.14 6.1 1.0 231
+Ribbon Communication Inc. (RBBN) 1.38 -22.0 0.6 247
+
+R-S
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Richardson Electronics, Ltd. (RELL) 16.54 -12.9 2.0 215
+Ridgetech, Inc (RDGT) 0.746 -14.7 - 3
+Rigel Pharmaceuticals, Inc. (RIGL) 45.71 -3.1 1.5 868
+Riot Platforms Inc. (RIOT) 14.76 -25.2 2.9 5,535
+Riverview Bancorp Inc. (RVSB) 6.12 2.2 0.9 122
+The RMR Group Inc. Class A (RMR) 15.93 -10.2 1.0 255
+Rocket Pharmaceuticals, Inc. (RCKT) 2.43 -5.1 0.9 267
+Rockwell Medical, Inc. (RMTI) 7.6 -12.1 0.8 30
+Rocky Brands, Inc. (RCKY) 51.98 11.2 1.0 364
+Rocky Mountain Chocolate Factory, Inc. (RMCF) 0.775 -12.3 0.1 8
+Ross Stores, Inc. (ROST) 235.23 2.9 1.2 75,038
+Royal Gold, Inc. (RGLD) 261.28 11.4 1.4 22,209
+Rush Enterprises, Inc. Class A (RUSHA) 45.32 -3.9 1.0 4,169
+Rush Enterprises, Inc. Class B (RUSHB) 59.11 4.2 1.0 1,005
+Ryanair Holdings PLC (RYAAY) 58.53 6.3 1.8 60,813
+S&T Bancorp, Inc. (STBA) 50.89 2.5 0.9 1,781
+Sabra Healthcare REIT, Inc. (SBRA) 20.89 9.0 1.4 5,473
+Sabre Corporation (SABR) 1.68 -14.7 1.1 679
+Safety Insurance Group, Inc. (SAFT) 104.36 0.4 1.7 1,565
+Saia, Inc. (SAIA) 335.17 -4.5 0.8 9,050
+Sanmina Corporation (SANM) 130.23 -43.1 2.3 7,032
+Sarepta Therapeutics, Inc. (SRPT) 17.57 0.4 0.7 1,862
+SB Financial Group, Inc. (SBFG) 28.69 -2.4 1.3 172
+SBA Communications Corporation Class A (SBAC) 193.08 21.8 1.2 20,466
+ScanSource, Inc. (SCSC) 45.07 -27.0 3.1 901
+Scholastic Corporation (SCHL) 36.86 1.8 0.6 663
+Scynexis Inc. (SCYX) 3.3 -35.5 1.2 33
+Seacoast Banking Corporation of Florida (SBCF) 33.6 2.8 1.1 3,259
+Seagate Technology Holdings PLC (STX) 466.53 -45.0 2.6 105,902
+Seanergy Maritime Holdings Corp. (SHIP) 13.85 -22.3 1.2 305
+
+S
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Security National Financial Corporation Class A (SNFCA) 9.35 3.1 1.3 224
+SEI Investments Company (SEIC) 105.18 2.7 0.9 12,622
+Selective Insurance Group, Inc. (SIGI) 101.77 18.9 1.4 6,106
+SELLAS Life Sciences Group, Inc. (SLS) 7.88 -32.9 1.5 1,592
+SemiLEDs Corp (LEDS) 2.22 -4.3 0.1 18
+Semtech Corporation (SMTC) 91.54 -53.1 2.8 8,513
+Seneca Foods Corp. Class A (SENEA) 144.21 -18.7 1.5 721
+Senstar Technologies Ltd (SNT) 1.3 -15.6 3.1 30
+Sharplink, Inc. (SBET) 6.42 -31.3 1.4 1,393
+Shenandoah Telecommunications Co (SHEN) 9.72 -10.5 1.2 535
+Shoe Station Group, Inc. (SHOE) 15.18 20.7 0.9 410
+Shore Bancshares Inc. (SHBI) 22.4 -2.6 1.1 739
+Siebert Financial Corp. (SIEB) 1.82 -17.3 0.5 76
+Sierra Bancorp (BSRR) 41.96 5.5 1.6 545
+Silicom Ltd. (SILC) 26.4 -56.0 2.1 158
+Silicon Laboratories, Inc. (SLAB) 221.35 -0.6 2.0 7,305
+Silicon Motion Technology Corp. (SIMO) 156.27 -44.3 3.0 21,253
+Silvercrest Asset Management Group Inc. Class A (SAMG) 10.98 4.2 1.8 88
+Simmons First National Corporation Class A Shares (SFNC) 23.23 1.4 1.5 3,368
+Sinclair, Inc. Class A (SBGI) 14.17 14.0 4.6 694
+Singularity Future Technology Ltd (SGLY) 0.422 -41.6 0.2 2
+SINTX Technologies Inc (SINT) 1.62 -26.7 1.2 13
+Sirius XM Holdings Inc. (SIRI) 33.22 29.2 1.4 11,195
+SkyWest, Inc. (SKYW) 79.91 -17.1 1.2 3,116
+Skyworks Solutions, Inc. (SWKS) 81.21 -4.5 1.7 19,084
+SLM Corporation (SLM) 17.52 -23.0 1.3 3,294
+Smith & Wesson Brands, Inc (SWBI) 14.34 -2.0 2.0 645
+Smith Micro Software, Inc. (SMSI) 2.29 -13.6 0.6 14
+SolarEdge Technologies Inc (SEDG) 26.2 -20.8 2.2 1,624
+Sonoma Pharmaceuticals, Inc. (SNOA) 1.07 -13.7 0.6 5
+
+S
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Sound Financial Bancorp, Inc. (SFBC) 45.062 -2.5 0.1 135
+Southern First Bancshares, Inc. (SFST) 59.2 -2.7 1.1 533
+Southern Missouri Bancorp, Inc. (SMBC) 70.64 -2.7 1.0 777
+Spok Holdings, Inc. (SPOK) 11.75 7.9 1.4 247
+Sportsman's Warehouse Holdings Inc. (SPWH) 1.1 -2.7 0.9 43
+Sprouts Farmers Market, Inc. (SFM) 51.6 -20.0 1.8 4,799
+Sps Commerce Inc. (SPSC) 82.57 0.3 0.6 2,973
+Ss&C Technologies Holdings Inc. (SSNC) 78.305 -0.3 4.4 18,402
+SSR Mining Inc. (SSRM) 27.92 -16.1 1.1 5,662
+STAAR Surgical Company (STAA) 26.72 18.9 1.4 1,336
+Stagwell Inc. Class A (STGW) 10.83 29.5 1.6 2,643
+Standard BioTools Inc (LAB) 0.62 -16.7 0.4 244
+Star Bulk Carriers Corp. (SBLK) 26.5 -13.8 1.3 2,968
+Star Equity Holdings Inc (STRR) 9.5 -2.7 0.1 38
+Starbucks Corporation (SBUX) 106.16 12.1 1.8 121,022
+StealthGas, Inc. (GASS) 7.87 -15.7 2.7 299
+Steel Dynamics, Inc. (STLD) 221.9 -4.3 1.6 31,732
+Sterling Infrastructure Inc. (STRL) 244.34 -54.2 3.3 7,575
+Steven Madden, Ltd. (SHOO) 38.99 -15.2 4.5 2,846
+Stock Yards Bancorp Inc. (SYBT) 79.31 0.9 1.0 2,459
+StoneX Group Inc (SNEX) 53.62 -18.5 0.8 6,488
+
+S-T
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Stratasys, Inc. (SSYS) 6.11 -29.8 1.1 538
+Strategic Education, Inc. (STRA) 58.47 -26.7 3.5 1,286
+Strategy Inc Class A (MSTR) 129.3 -19.2 1.5 51,979
+Strattec Security Corporation (STRT) 60.43 -8.2 0.7 242
+Summit State Bank (SSBI) 11.39 -6.5 - 80
+SUNation Energy, Inc (SUNE) 2.0 -14.5 0.1 14
+SunPower Corporation (SPWR) 0.245 -18.2 1.1 79
+Sunrun Inc. (RUN) 9.87 28.0 4.4 2,379
+SuperCom Ltd (SPCB) 8.3 -11.8 1.1 58
+Superior Group of Companies, Inc. (SGC) 13.31 2.5 0.8 213
+Super Micro Computer, Inc. (SMCI) 27.08 -38.0 1.8 17,792
+Supernus Pharmaceuticals Inc. (SUPN) 26.74 -36.9 7.3 1,551
+Synaptics, Incorporated (SYNA) 116.4 -3.9 3.2 4,656
+Synopsys, Inc. (SNPS) 440.31 -10.1 1.4 84,540
+Sypris Solutions, Inc. (SYPR) 1.22 -32.2 1.4 28
+T. Rowe Price Group, Inc. (TROW) 108.71 3.9 1.3 23,155
+T-Mobile US, Inc. (TMUS) 160.59 -1.9 1.5 172,313
+Take-Two Interactive Software, Inc. (TTWO) 213.36 5.2 2.8 39,898
+Talphera Inc (TLPH) 1.01 -10.6 0.2 53
+Tandem Diabetes Care Inc. (TNDM) 17.99 9.0 1.5 1,259
+Tandy Leather Factory, Inc. (TLF) 2.13 -13.1 1.4 17
+Tantech Holdings Ltd. Class A (TANH) 13.47 -8.9 1.9 13
+Taoping Inc. (TAOP) 0.29 -28.7 0.2 3
+TAT Technologies Ltd. (TATT) 35.91 2.0 1.0 467
+TechTarget Inc. (TTGT) 3.43 -3.9 1.0 247
+Telefonaktiebolaget LM Ericsson (ERIC) 10.44 12.4 1.6 32,468
+Tenax Therapeutics, Inc. (TENX) 1.63 -18.1 1.1 60
+Tesla, Inc. (TSLA) 343.69 -7.3 1.7 1,358,607
+Tetra Tech, Inc. (TTEK) 40.56 22.5 1.1 10,383
+Texas Instruments Incorporated (TXN) 278.15 -5.3 2.8 253,951
+
+T
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+TFS Financial Corporation (TFSL) 16.43 -2.3 1.2 4,600
+The Carlyle Group Inc (CG) 39.96 0.4 1.5 14,226
+The Marzetti Company (MZTI) 108.5 9.0 1.5 2,930
+The ONE Group Hospitality Inc. (STKS) 1.13 -27.6 1.2 36
+Timberland Bancorp, Inc. (TSBK) 47.77 5.0 1.6 382
+Titan Machinery Inc. (TITN) 21.24 -16.4 0.9 510
+Tower Semiconductor Ltd. (TSEM) 130.99 -45.6 3.8 14,671
+Tractor Supply Company (TSCO) 36.61 17.8 1.2 19,074
+TransAct Technologies Incorporated (TACT) 5.04 4.8 0.5 50
+Transcat, Inc. (TRNS) 100.38 11.1 2.4 903
+Travelzoo (TZOO) 5.03 -3.5 0.5 50
+Travere Therapeutics Inc (TVTX) 48.87 -14.2 1.1 4,594
+TriCo Bancshares (TCBK) 52.44 -0.3 1.3 1,678
+TriMas Corporation (TRS) 37.86 -3.2 1.4 1,363
+Trimble Inc. (TRMB) 53.64 -6.7 2.1 12,498
+Trip.com Group Limited (TCOM) 43.81 15.0 2.1 30,185
+TripAdvisor, Inc. (TRIP) 7.38 -13.3 6.3 863
+TROOPS, Inc (TROO) 1.74 1.2 1.5 212
+TrustCo Bank Corp NY (TRST) 56.54 1.5 1.5 961
+Trustmark Corp. (TRMK) 44.73 -2.6 1.1 2,594
+TTEC Holdings, Inc. (TTEC) 1.48 7.2 0.4 73
+TTM Technologies, Inc. (TTMI) 62.22 -52.8 3.9 6,533
+Tucows Inc. Class A (TCX) 11.92 26.9 0.9 131
+Tuniu Corporation (TOUR) 4.695 -5.5 0.3 1,451
+Turtle Beach Corporation (TBCH) 16.65 19.0 2.1 300
+
+T-U
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Tvardi Therapeutics, Inc (TVRD) 0.865 -24.8 0.3 11
+Twin Disc, Incorporated (TWIN) 22.97 -19.4 1.6 345
+U.S. Gold Corp. (USAU) 10.58 -26.9 0.9 180
+UFP Industries, Inc. (UFPI) 82.97 7.5 1.2 4,563
+UFP Technologies, Inc. (UFPT) 299.82 -0.3 1.0 2,399
+Ulta Beauty, Inc. (ULTA) 649.8 19.5 1.0 27,941
+Ultra Clean Holdings, Inc. (UCTT) 37.2 -48.8 2.5 1,674
+Ultragenyx Pharmaceutical Inc. (RARE) 15.57 2.3 2.1 1,541
+Ultralife Corporation (ULBI) 15.63 140.1 4.1 266
+UMB Financial Corporation (UMBF) 134.7 2.9 1.0 10,237
+Union Bankshares, Inc. (UNB) 22.75 -1.2 0.6 114
+Uniqure NV (QURE) 21.01 -10.4 2.2 1,450
+United Bancorp, Inc. (UBCP) 14.52 -1.8 0.6 87
+United Bankshares, Inc. (UBSI) 48.39 2.9 1.1 6,581
+United Fire Group Inc (UFCS) 47.35 -13.3 1.9 1,231
+United States Lime & Minerals, Inc. (USLM) 119.41 7.6 1.2 3,463
+United Therapeutics Corporation (UTHR) 565.72 4.4 1.2 24,326
+United-Guardian, Inc. (UG) 6.8 -4.6 2.2 34
+Uniti Group Inc. (UNIT) 5.36 -33.3 3.6 1,302
+Unity Bancorp, Inc. (UNTY) 57.77 4.4 1.9 578
+Universal Display Corporation (OLED) 87.13 8.4 1.3 4,008
+Universal Electronics Inc. (UEIC) 4.86 -14.3 2.0 63
+Universal Logistics Holdings, Inc. (ULH) 29.47 59.6 1.9 766
+Univest Financial Corporation (UVSP) 40.3 -3.6 1.7 1,088
+Upbound Group Inc (UPBD) 24.88 56.4 1.7 1,443
+Upland Software, Inc. (UPLD) 3.93 5.4 2.6 12
+Urban One, Inc. Class A (UONE) 4.14 4.0 0.2 4
+Urban One, Inc. Class D (UONEK) 3.54 -0.8 0.2 14
+Urban Outfitters, Inc. (URBN) 87.57 8.4 0.6 7,531
+U.S. Global Investors, Inc. Class A (GROW) 2.46 -13.8 0.8 25
+
+U-V
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Utah Medical Products, Inc. (UTMD) 71.04 -4.2 1.2 213
+UTStarcom, Inc. (UTSI) 2.01 -10.3 0.2 18
+Value Line, Inc. (VALU) 44.23 9.2 0.7 398
+Vanda Pharmaceuticals Inc. (VNDA) 3.59 -22.5 0.9 215
+Veeco Instruments Inc. (VECO) 33.25 -42.1 2.1 2,028
+VEON Ltd (VEON) 75.34 -0.4 1.7 5,281
+Vera Bradley, Inc. (VRA) 6.98 36.6 1.5 202
+Verastem, Inc. (VSTM) 9.38 21.8 1.3 1,144
+Vericel Corporation (VCEL) 51.78 29.0 4.6 2,641
+VeriSign, Inc. (VRSN) 312.06 8.2 1.6 28,085
+Verisk Analytics, Inc. (VRSK) 211.47 29.0 1.4 27,491
+Vertex Pharmaceuticals Incorporated (VRTX) 542.5 7.5 1.9 137,252
+Veru Inc. (VERU) 2.06 -17.9 0.4 35
+ViaSat, Inc. (VSAT) 59.38 -17.5 2.2 8,194
+Viavi Solutions Inc (VIAV) 26.3 -44.2 2.9 6,496
+Vicor Corporation (VICR) 135.1 -56.3 2.1 4,593
+Viking Therapeutics, Inc. (VKTX) 25.79 -13.9 1.6 3,250
+Village Super Market, Inc. Class A (VLGEA) 42.6 -7.4 1.0 469
+Viper Energy, Inc. Class A (VNOM) 39.7 -2.3 1.5 7,702
+Virco Mfg. Corporation (VIRC) 5.97 -8.3 0.3 96
+Viridian Therapeutics Inc (VRDN) 28.55 47.2 1.7 3,226
+Vistance Networks, Inc. (VISN) 5.405 -13.0 2.9 1,249
+Vivani Medical, Inc (VANI) 1.04 -15.4 1.4 94
+VNET Group, Inc. (VNET) 3.15 -38.6 2.0 5,283
+Vodafone Group PLC (VOD) 15.95 -5.2 0.9 37,578
+VSE Corporation (VSEC) 164.71 -1.5 2.4 4,612
+
+V-W
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+Vtv Therapeutics Inc. (VTVT) 21.74 -28.9 0.4 87
+Vuzix Corporation (VUZI) 1.83 -38.6 1.0 154
+WaFd, Inc (WAFD) 29.49 -4.3 1.1 2,182
+Washington Trust Bancorp, Inc. (WASH) 38.67 0.5 1.4 735
+Waterstone Financial Inc. (MD) (WSBF) 20.06 0.6 0.9 361
+WD-40 Company (WDFC) 227.33 12.0 1.0 2,955
+Wendy's Company (WEN) 7.94 29.6 1.2 1,517
+Werner Enterprises, Inc. (WERN) 27.96 -20.6 1.1 1,678
+WesBanco, Inc. (WSBC) 38.67 1.5 1.0 3,712
+West Bancorporation (WTBA) 30.71 2.1 2.5 522
+WestAmerica Bancorp. (WABC) 59.77 0.3 0.9 1,375
+Western Digital Corp. (WDC) 267.63 -35.5 2.7 96,614
+Western New England Bancorp, Inc. (WNEB) 13.68 -1.8 0.9 274
+Weyco Group, Inc. (WEYS) 63.07 23.9 6.3 631
+Wheeler Real Estate Investment Trust, Inc. (WHLR) 0.458 -96.3 8.1 0.9
+Willamette Valley Vineyards, Inc. (WVVI) 1.73 -12.2 1.0 9
+Willdan Group, Inc. (WLDN) 70.85 -3.7 0.9 1,063
+Willis Lease Finance Corporation (WLFC) 46.92 2.7 0.9 985
+Willis Towers Watson Public Limited (WTW) 336.51 16.6 1.0 31,295
+WillScot Holdings Corporation (WSC) 17.84 3.1 1.6 3,229
+Wingstop Inc (WING) 165.73 55.0 1.2 4,475
+Winmark Corporation (WINA) 268.59 -9.8 1.0 1,074
+Wintrust Financial Corporation (WTFC) 151.72 4.6 1.0 10,165
+Wix.com Ltd. (WIX) 76.69 5.6 0.4 3,221
+Woodward, Inc. (WWD) 306.86 -7.5 1.0 18,105
+World Acceptance Corp. (WRLD) 149.58 -14.3 0.6 748
+
+W-Z
+
+Company & Code Last (USD) Change (% 30Days) Vol-Index MCap (US$ M)
+WSFS Financial Corporation (WSFS) 79.13 1.4 0.8 4,036
+Wynn Resorts, Limited (WYNN) 79.32 4.5 2.3 8,170
+Xcel Brands, Inc. (XELB) 0.349 -46.9 0.1 2
+Xencor Inc. (XNCR) 34.05 37.1 1.4 2,520
+Xenon Pharmaceuticals Inc. (XENE) 37.68 -0.9 0.8 3,655
+XWELL, Inc (XWEL) 0.573 -31.7 - 6
+Yueda Digital Holding Class A (YDKG) 1.0 7.5 2.0 6
+Yunhong Green CTI Ltd (YHGJ) 3.11 11.7 0.5 9
+Zebra Technologies Corporation Class A (ZBRA) 321.64 -14.4 1.5 15,117
+Zeta Network Group (ZNB) 1.07 -29.6 - 5
+Ziff Davis Inc (ZD) 54.28 -1.7 1.1 1,846
+Zillow Group, Inc. Class C Capital Stock (Z) 30.29 10.5 2.9 5,361
+Zillow Group, Inc. Class A (ZG) 31.21 11.1 1.7 1,280
+Zions Bancorporation NA (ZION) 64.93 2.8 1.2 9,480
+
+Source: www.BuySellSignals.com
+- **Why it matters to Innodata:** Active coverage on Turing (Talent Marketplaces & Gig Networks) exposes buyer sensitivity around talent marketplaces selling individual headcount with high churn and zero production architecture slas.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Turing: Managed systems, enterprise SLAs, vendor-tail consolidation under one MSA, and production architectures. Highlight our Data Engineering, Agent Reliability Engineering (ARE), Infrastructure Engineering capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Turing accounts using Beacon (PDF-Miner) as a 2-4 week production POC wedge.
+
+### 3. [XPeng Inc. ADR (NYSE:XPEV) plummets 18% in past 3 months](https://ct.moreover.com/?a=60788412061&p=21l&v=1&x=jG0iZrRkmoFRHozlYN63GA)
+- **Outlet(s):** Global Round Up - ADRs and Depository Receipts | **Published:** `2026-11-05` | **Sentiment:** `POSITIVE` | **Positioning Relevance Score:** `1.00`
+- **Syndicated URLs:** [link](https://ct.moreover.com/?a=60780325844&p=21l&v=1&x=1xZ15uMwXR1Mc0Nqq6FZAQ)
+- **Matched Innodata Pillars:** Robotic Engineering, Agent Reliability Engineering (ARE)
+- **Matched Proprietary Accelerators:** Beacon (PDF-Miner)
+- **Matched Competitors:** Mercor, Turing, Surge AI, Invisible Technologies
+- **Coverage Snippet:** DAILY ADR AND DEPOSITORY RECEIPT REPORT
+
+www.buysellsignals.com
+
+XPeng Inc. (NYSE:XPEV) last traded at $9.85 for a year to date return of -51.5%.
+
+XPeng Inc., has plummeted $2.20 (or 18.3%) in the past 3 months to close at $9.85 today. Compared with the BNY Mellon Composite ADR Index which fell 9.2 points (or 3.4%) in the past 3 months, this represented a relative price change of nil.
+
+Source: https://www.nasdaq.com/market-activity/stocks/XPEV, company (XPeng Inc.), Ticker(XPEV)
+
+XPENG INC. (XPEV) ADR Dashboard End-of-Day Wed, Nov 04, 2026
+
+http://www.xpeng.com
+
+PRICE & TRADING
+Last $9.85
+52-Week Price Range $8.94 - $28.23
+Ave Daily Volume 7,324,457 ADRs
+Today's Volume [VI] 10,427,309 [1.4]
+VALUATION & EPS
+Market Cap $7.7 billion
+Shares Outstanding 783,620,000
+CLASSIFICATION & INDEX
+Exchange NYSE
+Sector Auto Manufacturers [Rank by MCap 11 of 16 stocks]
+Institutional Ownership % of shares outstanding 16.4%
+PERFORMANCE
+PV$1000 (1 yr) and TRS $434; -56.6%
+
+VI* Volume Index = Number of shares traded today/Average number of shares traded per day.
+
+*Total ADRs Held by Institutions 127,905,942; equivalent to 255,811,884 XPeng Inc. shares on issue. This represents 16.4% of total shares on issue.
+
+Source: https://www.nasdaq.com/market-activity/stocks/XPEV, company (XPeng Inc.), Ticker(XPEV)
+
+Past quarter momentum down: XPeng Inc. plummets 18%
+
+Past month to High Low VWAP Volume Index *
+Nov 04, 2026 10.20 8.94 9.53 0.9
+Oct 02, 2026 11.20 9.18 10.31 1.0
+
+[*Volume Index of 0.9 means volume for the month was 0.9 times its 12-month average]
+
+[VWAP is defined as the Volume Weighted Average Price; High Low prices and VWAP are shown in USD]
+
+DATA & ARCHIVE DOWNLOAD CENTER
+
+XPEV ADR: EXPORT DATA TO EXCEL: + SHAREHOLDERS - COMPLETE LIST OF 216 INSTITUTIONS + PEER COMPARISON XPEV ADR: OTHER INFORMATION: + PRICE VOLUME CHARTS INDEX
+
+SECTION 1 THE PAST QUARTER: ANALYST RATINGS
+
+SECTION 2 THE PAST QUARTER: NEWS AND BUZZ
+
+SECTION 3 RECENT NEWS
+
+SECTION 4 TODAY'S BEARISH SIGNALS
+
+SECTION 5 TODAY'S BULLISH SIGNALS
+
+SECTION 6 FINANCIALS
+
+ADR IDENTIFIERS
+
+GLOSSARY
+
+SECTION 1 THE PAST QUARTER: ANALYST RATINGS
+
+1.1 Analyst Recommendations: Past Ten weeks
+
+Date Brokerage Current Rating Prev Target Price Target
+Aug 25, 2026 JPMorgan Chase & Co. Overweight 27 24
+
+SECTION 2 THE PAST QUARTER: NEWS AND BUZZ
+
+2.1 Institutional News [Updated Nov 03, 2026]
+
+The source data is compiled as an aggregation of SEC filings. So far in this quarter 3,877 institutions have reported their holdings at the end of quarter Q3. The remaining 4,833 institutions are expected to file by day 45 of Q4, the deadline date.
+
+2.1.1 Top 5 Institutions increasing their holdings in XPeng Inc. ADRs [Q3/2026]
+
+Institution Name (CIK) Rank on Jun 30, 2026 Jun 30, 2026 Sep 30, 2026 Increase % *Today's Market Value $
+Exchange Traded Concepts, LLC (0001457320) 14 1,907,468 2,966,352 55.5 28.7 million
+Vontobel Holding Ltd. (0001588340) 75 54,160 409,783 656.6 4 million
+Quadrant Capital Group LLC (0001650717) 113 18,870 93,100 393.4 900,277
+Profund Advisors LLC (0001129919) 57 82,587 83,020 0.52 802,803
+Ethic Inc. (0001780570) 66 65,764 82,564 25.5 798,394
+
+*Today's Market Value in $ of holdings as at Sep 30, 2026.
+
+2.1.2 Top 5 Institutions decreasing their holdings in XPeng Inc. ADRs [Q3/2026]
+
+Institution Name (CIK) Rank on Jun 30, 2026 Jun 30, 2026 Sep 30, 2026 Decrease % *Today's Market Value $
+Robecosam (0001418427) 29 633,991 622,691 1.8 6 million
+Valeo Financial Advisors (0001722641) 33 387,230 386,706 0.14 3.7 million
+Mirae Asset Global Investments. (0001569395) 52 109,163 51,585 52.7 498,827
+Creative Planning (0001540235) 84 39,946 37,985 4.9 367,315
+Vise Technologies (0001812090) 87 36,296 29,637 18.3 286,590
+
+*Today's Market Value in $ of holdings as at Sep 30, 2026.
+
+SECTION 3 RECENT NEWS
+
+Recent News 1 of 20, Source: HourlyBusinessNews
+
+Nov 03, 2026: XPENG Unveils Flagship SUVs and AI Innovations in Dubai Amid Middle East Expansion
+
+XPENG, a leading global Physical AI company, showcased its latest flagship SUVs and introduced its Physical AI ecosystem during a significant event in Dubai. This initiative marks a crucial step in XPENG's expansion strategy within the Middle East and Africa (MEA) region, which is expected to accelerate rapidly. On the 3rd of November 2026, XPENG announced ambitious plans to enter all six Gulf Cooperation Council (GCC) markets by the end of this year, alongside plans for more extensive coverage in MEA next year.
+
+Dr. Brian Gu, Vice Chairman and President of XPENG, emphasized the importance of the Middle East as a strategic market, highlighting the region's strong appetite for innovative technology. The company plans to broaden its reach across more than 20 countries within MEA by 2027, aiming to establish over 100 sales and service outlets. The unveiling of XPENG's Kunpeng Range Extender technology in its GX and G9L flagship SUVs aims to address the unique challenges of long distances and harsh climates prevalent in the region, providing a combined range of up to 1,210 kilometers without recharging.
+
+The launch of the GX and G9L models comes with a notable reception, evidenced by over 4,000 orders across MEA, including 800 confirmed orders in the UAE alone. With the introduction of six new models specifically tailored for the Middle East expected within the next year, XPENG is ensuring its offerings are designed to meet regional demands. The GX is characterized by luxury features, including an 88-inch augmented reality head-up display and AI-powered seating, while the G9L focuses on a dynamic, family-friendly experience.
+
+XPENG's expansion strategy includes new distribution agreements in Kuwait and Oman, which will facilitate full entry into the GCC markets. The company has already established a presence in various countries, including Qatar, Egypt, and Lebanon, and is recognized as a leading premium EV brand in Egypt. The GX and G9L models will be simultaneously launched across 11 markets, including Nigeria and Ghana, demonstrating XPENG's commitment to building a robust presence in the region.
+
+Beyond electric vehicles, XPENG's vision encompasses a broader Physical AI ecosystem that includes robotaxis and humanoid robots. The company showcased its IRON humanoid robot at the Dubai event, with plans for initial overseas deliveries set for the first half of 2027. Additionally, XPENG is exploring opportunities for flying cars in the Middle East, where regulatory frameworks are beginning to take shape. This comprehensive approach positions XPENG as a key player in the future of mobility and smart living in the region.
+
+Recent News 2 of 20, Source: HourlyBusinessNews
+
+Oct 28, 2026: XPeng Advances Robot Production with Solid-State Battery Milestone
+
+XPeng Inc. has announced a significant milestone in its robotics initiative, with the small-batch production of the solid-state battery for its IRON robot now complete. On 28th October 2026, during the Embodied Intelligence Robot Conference, Gu Jie, vice president of XPeng Group, revealed that the project's core power component has successfully rolled off the production line, indicating that the IRON robot is entering the sprint phase ahead of its standard operating procedure (SOP).
+
+The completion of small-batch production is a critical step as SOP marks the transition from engineering validation to volume manufacturing. This development underscores XPeng's commitment to advancing its robotics segment, which is increasingly viewed as a vital part of the company's portfolio beyond its new energy vehicle production. XPeng Robotics has also made strides in establishing a robust supply chain, having conducted factory audits and identified key component suppliers, which positions the company well for large-scale production slated for the end of 2026.
+
+The solid-state battery technology is a key differentiator for XPeng's IRON robot, touted as the first humanoid robot in the industry to utilize this advanced battery type. At the 2025 Tech Day, XPeng disclosed significant technical achievements, including a 78% volume utilization rate for the battery pack, which is markedly higher than traditional liquid battery packs, alongside a 35% reduction in weight. This innovation not only enhances the robot's performance but also aligns with XPeng's broader vision for energy-efficient solutions.
+
+Chairman He Xiaopeng has previously indicated that XPeng is transitioning to in-house battery production, having invested in three battery cell companies. This strategic move is expected to provide a unified foundation for powering both the IRON robot and the company's electric vehicles, enhancing operational synergies. The IRON robot is anticipated to serve various functions in XPeng's retail and commercial environments starting in 2027, creating a feedback loop from production to deployment.
+
+In the financial markets, XPeng's stock (09868.HK) saw a positive response, rising by HK$1.18, or approximately 3.35%, following the announcement. The rollout of the solid-state battery not only has implications for the IRON robot but also has potential ramifications for XPeng's electric vehicle offerings. However, the path to large-scale production will require overcoming challenges related to yield ramp-up and cost control, making the company's execution capabilities a focal point for investors as the end of 2026 approaches.
+
+Recent News 3 of 20, Source: HourlyBusinessNews
+
+Oct 28, 2026: XPeng Inc. Advances Autonomous Trials in China with VW Partnership
+
+Volkswagen AG and Xpeng Inc. have secured approvals to trial autonomous driving systems on public roads in China, marking a significant step forward for the country's self-driving ambitions. On 28th October 2026, VW’s China unit announced it has commenced testing Level 3 technology in Hefei, aiming for deployment by next year. Concurrently, Xpeng Inc. revealed that its robotaxi division received authorization to conduct Level 4 testing across Guangzhou, initially accessible through invitation codes with plans for gradual expansion.
+
+These recent approvals indicate a shift in regulatory stance following a high-profile incident involving Baidu Inc.'s self-driving vehicles in Wuhan earlier this year. The incident prompted the Chinese authorities to suspend new robotaxi licenses in April and launch a comprehensive safety review of the industry. Reports from Bloomberg News in July suggested that approvals were being reinstated, with Momenta Global Ltd. being one of the first companies to receive a permit. However, Xpeng Inc. and VW are among the few firms that have publicly confirmed their successful applications for road trials.
+
+The Ministry of Industry and Information Technology, which regulates the autonomous driving sector, did not respond to inquiries regarding the latest approvals. As China continues to evolve its approach to self-driving technology, it faces the challenge of balancing rapid commercial deployment with ensuring public safety. Regulators have been proactive, revising standards related to various aspects of vehicle technology, including door handles, advanced driver-assistance systems, and battery specifications.
+
+Both Xpeng Inc. and Volkswagen are strategically positioned to capitalize on this shift in regulatory sentiment, potentially paving the way for broader adoption of autonomous vehicles in the Chinese market. With these trials, the companies aim to demonstrate the viability and safety of their technologies to both regulators and consumers alike, addressing any lingering concerns stemming from previous incidents.
+
+As the landscape for autonomous driving in China continues to evolve, Xpeng Inc. stands out as a key player in the sector. The developments around VW's collaboration and Xpeng's own advancements could significantly influence the future trajectory of self-driving technology in China, making these trials a focal point for investors and industry observers.
+
+Recent News 4 of 20, Source: HourlyBusinessNews
+
+Oct 27, 2026: XPeng Achieves Top Spot in EV Satisfaction for Second Year Running
+
+XPeng Inc. has once again demonstrated its dominance in the electric vehicle (EV) market, securing the top position in USCALE's 2026 EV Satisfaction Study for the second consecutive year. As of 27th October 2026, the renowned study conducted by Stuttgart-based USCALE highlights XPeng's commitment to customer satisfaction, with a notable 82% of surveyed owners expressing their willingness to recommend the brand, up from 81% in 2025.
+
+The survey, which included insights from 4,004 EV drivers across Germany, Austria, and Switzerland, found that XPeng outperformed competitors such as Tesla, Skoda, and Porsche. Notably, XPeng achieved a 0% detractor share, indicating that all surveyed owners had positive feedback regarding their vehicle experiences. The brand received particularly strong marks for its charging performance, management, and driving range, along with a substantial year-on-year improvement in its connected vehicle application.
+
+Dr. Axel Sprenger, Founder and Managing Director of USCALE GmbH, noted that the evolving landscape of EV ownership is increasingly influenced by software and connectivity, with charging convenience becoming a key differentiator. XPeng's ability to translate advanced vehicle technologies into practical benefits has played a crucial role in its high satisfaction ratings. The company’s ongoing focus on research and development ensures that its intelligent mobility solutions meet the practical needs of everyday drivers.
+
+As XPeng continues to expand its footprint across Europe, the company has successfully delivered over 60,000 vehicles in the region. With a growing product portfolio and an expanding sales and service network, XPeng is committed to making intelligent mobility accessible to more customers. Its approach, termed 'In Europe, For Europe, With Europe,' emphasizes local operations and adaptation of technologies to meet regional driving conditions.
+
+XPeng's European research and development center in Munich is pivotal in tailoring its offerings to local customer preferences, further enhancing the brand's reputation. The recent debut of the G9L flagship SUV at the 2026 Paris Motor Show, coupled with an expanded lineup from three to six models in Germany alone, showcases XPeng's dedication to providing a diverse range of options for consumers. As the EV market evolves, XPeng's recognition in the USCALE study underscores its commitment to delivering intelligent technologies that align with the needs and expectations of its customers.
+
+Recent News 5 of 20, Source: HourlyBusinessNews
+
+Oct 26, 2026: XPeng Inc. Receives Approval for Level 4 Self-Driving Tests in Guangzhou
+
+XPeng Inc. has been granted approval to conduct Level 4 self-driving Robotaxi demonstrations across the city of Guangzhou. This significant development, announced on 28th October 2026, signals a pivotal transition from technology validation to operational execution and commercial model testing.
+
+The Robotaxi demonstrations will encompass more than just the validation of autonomous driving capabilities; they will also signify the product's integration into the urban mobility service system. While the ability to drive autonomously is crucial, the effective management of order responses, vehicle dispatch, passenger pickups, and exception handling is equally vital for ensuring sustainable service.
+
+With this approval, XPeng will deploy its Robotaxi services in a real-world environment, allowing the company to refine its operational workflows and enhance fleet management efficiencies. During the initial rollout phases, the Robotaxi service will be accessible via invitation codes, gradually expanding its reach while maintaining a strong focus on safety.
+
+Guangzhou is strategically significant for XPeng, serving as both its research and development center and the primary site for Robotaxi commercialization. The company aims to create a cohesive solution by integrating vehicles, autonomous driving software, and artificial intelligence, which aligns with XPeng's strategic vision.
+
+He Xiaopeng, Chairman & CEO of XPeng, has articulated a vision for the Robotaxi initiative as one focused on technology provision and ecosystem facilitation rather than direct fleet operations. XPeng intends to offer comprehensive solutions to global partners through its platforms, software, and AI capabilities, generating revenue through hardware sales, technology services, and commission-sharing models.
+
+Recent News 6 of 20, Source: HourlyBusinessNews
+
+Oct 22, 2026: Xpeng Takes a Step Forward in Europe with Mona L03 Deliveries
+
+Xpeng Inc. (NYSE: XPEV) has officially commenced deliveries of its Mona L03 SUV in France, with chairman and CEO He Xiaopeng personally handing over the keys to the first customer. This momentous event took place in Paris on the 13th of October 2026, and it signifies the company's commitment to expanding its footprint in the European electric vehicle market.
+
+In a Weibo announcement made on the 23rd of October 2026, Xpeng highlighted that the handover event not only marks the beginning of customer deliveries for the Mona L03 but also reflects the significant progress the company has made since the model's global launch in Munich earlier this year. The first customer in France praised the vehicle's advanced driver assistance features as a key factor in their purchase decision, although specific details regarding the variant and available features were not disclosed by Xpeng.
+
+Following the launch in France, He Xiaopeng met with local dealership partners, where a CEO from a dealership group expressed optimism about the Mona L03's market potential. While no local order numbers were provided, the enthusiasm from partners may bode well for Xpeng's sales strategy in the region. The Mona L03 is positioned as a mass-market vehicle, aiming to appeal to a broad audience with its competitive pricing and technological offerings.
+
+The Mona L03 was introduced as Xpeng's first global model to be launched simultaneously in both China and Europe, with plans for distribution in 64 overseas markets. In its home country, the model is available as a battery electric vehicle (BEV) and an extended-range electric vehicle (EREV), starting at 123,800 yuan (approximately $18,420). The European version debuted with a starting price of 35,600 euros (around $40,030), which aims to attract a diverse customer base in the competitive EV landscape.
+
+As part of its broader international strategy, Xpeng has also recently launched the Mona L03 in Australia and New Zealand, expanding its offerings in these markets alongside the G6 and X9 models. The company aims to leverage the advanced driver assistance technology integrated into the L03, including the Google Maps Auto SDK for enhanced navigation and traffic management, to establish a strong presence in the global electric vehicle arena.
+
+Recent News 7 of 20, Source: HourlyBusinessNews
+
+Oct 21, 2026: XPeng's NGP Achieves Smooth 30-Minute Loop, Drawing Investor Attention
+
+XPeng Inc. showcased its next-generation driver-assistance technology in an impressive demonstration at the Paris Motor Show, completing a challenging 30-minute loop with zero driver interventions. On 23rd October 2026, host Spencer noted that the steering wheel of the XPeng vehicle, equipped with the NGP VLA 2.0 system, maintained 'perfectly smooth input,' a significant observation that signals the company's advancements in autonomous driving technology.
+
+The route chosen for the demonstration was highly complex, running through dense urban areas filled with cyclists, pedestrians, and various traffic obstacles. Only XPeng and Tesla were granted permission to conduct such demonstrations on this specific course, which organizer Moog emphasized was representative of typical urban environments like New York City and London. This context is crucial, as it highlights the potential applicability of XPeng's technology in bustling metropolitan settings.
+
+While the demonstration was a significant step forward, both Spencer and Moog were candid about the limitations of such a test. The 30-minute drive does not provide a comprehensive assessment of the system's capabilities, as it only showcases performance on a fixed route. Spencer acknowledged that more extensive testing would be necessary to draw definitive conclusions about the NGP system's reliability across diverse driving conditions.
+
+The NGP system's ability to adapt to local driving conventions, such as allowing motorbikes and cyclists to queue ahead at intersections, indicates a level of localization not commonly seen in similar technologies. XPeng's driver-monitoring approach, which includes eye tracking and a requirement for driver engagement every 30 seconds, further emphasizes its commitment to safety, while also enhancing user experience.
+
+Despite the positive feedback, gaps in capability remain. The system's sensor suite has not been definitively confirmed, and the absence of features such as voice-command navigation raises questions about its competitiveness in the market. As investors assess XPeng's position within the evolving landscape of autonomous driving, the company's ability to address these gaps will be critical in determining its future success.
+
+Recent News 8 of 20, Source: HourlyBusinessNews
+
+Oct 21, 2026: XPENG L03: An Ecosystem Driven by AI Innovation
+
+XPENG Inc. is not just selling cars; it is establishing an expansive technological ecosystem. On 21st October 2026, XPENG unveiled its L03 model, a smart electric SUV that embodies the company's commitment to innovation and integration across multiple sectors, including robotics and aerial mobility.
+
+The XPENG L03 serves as a significant milestone in the automotive industry, especially following the pivotal partnership with Volkswagen Group. In March 2026, Volkswagen's joint venture in China produced the ID. UNYX 08, the first car developed in collaboration with XPENG, integrating its cutting-edge Vision-Language-Action (VLA) autonomous driving platform. This collaboration underscores XPENG's robust full-stack AI capabilities, which are becoming increasingly attractive to major automakers.
+
+Beyond automotive advancements, XPENG is also making strides in robotics. The recent launch of the IRON humanoid robot, produced on a highly automated assembly line, showcases XPENG's versatility and technological prowess. With 76 degrees of freedom and powered by Turing AI chips, the IRON robot is set for mass production by the end of 2026, further solidifying the company's foothold in the AI sector.
+
+XPENG's ambitions extend skyward with its flying-car division, ARIDGE. The company is currently developing the Land Aircraft Carrier, the world’s first modular flying car, which has already garnered over 7,000 global pre-orders. This initiative emphasizes that XPENG is not only focused on terrestrial vehicles but is also paving the way for future mobility solutions in the air.
+
+The XPENG L03 is more than just a vehicle; it is a gateway into a holistic ecosystem that includes smart vehicles, humanoid robotics, and aerial transport. By leveraging its advanced AI technology stack, XPENG positions itself uniquely in the market, offering consumers a glimpse into a future where mobility transcends traditional boundaries.
+
+Recent News 9 of 20, Source: HourlyBusinessNews
+
+Oct 16, 2026: XPENG Partners with Google to Integrate Play into AI Cockpits
+
+XPENG Inc. has announced an expansion of its strategic collaboration with Google, integrating Google Play directly into its AI-powered cockpit. This new feature is set to enhance the driving experience by providing access to a vast array of automotive-optimized applications. The integration is scheduled to go live in early 2027, marking a significant milestone for XPENG in its pursuit of advanced technology solutions.
+
+As of 16th October 2026, the integration of Google Play will allow XPENG users to access hundreds of third-party apps across more than 100 countries and regions. This will offer a richer, more localized in-car experience, enabling drivers to utilize services ranging from music and video streaming to navigation and lifestyle applications. The seamless integration is designed to work without requiring a smartphone, thus enhancing convenience for users.
+
+The collaboration leverages the strengths of both companies, with XPENG's intelligent cockpit capabilities working in tandem with the Android Automotive OS. XPENG's multilingual AI-powered voice assistant will allow drivers and passengers to interact with downloaded apps effortlessly. Dr. Xianming Liu, Vice President of XPENG, emphasized the importance of momentum in technology partnerships, highlighting the success of previous collaborations with Google Maps as a foundation for this new venture.
+
+Haris Ramic, Android for Cars Product Director at Google, noted that the in-car app ecosystem is rapidly growing, thanks to a vibrant developer community. The integration of Google Play into XPENG vehicles will provide drivers with a broader choice of entertainment and everyday applications, enhancing the overall driving experience. This move signifies a commitment to evolving the in-car digital landscape, ensuring that users have access to the services they want.
+
+Looking ahead, both XPENG and Google plan to explore further collaborations aimed at expanding the capabilities of in-car applications. This ongoing partnership exemplifies XPENG's vision of integrating cutting-edge technologies into its product offerings, reaffirming its position as a leader in the Physical AI sector. Further details regarding participating vehicle models, markets, and app availability will be announced in due course, keeping consumers informed of the latest advancements.
+
+Recent News 10 of 20, Source: HourlyBusinessNews
+
+Oct 12, 2026: Xpeng Plans European Production Boost to Meet Local Content Regulations
+
+LONDON, Oct 12 (Reuters) - Chinese EV maker Xpeng (9868.HK) plans to expand its European production in order to comply with new European Union rules mandating minimum local content in electric cars, company vice president Yeqing Zheng told Reuters at the Paris car show.
+
+The announcement comes as the EU tightens regulations aimed at boosting local manufacturing and reducing reliance on foreign supply chains, particularly from Asia. As part of its strategy, Xpeng is looking to bolster its presence in the European market, where demand for electric vehicles continues to grow.
+
+Yeqing Zheng emphasized that establishing a more robust local production footprint is essential for Xpeng to remain competitive in the rapidly evolving EV landscape. The new local content rules, which are set to take effect in the coming years, require a significant percentage of components to be sourced from within the EU, pushing companies like Xpeng to adapt their manufacturing strategies accordingly.
+
+Xpeng has already made significant inroads into the European market, launching several models that have garnered attention for their technology and pricing. However, the company recognizes that to succeed long-term, it must not only comply with regulations but also build trust with European consumers, who are increasingly favoring brands that demonstrate commitment to local economies.
+
+The company did not disclose specific details about its planned expansion, including potential new factories or production lines. However, industry analysts suggest that Xpeng's proactive approach could position it favorably against competitors who may struggle to meet the new requirements, potentially opening up new opportunities for growth in the European EV sector.
+
+SECTION 4 TODAY'S BEARISH SIGNALS
+
+4.1 Rank in the bottom 8% by Price Performance among International Depository Receipts market
+
+Description Value Rank
+Rel Strength 6 mo 25 In Bottom 8%
+PV1000 [1 yr] $ 434 In Bottom 8%
+
+Source: XPeng Inc.'s website: https://ir.xiaopeng.com/financials/annual-reports, company (XPeng Inc.), Ticker(XPEV)
+
+4.2 Downtrend
+
+Beta < 1 combined with price fall. The Beta of the ADR is 0.8.
+
+Price/Moving Average Price of 0.68 and negative MACD:
+
+- The Price/MAP 200 for XPeng Inc. is 0.68. Being less than 1 is a bearish indicator. It is lower than the Price/MAP 200 for the BNY Mellon Composite ADR Index of 1.0, a second bearish indicator. The stock is trading below both its MAPs and the 50-day MAP of $10.04 is lower than the 200-day MAP of $14.39, a third bearish indicator. The 200-day MAP has decreased to $14.39, a fourth bearish indicator.
+
+- The Moving Average Convergence Divergence (MACD) indicator of 12-day Exponential Moving Average (EMA) of 9.46 minus the 26-day EMA of 9.61 is negative, suggesting a bearish signal.
+
+Trailing Relative Strength (6 months) at 25 percentile:
+
+- The ADR has a 6-month relative strength of 25 in the International Depository Receipts market of 1,100 ADRs indicating it is trailing 75% of the market.
+
+Source: https://www.nasdaq.com/market-activity/stocks/XPEV, company (XPeng Inc.), Ticker(XPEV)
+
+SECTION 5 TODAY'S BULLISH SIGNALS
+
+5.1 3-DAY: MODERATE MOMENTUM UP
+
+XPEV lifts 9.0% on firm volume 1.2 times average. Compared with the BNY Mellon Composite ADR Index which rose 2.1 points (or 0.8%) in the 3-days, the relative price change was nil.
+
+XPeng Inc. (XPEV) outperformed the The Bank of New York Mellon Composite ADR Index in 3 out of 3 days. The price ranged between a high of $9.85 on Wednesday Nov 04, 2026 and a low of $9.57 on Monday Nov 02, 2026.[Volume Index (VI); 1 is average]
+
+5.2 Uptrend
+
+The ADR traded at a two-month high of $10.20 today.
+
+Source: https://www.nasdaq.com/market-activity/stocks/XPEV, company (XPeng Inc.), Ticker(XPEV)
+
+SECTION 6 FINANCIALS
+
+6.1 XPEV Financials 3-Year Summary:
+
+Year ended FY2025 FY2024 FY2023
+EPS (RMB) (0.6) (3.06) (3.06)
+
+ADR IDENTIFIERS
+
+ISIN: US98422D1054
+
+CUSIP: 98422D105
+
+RIC: XPEV.N
+
+GLOSSARY
+
+Click here https://www.buysellsignals.com/bst/glossary
+
+Disclaimer:
+
+Click here https://www.buysellsignals.com/bst/disclaimer
+
+Created by www.buysellsignals.com
+- **Why it matters to Innodata:** Active coverage on Mercor, Turing, Surge AI, Invisible Technologies (Talent Marketplaces & Gig Networks) exposes buyer sensitivity around talent marketplaces selling individual headcount with high churn and zero production architecture slas.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Mercor, Turing, Surge AI, Invisible Technologies: Managed systems, enterprise SLAs, vendor-tail consolidation under one MSA, and production architectures. Highlight our Robotic Engineering, Agent Reliability Engineering (ARE) capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Mercor, Turing, Surge AI, Invisible Technologies accounts using Beacon (PDF-Miner) as a 2-4 week production POC wedge.
+
+### 4. [XPeng Inc.'s (NYSE:XPEV $9.60): Recent News and Research Digest](https://ct.moreover.com/?a=60788173299&p=21l&v=1&x=UfFATGv_1CtAzpwjdECaxw)
+- **Outlet(s):** Global Round Up - ADRs and Depository Receipts | **Published:** `2026-11-05` | **Sentiment:** `POSITIVE` | **Positioning Relevance Score:** `1.00`
+- **Matched Innodata Pillars:** Robotic Engineering, Agent Reliability Engineering (ARE), Infrastructure Engineering
+- **Matched Proprietary Accelerators:** Beacon (PDF-Miner)
+- **Matched Competitors:** Mercor, Turing, Surge AI, Invisible Technologies
+- **Coverage Snippet:** DAILY ADR AND DEPOSITORY RECEIPT REPORT
+
+XPeng Inc. ADR (NYSE:XPEV $9.60) fell 25.0c (2.5%) from its previous trading session to close at $9.60.
+
+Compared with the BNY Mellon Composite ADR Index which fell 9.1 points (3.4%) in the day, the relative price increase was 0.9%.
+
+Today its volatility (highest price minus lowest price/lowest price) of 8.1% was 2.2 times its average daily volatility of 3.6%. Today the ADR traded at its six-day low of $9.35. The high for the day was $10.10.
+
+There were 15,672,032 ADRs worth $150.5 million traded today. The fall was exacerbated by high volume of 2.1 times the average daily volume of 7.3 million ADRs.
+
+INDEX
+
+SECTION 1 COMPANY OVERVIEW
+
+SECTION 2 THE PAST YEAR: PRESS RELEASES
+
+ADR IDENTIFIERS
+
+GLOSSARY
+
+SECTION 1 COMPANY OVERVIEW
+
+1.1 Activities
+
+XPeng Inc., a leading Chinese electric vehicle manufacturer listed on the U.S. ADR market, focuses on the design, development, manufacturing, and sales of smart electric vehicles equipped with advanced autonomous driving technologies and intelligent connectivity features. The company's core activities center on creating sustainable mobility solutions, including electric cars with AI-driven systems for enhanced safety and user experience. Among its fastest-growing segments are intelligent driving assistance technologies, which leverage AI and sensors for semi-autonomous features, and international market expansion, particularly in Europe and Asia, fueled by rising demand for eco-friendly transportation. Additionally, XPeng is advancing in battery management and smart ecosystem services, such as over-the-air updates and vehicle-to-everything connectivity, positioning it as a key innovator in the global EV industry. It is the International Depository Receipt (IDR) market's 12th largest Auto manufacturers company by market capitalization.
+
+1.2 Contact Details
+
+Website: http://www.xpeng.com
+
+Physical Address: 8 Songgang Road Changxing Street, Cencun Tianhe District Guangzhou GD 510640
+
+Phone: +862066806680
+
+SECTION 2 THE PAST YEAR: PRESS RELEASES
+
+2.1 Press Releases and Corporate Wire
+
+Press Release article 1 of 9, Source: XPeng Inc., 217 words
+
+Nov 02, 2026: XPENG to Report Third Quarter 2026 Financial Results on Monday, November 16, 2026
+
+.release-content span.prnews_span{font-size:8pt;font-family:"Arial";color:black}.release-content a.prnews_a{color:blue}.release-content li.prnews_li{font-size:8pt;font-family:"Arial";color:black}.release-content p.prnews_p{font-size:0.62em;font-family:"Arial";color:black;margin:0in}.release-content .prngen2{padding-right:0.17em;padding-left:0.17em;vertical-align:BOTTOM;border-top:black 1pt;border-right:black 1pt;border-bottom:black 1pt;border-left:black 1pt}.release-content .prnml4{margin-top:0em;margin-right:0em;margin-bottom:0em;margin-left:0.33em !important}.release-content .prnml10{margin-top:0em;margin-right:0em;margin-bottom:0em;margin-left:0.83em !important}.release-content .prnbcc{border-collapse:COLLAPSE}.release-content .prntac{text-align:CENTER}
+
+- Earnings Call Scheduled for 7:00 a.m. ET on November 16, 2026 -
+
+GUANGZHOU, China, Nov. 2, 2026 -- XPeng Inc. ("XPENG" or the "Company,"NYSE: XPEV and HKEX: 9868), a leading global Physical AI company, today announced that it will report its third quarter 2026 unaudited financial results on Monday, November 16, 2026, before the open of U.S. markets.
+
+The Company's management will host an earnings conference call at 7:00 AM U.S. Eastern Time on November 16, 2026 (8:00 PM Beijing/Hong Kong Time on November 16, 2026).
+
+For participants who wish to join the call by phone, please access the link provided below to complete the pre-registration and dial in 5 minutes prior to the scheduled call start time. Upon registration, each participant will receive dial-in details to join the conference call.
+
+Additionally, a live and archived webcast of the conference call will be available on the Company's investor relations website at http://ir.xiaopeng.com.
+
+A replay of the conference call will be accessible approximately an hour after the conclusion of the call until November 24, 2026, by dialing the following telephone numbers:
+
+Press Release article 2 of 9, Source: XPENG, 287 words
+
+Oct 15, 2026: XPENG Expands Collaboration with Google to Bring Google Play into Its AI-Powered Cockpits
+
+XPENG expands its collaboration with Google to offer Google Play directly inside of its AI-Powered cockpit.
+
+Google Play combines hundreds of third-party apps across 100+ countries and regions withXPENG's intelligent capabilities for a richer, more localized in-car experience.
+
+The integration is scheduled to go live in early 2027.
+
+RAS AL KHAIMAH, UAE, Oct. 15, 2026 -- XPENG (NYSE: XPEV, HKEX: 9868), a leading Physical AI company, today announced a native integration with Google Play, marking an expansion of its strategic collaboration with Google.
+
+XPENG will offer Google Play within its cars. This direct integration allows XPENG to offer its signature AI-Powered cockpit experience while giving users seamless, phone-optional access to a breadth of automotive-optimized apps available through Google Play. The integration is scheduled to go live in early 2027.
+
+Through Google Play, XPENG users will have access to a thriving global ecosystem, with hundreds of apps from more than 100 countries built for the car screen across music and podcasts, video streaming, navigation, charging and parking, news, gaming while parked, and everyday lifestyle services. Whether relaxing at a charging stop or on the move, drivers can enjoy global services, alongside apps tailored to individual markets.
+
+And because developers continuously publish new apps and updates through Google Play, the in-car experience will continually evolve without requiring major full-vehicle OTA updates.
+
+Built on Android Automotive OS, the integration works seamlessly alongsideXPENG's intelligent cockpit capabilities, enabling drivers and passengers to use XPENG's multilingual AI-powered voice assistant to open and interact with downloaded apps.
+
+Dr. Xianming Liu, Vice President of XPENG and Head of General Intelligence Center, said, "The best technology partnerships build momentum.
+
+Press Release article 3 of 9, Source: XPENG, 304 words
+
+Oct 08, 2026: XPENG Robotaxi Is Officially Named "XPENG YOYO"
+
+On October 8, XPENG Robotaxi has officially announced its brand name "XPENG YOYO," opening its autonomous driving online registration to the public in China.
+
+As China's first fully in-house developed Robotaxi to achieve pre-loaded mass production, XPENG Robotaxi is completing the leap from technical validation to commercial user operations.
+
+GUANGZHOU, China, Oct. 8, 2026 -- XPENG's Robotaxi has officially announced its brand name "XPENG YOYO." On the same day, the XPENG YOYO autonomous driving online registration was opened to the public in China through invitation codes, and a dedicated page went live on XPENG's official website. This marks the transition from technical validation into a new stage of marketization and industrialization. Going forward, XPENG YOYO will operate with a clear brand identity and commercial positioning, providing operation services to users and partners.
+
+Built on its in-house Turing AI chips, VLA2.0 large model, and AI infrastructure, XPENG is extending the AI capabilities accumulated in the automotive field further into Robotaxi, bridging L2 intelligent driver assistance and L4 autonomous driving. Based on this technology path, XPENG Robotaxi has rapidly completed the critical leap from R&D, mass production, and full-chain validation to public access within this year. This technology route, entirely different from that of traditional L4 companies, is accelerating toward commercial validation with real users and in real operation scenarios.
+
+The English name "XPENG YOYO" was chosen for greater brand recognition in global markets. Short and easy to pronounce, the name maintains strong consistency in communication across various language environments, providing unified brand recognition for XPENG Robotaxi as it enters global markets in the future.
+
+In May 2026, XPENG's mass-produced Robotaxi rolled off the production line in Guangzhou, completed the full chain from online ride-hailing to automated pickup and drop-off in July.
+
+Press Release article 4 of 9, Source: XPENG, 306 words
+
+Oct 07, 2026: XPENG G9L Completes First Production Trial in Europe
+
+XPENG's Next-Gen AI Flagship SUV G9L has successfully completed its production trial at Magna's complete vehicle facility in Graz, Austria, becoming the fourth XPENG model to be produced in Europe after the G6, G9 and P7+.
+
+Following the successful production trial, the first European G9L will travel 1,324 kilometers from Graz to Paris ahead of its global premiere at the Paris Motor Show on October 12, demonstrating the vehicle's safety, charging and driving dynamics under real-world conditions enabled by the cutting-edge AI technologies.
+
+The G9L marks another step in XPENG's European localization strategy, combining local manufacturing in Europe with global vehicle development and standards.
+
+GRAZ, Austria, Oct. 7, 2026 -- XPeng Inc. ("XPENG" or "the Company,"NYSE: XPEV; HKEX: 9868), a leading global Physical AI company, today announces that its Next-Gen AI Flagship SUV G9L has successfully completed its first production trial at Magna in Graz, Austria, marking a new milestone in its European manufacturing expansion.
+
+The G9L is the fourth XPENG model to undergo production at the Austrian facility, where XPENG's G6, G9 and P7+ are actively being produced. The milestone comes one year after XPENG and Magna began local production in Graz and signals the latest expansion of their European manufacturing partnership.
+
+The first pre-production G9L will now travel 1,324 kilometers from Graz to Paris ahead of its global launch at the Paris Motor Show on October 12, putting the vehicle through a real-world journey focused on charging, safety and driving performance before it is displayed at XPENG's stand.
+
+The milestone builds on XPENG's accelerating growth in Europe. The company has delivered more than 100,000 vehicles overseas to date, including over 60,000 in Europe. In France alone, more than 6,000 vehicles have been delivered since entering the market two years ago.
+
+Press Release article 5 of 9, Source: XPeng Inc., 243 words
+
+Oct 01, 2026: XPENG Announces Vehicle Delivery Results for September and Third Quarter 2026
+
+GUANGZHOU, China, Oct. 1, 2026 -- XPeng Inc. ("XPENG" or the "Company,"NYSE: XPEV and HKEX: 9868), a leading global Physical AI company, today announced its vehicle delivery results for September and the third quarter of 2026.
+
+In September 2026, XPENG delivered 41,256 vehicles, representing a 5% increase over the prior month. Monthly deliveries of the XPENG L03 exceeded 10,000 units.
+
+For the third quarter of 2026,XPENG delivered a total of 118,390 vehicles, marking a 15% increase over the previous quarter.
+
+On September 17, 2026, XPENG officially launched the G9L, a premium flagship SUV featuring XPENG's latest technologies, in China. The model's global launch will take place in Paris, France, in October.
+
+On September 22, 2026, XPENG began rolling out XOS 6.3.0 in China, powered by the latest version of its VLA 2.0 model.
+
+As of September 30, 2026, XPENG's self-operated charging network in China covered more than 430 cities and comprised over 4,000 stations, including more than 3,510 ultra-fast charging stations, with over 22,200 charging piles in total. On September 15, XPENG opened its first-ever X-Energy megawatt ultra-fast charging station in Hong Kong.
+
+XPENG's electric vehicles delivered from January to September 2026 are expected to reduce life-cycle greenhouse gas emissions by more than 4.14 million tons compared to internal combustion engine vehicles, equivalent to the carbon absorbed by 68.53 million young trees over 10 years.
+
+Press Release article 6 of 9, Source: XPENG, 413 words
+
+Oct 01, 2026: XPENG to Launch Its Next-Gen AI Flagship G9L SUV and Showcase Its Physical AI Lineup at the 2026 Paris Motor Show
+
+XPENG will showcase its Physical AI ecosystem spanning its technology stack, humanoid robots, flying cars and AI-defined vehicles, including the G9L, L03, P7+, G6, G9 and X9.
+
+The G9L flagship SUV will make its global launch at the Paris Motor Show, with European order books open and pricing revealed, reinforcing XPENG's premium positioning globally.
+
+XPENG and Tesla will be the only automakers participating in the show's official Autonomous Lab, marking XPENG's first large-scale NGP test ride experience outside China.
+
+XPENG will present one of the largest stands among Chinese automakers, spanning more than 1,000 square meters in Hall 6 alongside European legacy brands and Chinese counterparts.
+
+The Paris Motor Show will showcase XPENG's "In Europe, For Europe" approach through European intelligent-driving development, local production and a growing regional product portfolio.
+
+PARIS, Oct. 1, 2026 -- XPeng Inc. ("XPENG" or the "Company,"NYSE: XPEV; HKEX: 9868), a leading global Physical AI company, will make a major appearance at the 2026 Paris Motor Show from October 12 to 18, bringing its latest advances in intelligent mobility, robotics and future transportation to one of Europe's most prominent automotive stages. At the show, XPENG will make the global launch of its Next-Gen AI Flagship SUV, the G9L, marking another milestone in the company's expansion in Europe.
+
+Advancing Physical AI into the Real World
+
+Continue Reading
+
+At its more than 1,000-square-meter stand in Hall 6, XPENG will create an immersive "Physical AI Museum" spanning four areas: brand technology stack, AI-defined vehicles, humanoid robots and flying cars.
+
+The exhibition will demonstrate how XPENG is extending its technology foundation beyond the conventional automobile. Its Car-as-a-Robot concept brings vehicle and robotics technologies onto a common platform, while the company is also advancing the mass production of its IRON humanoid robot and developing flying cars and Robotaxi.
+
+Together with the G9L, L03, P7+, G6, G9 and X9, these technologies will offer visitors a view of XPENG's broader Physical AI ecosystem from intelligent vehicles and robots to future forms of mobility.
+
+G9L: The Next Generation of AI-Defined Mobility
+
+At the center of XPENG's presence will be the G9L, its Next-Gen AI Flagship SUV, making its global launch in Paris on October 12.
+
+The G9L brings together XPENG's latest advances in AI, intelligent driving and vehicle technology with a premium SUV experience, with a focus on safety, driving and comfort across a range of scenarios.
+
+Press Release article 7 of 9, Source: XPENG, 263 words
+
+Sep 23, 2026: XPENG Holds Its First Robotics Supply Chain Partner Conference
+
+On September 22, XPENG held its first Robotics Supply Chain Partner Conference, attended by leading supply chain companies in core component fields including robot joint modules, actuators, and precision structural parts.
+
+XPENG's robotics business has signed designation agreements with supply chain partners and is currently scheduling production on its manufacturing lines.
+
+GUANGZHOU, China, Sept. 23, 2026 -- From Walking to Interaction:XPENG's Humanoid Robot Demonstrate Advanced Intelligence On-Site
+
+Continue Reading
+
+As a key part of XPENG's Physical AI strategy, XPENG robots are positioned as advanced humanoid robots that are ultra-humanlike, AI-driven, and built to the highest safety standards. At the conference, XPENG showcased IRON's latest capabilities in autonomous orientation and following, seamless multilingual switching, dynamic multi-dimensional identity memory, and versatile intelligent question-answering, which further demonstrates the robots' progression from "autonomous movement" to "natural interaction."
+
+Supply chain attendees noted that humanoid robotics is still at an early stage of industrialization, but XPENG's clear technology roadmap, product definition and well-defined mass-production timeline give them confidence that XPENG robots will reach scaled mass production. What is seen now may still be an early prototype, but from product design to manufacturing system, XPENG robots are already taking shape for real-world deployment in stores, campuses and other settings.
+
+Another industry guest said, "For humanoid robots to truly enter large-scale commercial application, supply chain requirements are far higher than in the lab. Core components must not only deliver stable performance, but also withstand the tests of mass production in consistency, cost, and delivery at scale.
+
+Press Release article 8 of 9, Source: XPeng Inc., 291 words
+
+Sep 07, 2026: IRON, the World's First Advanced General-Purpose Humanoid Robot, Walks off the Production Lines as XPENG's Humanoid Robot Manufacturing Facility Is Officially Commissioned
+
+XPENG has officially commissioned its humanoid robot production lines and completed the production-lines manufacturing of the world's first advanced humanoid robot, which autonomously walked off the lines, marking a critical leap from R&D prototyping to production-lines manufacturing.
+
+XPENG's humanoid robot production lines feature core process automation exceeding 80%, setting a new manufacturing benchmark with a precision, flexible, and intelligent production line.
+
+XPENG extends its automotive-grade manufacturing capabilities to robotics, marking a critical step toward mass production.
+
+GUANGZHOU, China, Sept. 7, 2026 -- XPeng Inc. ("XPENG" or the "Company,"NYSE: XPEV; HKEX: 9868), a leading global Physical AI company, today announced that its humanoid robot production lines are nowin operation, and the world's first advanced generalpurpose humanoid robot made its debut by autonomously walking off the lines after completing production. This achievement signifies a key leap from R&D prototyping to line manufacturing and an important advance toward volume production.
+
+Press Kit Link: https://wetransfer.com/downloads/64c97a585428373656af84cd175c55e820260908011306/cf28c8fe399b5db33258de769e27cca220260908011306/5cd228
+
+XPENG's robot production lines are the world's first automated production lines for advanced humanoid robots, deeply integrating the mature automotive-grade quality systems of the smart electric vehicle industry with precision manufacturing for humanoid robot. Built to automotive-grade quality standards, it establishes a quality system for mass production of advanced humanoid robots. Designed for scale from day one, with over 80% of core processes automated, the lines deliver a high-precision, highly flexible, and intelligent manufacturing system, ensuring consistent critical-process quality and laying the foundation for scaled production and rapid capacity expansion.
+
+He Xiaopeng, Chairman & CEO of XPENG, said: "The robot production lines were created from scratch with no precedent to follow.
+
+Press Release article 9 of 9, Source: XPENG, 300 words
+
+Aug 24, 2026: XPENG Reports Q2 2026 Results: Gross Margin Reaches 20.7%, Overseas Market Drives 25% of H1 Revenue
+
+Second-quarter revenue totaled RMB19.74 billion. Quarterly gross margin reached 20.7%.
+
+Overseas deliveries surpassed 20,000 units in Q2, with overseas markets contributing 25% of H1 revenue.
+
+Robotics business raises over US$900 million, at a post-money valuation of over US$6.3 billion, marking the largest single-round private financing ever recorded in China's embodied AI industry.
+
+XPENG L03 secures historic order volume at launch, with oversea deliveries of L03 expected to start in Q4, driving the company's quarterly overseas deliveries to exceed 40,000 units.
+
+GUANGZHOU, China, Aug. 24, 2026 --XPENG, a leading global Physical AI company, today announced its financial results for the second quarter of 2026.
+
+Physical AI Commercialization Accelerates: Robotics business raises over US$900 million, VLA 2.0 Model First Major Upgrade.
+
+During the earnings call, He Xiaopeng, Chairman and CEO, detailed the company's ongoing transformation into a global leader in the physical AI world.
+
+Humanoid Robot: XPENG Robotics business raises over US$900 million, at a post-money valuation of over US$6.3 billion, marking the largest single-round private financing ever recorded in China's embodied AI industry. Recently, XPENG's IRON humanoid robot has reached multiple R&D milestones and is about to release capability previews. In 2027, XPENG IRON will officially launch and begin large-scale deliveries in China and overseas to external customers in the retail and service sectors. Monthly production capacity can be rapidly ramped up to several thousand units by 2027 in response to market demand.
+
+ADAS: Starting at the end of August, XPENG's VLA 2.0 model will undergo its first major upgrade in China. The new version will also integrate VLA and VLM models to achieve integrated cockpit and autonomous driving functionality, bringing selected L4-level capabilities developed for XPENG Robotaxi to passenger vehicles.
+
+ADR IDENTIFIERS
+
+ISIN: US98422D1054
+
+CUSIP: 98422D105
+
+RIC: XPEV.N
+
+GLOSSARY
+
+Click here https://www.buysellsignals.com/bst/glossary
+
+Disclaimer:
+
+Click here https://www.buysellsignals.com/bst/disclaimer
+
+Created by www.buysellsignals.com
+- **Why it matters to Innodata:** Active coverage on Mercor, Turing, Surge AI, Invisible Technologies (Talent Marketplaces & Gig Networks) exposes buyer sensitivity around talent marketplaces selling individual headcount with high churn and zero production architecture slas.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Mercor, Turing, Surge AI, Invisible Technologies: Managed systems, enterprise SLAs, vendor-tail consolidation under one MSA, and production architectures. Highlight our Robotic Engineering, Agent Reliability Engineering (ARE), Infrastructure Engineering capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Mercor, Turing, Surge AI, Invisible Technologies accounts using Beacon (PDF-Miner) as a 2-4 week production POC wedge.
+
+### 5. [XPENG Researchers and Academic Partners Introduce GroundingPI, An Open-Source Visual Perception Model For Physical AI](https://us.headtopics.com/news/xpeng-researchers-and-academic-partners-introduce-89600723)
+- **Outlet(s):** Head Topics US, CleanTechnica (Online), M2 PressWIRE | **Published:** `2026-11-06` | **Sentiment:** `POSITIVE` | **Positioning Relevance Score:** `0.99`
+- **Syndicated URLs:** [link](https://cleantechnica.com/2026/11/05/xpeng-researchers-and-academic-partners-introduce-groundingpi-an-open-source-visual-perception-model-for-physical-ai/), [link](https://ct.moreover.com/?a=60783753588&p=21l&v=1&x=A_oKeeRjiZFw6rUBFRvjsA)
+- **Matched Innodata Pillars:** Robotic Engineering, Agent Reliability Engineering (ARE)
+- **Matched Proprietary Accelerators:** Beacon (PDF-Miner)
+- **Matched Competitors:** Mercor, Turing, Surge AI, Invisible Technologies
+- **Coverage Snippet:** November 5, 2026
+
+Release date- 04112026 - Guangzhou, China - (NYSE: XPEV, HKEX: 9868), a leading Physical AI company, has supported the development of GroundingPI, an open-source visual perception foundation model created by researchers affiliated with XPENG, Peking University, The University of Hong Kong and other academic institutions.
+
+* Developed by researchers affiliated with XPENG, Peking University, The University of Hong Kong and other academic institutions, GroundingPI introduces a perception-focused approach to foundation models for Physical AI.
+
+* The 4B-parameter model achieved an average score of 73.68 across 34 perception benchmarks, outperforming GPT-6 Astra (71.54) in the research team's evaluation.
+
+* Simulation results demonstrate improved robotic manipulation performance and training-data efficiency, with research code and model weights made publicly available to the AI research community.
+
+The research explores a new approach to embodied intelligence by focusing on a fundamental capability: enabling AI systems to accurately identify objects and understand their spatial positions in the physical world. With approximately 4 billion parameters, GroundingPI achieved the highest aggregate score among 44 baseline models evaluated across 34 perception benchmarks covering 11 capability categories.
+
+The research paper, model weights and supporting code have been made publicly available, enabling researchers and developers to further explore perception-focused approaches to Physical AI.
+
+As AI increasingly moves beyond digital environments into physical applications such as robotics and autonomous driving, accurately understanding the surrounding environment becomes essential.
+
+While general-purpose foundation models have demonstrated strong capabilities in language understanding, reasoning and planning, physical intelligence requires more precise visual perception. AI systems must not only recognize objects but also identify their exact locations and spatial relationships to support real-world interaction.
+
+GroundingPI takes a perception-focused approach to this challenge. Rather than relying on robot action labels during the perceptual model's training, the research focuses on developing foundational visual understanding capabilities that can support downstream action-learning systems.
+
+For example, when instructed to identify 'the handle of the cup on the right', an AI system needs to locate not only the correct cup but also the precise position of its handle. GroundingPI is designed to represent such information using spatial coordinates, including points and bounding boxes.
+
+The model is trained across 11 categories of perceptual capabilities, including object detection, dense object localization, referring expression grounding, optical character recognition (OCR), document layout understanding, user interface element recognition and robotic spatial localization.
+
+By strengthening these fundamental capabilities, the research explores how specialized perception models could provide a more effective visual foundation for embodied AI systems.
+
+GroundingPI demonstrates perception capabilities across multiple scenarios and tasks through Visual Primitives-
+
+the smallest building blocks that constitute an image.
+
+Strong Performance Across 34 Perception Benchmarks
+
+In evaluations conducted by the research team, GroundingPI was compared with 44 baseline models across 34 public perception benchmarks spanning 11 capability categories.
+
+Using an aggregate evaluation score with equal weighting across the capability categories, GroundingPI achieved 73.68, compared with 71.54 for GPT-6 Astra.
+
+The results demonstrate the potential of specialized perception-focused models to outperform larger general-purpose models on specific visual grounding tasks. The comparison relates to the evaluated perception benchmarks and does not represent a broader assessment of general AI intelligence or reasoning capabilities.
+
+GroundingPI's performance was particularly relevant to tasks requiring precise object localization, including complex visual scenes containing numerous objects or small targets.
+
+These findings suggest that targeted perceptual pretraining can provide a valuable foundation for future Physical AI research, complementing the broader reasoning and planning capabilities of general-purpose foundation models.
+
+Demonstrations showcase the model's perception capabilities across dense object detection, text recognition, webpage information extraction, etc.
+
+Improving Robotic Learning Efficiency and Generalization
+
+Beyond perception benchmarks, the research team evaluated GroundingPI as a visual foundation for downstream robotic manipulation and autonomous driving tasks.
+
+The results highlight two potential advantages for embodied intelligence.
+
+Improving training-data efficiency
+
+Robotic systems often require extensive human demonstrations to learn new manipulation tasks, creating significant challenges in data collection and training.
+
+In RoboCasa-GR1 simulation experiments, robotic learning systems using GroundingPI as their visual backbone achieved higher task success rates with 50% of the available demonstration data than the evaluated comparison models trained with 75%.
+
+This finding suggests that stronger foundational perception capabilities may reduce the amount of action-training data required for certain robotic tasks, potentially improving the efficiency of future embodied AI development.
+
+Strengthening adaptability across different environments
+
+Another major challenge in robotics is generalization: the ability to perform a learned task when objects, backgrounds or environmental conditions change.
+
+In RoboTwin 2.0 simulation evaluations, GroundingPI demonstrated stronger performance than the evaluated mainstream visual backbones across four out-of-distribution settings, indicating improved adaptability to unfamiliar environments.
+
+The research team also evaluated its potential for autonomous driving perception using the nuScenes dataset. When integrated as a visual backbone, GroundingPI achieved an average open-loop trajectory prediction error of 0.296 metres in the reported evaluation.
+
+Together, these experimental findings highlight the potential of perception-focused foundation models to support more adaptable and data-efficient embodied intelligence systems.
+
+The research remains exploratory. Its downstream results are based on simulation and offline evaluations and do not establish readiness for real-world commercial deployment.
+
+Advancing Open Research in Physical AI
+
+GroundingPI explores a research direction in which specialized visual perception capabilities complement higher-level reasoning and planning, rather than relying exclusively on general-purpose models for every component of an embodied intelligence system.
+
+The findings provide insights into how perception-focused pretraining could contribute to future research on robotic manipulation, autonomous driving and other applications requiring precise interaction with the physical world.
+
+To encourage further exploration and collaboration, the research team has made GroundingPI's paper, model weights and supporting code publicly accessible, subject to the applicable open-source and third-party licensing terms.
+
+The project represents an academic research contribution supported by XPENG and its research collaborators. The results do not constitute an announcement of integration into XPENG's commercial products or a commitment to future deployment.
+
+Research Resources
+
+Project Website: https://groundingpi.github.io/
+
+Research Paper: https://arxiv.org/abs/2609.39601
+
+Source Code: https://github.com/groundingpi/GroundingPI
+
+Model Weights: https://huggingface.co/GroundingPI/GroundingPI
+
+About XPENG
+
+XPENG is a leading global Physical AI company, dedicated to bringing artificial intelligence into the physical world to reshape future mobility and smart living. Through in-house RD, XPENG has developed a full-stack Physical AI architecture spanning Turing AI chips, world foundation models, and highly integrated software and hardware applications. This unified technology foundation of XPENG powers an expansive product portfolio of smart EVs, robotaxis, and humanoid robots, advancing the deployment of Physical AI at scale.
+
+Headquartered in Guangzhou, China, XPENG is dual-primary listed on the New York Stock Exchange and the Hong Kong Stock Exchange. With global capabilities across RD, manufacturing, sales, and services, XPENG drives continuous technological innovation and fosters an open Physical AI ecosystem, making life smarter, safer, and better for users worldwide. For more information, please visit https://www.xpeng.com/.
+
+For media enquiries:
+
+XPENG PR Department Email: pr@xiaopeng.com
+
+[Editorial queries for this story should be sent to newswire@enpublishing.co.uk ]
+- **Why it matters to Innodata:** Active coverage on Mercor, Turing, Surge AI, Invisible Technologies (Talent Marketplaces & Gig Networks) exposes buyer sensitivity around talent marketplaces selling individual headcount with high churn and zero production architecture slas.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Mercor, Turing, Surge AI, Invisible Technologies: Managed systems, enterprise SLAs, vendor-tail consolidation under one MSA, and production architectures. Highlight our Robotic Engineering, Agent Reliability Engineering (ARE) capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Mercor, Turing, Surge AI, Invisible Technologies accounts using Beacon (PDF-Miner) as a 2-4 week production POC wedge.
+
+### 6. [Quarterly Report Analysis Quarter ending 30 Sep 2026: TaskUs Inc (NASDAQ:TASK) reports 19% sequential rise in Quarterly Net Profit Corporate Wire Date: 06 Nov 2026 02:17 EST Release Date: Nov 05, 2026](https://ct.moreover.com/?a=60788989772&p=21l&v=1&x=GISCocKA7BoMcU_zxKRKbg)
+- **Outlet(s):** Global Round Up - Bullish & Bearish Signals | **Published:** `2026-11-06` | **Sentiment:** `NEUTRAL` | **Positioning Relevance Score:** `0.97`
+- **Matched Innodata Pillars:** Agent Reliability Engineering (ARE)
+- **Matched Proprietary Accelerators:** Beacon (PDF-Miner), Multi-Agent E-Commerce Support
+- **Matched Competitors:** Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit
+- **Coverage Snippet:** AMERICAN RESULTS
+
+TaskUs Inc (NASDAQ:TASK), announced net profit of $26.2m for the quarter-ended 30 Sep 2026 [Q3/2026], up 19% from the previous quarter [Q2/2026] and down 16% from the year-earlier period [Q3/2025]. Earnings per share (EPS) were up 20.8% sequentially from 24.0c in Q2/2026 to 29.0c in Q3/2026.
+
+Major changes compared with previous corresponding period [Sep 30, 2026 vs Sep 30, 2025]:
+
+- Total revenue was up 5.4% from $298.7m to $314.7m
+
+- Net profit was down 16.4% from $31.4m to $26.2m
+
+- EPS was down 17.1% from 35.0c to 29.0c
+
+- EBITDA to Sales was down from 18% to 17.3%
+
+- EBIT to Sales was down from 12.7% to 11.6%
+
+- Profit before tax to Sales was down from 14% to 10.3%
+
+- Profit after tax to Sales was down from 10.5% to 8.3%
+
+- Depreciation to Sales was up from 3.5% to 3.9%
+
+Quarterly Report (Quarter ending 30 Sep 2026)
+
+Quarter-ended 30 Sep 2026 30 Jun 2026 31 Mar 2026
+EPS, $ 0.3 0.2 0.3
+Sequential growth in EPS % 20.8 -11.1 -20.6
+Revenue, $ million 315 309 306
+Sequential growth in Revenue % 1.9 0.8 -2.1
+Net Profit, $ million 26.2 22.0 24.3
+Sequential growth in Net Profit % 19.3 -9.7 -18.1
+
+Compared with the Previous Corresponding Period [PCP; Q3/2025], year-over-year [y.o.y.] EPS was down 17.1%, Revenue was up 5.4% and Net Profit was down 16.4%.
+
+Quarter-ended 30 Sep 2026 30 Sep 2025
+EPS, $ 0.3 0.3
+PCP growth in EPS % -17 150
+Revenue, $ million 315 299
+PCP growth in Revenue % 5.4 17.0
+Net Profit, $ million 26.2 31.4
+PCP growth in Net Profit % -16.4 147
+
+ACTIVITIES:
+
+TaskUs Inc., a Nasdaq-listed company headquartered in the United States, is a leading provider of outsourced digital services, specializing in customer experience management, content moderation, and AI operations for technology and e-commerce firms. The company's core activities focus on delivering scalable solutions that enhance operational efficiency, including multilingual customer support, trust and safety services, and data annotation for machine learning models. In recent years, TaskUs has experienced rapid growth in its AI-driven segments, particularly in areas like virtual assistant services and advanced analytics, driven by the increasing demand for digital transformation and online content regulation. This expansion has positioned the company as a key partner for global tech giants, enabling it to diversify its offerings and strengthen its market presence through strategic acquisitions and innovation in emerging technologies. Overall, TaskUs continues to capitalize on the digital economy's evolution, emphasizing high-quality, compliant services to drive sustainable growth.
+
+MARKET POSITION:
+
+TaskUs Inc (NASDAQ:TASK), the NASDAQ's 42nd largest Software company by market cap, plummeted $6.23 (or 57.0%) in the trailing 12 months to June 23, 2026 to close at $4.69. This means the stock has underperformed 83% of NASDAQ-listed stocks in the same period. Compared with the NASDAQ-100 Index which has risen 35.7% over the same period, this is a relative price change of -92.7%. Average daily volume of 479,842 shares in the trailing year was 1.5 times average daily volume in the previous year.
+
+GLOBAL RANK:
+
+Global Rank [out of 46,119 stocks]
+
+Description Value Rank Quartile
+MCap (US$) 173.5M 20,098 Second
+Total Assets (US$) 1.1B 10,325 Top
+Revenue (US$) 1.2B 6,430 Top
+Net Profit (US$) 102.3M 5,872 Top
+Return on Equity % 17.0 5,694 Top
+Net Profit Margin % 8.6 13,048 Second
+Price to Book 1.2 14,578 Second
+Price Earnings 5.1 2,316 Top
+PV$1000 (1Year) US$ 430 39,085 Bottom
+US$ Change (1Year) % -31.2 32,464 Third
+Rel Strength 6 Mo (US$) 33 31,084 Third
+
+SECTOR AND MARKET
+
+Company Name TaskUs Inc
+Company ISIN US87652V1098
+Company CODE TASK
+Industry Software Sector
+Country United States
+Stock Exchange Nasdaq Stock Exchange
+Currency US Dollars ($)
+
+SEC FILING 10-Q RESULTS OF OPERATIONS AND FINANCIAL CONDITION
+
+(In $ Thousand, except per share data and shares outstanding)
+
+INCOME STATEMENT AS REPORTED
+
+Description $ Thousand $ Thousand
+Sep 30 2026 2025 Change %
+Service revenue 314,747 298,713 Up 5.4
+Operating expenses:
+Cost of services 205,883 185,420 Up 11.0
+Selling, general and administrative expense 54,850 59,699 Down 8.1
+Depreciation 12,318 10,553 Up 16.7
+Amortization of intangible assets 5,001 5,005 Down 0.1
+Loss (gain) on disposal of assets 180 95 Up 89.5
+Total operating expenses 278,232 260,772 Up 6.7
+Operating income 36,515 37,941 Down 3.8
+Other income, net -4,824 -8,407 Improved 42.6
+Financing expenses 8,929 4,627 Up 93.0
+Income before income taxes 32,410 41,721 Down 22.3
+Provision for income taxes 6,195 10,346 Down 40.1
+Net income 26,215 31,375 Down 16.4
+Net income per common share:
+Basic 29.0c 35.0c Down 17.1
+Diluted 28.0c 34.0c Down 17.6
+Weighted-average number of common shares outstanding:
+Basic 91,701,561 90,128,176 Up 1.7
+Diluted 93,337,979 93,057,417 Up 0.3
+Unrealized gain (loss) on derivative contracts, net -569 -4,588 Improved 87.6
+Retirement benefit reserves, net -12 9 Deterioration
+Foreign currency translation adjustments -5,847 -7,563 Improved 22.7
+Comprehensive income 19,787 19,233 Up 2.9
+
+BALANCE SHEET AS REPORTED
+
+Description $ Thousand $ Thousand
+Sep 30, 2026 Dec 31, 2025 Change %
+Assets
+Current assets:
+Cash and cash equivalents 189,690 211,676 Down 10.4
+Accounts receivable, net of allowance for credit losses of $ 1,061 and $ 911, respectively 266,410 254,053 Up 4.9
+Income tax receivable 6,398 524 Up 1,121.0
+Prepaid expenses and other current assets 47,574 42,994 Up 10.7
+Total current assets 510,072 509,247 Up 0.2
+Noncurrent assets:
+Property and equipment, net 85,618 95,426 Down 10.3
+Operating lease right-of-use assets 53,291 53,167 Up 0.2
+Deferred tax assets 12,429 12,366 Up 0.5
+Intangibles 138,248 153,490 Down 9.9
+Goodwill 218,728 219,533 Down 0.4
+Other noncurrent assets 10,510 7,536 Up 39.5
+Total noncurrent assets 518,824 541,518 Down 4.2
+Total assets 1,028,896 1,050,765 Down 2.1
+Liabilities and Shareholders Equity
+Liabilities:
+Current liabilities:
+Accounts payable and accrued liabilities 40,035 45,242 Down 11.5
+Accrued payroll and employee-related liabilities 74,918 64,549 Up 16.1
+Current portion of debt 23,287 21,559 Up 8.0
+Current portion of operating lease liabilities 20,607 19,284 Up 6.9
+Current portion of income tax payable 3,570 9,354 Down 61.8
+Deferred revenue 8,259 3,273 Up 152.3
+Total current liabilities 170,676 163,261 Up 4.5
+Noncurrent liabilities:
+Income tax payable 13,843 9,752 Up 42.0
+Long-term debt 462,897 219,798 Up 110.6
+Operating lease liabilities 35,265 37,086 Down 4.9
+Accrued payroll and employee-related liabilities 9,787 6,575 Up 48.9
+Deferred tax liabilities 13,927 14,304 Down 2.6
+Other noncurrent liabilities 197
+Total noncurrent liabilities 535,916 287,515 Up 86.4
+Total liabilities 706,592 450,776 Up 56.8
+Commitments and Contingencies (See Note 9)
+Shareholders equity:
+Class A common stock, $ 0.01 par value. Authorized 2,500,000,000 ; 52,121,737 issued and 36,685,513 outstanding and 50,899,239 issued and 35,463,015 outstanding, respectively 521 509 Up 2.4
+Class B convertible common stock, $ 0.01 par value. Authorized 250,000,000 ; 55,032,694 and 55,032,694 shares issued and outstanding, respectively 550 550 Steady
+Additional paid-in capital 754,613 754,773 Down
+Retained earnings (Accumulated deficit) -202,111 58,161 Deterioration
+Accumulated other comprehensive loss -41,960 -24,695 Deterioration 69.9
+Treasury stock, at cost. 15,436,224 and 15,436,224 shares, respectively -189,309 -189,309 Steady
+Total shareholders equity 322,304 599,989 Down 46.3
+Total liabilities and shareholders equity
+
+CASH FLOW AS REPORTED (Quarter ending Nine Months Ended Sep 30, 2026)
+
+Description $ Thousand $ Thousand
+Sep 30 2026 2025 Change %
+Cash flows from operating activities:
+Net income 72,516 72,570 Down 0.1
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation 34,996 30,652 Up 14.2
+Amortization of intangibles 15,011 14,978 Up 0.2
+Amortization of debt financing fees 1,567 447 Up 250.6
+Loss (gain) on disposal of assets 2,729 -49 Recovery
+Provision for credit losses 446 678 Down 34.2
+Deferred taxes -402 -3,231 Improved 87.6
+Stock-based compensation expense 14,538 23,428 Down 37.9
+Changes in operating assets and liabilities:
+Accounts receivable -12,917 -38,781 Improved 66.7
+Prepaid expenses and other current assets -3,876 6,035 Deterioration
+Operating lease right-of-use assets 17,201 15,306 Up 12.4
+Other noncurrent assets -1,760 -2,798 Improved 37.1
+Accounts payable and accrued liabilities -5,698 -10,633 Improved 46.4
+Accrued payroll and employee-related liabilities 5,885 15,717 Down 62.6
+Operating lease liabilities -17,782 -13,759 Deterioration 29.2
+Income tax payable -7,559 -2,455 Deterioration 207.9
+Deferred revenue 4,991 -475 Recovery
+Other noncurrent liabilities 205 -81 Recovery
+Net cash provided by operating activities 120,091 107,549 Up 11.7
+Cash flows from investing activities:
+Purchase of property and equipment -29,362 -43,753 Improved 32.9
+Net cash used in investing activities -29,362 -43,753 Improved 32.9
+Cash flows from financing activities:
+Proceeds from long-term debt 500,000
+Payments for deferred business acquisition consideration -150
+Payments on long-term debt -248,238 -10,125 Deterioration 2,351.7
+Payments for debt financing fees -9,914
+Proceeds from employee stock plans 120 8,462 Down 98.6
+Payments for taxes related to net share settlement -5,374 -9,907 Improved 45.8
+Payments for stock repurchases -27,783
+Distribution of dividends -332,788
+Net cash used in financing activities -96,194 -39,503 Deterioration 143.5
+Increase (decrease) in cash and cash equivalents -5,465 24,293 Deterioration
+Effect of exchange rate changes on cash -16,521 -6,478 Deterioration 155.0
+Cash and cash equivalents at beginning of period 211,676 192,166 Up 10.2
+Cash and cash equivalents at end of period 189,690 209,981 Down 9.7
+
+ISIN: US87652V1098
+
+O:TASK;
+
+PermID: 5057517426
+
+RIC: TASK.O
+
+CIK: 1829864
+
+CUSIP: 87652V109
+
+Source: www.BuySellSignals.com
+- **Why it matters to Innodata:** Active coverage on Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit (Legacy BPO & Crowd Volume) exposes buyer sensitivity around legacy bpo crowd volume lacking full-stack agent engineering and deterministic reliability gates.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit: Full-stack Agent Engineering and Agent Reliability Engineering (ARE) depth with domain-vetted SMEs. Highlight our Agent Reliability Engineering (ARE) capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit accounts using Beacon (PDF-Miner), Multi-Agent E-Commerce Support as a 2-4 week production POC wedge.
+
+### 7. [Third Quarter 2026 Results, Demonstrates Continued Discipline in Core Telecom; Advances Transformation Strategy](https://ct.moreover.com/?a=60790217514&p=21l&v=1&x=Hr5MYUtkznBf2ilTgtpbRg)
+- **Outlet(s):** Market News Publishing | **Published:** `2026-11-06` | **Sentiment:** `POSITIVE` | **Positioning Relevance Score:** `0.94`
+- **Matched Innodata Pillars:** Agent Reliability Engineering (ARE), Infrastructure Engineering
+- **Matched Competitors:** Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit, Turing
+- **Coverage Snippet:** TELUS CORP ("T-T;TU-N") - Third Quarter 2026 Results, Demonstrates Continued - Discipline in Core Telecom; Advances Transformation Strategy
+
+TELUS Corporation released its unaudited results for the third quarter ended September 30, 2026. The Company is advancing a comprehensive Transformation Strategy to fund debt reduction and growth investment in core telecom and AI infrastructure.
+
+Third quarter 2026 highlights //st * In support of Transformation Strategy, announcing an efficiency program targeting annualized cash savings of approximately $900 million exiting 2028 to be delivered via operational cost and margin improvement, and capital expenditure efficiencies. * Monetization of non-core businesses is progressing, with near-term priority focused on accelerating the monetization of TELUS Health and TELUS Agriculture &Consumer Goods. Proceeds to be directed toward debt reduction. * Investing strategically in Canada to grow core Telecom and AI infrastructure. * Marc Allera and Bill Thomas appointed to the TELUS Board of Directors, adding extensive global telecommunications, digital transformation, and corporate governance experience. * Strength in core Telecom driven by favourability in mobile network and fixed data revenues, offset by TELUS Digital, as expected, resulting in a 1 per cent decline in Consolidated Service revenue to $4.5 billion. * Net loss of $660 million driven by a pre-tax, non-cash goodwill impairment of $800 million, reflecting a reduction in the recoverable amount of the TELUS Health cash-generating unit due to updated growth expectations, broader market conditions and valuation update within the health portfolio as a result of the active divestiture process. * Consolidated Adjusted EBITDA of $1.8 billion declined 5 per cent reflecting lower TELUS Digital results from lower client service volumes from two hyperscale clients, and lapping prior-year real estate gains and other one-time items. Normalizing for those items, consolidated Adjusted EBITDA declined 2 per cent. * Mobile network revenue growth of 1 per cent driven by 84,000 net new mobile phone customers, stable ARPU performance of $57.22; blended mobile phone churn of 1.01 per cent, a three-year low. * Net debt to Adjusted EBITDA of 3.6-times at quarter-end, reflecting an increase in net debt levels and lower EBITDA consistent with annual outlook; committed to achieving 3.0-times or lower by year-end 2028 through operational improvements, asset monetization, and disciplined capital allocation. * Reaffirmed full-year 2026 guidance, as updated with the release of second quarter 2026 results.
+
+"Since our second quarter earnings call, our core telecom business has shown clear signs of stabilization and we have made important progress on the execution of our Transformation Strategy," said Victor Dodig, President and Chief Executive Officer. "Our strategy has one clear objective: returning TELUS to a leading communications and AI infrastructure player in Canada. We've identified specific levers to structurally transform TELUS, and we're moving with clarity and urgency to strengthen our financial foundation, hone our operational discipline and control costs, and deploy resources to drive profitable and sustainable growth and returns."
+
+"To this end, we are launching a multi-year efficiency program targeting approximately $900 million in annualized cash savings exiting 2028, which will support balance sheet deleveraging and sustainable profitability for the long term. I am confident that our Transformation Strategy will establish TELUS as a leaner, more focused business better positioned to deliver sustainable, profitable growth and long-term shareholder value," concluded Mr. Dodig.
+
+"Our third quarter results are in line with the expectations we set in July, and we are reaffirming our full-year 2026 annual targets," said Gopi Chande, Chief Financial Officer. "The efficiency program we announced today is expected to structurally improve our earnings power and free cash flow, giving us the flexibility to reduce debt while continuing to invest in the business. Together with the dividend reset, and removal of the DRIP discount that we announced in July, coupled with our active asset monetization program, our plan creates a clear path to achieving our net debt to Adjusted EBITDA leverage target of 3.0-times or lower by year-end 2028."
+
+Transformation Strategy Progress
+
+In July 2026, TELUS announced a comprehensive Transformation Strategy designed to structurally improve earnings and free cash flow while strengthening its balance sheet. The program is underpinned by three operational and financial priorities: 1) strengthen our financial foundation; 2) hone our operational discipline and control costs; and 3) deploy resources to drive profitable and sustained growth and returns.
+
+The Transformation Strategy balances near-term cash generation with long-term growth investments, positioning TELUS to achieve a leverage ratio of 3.0-times or lower by year-end 2028, while maintaining investment-grade credit ratings and supporting sustainable profitability.
+
+Today, TELUS is announcing several Transformation Strategy updates: collectively, these efforts are focused on reducing debt and interest costs, strengthening our balance sheet, and supporting profitable growth in the long term.
+
+Strengthen our financial foundation
+
+TELUS is advancing its assessment of the Global Platform Businesses portfolio to unlock value from the monetization of non-core assets. Within this portfolio, TELUS' near-term priority is on TELUS Health and TELUS Agriculture &Consumer Goods.
+
+Hone our operational discipline and control costs
+
+TELUS launched an efficiency program targeting annualized cash savings of approximately $900 million exiting 2028. The multi-year program will be driven by operational cost and margin improvements, and capital efficiency. Approximately 80 per cent of the cash savings will come from core Telecom and the balance from Global Platform Businesses. In Telecom, the program focuses on improving customer care, customer growth and improving revenue per product, optimizing the channel experience between physical and digital, procurement optimization, and network and field force efficiency.
+
+Deploy resources to drive profitable, sustained growth and returns
+
+Strategically investing in organic growth in core Telecom assets in Canada, including continuing to expand its PureFibre network, into high-return, underserved markets in urban and suburban communities where it can quickly drive strong penetration gains and product intensity. TELUS' PureFibre network is a highly valuable asset and a critical differentiator across its business. It strengthens its competitive position in the markets it serves and AI infrastructure more broadly. It is also the foundation for meeting one of the fastest-growing sources of demand in the economy: AI infrastructure.
+
+TELUS is positioning itself as a leader in Canada's emerging AI infrastructure market by leveraging its PureFibre network to provide connectivity solutions to purpose-built data centres not owned by TELUS, and is building sovereign AI capabilities for Canadian businesses and government. These two initiatives are near-term priorities, while the Company is exploring a third initiative in data centre shells with already secured power. This opportunity will be through partnerships, as TELUS will deploy capital with discipline while balancing its commitments to balance sheet deleveraging and free cash flow growth.
+
+TELUS Appoints Marc Allera and Bill Thomas to the Board of Directors, effective January 1, 2027
+
+Mr. Allera has three decades of global telecommunications and executive leadership experience. Based in London, UK, he served as CEO of EE and BT Group's Consumer Division from 2016 to 2025, where he oversaw nearly 30 million customer connections and led the rollout of 5G and fibre networks. Prior to BT Group, Mr. Allera held senior executive roles including CEO of EE, a joint venture between Deutsche Telekom and France Tlcom, and Chief Commercial Officer at Three UK. He currently serves as Chair of CVC's Global Sport Group andJagex.
+
+Mr. Thomas is the former Global Chair and CEO of KPMG International, leading over 265,000 professionals across 143 countries and territories. He currently serves on the Board of Directors of Bank of America and previously served as Chair of KPMG's Americas region from 2014 to 2017 and as CEO and Senior Partner of KPMG in Canada from 2009 to 2016. A recipient of the Queen Elizabeth II Diamond Jubilee Medal and a Catalyst Canada Honours Champion, Mr. Thomas served on the International Integrated Reporting Council, the Business Roundtable, the International Business Council, and the Sustainable Markets Initiative. Originally from Vancouver, he holds a Bachelor of Science from the University of British Columbia and began his career at KPMG in 1990. He also maintains a residence on Salt Spring Island.
+
+Third quarter 2026 financial results overview
+
+Consolidated operating revenues and other income were $5.0 billion, compared with $5.1 billion in the prior year, reflecting lower other income, a consolidated service revenue decline of 1 per cent, as well as lower equipment revenue. Consolidated service revenue declined as growth in our core telecom business, including mobile network and fixed data services revenue, was offset by TELUS Digital. See 'Third quarter 2026 operating highlights' within this news release for a discussion on TELUS' reportable segment results for TTech, TELUS Health and TELUS Digital.
+
+In the quarter, TELUS recognized a non-cash impairment of $800 million relating to TELUS Health, as the recoverable amount of the TELUS Health cash-generating unit was less than its carrying amount as at September 30, 2026. See Note 18(b) of the interim consolidated financial statements for additional details.
+
+TELUS recognized a net loss of $660 million and a basic loss per share of $0.42, reflecting the after-tax impacts of a decline in Operating income and greater Financing costs. When excluding certain costs and other adjustments (see 'Reconciliation of adjusted Net income' in this news release), compared to the same period last year, adjusted Net income of $251 million decreased by 32 per cent, while adjusted basic EPS of $0.16 was down 33 per cent. Adjusted Net income is a non-GAAP financial measure and adjusted basic EPS is a non-GAAP ratio. For further explanation of these measures, see 'Non-GAAP and other specified financial measures' in this news release.
+
+Compared to the same period last year, consolidated EBITDA decreased by 12 per cent to $1.5 billion. Adjusted EBITDA declined by 5 per cent to $1.8 billion reflecting TELUS Digital performance and the non-recurrence of real estate gains and other operating expense reductions recorded in the prior period. Excluding these one-time items, Adjusted EBITDA decreased by 2 per cent. See 'Third quarter 2026 operating highlights' within this news release for a discussion on segmented Adjusted EBITDA results.
+
+TTech subscriber base of 18.3 million connections increased by 6 per cent over the past 12 months, with mobile phone subscribers up 1 per cent to 10.4 million, connected devices up 22 per cent to 5.1 million, and internet subscribers up 2 per cent to 2.8 million.
+
+Cash provided by operating activities of $1.5 billion decreased by 1 per cent. Free cash flow of $396 million decreased by 35 per cent compared to the same period a year ago, largely driven by lower EBITDA and increased capital expenditures.
+
+Consolidated capital expenditures of $701 million increased by 8 per cent in the third quarter of 2026. Capital expenditures in support of TTech operations of $619 million increased by $85 million, primarily from greater capital investments in developing new facilities and expanding network infrastructure builds to meet growing industry demand. TELUS Health capital expenditures of $52 million decreased by $4 million, largely driven by decreased investments in business acquisitions. TELUS Digital capital expenditures of $41 million remained largely unchanged.
+
+Consolidated financial highlights //st C$ millions, except footnotes and unless noted otherwise Three months ended Per cent
+
+September 30 (unaudited) 2026 2025 change Operating revenues (arising from contracts with customers) 5,020 5,067 (1) Operating revenues and other income 5,026 5,106 (2) Total operating expenses 5,274 4,364 21 Net income (loss) (660) 431 n/m Net income (loss) attributable to common shares (667) 493 n/m Adjusted Net income (1) 251 370 (32) Basic EPS ($) (0.42) 0.32 n/m Adjusted basic EPS (1) ($) 0.16 0.24 (33) EBITDA (1) 1,549 1,753 (12) Adjusted EBITDA (1) 1,760 1,862 (5) Capital expenditures (2) (701) (652) 8 Cash provided by operating activities 1,485 1,493 (1) Free cash flow (1) 396 611 (35) Telecom subscriber connections (3) (thousands) 18,329 17,214 6 Healthcare lives covered (millions) 154.5 160.6 (4)
+
+Notation used in the table above: n/m not meaningful. //st (1) These are non-GAAP and other specified financial measures, which do not have standardized meanings under IFRS Accounting Standards and might not be comparable to those used by other issuers. For further definitions and explanations of these measures, see ' Non-GAAP and other specified financial measures ' in this news release. (2) Capital expenditures include assets purchased, excluding right-of-use lease assets, but not yet paid for, and consequently differ from cash payments for capital assets, excluding spectrum licences, as reported in the consolidated financial statements. Refer to Note 31 of the interim consolidated financial statements for further information. (3) The sum of active mobile phone subscribers, connected device subscribers and internet subscribers, measured at the end of the respective periods based on information in billing and other source systems. Effective January 1, 2026, with retrospective application to January 1, 2025, we have revised our subscriber reporting to apply a product-intensive focus on our core bundling foundation of mobility and internet and thus will no longer report TV, security and automation and residential voice subscribers. This change concentrates our disclosure on our core bundling foundation and enables us to better serve our customers, while supporting the migration from legacy products and services to integrated IP streaming, mobile-first connectivity, and smart home solutions. Effective January 1, 2026, we made certain subscriber adjustments on a prospective basis, reducing our subscriber base for mobile phones (18,000), connected devices (78,000) and internet (30,000). See Section 5.4 in our third quarter 2026 MD&A for further details.
+
+Third quarter 2026 operating highlights
+
+TELUS technology solutions (TTech) //st * TTech operating revenues (arising from contracts with customers) were relatively flat. * TTech EBITDA decreased by $163 million or 10 per cent, while TTech Adjusted EBITDA decreased by 5 per cent reflecting: (i) lower other income, largely due to lower gains on real estate projects; (ii) fixed legacy voice decline; (iii) increased costs of subscription-based licences and cloud usage; (iv) higher network operations costs; (v) lower B2B data services revenue; and (vi) lower mobile equipment margins. These factors were partially offset by: (i) network revenue growth driven by a higher mobile phone subscriber base, supported by a stabilization in mobile phone ARPU; (ii) growth in internet subscribers; (iii) lower bad debt expense; (iv) security and automation revenue growth; and (v) increased agriculture and consumer goods margin. Excluding one-time items from the prior period, specifically real estate gains and operating expense reductions, TTech Adjusted EBITDA decreased by 1 per cent. In addition to the drivers discussed within TTech Adjusted EBITDA above, EBITDA also reflected an increase in restructuring and other costs of $75 million in the third quarter of 2026, as a result of cost efficiency and effectiveness programs.
+
+Mobile products and services //st * Mobile network revenue increased by $25 million or 1 per cent, largely due to growth in mobile phone subscriber base and stabilization in mobile phone ARPU. * Mobile equipment and other service revenues decreased by $2 million, due to a reduction in contracted volumes, partially offset by the impact of higher-value smartphones in the sales mix. * TTech mobile products and services direct contribution increased by $35 million in the third quarter of 2026, reflecting stronger mobile network revenue growth, partially offset by a decline in mobile equipment margin from lower contracted volumes. * Mobile phone ARPU was flat at $57.22 highlighting the successful execution of ongoing efforts to stabilize ARPU including the adoption of unlimited data and Canada-U.S.-Mexico plans, which generate higher and more stable ARPU on a monthly basis while also offering customers greater cost certainty in lower roaming fees to the U.S. and Mexico, and lower data overage fees. * Mobile phone gross additions were 395,000, reflecting a decrease of 24,000, driven by a greater emphasis on premium and profitable loading. * Mobile phone churn rate was 1.01 per cent, an improvement of 10 basis points, largely a result of ongoing focus on customer retention and network quality, along with successful promotions. * Mobile phone net additions were 84,000 in the third quarter of 2026, an increase of 2,000, driven by a lower mobile phone churn rate, partially offset by a decrease in gross additions. * Connected device net additions were 289,000, an increase of 120,000, driven by growth in gross additions from customers in the transportation and connectivity industries.
+
+Fixed products and services //st * Fixed data services revenues increased by $23 million, driven by internet subscriber growth and value-accretive loading in security and automation, partially offset by lower but moderating B2B data services revenue. * Fixed voice services revenues decreased by $12 million, reflecting the ongoing decline in legacy voice revenues. This was partially mitigated by the effects of our successful customer retention efforts. * Fixed equipment and other service revenues decreased by $20 million, driven primarily by lower premises equipment sales. * TTech fixed products and services direct contribution decreased by $11 million, primarily driven by fixed legacy voice decline and lower B2B data services revenue, partially offset by continued growth in internet subscribers, security and automation, and TV from programming savings. * Internet net additions were 10,000, a decrease of 30,000, attributable to lower gross loading, reflecting a greater emphasis on premium and profitable loading, partially offset by lower churn.
+
+Agriculture and consumer goods services //st * Agriculture and consumer goods services revenues increased by $2 million, largely as a result of favourable foreign exchange rate effects from a weaker Canadian dollar.
+
+TELUS Health //st * Health services revenues increased by $11 million, driven by: (i) growth in retirement and benefits solutions, inclusive of business acquisitions and organic growth; and (ii) growth in payor and provider solutions, with strong performance in collaborative health records and an increase in recurring revenue related to electronic medical records solutions, increased patient health records and health benefits management, and virtual pharmacy solutions. These factors were partially offset by a decline in employer solutions driven by the continued impact of prior year churn and pricing pressure. * TELUS Health EBITDA decreased by $8 million or 10 per cent, and TELUS Health Adjusted EBITDA decreased by $5 million or 5 per cent, primarily due to lower other income from a one-time item recorded in the third quarter of 2025. The difference between the growth rate of EBITDA and Adjusted EBITDA is attributable to higher restructuring and other costs related to cost efficiency and effectiveness programs. * Healthcare lives covered were 154.5 million as of the end of the third quarter of 2026, a decrease of 6.1 million over the past 12 months, mainly reflecting churn in our employee and family assistance programs in some of our operating regions.
+
+TELUS Digital //st * TELUS Digital operating revenues (arising from contracts with customers) decreased by $75 million in the third quarter of 2026, primarily attributable to client ramp-downs in our trust and safety service line and our AI and data solutions service line. * TELUS Digital EBITDA decreased by $29 million in the third quarter of 2026, while TELUS Digital Adjusted EBITDA decreased by $5 million or 9 per cent. The decrease in EBITDA was primarily due to lower Operating revenues and increased restructuring and other costs, partially offset by: (i) lower operating expenses reflecting cost savings from cost efficiency initiatives and a lower cost base from a reduced team member base, primarily out of Europe; and (ii) higher Other income.
+
+2026 Financial Outlook
+
+TELUS is reaffirming its full-year 2026 guidance as updated with its second quarter results on July 31, 2026. //st
+
+2026 Guidance Consolidated service revenue growth Flat to (2%) Consolidated Adjusted EBITDA growth (2%) to (4%) Capital expenditures 1 Approximately $2.6 billion Free cash flow Approximately $1.8 billion
+
+1Includes approximately $75 million targeted towards real estate development initiatives.
+
+Please see 'Caution regarding forward-looking statements' below for a description of the assumptions on which our financial outlook is based and the risks that could cause our actual results to differ materially from this outlook.
+
+Dividend declaration
+
+The TELUS Board of Directors declared a quarterly dividend of $0.1875 per share on the issued and outstanding Common Shares of the Company payable on January 4, 2027, to holders of record at the close of business on December 11, 2026.
+
+Corporate and community highlights
+
+TELUS continues to make significant contributions to the Canadian economy and the communities it serves. In the first nine months of 2026, TELUS paid, collected and remitted approximately $1.8 billion in taxes and regulatory fees to federal, provincial and municipal governments, invested $2.0 billion in capital expenditures primarily in communities across Canada, disbursed spectrum renewal fees in excess of $53 million to Innovation, Science and Economic Development Canada, and generated a total team member payroll of $2.9 billion. Since 2000, TELUS has remitted more than $51 billion in total taxes and spectrum fees and invested over $60 billion in Canadian infrastructure.
+
+Since 2005, the TELUS Community Boards and the TELUS Friendly Future Foundation have supported 36.4 million youth worldwide, granting more than $158 million across 11,900 charitable initiatives, including $9 million benefiting 346,000 youth in the first nine months of 2026 alone.
+
+Through our Connecting for Goodinitiatives and the TELUS Wiseprogram, we continue to bridge critical gaps in technology, healthcare, and digital literacy for marginalized communities. To date, these programs have supported 1.8 million Canadians, reaching an additional 205,000 individuals in the first nine months of 2026.
+
+In the third quarter of 2026, TELUS was named a finalist across five global categories in the World Sustainability &Reuters Leadership Awards, highlighting excellence in corporate sustainability, diversity, and environmental stewardship.
+
+Further details on TELUS' community investment programs, environmental sustainability initiatives, and social impact are available in the Company's third quarter 2026 MD&A and at telus.com.
+
+Access to quarterly results information
+
+Interested investors, the media and others may review this quarterly earnings news release, MD&A, financial statements, quarterly results slides, audio and transcript of the investor webcast call, supplementary financial information at telus.com/investors.
+
+TELUS' third quarter 2026 conference call is scheduled for Friday, November 6, 2026 at 9:30 am ET
+
+(7:30 am PCT)and will feature prepared remarks and a slide presentation followed by a question and answer period with investment analysts. Interested parties can access the webcast attelus.com/investors. An archive of the webcast and presentation will be available ontelus.com/investorsand an audio recording will be available approximately 60 minutes after the call until January 6, 2027 at 1-855-201-2300. Quote conference access code 87402# and playback access code 87402#. A transcript will be posted on the website within a few business days.
+
+Caution regarding forward-looking statements
+
+This news release contains forward-looking statements about expected events and our financial and operating performance. Forward-looking statements include any statements that do not refer to historical facts. They include, but are not limited to, statements relating to our reaffirmed full-year financial outlook as updated with our second quarter results on July 31, 2026 (including guidance regarding capital expenditures and capital intensity, free cash flow, consolidated service revenue and consolidated Adjusted EBITDA); expectations regarding the advancement of our Transformation Strategy, including our efficiency program and the monetization of non-core businesses; expected impact of our dividend reset and the termination of the discount under our DRIP; our targeted net debt to Adjusted EBITDA ratio and expectations regarding leverage; the results of our assessment of the Global Platform Businesses portfolio; and expectations regarding investment in the growth of our core telecom business, digital infrastructure and connectivity capabilities. Forward-looking statements are typically identified by the words, assumption, goal, guidance, objective, outlook, strategy, target and other similar expressions, or verbs such as aim, anticipate, believe, could, expect, intend, may, plan, predict, seek, should, strive and will. These statements are made pursuant to the "safe harbour" provisions of applicable securities laws in Canada and the United States Private Securities Litigation Reform Act of 1995.
+
+By their nature, forward-looking statements are subject to inherent risks and uncertainties and are based on assumptions, including assumptions about future economic conditions and courses of action. These assumptions may ultimately prove to have been inaccurate and, as a result, our actual results or other events may differ materially from expectations expressed in, or implied by, the forward-looking statements. The assumptions on which our 2026 outlook is based, as described in Section 9in our 2025 annual MD&A, remain the same, except for the updates below as well as our estimates regarding economic growth, inflation, unemployment and housing starts, as discussed in Section 1.2 in our third quarter 2026 MD&A. //st * We anticipated growth in TELUS Digital to be supported by our differentiated digital customer experience solutions and continued optimization of the cost structure to mitigate declining industry trends in traditional business process outsourcing. Further, while we anticipated continued scaling of AI-enabling services in TELUS Digital, albeit at a slower pace and scale, this is not expected to offset demand ramp-downs and more pronounced churn in legacy services provided to certain hyperscale customers as these services are being automated faster than anticipated. * Our restructuring and other costs assumption has been revised to approximately $900 million, from approximately $500 million. The increase is a result of expanded operational effectiveness programs to support EBITDA and cash flow growth. We estimate total cash restructuring and other disbursements of approximately $650 million, from approximately $450 million. * Our cash income tax payments assumption has been revised downward to a range of approximately $190 million to $290 million from a range of approximately $540 million to $620 million. This decrease was primarily due to higher refunds received, Canadian Bill C-15 receiving royal assent on March 26, 2026, and lower required income tax instalments attributable to lower income before income taxes.
+
+Risks and uncertainties that could cause actual performance or events to differ materially from the forward-looking statements made herein and in other TELUS filings include, but are not limited to, the following: //st * Regulatory matters. We operate in a number of highly regulated industries and conduct business in many jurisdictions and are therefore subject to a wide variety of laws and regulations domestically and internationally. Policies and approaches advanced by elected officials and regulatory decisions, reviews and other government activity may have strategic, operational and/or financial impacts (including on revenue and free cash flow).
+
+Risks and uncertainties include:
+
+* potential changes to our regulatory regime or the outcomes of proceedings, cases or inquiries relating to its application, including, but not limited to, those set out in Section 9.1 Communications industry regulatory developments and proceedings in our third quarter 2026 MD&A
+
+* our ability to comply with complex and changing regulation of the healthcare, virtual care and medical devices industries in the jurisdictions in which we operate, including as an operator of health clinics; and
+
+* our ability to comply with, or facilitate our clients' compliance with, numerous, complex and sometimes conflicting legal regimes, both domestically and internationally. * Competitive environment. Competitor expansion, activity and intensity (pricing, including discounting, bundling), as well as non-traditional competition, including low-earth orbit satellite internet services, disruptive technology and disintermediation, may alter the nature of the markets in which we compete and impact our market share and financial results (including revenue and free cash flow). The reduction in the number of new permanent and temporary residents in Canada may intensify competitive pressure. Different areas of our business including TELUS Health and TELUS Digital also face intense competition in the different markets in which we compete. * Technology. Consumer adoption of alternative technologies and changing customer expectations have the potential to impact our revenue streams and customer churn rates.
+
+Risks and uncertainties include:
+
+* disruptive technologies, including software-defined networks in the business market and AI, that may displace or cause us to reprice our existing data services, and self-installed technology solutions;
+
+* any failure to innovate, maintain technological advantages or respond effectively and in a timely manner to changes in technology;
+
+* the roll-out, anticipated benefits and efficiencies, and ongoing evolution of wireless broadband technologies and systems;
+
+* our reliance on wireless network access agreements, which have facilitated our deployment of mobile technologies;
+
+* our expected long-term need to acquire additional spectrum through future spectrum auctions and from third parties to meet growing demand for data, and our ability to utilize spectrum we acquire;
+
+* deployment and operation of new fixed broadband network technologies at a reasonable cost and the availability and success of new products and services to be rolled out using such network technologies;
+
+* our deployment of self-learning tools and automation, which may change the way we interact with customers; and
+
+* the ability to integrate TELUS' wireless network and AST SpaceMobile's space-based network to support broadband data services, voice calls and text messaging directly between smartphones and satellites. * Security and data protection. Our ability to prevent, detect and identify potential threats and vulnerabilities depends on the effectiveness of our security controls in protecting our infrastructure and operating environment, and our timeliness in responding to attacks and restoring business operations. A successful attack may impede the operations of our network or lead to the unauthorized access to, interception, destruction, use or dissemination of, customer, team member or business information and confidential data. The necessary use of sensitive personal information by our business may expose us to the risk of non-compliance with applicable law in a jurisdiction or compromise perceptions of our brand. * Generative AI (GenAI). GenAI exposes us to numerous risks, including risks related to operational reliability, responsible AI usage, data privacy and cybersecurity, the possibility that our use of AI may generate inaccurate or inappropriate content or create negative perceptions among customers, the risk that we may not develop and adopt AI technologies effectively and could fail to achieve improved efficiency through our use of GenAI or that the use of AI could reduce demand or prices for our services, and that regulation could affect future implementation of AI. The rapid advancement of frontier AI is reshaping the cybersecurity threat landscape, enabling more sophisticated and scalable attacks, accelerating vulnerability discovery, and increasing the speed at which threat actors can exploit security weaknesses. * Climate and the environment. Natural disasters, pandemics, disruptive events and the effects of climate change may impact our operations, customer satisfaction and team member experience.
+
+Our goals to achieve carbon neutrality and reduce our greenhouse gas (GHG) emissions in our operations are subject to our ability to identify, procure and implement solutions that reduce energy consumption and adopt cleaner sources of energy, our ability to identify and make suitable investments in renewable energy, including in the form of virtual power purchase agreements, and our ability to continue to realize significant absolute reductions in energy use and the resulting GHG emissions from our operations. * Operational performance, business combinations and divestitures, and TELUS Digital privatization. Investments and acquisitions present opportunities to expand our operational scope, but may expose us to new risks. We may be unsuccessful in gaining market traction/share or in integrating acquisitions into our operations within expected timelines or at all, we may not realize the expected benefits of acquisitions, and integration efforts may divert resources from other priorities. There is no assurance that we will realize any or all of the anticipated benefits of the privatization of TELUS International (Cda) Inc. in the timeframe anticipated or at expected cost levels, that we will be able to drive cross-selling opportunities, or that our estimates and expectations in relation to future economic and business conditions and the resulting impact on growth and various financial metrics will prove to be accurate. Failure to complete asset monetization processes as part of our deleveraging plans or achieve the anticipated benefits of those asset monetization processes could increase our cost of capital.
+
+Risks relating to operational performance include:
+
+* our reliance on third-party cloud-based computing services to deliver our IT services; and
+
+* economic, political and other risks associated with doing business globally (including war and other geopolitical developments).
+
+We may not be able to deliver the service excellence our customers expect or maintain our competitive advantage in this area. //st * Our systems and processes. Systems and technology innovation, maintenance and management may impact our IT systems and network reliability, as well as our operating costs.
+
+Risks and uncertainties include:
+
+* our ability to maintain customer service and operate our network in the event of human error or human-caused threats, such as cyberattacks and equipment failures that could cause network outages;
+
+* technical disruptions and infrastructure breakdowns;
+
+* delays and rising costs, including as a result of government restrictions or trade actions; and
+
+* the completeness and effectiveness of business continuity and disaster recovery plans and responses. * Our team. The rapidly evolving and highly competitive nature of our markets and operating environment, along with the globalization and evolving demographic profile of our workforce, and the effectiveness of our internal training, development, succession and health and well-being programs, may impact our ability to attract, develop and retain team members with the skills required to meet the changing needs of our customers and our business. Team members may face greater mental health challenges associated with the significant change initiatives at the organization, which may result in the loss of key team members through short-term and long-term disability and churn. Integration of international business acquisitions and concurrent integration activities may impact operational efficiency, organizational culture and engagement. * Suppliers. We may be impacted by supply chain disruptions and lack of resiliency in relation to global or local events. Dependence on a single supplier for products, components, service delivery or support may impact our ability to efficiently meet constantly changing and rising customer expectations while maintaining quality of service. Our suppliers' ability to maintain and service their product lines could affect the success of upgrades to, and evolution of, technology that we offer. * Real estate matters. Real estate investments are exposed to possible financing risks and uncertainty related to future demand, occupancy and rental rates. Future real estate developments may not be completed on budget or on time and may not obtain lease commitments as planned. We may be exposed to the risk of loss in relation to our investments if the business plans of our real estate developments including joint ventures are not successfully executed. * Financing, debt and dividends. Our ability to access funding at optimal pricing may be impacted by general market conditions and changing assessments in the fixed-income and equity capital markets regarding our ability to generate sufficient future cash flow to service our debt. Failure to complete planned deleveraging initiatives or to achieve the anticipated benefits of those initiatives could increase our cost of capital. Our current intention to pay dividends to shareholders could constrain our ability to invest in our operations to support future growth.
+
+Risks and uncertainties include:
+
+* our ability to use equity as a form of consideration in business acquisitions is impacted by stock market valuations of TELUS Common Shares;
+
+* our capital expenditure levels and potential outlays for spectrum licences in auctions or purchases from third parties affect and are affected by: our broadband initiatives; our ongoing deployment of newer mobile technologies; investments in network technology required to comply with laws and regulations relating to the security of cyber systems, including bans on the products and services of certain vendors; investments in network resiliency and reliability; the allocation of resources to acquisitions and future spectrum auctions held by Innovation, Science and Economic Development Canada (ISED). Our capital expenditure levels could be impacted if we do not achieve our targeted operational and financial results or if there are changes to our regulatory environment; and
+
+* lower than planned free cash flow could constrain our ability to invest in operations, reduce leverage or return capital to shareholders. Quarterly dividend decisions are made by our Board of Directors based on our financial position and outlook. Common Shares may be purchased under our normal course issuer bid (NCIB) when and if we consider it opportunistic, based on our financial position and outlook, and the market price of our Common Shares. There can be no assurance that our NCIB will be maintained, unchanged and/or completed. * Tax matters. Complexity of domestic and foreign tax laws, regulations and reporting requirements that apply to TELUS and our international operating subsidiaries may impact financial results. International acquisitions and expansion of operations heighten our exposure to multiple forms of taxation. * The economy. Changing global economic conditions, including a potential recession and varying expectations about inflation, as well as our effectiveness in monitoring and revising growth assumptions and contingency plans, may impact the achievement of our corporate objectives, our financial results (including free cash flow), and our defined benefit pension plans. Geopolitical uncertainties and changes in trade policies and agreements, including tariffs or trade restrictions, could increase our costs, disrupt our supply chains and adversely affect our operations and financial results. They present a risk of recession and may cause customers to reduce or delay discretionary spending, impacting new service purchases or volumes of use, and to consider substitution by lower-priced alternatives. * Litigation and legal matters. Complexity of, and compliance with, laws, regulations, commitments and expectations may have a financial and reputational impact.
+
+Risks include:
+
+* our ability to defend against existing and potential claims or our ability to negotiate and exercise indemnity rights or other protections in respect of such claims; and
+
+* the complexity of legal compliance in domestic and foreign jurisdictions, including compliance with competition, anti-bribery and foreign corrupt practices laws.
+
+These risks and the assumptions underlying our forward-looking statements are described in additional detail in Section 10 Risks and risk managementin our 2025 annual MD&A. Those descriptions are incorporated by reference in this cautionary statement but are not intended to be a complete list of the risks that could affect the Company, or of our assumptions.
+
+Additional risks and uncertainties that are not currently known to us or that we currently deem to be immaterial may also have a material adverse effect on our financial position, financial performance, cash flows, business or reputation. Except as otherwise indicated in this document, the forward-looking statements made herein do not reflect the potential impact of any non-recurring or special items or any mergers, acquisitions, dispositions or other business combinations or transactions that may be announced or that may occur after the date of this document.
+
+Readers are cautioned not to place undue reliance on forward-looking statements. Forward-looking statements in this document describe our expectations, and are based on our assumptions, as at the date of this document and are subject to change after this date. Forward-looking statements in this release, in particular regarding our financial outlook, are presented for the purpose of assisting our investors and others in understanding certain key elements of our expected 2026 financial results as well as our objectives, strategic priorities and business outlook. Such information may not be appropriate for other purposes.We disclaim any intention or obligation to update or revise any forward-looking statements except as required by law.
+
+This cautionary statement qualifies all of the forward-looking statements in this document.
+
+Non-GAAP and other specified financial measures
+
+We issue guidance on and report certain non-GAAP measures that are used to evaluate the performance of TELUS, as well as to determine compliance with debt covenants and to manage our capital structure. As non-GAAP measures generally do not have standardized meanings, they might not be comparable to similar measures disclosed by other issuers. Securities regulations require that such measures be clearly defined, qualified and reconciled with their nearest GAAP measure. Certain of the metrics do not have generally accepted industry definitions.
+
+Adjusted Net income and adjusted basic earnings per share (EPS): These are non-GAAP measures that do not have any standardized meanings prescribed by IFRS Accounting Standards and are therefore unlikely to be comparable to similar measures presented by other issuers. Adjusted Net income excludes the effects of restructuring and other costs, real estate rationalization-related restructuring impairments, income tax-related adjustments, long-term debt prepayment premium, and other adjustments (identified in the following tables). Adjusted basic EPS is calculated as adjusted Net income divided by the basic weighted-average number of Common Shares outstanding. These measures are used to evaluate performance at a consolidated level and exclude items that, in management's view, may obscure underlying trends in business performance or items of an unusual nature that do not reflect our ongoing operations. They should not be considered as alternatives to Net income and basic EPS in measuring TELUS' performance.
+
+Reconciliation of adjusted Net income //st Three months ended September 30 C$ millions 2026 2025 Net income (loss) attributable to Common Shares (667) 493 Add (deduct) amounts net of amount attributable to non-controlling interests: Restructuring and other costs 210 93 Tax effects of restructuring and other costs (48) (25) Real estate rationalization-related restructuring impairments 1 (4) Tax effect of real estate rationalization-related restructuring impairments 1 Long-term debt prepayment premium 27 Tax effect of long-term debt prepayment premium (7) Impairment of intangible assets and goodwill 800 Tax effect of impairment of intangible assets and goodwill (15) Gain on purchase of long-term debt (222) Tax effect of gain on purchase of long-term debt 25 Income tax-related adjustments (30) (11) Adjusted Net income 251 370
+
+Reconciliation of adjusted basic EPS //st Three months ended September 30 C$ 2026 2025 Basic EPS (0.42) 0.32 Add (deduct) amounts net of amount attributable to non-controlling interests: Restructuring and other costs, per share 0.13 0.07 Tax effect of restructuring and other costs, per share (0.02) (0.02) Long-term debt prepayment premium, per share 0.02 Tax effect of long-term debt prepayment premium, per share (0.01) Impairment of intangible assets and goodwill, per share 0.50 Tax effect of impairment of intangible assets and goodwill, per share (0.01) Gain on purchase of long-term debt per share (0.15) Tax effect of gain on purchase of long-term debt per share 0.02 Income tax-related adjustments, per share (0.02) (0.01) Adjusted basic EPS 0.16 0.24
+
+EBITDA(earnings before interest, income taxes, depreciation and amortization): We issue guidance on and report EBITDA because it is a key measure used to evaluate performance at a consolidated level. EBITDA is commonly reported and widely used by investors and lending institutions as an indicator of a company's operating performance and ability to incur and service debt, and as a valuation metric. EBITDA should not be considered as an alternative to Net income in measuring TELUS' performance, nor should it be used as a measure of cash flow. EBITDA as calculated by TELUS is equivalent to Operating revenues and other income less the total of Goods and services purchased expense and Employee benefits expense.
+
+We calculate Adjusted EBITDAby excluding items of an unusual nature that do not reflect our ongoing operations and should not, in our opinion, be considered in a long-term valuation metric or should not be included in an assessment of our ability to service or incur debt. //st EBITDA and Adjusted EBITDA reconciliations
+
+TTech TELUS TELUS Digital Eliminations Total Health Three months ended September 30 2026 2025 1 2026 2025 1 2026 2025 1 2026 2025 2026 2025 (C$ millions) Net income (660) 431 Financing costs 376 154 Income taxes 36 157 EBIT 724 904 (831) (41) (118) (102) (23) (19) (248) 742 Depreciation 550 529 14 21 53 71 617 621 Amortization of intangible assets 220 224 94 105 66 61 380 390 Impairment of intangible assets and goodwill 800 800 EBITDA 1,494 1,657 77 85 1 30 (23) (19) 1,549 1,753 Add restructuring and other costs included in EBITDA 135 60 15 12 61 37 211 109 EBITDA excluding restructuring and other costs and Adjusted EBITDA 1,629 1,717 92 97 62 67 (23) (19) 1,760 1,862 (1) 2025 results have been restated.
+
+Free cash flow:We report this measure as a supplementary indicator of our operating performance, and there is no generally accepted industry definition of free cash flow. It should not be considered as an alternative to the measures in the condensed interim consolidated statements of cash flows. Free cash flow excludes certain working capital changes (such as trade receivables and trade payables), proceeds from divested assets and other sources and uses of cash, as reported in the condensed interim consolidated statements of cash flows. It provides an indication of the amount of cash generated by operations that is available after capital expenditures and may be used for discretionary purposes, among other things, to pay dividends, repay debt, purchase shares or make other investments. Free cash flow may be supplemented from time to time by proceeds from divested assets or financing activities. //st Free cash flow calculation Three months ended September 30, 2026 Three months ended September 30, 2025 (C$ millions) Cash provided by operating Difference Free cash flow Cash provided Difference Free activities by operating activities cash flow EBITDA 1,549 1,549 1,753 1,753 Restructuring and other costs, 63 63 18 18 net of disbursements Effects of contract asset, (10) (10) 35 35 acquisition and fulfilment and TELUS Easy Payment mobile device financing Effect of non-discretionary (142) (142) (137) (137) lease principal Items from the condensed interim consolidated statements of cash flows: Share-based compensation, net of employee share purchase 48 48 42 1 43 plan cash outflows Employee future benefits 27 27 10 10 expense, net Gain on contributions of real (13) 13 estate to joint ventures (Income) loss from equity 6 6 1 1 accounted investments Gain on purchase of long-term (222) 222 debt Interest paid (370) (370) (399) (399) Interest received 7 7 16 16 Other (55) 55 (99) 99 Other working capital items 301 (301) 428 (428) Capital expenditures (701) (701) (652) (652) 1,566 (1,089) 477 1,570 (882) 688 Income taxes paid, net of refunds (81) (81) (77) (77) 1,485 (1,089) 396 1,493 (882) 611
+
+Mobile phone average revenue per subscriber per month (ARPU)is calculated as network revenue derived from monthly service plan, roaming and usage charges; divided by the average number of mobile phone subscribers on the network during the period and is expressed as a rate per month.
+
+Appendix
+
+Operating revenues and other income TTech segment //st C$ millions Three months ended Per cent
+
+September 30 change 2025 (unaudited) 2026 (restated) Mobile network revenue 1,780 1,755 1 Mobile equipment and other service revenues 516 518 Fixed data services (1) 1,186 1,163 2 Fixed voice services 155 167 (7) Fixed equipment and other service revenues 123 143 (14) Agriculture and consumer goods services 94 92 2 Operating revenues (arising from contracts with customers) 3,854 3,838 Other income 29 (100) External Operating revenues and other income 3,854 3,867 Intersegment revenues 5 6 (17) TTech Operating revenues and other income 3,859 3,873 (1) Excludes agriculture and consumer goods services.
+
+Operating revenues and other income TELUS health segment //st C$ millions Three months ended Per cent
+
+September 30 (unaudited) 2026 2025 change Health services 527 516 2 Health equipment 2 1 100 Operating revenues (arising from contracts with customers) 529 517 2 Other income 10 (100) External Operating revenues and other income 529 527 Intersegment revenues 1 1 TELUS Health Operating revenues and other income 530 528
+
+Operating revenues and other income TELUS digital experience segment //st C$ millions Three months ended Per cent
+
+September 30 2025 (unaudited) 2026 change (restated) Operating revenues (arising from contracts with customers) 637 712 (11) Other income 6 n/m External Operating revenues and other income 643 712 (10) Intersegment revenues 94 109 (14) TELUS Digital Operating revenues and other income 737 821 (10)
+
+About TELUS
+
+TELUS (TSX: T, NYSE: TU) is a leading Canadian communications technology company operating in more than 45 countries and generating over $20 billion in annual revenue with more than 18 million customer connections through our advanced suite of broadband services for consumers, businesses and the public sector. TELUS is passionate about putting our customers and communities first, leading the way globally in client service excellence and social capitalism. The TELUS PureFibre and 5G networks connect Canadians at home, at work and in the communities where they live.
+
+TELUS Health is a global technology leader advancing health data infrastructure and workforce wellbeing. TELUS Agriculture &Consumer Goods utilizes digital technologies and data insights to optimize the connection between producersand consumers. TELUS Digital specializes in digital customer experiences and future-focused digital transformations that deliver value for their global clients.
+
+Since 2000, TELUS and our team members have contributed more than $1.85 billion in cash, in-kind contributions, time and programs to communities across Canada and around the world.
+
+For more information, visit telus.com.
+
+Investor Relations
+
+Ian McMillan
+
+ir@telus.com
+
+Media Relations
+
+Steve Beisswanger
+
+Steve.Beisswanger@telus.com
+
+______________________________________
+
+_______________________________________________ Closing price for T-T Date : 2026/11/05 Price: 13.19
+
+____________________________________________________________
+
+(c)2026 Market News Publishing Inc. All rights reserved.
+- **Why it matters to Innodata:** Active coverage on Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit, Turing (Legacy BPO & Crowd Volume) exposes buyer sensitivity around legacy bpo crowd volume lacking full-stack agent engineering and deterministic reliability gates.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit, Turing: Full-stack Agent Engineering and Agent Reliability Engineering (ARE) depth with domain-vetted SMEs. Highlight our Agent Reliability Engineering (ARE), Infrastructure Engineering capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit, Turing accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
+
+### 8. [Li Auto Inc. ADR (NASDAQ:LI) drops 7% in past 3 months](https://ct.moreover.com/?a=60788410373&p=21l&v=1&x=Vww7jkczL_WCUJ__hi5MSQ)
+- **Outlet(s):** Global Round Up - ADRs and Depository Receipts | **Published:** `2026-11-05` | **Sentiment:** `POSITIVE` | **Positioning Relevance Score:** `0.90`
+- **Matched Innodata Pillars:** Robotic Engineering, Agent Reliability Engineering (ARE), Infrastructure Engineering
+- **Matched Competitors:** Mercor, Turing, Surge AI, Invisible Technologies
+- **Coverage Snippet:** DAILY ADR AND DEPOSITORY RECEIPT REPORT
+
+www.buysellsignals.com
+
+Li Auto Inc. (NASDAQ:LI) last traded at $11.92 for a year to date return of -29.6%.
+
+Li Auto Inc., has dropped 89.0c (or 6.9%) in the past 3 months to close at $11.92 today. Compared with the BNY Mellon Composite ADR Index which fell 20.4 points (or 7.4%) in the past 3 months, this represented a relative price change of nil.
+
+Source: https://www.nasdaq.com/market-activity/stocks/LI, company (Li Auto Inc.), Ticker(LI)
+
+Bearish Turning Point
+
+Williams % R
+
+The ADR is overbought according to the Williams % R indicator of -16.6, suggesting the price is close to its 14-day high. The Williams % R was previously -42.5.
+
+LI AUTO INC. (LI) ADR Dashboard End-of-Day Thu, Nov 05, 2026
+
+http://www.lixiang.com
+
+PRICE & TRADING
+Last $11.92
+52-Week Price Range $10.66 - $20.67
+Ave Daily Volume 3,338,952 ADRs
+Today's Volume [VI] 5,033,475 [1.5]
+VALUATION & EPS
+Market Cap $9.7 billion
+EPS Growth (FY2025 vs FY2024) -86.1%
+Shares Outstanding 814,380,000
+CLASSIFICATION & INDEX
+Exchange NASDAQ
+Sector Auto Manufacturers [Rank by MCap 9 of 16 stocks]
+Institutional Ownership % of shares outstanding 5%
+PERFORMANCE
+PV$1000 (1 yr) and TRS $594; -40.6%
+
+VI* Volume Index = Number of shares traded today/Average number of shares traded per day.
+
+*Total ADRs Held by Institutions 41,537,083; equivalent to 83,074,166 Li Auto Inc. shares on issue. This represents 5.0% of total shares on issue.
+
+Source: https://www.nasdaq.com/market-activity/stocks/LI, company (Li Auto Inc.), Ticker(LI)
+
+DATA & ARCHIVE DOWNLOAD CENTER
+
+LI ADR: EXPORT DATA TO EXCEL: + SHAREHOLDERS - COMPLETE LIST OF 158 INSTITUTIONS + PEER COMPARISON LI ADR: OTHER INFORMATION: + PRICE VOLUME CHARTS INDEX
+
+SECTION 1 THE PAST QUARTER: NEWS AND BUZZ
+
+SECTION 2 RECENT NEWS
+
+SECTION 3 TODAY'S BEARISH SIGNALS
+
+SECTION 4 TODAY'S BULLISH SIGNALS
+
+SECTION 5 FINANCIALS
+
+ADR IDENTIFIERS
+
+GLOSSARY
+
+SECTION 1 THE PAST QUARTER: NEWS AND BUZZ
+
+1.1 Institutional News [Updated Nov 04, 2026]
+
+The source data is compiled as an aggregation of SEC filings. So far in this quarter 4,102 institutions have reported their holdings at the end of quarter Q3. The remaining 4,613 institutions are expected to file by day 45 of Q4, the deadline date.
+
+1.1.1 Top 5 Institutions increasing their holdings in Li Auto Inc. ADRs [Q3/2026]
+
+Institution Name (CIK) Rank on Jun 30, 2026 Jun 30, 2026 Sep 30, 2026 Increase % *Today's Market Value $
+Ethic Inc. (0001780570) 66 28,236 66,572 135.8 770,904
+Crossmark Global Holdings, Inc. (0001539204) 44 54,565 60,148 10.2 696,514
+Vise Technologies, Inc. (0001812090) 54 38,882 46,661 20.0 540,334
+Creative Planning (0001540235) 85 14,503 21,912 51.1 253,741
+Sowell Financial Services LLC (0001633697) 87 12,672 16,813 32.7 194,695
+
+*Today's Market Value in $ of holdings as at Sep 30, 2026.
+
+1.1.2 Top 5 Institutions decreasing their holdings in Li Auto Inc. ADRs [Q3/2026]
+
+Institution Name (CIK) Rank on Jun 30, 2026 Jun 30, 2026 Sep 30, 2026 Decrease % *Today's Market Value $
+Citigroup (0000831001) 5 2,790,866 2,230,512 20.1 25.8 million
+Profund Advisors (0001129919) 40 67,244 66,483 1.1 769,873
+Vontobel Holding (0001588340) 55 38,691 21,183 45.3 245,299
+Aaron Wealth Advisors (0001812198) 70 24,741 20,762 16.1 240,424
+Dimensional Fund Advisors (0000354204) 58 33,022 17,013 48.5 197,011
+
+*Today's Market Value in $ of holdings as at Sep 30, 2026.
+
+SECTION 2 RECENT NEWS
+
+Recent News 1 of 20, Source: HourlyBusinessNews
+
+Oct 29, 2026: Li Auto Unveils 2026 i6: New Battery and Chip Technology at Competitive Price
+
+Li Auto Inc. has officially launched its 2026 Li i6, priced at a nationwide unified retail price of 249,800 yuan (approximately $37,000), with a limited-time launch price of 239,800 yuan (approximately $36,000). This event took place on the evening of 28th October 2026-10-30 12:59:53.281114, marking the first annual refresh of the five-seat all-electric SUV a year after its debut. The most significant change is the incorporation of the self-developed Lianshan 5C battery, the M100 chip, and the new-generation cockpit platform as standard across all trims, along with upgrades to range, chassis, and comfort features.
+
+Li Xiang, chairman and CEO of Li Auto, emphasized that a successful product stems from genuine market feedback. He stated that the 2026 i6 is the result of understanding user needs, aiming to position it as Li Auto's highest-selling vehicle globally. The i6 has quickly become the most popular model in Li Auto's lineup, with cumulative deliveries nearing 200,000 units and contributing substantially to the company's overall sales. In the first three quarters of 2026, Li Auto delivered a total of 293,400 vehicles, with the i6 alone accounting for about 160,000 units.
+
+The electric powertrain is at the core of this refresh. The 2026 Li i6 features the upgraded Lianshan 5C battery, with a capacity of 96 kWh. The CLTC range for the rear-wheel-drive version has increased from 720 km to 780 km, while the all-wheel-drive version's range has improved from 660 km to 710 km. Li Auto reported that its supercharging stations have seen over 2.8 million uses in the past year, indicating strong customer engagement with the i6's capabilities.
+
+On the technology front, the new model is equipped with the self-developed M100 chip and the latest VLA 2.5 driver-assist platform, which enhances the vehicle's perception of road environments. The cockpit features a Qualcomm Snapdragon 8797 chip and a 29-inch 6K panoramic screen, with an optional 21-inch 4K entertainment screen for rear passengers. Safety and comfort have also been prioritized, with advanced suspension systems and upgraded seating configurations aimed at enhancing the driving experience.
+
+Despite the promising launch of the i6, Li Auto has faced challenges in overall growth, with a decline in vehicle deliveries and revenue in 2025 and the first half of 2026. However, the company is optimistic about the i6's potential both domestically and in overseas markets, particularly with plans to launch the European version in early 2027. Li Auto aims to leverage its self-developed technologies and the i6's features to establish a stronger foothold in the global electric vehicle market.
+
+Recent News 2 of 20, Source: HourlyBusinessNews
+
+Oct 28, 2026: Li Auto Inc. Unveils 2026 Li i6, Expanding SUV Offering
+
+Li Auto Inc. has officially launched its latest vehicle, the 2026 Li i6, a pioneering five-seat SUV designed to enhance its offerings in the burgeoning new energy vehicle market. The announcement was made on 30th October 2026, with the SUV priced at RMB249,800 for its standard configuration. Deliveries are slated to begin within a week, marking a significant step for Li Auto in appealing to families looking for premium electric options.
+
+As a leading player in China's new energy vehicle sector, Li Auto Inc. has built a reputation for designing, developing, and manufacturing innovative smart electric vehicles. The company aims to provide families with products that are not only safe and convenient but also comfortable. The introduction of the 2026 Li i6 aligns with Li Auto's mission to be proactive and change the world through technological advancements and a customer-centric approach.
+
+Li Auto has been at the forefront of commercializing extended-range electric vehicles in China, successfully merging advanced technology with user-friendly designs. The company continues to prioritize in-house development of proprietary range extension systems and innovative electric vehicle technologies, ensuring that it remains competitive in a rapidly evolving market. The 2026 Li i6 is expected to further solidify the company’s position as a pioneer in the sector.
+
+The launch of the 2026 Li i6 is part of Li Auto's broader strategy to expand its product lineup and reach a wider user base. The company has already established itself with high-tech flagship family MPVs and the Li L series of extended-range electric SUVs. With the introduction of the new Li i6, Li Auto is poised to attract more consumers seeking reliable electric vehicles that cater to their lifestyle needs.
+
+For investors and stakeholders, the introduction of the 2026 Li i6 presents a pivotal moment for Li Auto Inc. as it continues to innovate within the electric vehicle landscape. The company’s commitment to leveraging technology for value creation aligns with market trends favoring sustainable transportation solutions. More details about this launch and other corporate developments can be found on Li Auto's official website.
+
+Recent News 3 of 20, Source: HourlyBusinessNews
+
+Oct 21, 2026: Li Auto's Bold Pledge: New Car for Battery Self-Ignition
+
+Li Auto (NASDAQ: LI, HKEX: 2015) has announced a significant pledge to its customers, promising a new vehicle of the same configuration if its in-house Lianshan battery self-ignites due to a quality defect, necessitating the scrapping of the car. This commitment was highlighted during the company's Power Day held in Beijing on 20th October 2026, where it unveiled various technologies under the Lianshan brand, including its battery, electric drive, and charging network.
+
+In addition to the self-ignition promise, Li Auto introduced a second pledge aimed at incidents resulting from collisions. If a battery fire occurs after an impact that leads to a scrapped vehicle, the company will cover the difference between the owner's vehicle damage insurance payout and the actual settlement amount. This assurance applies to all models equipped with the Lianshan battery, including those already delivered. However, the company has not yet disclosed the full conditions or clarified whether vehicles using CATL battery packs, such as the MEGA, are included in this offer.
+
+Li Auto is actively involved in the design and production of its batteries, controlling aspects such as cell materials, structure, and battery management systems. The company collaborates with contract manufacturers like Sunwoda and CALB for the cells used in its vehicles. The recent strategic investment of 2.65 billion CNY (approximately $394.4 million) in Sunwoda's power battery unit, alongside a 50-50 joint venture established in 2025, has positioned Li Auto as the second-largest shareholder in the battery supplier. This move underlines Li Auto's strategy of balancing in-house production with external procurement.
+
+Despite the ambitious pledges, Li Auto faces scrutiny due to past battery issues, including a fire incident involving the 2024 Li MEGA, which resulted in a recall of over 11,000 vehicles. The Lianshan battery pack, as presented during Power Day, is designed to withstand significant impacts and has enhanced safety features such as thicker coolant lines to mitigate leak risks. The company has also emphasized that each battery cell's production data will be retained for 20 years to monitor performance and safety.
+
+As the competition in the electric vehicle market intensifies, characterized by declining profit margins and increased pressure on automakers, Li Auto's pledges are aimed at instilling consumer confidence in its in-house battery technology. The company delivered 31,817 vehicles in September 2026, reflecting a decline from previous months, and will soon test the market's response to its new battery offerings with the launch of the 2026 i6 scheduled for early November.
+
+Recent News 4 of 20, Source: HourlyBusinessNews
+
+Oct 16, 2026: Li Auto Inc. Secures RMB1.625 Billion for Chip Business Expansion
+
+Li Auto Inc. ('Li Auto' or the 'Company') (Nasdaq: LI; HKEX: 2015), a leader in China's new energy vehicle market, has announced a significant equity financing initiative aimed at bolstering its chip and domain controller business. The announcement, made on the 16th of October 2026, details that Shanghai Mahe Xin Technology Co., Ltd. ('MHX Technology'), a wholly-owned subsidiary of Li Auto, has entered into subscription agreements for equity financing totaling RMB1.625 billion.
+
+Under this financing arrangement, Li Auto, through a wholly-owned subsidiary, and external investors, including Hangzhou Jingtao, Lanchi Ventures, Huaye Tiancheng, and MiraclePlus, will contribute RMB1.0 billion and RMB625 million respectively. Additionally, Hangzhou Jingtao has been granted a one-time subscription right to invest up to RMB500 million in MHX Technology at the same price per unit of increased registered capital as that under the current subscription agreement, set to be exercised on or before the 31st of December 2026.
+
+The financing is accompanied by two share incentive plans aimed at attracting and retaining key talent within MHX Technology, aligning employee interests with the long-term objectives of the business. Following the financing, Li Auto is expected to maintain control over MHX Technology, holding approximately 74.01% equity interest, while the external investors will hold 6.58%, and the entities administering the share incentive plans will hold 19.41%.
+
+The establishment of MHX Technology as a dedicated platform for the chip and domain controller business positions Li Auto to capitalize on expanding opportunities, particularly in non-automotive sectors. This strategic move not only enhances the company’s research and development capabilities but also aims to drive commercialization efforts, enabling Li Auto to realize greater economies of scale.
+
+Completion of the financing remains subject to customary closing conditions, with further details available in the Company’s announcement published on the Stock Exchange of Hong Kong Limited's website. Li Auto Inc. continues to advance its mission of providing innovative electric vehicle solutions while expanding its technological footprint in various sectors.
+
+Recent News 5 of 20, Source: HourlyBusinessNews
+
+Oct 16, 2026: Li Auto's Machxin Technology Valued at RMB 16.63 Billion Following Major Funding Round
+
+Li Auto Inc. has made a significant stride in its technological ambitions, with its chip and domain controller platform, Machxin Technology, completing a first round of equity financing totaling RMB 1.625 billion. This financing round, which took place on the 16th of October 2026, now places the post-investment valuation of Machxin Technology at approximately RMB 16.63 billion. The round was led by notable investors including Hangzhou Jingtao, BlueRun Ventures, and Huaye Tiancheng, alongside participation from Qiji Chuangtan.
+
+The financing is structured into two components, with Li Auto's controlling shareholder, Shanghai Machi Zhixin Intelligent Technology, subscribing to RMB 1 billion of the newly issued capital. The remaining RMB 625 million was subscribed by the aforementioned investors, with each of the first three contributing RMB 200 million and Qiji Chuangtan Fund III contributing RMB 25 million. Each unit of the newly issued registered capital was priced at RMB 23.35, resulting in a pre-investment valuation of RMB 15 billion.
+
+Li Auto highlighted that the proceeds from this funding will be directed towards the R&D and commercialization of chips and domain controllers, as well as facilitating collaborations with external clients. The company aims to broaden its customer base and enhance economies of scale, particularly expanding into non-automotive sectors. Machxin Technology, established in August 2026, serves as an exclusive platform for Li Auto's chip and domain-controller businesses, focusing on a full-stack technology ecosystem.
+
+The flagship product, the Mahxin M100, claims the distinction of being the world's first AI chip developed on a dynamic dataflow paradigm, utilizing a 5nm automotive-grade process to deliver an impressive computing power of 1,280 TOPS per chip. As Li Auto continues to invest heavily in R&D—RMB 11.1 billion in 2024 and projected increases for subsequent years—the company is prioritizing the development of technologies that enhance its competitive edge in the new energy vehicle (NEV) sector.
+
+The push for in-house chip development reflects a broader trend among NEV makers in China, with peers like Nio and Xpeng also pursuing similar strategies to secure supply chains and reduce costs. Nio's chip subsidiary, Anhui Shenji, completed its own financing round earlier this year, while Xpeng is set to commercialize its Turing AI chip across multiple platforms. Industry analysts suggest that these efforts represent a vital strategy for NEV startups to monetize their technological innovations and strengthen their market positions.
+
+Recent News 6 of 20, Source: HourlyBusinessNews
+
+Sep 22, 2026: Li Auto Ventures into Chip Supply, Competing with Bosch and Huawei
+
+Chinese electric vehicle (EV) startups are collectively pivoting from 'selling cars' to 'selling technology.' On 21st September 2026, Li Auto officially responded to industry rumors, confirming it will externally supply self-developed Mach chips and silicon carbide (SiC) modules, among other components. With this move, all four leading Chinese EV startups—Leapmotor, XPeng, NIO, and Li Auto—have become suppliers of externally exported technology and components, directly encroaching on the turf of traditional automotive suppliers like Bosch and Huawei.
+
+Li Auto explicitly stated it will export Mach chips, SiC modules, and other 'small chips that are easier for other manufacturers to adapt,' but denied the possibility of externally supplying its self-developed battery packs, citing excessive customization that makes standardization difficult. This announcement marks Li Auto's official entry into the technology outsourcing camp, following NIO, XPeng, and Leapmotor. Compared with the other three, Li Auto is the latest entrant, but its chosen entry point is notably strategic—targeting embodied AI companies for differentiated competition rather than going head-to-head with traditional chipmakers in the automotive-grade market.
+
+XPeng is the first among the four to reap tangible rewards from technology outsourcing. In July 2023, Volkswagen acquired a 4.99% stake in XPeng for approximately $700 million, leading to an expanded partnership in various areas, including EV platforms and software. This collaboration has significantly boosted XPeng's financials, with 'services and other revenue' reaching 4.73 billion yuan (approximately $706.4 million) in H1 2026, showcasing the lucrative potential of technology outsourcing compared to traditional vehicle manufacturing, where profit margins are razor-thin.
+
+NIO's technology outsourcing has taken two paths: one through a spin-off of its chip business to establish Anhui Shenji Technology Co., Ltd., which has already begun generating external revenue, and the other through its battery-swap assets. Meanwhile, Leapmotor has opted for a distinct approach, focusing on three-electric technology while forming strategic partnerships with major automotive players. The collective pivot toward technology outsourcing stems from the rapidly compressing profit margins in vehicle manufacturing, with average margins in the segment falling to a ten-year low of 1.5% in H1 2026.
+
+Despite the clear business logic of technology outsourcing, challenges remain. Experts note that technology partnerships may serve as supplementary income with significant uncertainties, including the longevity of partnerships and potential shifts in supplier relationships. Li Auto's choice to enter the embodied AI track with its Mach chips reflects a recognition of the competitive landscape, where established players dominate the automotive-grade chip market. As the automotive industry undergoes a sweeping transformation, the power dynamics within the value chain continue to evolve, with Li Auto positioning itself strategically in the technology outsourcing arena.
+
+Recent News 7 of 20, Source: HourlyBusinessNews
+
+Sep 22, 2026: Li Auto Expands Business Horizons by Spinning Off Chip and Silicon Carbide Units
+
+Li Auto Inc. is making significant strategic moves by opening up several of its proprietary technologies to outside partners, aiming to create new revenue sources. This initiative follows the company's announcement on 22nd September 2026, to spin off its Mach chips, silicon carbide modules produced by Sike Semiconductor, and range extender systems into separate business entities to attract external customers.
+
+The Mach chip and silicon carbide module divisions have already been established as independent corporations, with plans for Sike Semiconductor to secure external capital. Li Auto has indicated that its range extender technology is also available for outside sales, although its in-house battery operations currently do not have similar intentions due to the complexities involved.
+
+In July, Li Auto registered Xinchuang Zhihe in Shanghai to manage its Mach chip business, marking a significant step toward external commercialization. According to reports, the company's senior management has endorsed this spinoff, with discussions already in progress with several companies interested in the Mach chip. The Mach M100, Li Auto's first mass-produced driver assistance chip, demonstrates impressive computing power, offering 1,280 tera operations per second (TOPS) and a memory bandwidth of 273 gigabytes per second.
+
+Despite holding substantial cash reserves of RMB 87.5 billion (approximately USD 13.1 billion) at the end of Q2 2026, Li Auto is facing pressures from declining gross margins and ongoing research and development expenditures. The company delivered 261,600 vehicles between January and August 2026, a slight decrease compared to the previous year, while net losses reached RMB 3.994 billion (USD 595.7 million) for the first half of 2026, a notable shift from its previous profitability.
+
+Li Auto's strategic shift mirrors industry trends, as competitors like Nio have also begun monetizing their proprietary technologies. As it seeks to broaden its market reach, Li Auto's efforts to spin off its chip and silicon carbide businesses may open new avenues for growth, especially as it aims to build credibility as a third-party supplier in a competitive landscape.
+
+Recent News 8 of 20, Source: HourlyBusinessNews
+
+Sep 21, 2026: Li Auto's Chip Unit Seeks Funding at $2.2 Billion Valuation
+
+Li Auto Inc. is advancing its semiconductor ambitions by pursuing its first external funding round for its chip unit, which is valued at approximately 15 billion yuan, or $2.22 billion. This move, reported by local media outlet LatePost, marks a significant step for the electric vehicle (EV) manufacturer as it seeks to operate its chip business independently. The announcement comes shortly before the date of 21st September 2026.
+
+The funding initiative is indicative of Li Auto's strategy to bolster its in-house technology capabilities, an approach that mirrors its competitor Nio Inc. Earlier this year, Nio's chip subsidiary Shenji successfully completed a funding round that valued it at about 8.27 billion yuan, further establishing the competitive landscape in China's semiconductor sector. Li Auto's ambitions for its chip division could see it raise several billion yuan, as it seeks to create a robust framework for its semiconductor operations.
+
+Since establishing its chip company in July, Li Auto has been laying the groundwork for its semiconductor ambitions. The company registered multiple entities, including Mach Intelligent Cores Limited and Shanghai Mach Zhixin Intelligent Technology Co Ltd, which are pivotal to its semiconductor strategy. The chip team, comprising about 200 specialists focused on artificial intelligence computing architecture and chip design, is reportedly transitioning into this new structure.
+
+Li Auto's inaugural in-house chip, the Mach M100, represents a milestone in the company's technological advancements. Designed on a 5nm automotive-grade process, this chip delivers 1,280 TOPS of computing power and is set to be integrated into several upcoming vehicle models. In addition, the company is working on a cloud inference chip to enhance its processing capabilities, although challenges remain in making the solution cost-competitive within the industry.
+
+As Li Auto continues to navigate the complexities of the semiconductor landscape, external funding could provide the necessary capital to drive its research and development. The company reported a net loss of 3.98 billion yuan in the first half of the year, emphasizing the need for additional financial resources. With financing in China's semiconductor sector reaching 162.7 billion yuan in the first half of 2026, Li Auto's pursuit of external investments highlights its commitment to innovation and competitiveness in a rapidly evolving market.
+
+Recent News 9 of 20, Source: HourlyBusinessNews
+
+Sep 18, 2026: Li Auto Expands Focus to Technology Sales, Following Peers Nio and Xpeng
+
+Li Auto Inc. is reportedly pivoting its strategy to include technology sales, joining fellow Chinese electric vehicle manufacturers Nio and Xpeng in this pursuit. On the 18th of September 2026, local media outlet CnEVPost reported that Li Auto aims to operate its chip and silicon carbide businesses independently while seeking external customers.
+
+The company is looking to monetize its in-house developed technologies, including Mach chips, silicon carbide modules, and range extenders, aiming to generate revenue beyond its core vehicle sales. Since the beginning of the year, Li Auto has initiated plans to supply various core technologies to third parties, moving some units towards independent operations and considering outside capital, according to sources.
+
+Li Auto's management has approved a spinoff of its chip business, with efforts to develop external business opportunities continuing in parallel. The company's Mach M100 driver-assistance chip, produced using a cutting-edge 5-nanometer automotive-grade process, boasts 1,280 TOPS of computing power and is currently employed in its vehicles. However, the success of attracting external customers may depend on the ease of algorithm migration, and specific details concerning potential contracts or orders remain undisclosed.
+
+Additionally, Li Auto has established a wholly owned subsidiary, Xinchuang Zhihe (Shanghai) Technology Co Ltd, to focus on integrated circuit chip design and sales. This move is intended to facilitate independent chip operations while Sike Semiconductor, a joint venture that specializes in silicon carbide modules, is already transitioning towards independent operations. Li Auto currently holds a 70% stake in Sike, which is exploring external funding and preparing for an initial public offering (IPO).
+
+As Li Auto continues to navigate a challenging financial landscape, marked by a net loss of 1.7 billion yuan ($251 million) in the second quarter, the commercialization of its technologies could serve as a critical avenue for revenue generation. By expanding its customer base and reducing reliance on internal funding, Li Auto hopes to alleviate some of the financial pressures while other players in the EV market, such as Nio and Xpeng, are also pursuing similar strategies in the technology sales space.
+
+Recent News 10 of 20, Source: HourlyBusinessNews
+
+Sep 12, 2026: Li Auto Set to Enter European Market Ahead of Schedule
+
+Li Auto Inc. is poised to launch its first vehicle in Europe, the Li 6, at the upcoming Paris Motor Show next month. This marks a significant shift in strategy, as it plans to start selling in Europe in the fourth quarter of this year, a full six years ahead of the timeline previously set by its founder, Li Xiang. The announcement comes on the heels of a competitive automotive landscape in Europe, where multiple Chinese brands, including BYD and XPeng, are also vying for market share.
+
+The Li 6 will be featured prominently at the Paris Motor Show, scheduled for 13th October 2026. However, Li Auto has yet to disclose specific details such as pricing, targeted countries, or sales channels for its European operations. Notably, the company is focusing solely on its battery electric models for this market entry, leaving its extended-range vehicles for markets in the Middle East and Central Asia. This strategic decision aligns with the European Union’s regulations that impose duties on Chinese electric vehicles with range extenders.
+
+The shift away from extended-range vehicles indicates a calculated approach by Li Auto to navigate the complexities of the European automotive market. The EU's duty structure imposes tariffs on vehicles that incorporate range extenders, which generate electricity through gasoline. As a result, only pure battery electric vehicles will be introduced, while the extended-range models will cater to other international markets. This decision reflects not only regulatory considerations but also the current limitations in charging infrastructure across Europe.
+
+Moreover, the company faces uncertainty regarding the tariff rates it will encounter upon entry into the European market. Li Auto is not included among the sampled manufacturers, which may subject it to a range of tariffs from 20.7% to as high as 45.3%, depending on its classification as a cooperating or non-cooperating exporter. Given that the Li 6 starts at approximately $36,000 in China, the added tariffs could position it alongside premium models such as the BMW iX3 in European showrooms, challenging its competitive pricing strategy.
+
+In light of these developments, Li Auto's ambition to establish a foothold in Europe appears both timely and strategic, albeit fraught with challenges. As the company prepares to unveil the Li 6, it remains to be seen how effectively it can capture market share in a continent that is becoming increasingly crowded with electric vehicle offerings from various manufacturers. The upcoming Paris Motor Show will serve as a critical platform for Li Auto to showcase its capabilities and engage with potential customers in this burgeoning market.
+
+SECTION 3 TODAY'S BEARISH SIGNALS
+
+3.1 Rank in the bottom 14% by Price Performance among International Depository Receipts market
+
+Description Value Rank
+PV1000 [1 yr] $ 594 In Bottom 14%
+Rel Strength 6 mo 29 In Bottom 14%
+
+Source: Li Auto Inc.'s website: https://ir.lixiang.com/financial-information/annual-reports, company (Li Auto Inc.), Ticker(LI)
+
+3.2 Downtrend
+
+Beta < 1 combined with price fall. The Beta of the ADR is 0.7.
+
+Price/Moving Average Price of 0.78 and negative MACD:
+
+- The Price/MAP 200 for Li Auto Inc. is 0.78. Being less than 1 is a bearish indicator. It is lower than the Price/MAP 200 for the BNY Mellon Composite ADR Index of 0.97, a second bearish indicator. The stock is trading below both its MAPs and the 50-day MAP of $11.58 is lower than the 200-day MAP of $15.34, a third bearish indicator. The 200-day MAP has decreased to $15.34, a fourth bearish indicator.
+
+- The Moving Average Convergence Divergence (MACD) indicator of 12-day Exponential Moving Average (EMA) of 11.41 minus the 26-day EMA of 11.43 is negative, suggesting a bearish signal.
+
+Trailing Relative Strength (6 months) at 29 percentile:
+
+- The ADR has a 6-month relative strength of 29 in the International Depository Receipts market of 1,128 ADRs indicating it is trailing 71% of the market.
+
+3.3 Other Bearish Signals
+
+- Return on Equity of 1.6% versus sector average of 4.6% and market average of 9.6%.
+
+- Total Liabilities/EBITDA of 55.4 is more than 5, this compares unfavourably with the Joseph Piotroski benchmark of 5.
+
+- Return on Capital Employed of 1.6% versus sector average of 3.1% and market average of 2.9%.
+
+- As per the Du Pont analysis, Return on Equity is less than stellar at 1.6%. This is computed as net profit margin of 1.0% times asset turnover [sales/assets] of 0.73 times leverage factor [total assets/shareholders' equity] of 2.1.Also, this has deteriorated from 11.3% last year.
+
+Source: Li Auto Inc.'s website: https://ir.lixiang.com/financial-information/annual-reports, company (Li Auto Inc.), Ticker(LI)
+
+3.4 Overbought/Bearish/Resistance Signals:
+
+- At $11.92 the price has risen above the upper Bollinger band resistance of $11.90, indicating a downside risk for it to fall back within the band.
+
+- The ADR is overbought according to the Williams % R indicator of -16.6, suggesting the price is close to its 14-day high of $12.12.
+
+Source: https://www.nasdaq.com/market-activity/stocks/LI, company (Li Auto Inc.), Ticker(LI)
+
+SECTION 4 TODAY'S BULLISH SIGNALS
+
+4.1 PAST WEEK: MODERATE MOMENTUM UP
+
+LI gains 7.0% on average volume 0.9 times average. Compared with the BNY Mellon Composite ADR Index which fell 12.9 points (or 4.8%) in the week, the relative price increase was 11.8%.
+
+The price ranged between a high of $11.92 on Thursday Nov 05, 2026 and a low of $11.03 on Friday Oct 30, 2026.[Volume Index (VI); 1 is average]
+
+4.2 Rank in the top 21% by Price Performance among International Depository Receipts market
+
+Description Value Rank
+1-week Price Change % 7.0 In Top 18%
+1-month Price Change % 11.5 In Top 21%
+
+Source: Li Auto Inc.'s website: https://ir.lixiang.com/financial-information/annual-reports, company (Li Auto Inc.), Ticker(LI)
+
+4.3 Uptrend
+
+The ADR traded at a two-month high of $12.12 today.
+
+Past Quarter:
+
+The Best 3 weeks in the past quarter
+
+In the past quarter the week beginning Monday Oct 05, 2026 saw the highest weekly rise of 8% for a relative price increase of 8.5%.
+
+Mon-Fri Change % *Index Change % Vol Ind [1 is avg]
+Oct 05-09 8 -0.5 0.8
+Aug 17-21 6.4 0.2 0.7
+Sep 14-18 2.8 -1 0.9
+
+*The Bank of New York Mellon Composite ADR Index Change %
+
+4.4 Other Bullish Signals
+
+- Interest cover defined by EBIT/I is 8.7 times. This indicates it is less leveraged.
+
+- Net profit margin has averaged 5.4% in the last 3 years. This is better than the sector average of 5.3% and suggests a high margin of safety.
+
+Source: Li Auto Inc.'s website: https://ir.lixiang.com/financial-information/annual-reports, company (Li Auto Inc.), Ticker(LI)
+
+Source: https://www.nasdaq.com/market-activity/stocks/LI, company (Li Auto Inc.), Ticker(LI)
+
+SECTION 5 FINANCIALS
+
+5.1 LI Financials 3-Year Summary:
+
+Year ended FY2025 FY2024 FY2023
+EPS (RMB) 0.56 4.03 -
+
+ADR IDENTIFIERS
+
+ISIN: US50202M1027
+
+CUSIP: 50202M102
+
+RIC: LI.O
+
+LEI: 2549003R73Q70J5H4I65
+
+GLOSSARY
+
+Click here https://www.buysellsignals.com/bst/glossary
+
+Disclaimer:
+
+Click here https://www.buysellsignals.com/bst/disclaimer
+
+Created by www.buysellsignals.com
+- **Why it matters to Innodata:** Active coverage on Mercor, Turing, Surge AI, Invisible Technologies (Talent Marketplaces & Gig Networks) exposes buyer sensitivity around talent marketplaces selling individual headcount with high churn and zero production architecture slas.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Mercor, Turing, Surge AI, Invisible Technologies: Managed systems, enterprise SLAs, vendor-tail consolidation under one MSA, and production architectures. Highlight our Robotic Engineering, Agent Reliability Engineering (ARE), Infrastructure Engineering capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Mercor, Turing, Surge AI, Invisible Technologies accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
+
+### 9. [Asian Markets Track Wall Street Higher](https://ct.moreover.com/?a=60789316591&p=21l&v=1&x=_JY03JvePa3UTwwMRK4ctQ)
+- **Outlet(s):** RTTNews.com, Trading View | **Published:** `2026-11-05` | **Sentiment:** `NEUTRAL` | **Positioning Relevance Score:** `0.87`
+- **Syndicated URLs:** [link](https://www.tradingview.com/news/dpa_afx:e8c1846f616bf:0-asian-markets-track-wall-street-higher/)
+- **Matched Innodata Pillars:** Agent Reliability Engineering (ARE)
+- **Matched Proprietary Accelerators:** Beacon (PDF-Miner)
+- **Matched Competitors:** Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit, Turing
+- **Coverage Snippet:** Asian stock markets are trading mostly higher on Thursday, following the broadly positive cues from Wall Street overnight, as traders react positively to the Democrats' decisive victory in the midterm elections after they won control of both the House and Senate, with crude oil prices plummeting on hopes of a potential end to the Middle East conflict. Asian markets closed mixed on Wednesday.
+
+However, rising uncertainty over tech regulation, trade policy and the U.S. budget deficit is weighing on market sentiment.
+
+Interest rate-hike worries associated with oil-linked inflation declined after crude oil prices plunged and the U.S. dollar slid following the U.S. midterm election results.
+
+US President Donald Trump's apparent willingness to accept the poll results and work with Democrats to address political issues may have helped offset concerns about increased regulatory scrutiny under a Democrat-controlled Congress.
+
+Several analysts also noted that a divided government, where the White House and Congress are controlled by separate parties, is often beneficial to the financial markets.
+
+The Australian market is trading sharply higher on Thursday, reversing the losses in the previous session, following the broadly positive cues from Wall Street overnight. The benchmark S&P/ASX 200 is surging 2 percent to above the 9,000 mark, with strong gains in mining and technology stocks partially offset by weakness in energy and financial stocks.
+
+The benchmark S&P/ASX 200 Index is gaining 171.80 points or 1.94 percent to 9,006.30, after touching a high of 9,012.30 earlier. The broader All Ordinaries Index is up 191.30 points or 2.14 percent to 9,146.20. Australian stocks ended notably lower on Wednesday.
+
+Among major miners, BHP Group is advancing more than 4 percent and Mineral Resources is jumping more than 7 percent, while Fortescue and Rio Tinto are surging almost 5 percent each.
+
+Oil stocks are mostly lower. Beach energy is losing almost 3 percent, Origin Energy is down more than 1 percent and Santos is slipping more than 5 percent. Woodside Energy is sliding more than 6 percent after a capital markets day update revealed that it was targeting more than 500 job cuts.
+
+In the tech space, Afterpay owner Block is surging more than 6 percent, Xero is jumping more than 9 percent, WiseTech Global is advancing almost 4 percent, Appen is rising more than 7 percent and Zip is soaring more than 14 percent.
+
+Among the big four banks, ANZ Banking is declining almost 2 percent, Commonwealth Bank is down almost 1 percent, Westpac is edging down 0.4 percent and National Australia Bank is tumbling almost 8 percent on downbeat full-year results.
+
+Among gold miners, Evolution Mining is jumping more than 8 percent, Northern Star Resources is surging more than 6 percent, Resolute Mining is advancing almost 8 percent, Genesis Minerals is gaining more than 11 percent and Newmont is soaring almost 10 percent.
+
+In other news, shares in NextDC are skyrocketing 45 percent after Goodman Group and US-listed Digital Realty Trust launched an aftermarket "share raid" to acquire up to a 9.9% stake in the company at A$9.50 per share.
+
+Shares in Rea Group are soaring more than 9 percent following a strong first-quarter trading update.
+
+Shares in Eagers Automotive are plunging more than 16 percent following disappointing trading update for the third quarter that was impacted by industry-wide headwinds.
+
+In economic news, Australia posted a merchandise trade surplus of A$2.826 billion in September, the Australian Bureau of Statistics said on Thursday. That beat expectations for a surplus of A$0.940 billion and was up from the A$0.184 billion surplus in August.
+
+Exports rose 2.3 percent on month to A$48.434 billion, slowing from 3.7 percent in the previous month. Exports sank 3.3 percent on month to A$45.609 billion after jumping 6.2 percent a month earlier.
+
+In the currency market, the Aussie dollar is trading at $0.702 on Thursday.
+
+The Japanese market is notably lower in choppy trading on Thursday, after opening in the green, extending the losses in the previous two sessions, despite the broadly positive cues from Wall Street overnight. The Nikkei 225 is falling well below the 61,950 level, with a sell-off in technology stocks partially offset by gains in automakers, retailers and financial stocks.
+
+Technology and AI-related stocks tumbled on potential implications for data-center development under Democratic control of the US Congress.
+
+The benchmark Nikkei 225 Index closed the morning session at 61,913.51, down 275.12 points or 0.44 percent, after touching a high of 62,653.98 earlier. Japanese stocks ended sharply lower on Wednesday.
+
+Market heavyweight SoftBank Group is losing more than 5 percent, while Uniqlo operator Fast Retailing is soaring more than 11 percent. Among automakers, Toyota and Honda are surging almost 6 percent each.
+
+In the tech space, Advantest is tumbling more than 10 percent, Screen Holdings is sliding more than 7 percent and Tokyo Electron is plunging more than 8 percent.
+
+In the banking sector, Mizuho Financial and Sumitomo Mitsui Financial are gaining more than 2 percent each, while Mitsubishi UFJ Financial is advancing almost 4 percent.
+
+Among the major exporters, Mitsubishi Electric is losing more than 2 percent and Panasonic is declining more than 5 percent, while Sony is surging almost 8 percent and Canon is gaining almost 4 percent.
+
+Among other major losers, Ibiden is plummeting almost 15 percent and Kokusai Electric is plunging almost 13 percent, while Murata Manufacturing, Sumco, Yokogawa Electric, Furukawa Electric and OKUMA are tumbling almost 11 percent each. Lasertec and Taiyo Yuden are declining more than 9 percent each, while Kawasaki Kisen Kaisha and Kioxia Holdings are losing almost 9 percent each. Resona Holdings is slipping more than 8 percent and Fujikura is down more than 7 percent.
+
+Conversely, Konami Group is skyrocketing almost 12 percent, Sumitomo Pharma is soaring more than 8 percent and Mitsubishi Motors is jumping more than 9 percent, while Mitsubishi Estate and Capcom are surging more than 9 percent each. Yokohama Rubber, Terumo and Astellas Pharma are advancing almost 9 percent each, while BANDAI NAMCO is gaining more than 8 percent. Sapporo Holdings and Kyowa Kirin are adding almost 8 percent each. NEXON and Shiseido are up more than 7 percent each.
+
+In economic news, the services sector in Japan continued to expand in October, and at a faster rate, the latest survey from S&P Global revealed on Thursday with a services PMI score of 51.7. That's up from 51.3 in September and it moves further above the boom-or-bust line of 50 that separates expansion from contraction. The survey also showed that the composite index eased to 52.1 in October from 52.3 in September.
+
+In the currency market, the U.S. dollar is trading in the higher 157 yen-range on Thursday.
+
+Elsewhere in Asia, New Zealand, Hong Kong and Indonesia are surging between 2.1 and 2.9 percent each, Malaysia is up 1.2 percent, while Singapore and China are up 0.6 and 0.1 percent, respectively. South Korea and Taiwan are tumbling 3.5 and 1.6 percent, respectively.
+
+On Wall Street, major stock indexes all showed significant moves to the upside following the mixed performances seen in the two previous sessions. The Dow showed a particularly strong upward move, reaching a two-month closing high.
+
+The major averages gave back some ground going into the end of the day but remained sharply higher. The Dow surged 1,569.40 points or 3 percent to 53,356.12, the S&P 500 jumped 119.70 points or 1.6 percent to 7,688.62 and the Nasdaq shot up 364.50 points or 1.4 percent to 25,736.51.
+
+The major European markets also moved to the upside on the day. While the German DAX Index shot up b 2.2 percent, the French CAC 40 Index jumped by 2 percent and the U.K.'s FTSE 100 Index advanced by 1.8 percent.
+
+Crude oil prices tumbled on Wednesday, losing the geopolitical risk premium as a comfortable victory for the Democrat party in the U.S. midterm elections eased concerns of renewed U.S.-Iran escalation. West Texas Intermediate crude for December delivery was down $8.39 or 8.73 percent at $87.70 per barrel.
+- **Why it matters to Innodata:** Active coverage on Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit, Turing (Legacy BPO & Crowd Volume) exposes buyer sensitivity around legacy bpo crowd volume lacking full-stack agent engineering and deterministic reliability gates.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit, Turing: Full-stack Agent Engineering and Agent Reliability Engineering (ARE) depth with domain-vetted SMEs. Highlight our Agent Reliability Engineering (ARE) capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit, Turing accounts using Beacon (PDF-Miner) as a 2-4 week production POC wedge.
+
+### 10. [Stock pulse Australian Market](https://ct.moreover.com/?a=60788976970&p=21l&v=1&x=EQYPeVJ7S080T2jBL4Nolw)
+- **Outlet(s):** Global Round Up - Stock Exchange Indices | **Published:** `2026-11-06` | **Sentiment:** `NEUTRAL` | **Positioning Relevance Score:** `0.85`
+- **Syndicated URLs:** [link](https://ct.moreover.com/?a=60773345499&p=21l&v=1&x=TVPkXd6RRg6cgV7TpIWaWQ)
+- **Matched Proprietary Accelerators:** Beacon (PDF-Miner)
+- **Matched Competitors:** Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit
+- **Coverage Snippet:** AUSTRALIAN DAILY INDEX NEWS
+
+End-of-day: Friday November 06, 2026 16:00 AEST
+
+Today's narrative on 950 stocks in the Australian Market (close price is shown in brackets, in alphabetical order)
+
+Price change is shown in $A/c [%] Volume Index (1 is average) is shown if above 1.2
+
++ 29Metals Limited (ASX:29M) underperforms 91% of the stocks; -0.5c [-2.0%].
+
++ 4DMedical Limited (ASX:4DX) underperforms 99% of the stocks; -13c [-5.4%].
+
++ 88 Energy Limited (ASX:88E) down 7.9% in 2 days; -0.15c [-7.9%] in 2 days.
+
++ ABx Group Limited (ASX:ABX) extends downtrend with 30th time year-low in three months; -0.1c [-6.2%] Vol Index 1.7.
+
++ AGL Energy Limited. (ASX:AGL) increases 2.0c on below average volume to close at $A9.04; +2c [+0.2%].
+
++ AIC Mines Limited (ASX:A1M) drops to four-month low on robust volume; -3c [-4.5%] Vol Index 1.6.
+
++ ALS Limited (ASX:ALQ) loses $A242.4 million (2.3%) in MCap; -50c [-2.3%] Vol Index 1.5.
+
++ ALVO MINERALS LIMITED (ASX:ALV) outperforms 99% of the stocks; +0.1c [+1.4%] Vol Index 5.7.
+
++ AMA Group Limited (ASX:AMA) posts back-to-back gains; +1.5c [+3.3%] in 2 days.
+
++ AMCIL Limited (ASX:AMH) drops 1.7%; -1.5c [-1.7%] Vol Index 1.5.
+
++ AML3D Limited (ASX:AL3) plunges 8.7% weakening below moving average price; -1c [-8.7%].
+
++ AMP Limited (ASX:AMP) up 4.2% in 2 days; +9c [+4.2%] Vol Index 2.0 in 2 days.
+
++ ANZ Group Holdings Limited (ASX:ANZ) increases 0.6% against the trend; +24c [+0.6%] Vol Index 1.3.
+
++ ARB Corporation Limited. (ASX:ARB) lower with 1.5% fall today's session; -29c [-1.5%] Vol Index 1.4.
+
++ ARIANA RESOURCES PLC (ASX:AA2) soars 11% in upward move; +2.5c [+11.1%].
+
++ ASF Group Limited (ASX:AFA) hits a 52-Week Low for the 7th time in one month; -0.2c [-5.3%].
+
++ ASX Limited (ASX:ASX) lower with 1.5% fall today's session; -$A1.02 [-1.5%].
+
++ AUB Group Limited (ASX:AUB) falls 0.8% from 14-day high; -11c [-0.4%].
+
++ AXP Energy Limited (ASX:AXP) soars 33%; +0.1c [+33.3%] Vol Index 2.4.
+
++ Accent Group Limited (ASX:AX1) drops 1.5% in downward move; -1c [-1.5%].
+
++ Acrow Limited (ASX:ACF) drops 1.1% on slipping relative strength; -1c [-1.1%].
+
++ Acrux Limited (ASX:ACR) extends downtrend with 9th time year-low in three months; -0.1c [-10.0%] Vol Index 2.2.
+
++ Actinogen Medical Limited (ASX:ACW) drops to four-month low on high volume; -0.2c [-4.7%] Vol Index 2.1.
+
++ Acumentis Group Limited (ASX:ACU) extends winning streak; +0.9c [+11.2%] in 3 days.
+
++ Acusensus Limited. (ASX:ACE) weakens below moving average price; -1c [-0.9%].
+
++ Adairs Limited (ASX:ADH) offers dividend yield of 8.3%; -2c [-1.4%].
+
++ Adalta Limited (ASX:1AD) shares resume trading after an untraded day; +0.1c [+50.0%].
+
++ Adavale Resources Limited (ASX:ADD) plunges 7.7% weakening below moving average price; -0.2c [-7.7%] Vol Index 1.4.
+
++ Adisyn Ltd (ASX:AI1) underperforms 99% of the stocks; -0.2c [-2.8%].
+
++ Adore Beauty Group Limited (ASX:ABY) up 10% in 2 days; +2.5c [+10.4%] in 2 days.
+
++ Adrad Holdings Limited (ASX:AHL) tumbles 7.0% - at bearish turning point; -9c [-7.0%].
+
++ Advance Metals Limited (ASX:AVM) underperforms 94% of the stocks; -0.1c [-2.6%].
+
++ Advanced Innergy Holdings Ltd (ASX:AIH) higher with 1.9% gain today's session; +0.75c [+1.9%].
+
++ Adveritas Limited (ASX:AV1) underperforms 92% of the stocks; -0.2c [-4.0%].
+
++ Aeris Environmental Ltd (ASX:AEI) drops to 21-day low on spectacular volume; -0.1c [-2.6%] Vol Index 6.3.
+
++ Aeris Resources Limited (ASX:AIS) drops to four-month low on robust volume; -3c [-7.5%] Vol Index 1.9.
+
++ Aerometrex Limited (ASX:AMX) hits two-year high on robust volume; +2.5c [+8.1%] Vol Index 1.5.
+
++ Aguia Resources Limited (ASX:AGR) soars 0.10c (14%) on thin volume to close at 0.80c; +0.1c [+14.3%].
+
++ Ai-Media Technologies Limited (ASX:AIM) falls in 4 out of last 5 days; -0.25c [-1.3%].
+
++ Air New Zealand Limited (ASX:AIZ) stock nudges 1.6% lower; -0.5c [-1.6%].
+
++ Airtasker Limited (ASX:ART) down 7.5% in 2 days; -1.5c [-7.5%] in 2 days.
+
++ Aland Equity Group Limited (ASX:AEG) sinks 0.30c (4.2%) on feeble volume to close at 6.90c; -0.3c [-4.2%].
+
++ Alara Resources Limited (ASX:AUQ) plummets 0.60c (10.0%) on firm volume to close at 5.40c; -0.6c [-10.0%] Vol Index 1.3.
+
++ Albion Resources Limited (ASX:ALB) tumbles 6.2% weakening below moving average price; -0.3c [-6.2%].
+
++ Alcidion Group Limited (ASX:ALC) plunges 1.0c (8.7%) on miniscule volume to close at 10.50c; -1c [-8.7%].
+
++ Alcoa Corporation (ASX:AAI) tumbles $A3.37 (5.7%) on firm volume to close at $A55.94; -$A3.37 [-5.7%] Vol Index 1.4.
+
++ Aldoro Resources Limited (ASX:ARN) outperforms 99% of the stocks; +1c [+2.6%].
+
++ Alfabs Australia Limited (ASX:AAL) hits two-month high on firm volume; +6c [+33.3%] Vol Index 1.4.
+
++ Alice Queen Limited (ASX:AQX) beats 82% of the stocks; +0.1c [+20.0%] Vol Index 2.0.
+
++ Alkane Resources Limited (ASX:ALK) shares fall after 3 days of rises ; -6c [-3.4%] Vol Index 1.2.
+
++ Alligator Energy Limited (ASX:AGE) extends winning streak; +0.4c [+13.3%] in 3 days.
+
++ Alpha HPA Limited (ASX:A4N) plunges 4.0c (9.8%) on robust volume to close at 37.0c; -4c [-9.8%] Vol Index 1.8.
+
++ Altair Minerals Limited (ASX:ALR) tumbles 0.20c (6.7%) on feeble volume to close at 2.80c; -0.2c [-6.7%].
+
++ Alterity Therapeutics Limited (ASX:ATH) down 8.6% in 2 days; -2.5c [-8.6%] in 2 days.
+
++ Altitude Minerals Ltd (ASX:ATT) soars 17% on rising relative strength; +0.05c [+16.7%].
+
++ Amaero Ltd (ASX:3DA) down 7.7% in 2 days; -1.5c [-7.7%] in 2 days.
+
++ Amara Minerals Limited (ASX:AM3) shares resume trading after an untraded day; +0.05c [+16.7%].
+
++ Amcor Plc (ASX:AMC) in top 2% performers of All Ordinaries Index; +$A2.90 [+4.7%] Vol Index 2.4.
+
++ American Tungsten & Antimony Ltd (ASX:AT4) underperforms 91% of the stocks; -0.4c [-9.8%].
+
++ American Uranium Limited (ASX:AMU) gains 4.4% on rising relative strength; +0.2c [+4.4%].
+
++ American West Metals Limited (ASX:AW1) extends winning streak; +0.6c [+25.0%] in 3 days.
+
++ Amotiv Limited (ASX:AOV) decreases; -2c [-0.4%] Vol Index 6.0.
+
++ Amplia Therapeutics Limited (ASX:ATX) underperforms 91% of the stocks; -0.1c [-1.1%].
+
++ Ampol Limited (ASX:ALD) down 4.1% in 2 days; -$A1.55 [-4.1%] Vol Index 1.5 in 2 days.
+
++ Anagenics Limited (ASX:AN1) soars 20% on rising relative strength; +0.1c [+20.0%].
+
++ Three-bagger Anax Metals Limited (ASX:ANX) gains 3.9% on firm volume; +0.1c [+3.9%] Vol Index 1.2.
+
++ Andean Silver Limited (ASX:ASL) plunges 11.0c (7.2%) on weak volume to close at $A1.42; -11c [-7.2%].
+
++ Ansell Limited (ASX:ANN) up 4.7% in 2 days; +$A2.06 [+4.7%] Vol Index 2.7 in 2 days.
+
++ AnteoTech Ltd (ASX:ADO) plummets 0.20c (11%) on feeble volume to close at 1.60c; -0.2c [-11.1%].
+
++ Anteris Technologies Ltd (ASX:AVR) underperforms 86% of the stocks; -36c [-4.2%].
+
++ Antipa Minerals Limited (ASX:AZY) tumbles 5.9% weakening below moving average price; -3c [-5.9%].
+
++ Appen Limited (ASX:APX) sinks 4.5% weakening below moving average price; -5c [-4.5%] Vol Index 1.3.
+
++ Arafura Rare Earths Ltd (ASX:ARU) tumbles 1.0c (6.5%) on weak volume to close at 14.50c; -1c [-6.5%].
+
++ Archer Materials Limited (ASX:AXE) adds $A7 million (16%) in MCap; +2.5c [+15.6%] Vol Index 1.4.
+
++ Ardea Resources Limited (ASX:ARL) hits a 52-Week Low for the 13th time in one month; -1.5c [-5.4%].
+
++ Argent Minerals Limited (ASX:ARD) tumbles 5.3% weakening below moving average price; -0.1c [-5.3%].
+
++ Argo Investments Limited (ASX:ARG) posts a fourth straight gain; +23c [+2.5%] in 4 days.
+
++ Arika Resources Limited (ASX:ARI) sinks 0.10c (4.0%) on feeble volume to close at 2.40c; -0.1c [-4.0%].
+
++ Aristocrat Leisure Limited (ASX:ALL) stock nudges 0.3% lower; -19c [-0.3%].
+
++ Aroa Biosurgery Limited (ASX:ARX) up 9.3% in 2 days; +4.5c [+9.3%] Vol Index 1.4 in 2 days.
+
++ Arovella Therapeutics Limited (ASX:ALA) beats 85% of the stocks; +0.05c [+1%].
+
++ Arrow Minerals Ltd (ASX:AMD) drops to two-month low; -0.2c [-8.3%].
+
++ Asara Resources Limited (ASX:AS1) plunges 1.0c (8.3%) on weak volume to close at 11.0c; -1c [-8.3%].
+
++ Aspire Mining Limited (ASX:AKM) falls 0.50c on miniscule volume to close at 23.50c; -0.5c [-2.1%].
+
++ Asset Vision Co Ltd (ASX:ASV) lower with 1.7% fall today's session; -0.1c [-1.7%].
+
++ Astral Resources NL (ASX:AAR) tumbles 1.0c (6.9%) on weak volume to close at 13.50c; -1c [-6.9%].
+
++ Astron Corporation Limited (ASX:ATR) drops to one-month low on average volume; -2c [-3.5%].
+
++ Atlantic Lithium Limited (ASX:A11) hits seven-month high; +0.5c [+1.6%].
+
++ Atlas Arteria (ASX:ALX) offers dividend yield of 10.7%; -1c [-0.3%].
+
++ Atomic Eagle Ltd (ASX:AEU) slides 3.8% weakening below moving average price; -1.5c [-3.8%].
+
++ Atomo Diagnostics Limited (ASX:AT1) surges 7.1% on rising relative strength; +0.1c [+7.1%].
+
++ Atomos Limited (ASX:AMS) hits one-month high on robust volume; +0.3c [+42.9%] Vol Index 1.6.
+
++ Atturra Limited (ASX:ATA) hits a 52-Week Low for the 2nd time in one month; -1c [-3.0%].
+
++ Auckland International Airport Limited (ASX:AIA) stock ticks up 1.1%; +8c [+1.1%].
+
++ Audinate Group Limited (ASX:AD8) sinks 9.0c (4.3%) on weak volume to close at $A2.01; -9c [-4.3%].
+
++ Augustus Minerals Limited (ASX:AUG) up 20% in 2 days; +0.4c [+20.0%] in 2 days.
+
++ Aura Energy Limited (ASX:AEE) underperforms 83% of the stocks; -0.2c [-2.7%].
+
++ Aureka Limited (ASX:AKA) slides 3.9%; -0.5c [-3.9%] Vol Index 1.6.
+
++ Aurelia Metals Limited (ASX:AMI) slides 3.6% on slipping relative strength; -1.5c [-3.6%].
+
++ Auric Mining Limited (ASX:AWJ) sinks 1.0c (4.1%) on weak volume to close at 23.50c; -1c [-4.1%].
+
++ Aurum Resources Limited (ASX:AUE) plunges 3.50c (7.1%) on average volume to close at 45.50c; -3.5c [-7.1%].
+
++ AusQuest Limited (ASX:AQD) up 6.3% in 2 days; +0.2c [+6.3%] in 2 days.
+
++ Ausgold Limited (ASX:AUC) up 12% in 2 days; +14c [+12.1%] Vol Index 2.7 in 2 days.
+
++ Aussie Broadband Limited (ASX:ABB) falls 0.9% from 14-day high; -2c [-0.4%].
+
++ Austal Limited (ASX:ASB) falls in 4 out of last 5 days; -9c [-2.1%] Vol Index 1.6.
+
++ Austco Healthcare Limited (ASX:AHC) slides 3.6% weakening below moving average price; -1c [-3.6%].
+
++ Austin Engineering Limited (ASX:ANG) extends winning streak; +2.5c [+15.2%] in 4 days.
+
++ Austral Resources Australia Ltd (ASX:AR1) plunges 7.5% weakening below moving average price; -0.4c [-7.5%] Vol Index 1.3.
+
++ Australian Agricultural Company Limited. (ASX:AAC) shares fall 0.8%; -1c [-0.8%].
+
++ Australian Bond Exchange Holdings Limited (ASX:ABE) plunges 9.1%; -0.3c [-9.1%] Vol Index 3.0.
+
++ Australian Clinical Labs Limited (ASX:ACL) outperforms 97% of the stocks; +4c [+1.2%].
+
++ Australian Dairy Nutritionals Limited (ASX:AHF) shares resume trading after an untraded day; -0.05c [-2.9%].
+
++ Australian Ethical Investment Limited (ASX:AEF) falls 14.0c on thin volume to close at $A4.56; -14c [-3.0%].
+
++ Australian Foundation Investment Company Limited (ASX:AFI) logs 1.0% loss in today's trading session; -7c [-1%].
+
++ Australian Gold and Copper Ltd (ASX:AGC) sinks 4.5% weakening below moving average price; -0.5c [-4.5%].
+
++ Australian Mines Limited (ASX:AUZ) plummets 2.0c (12%) on weak volume to close at 14.0c; -2c [-12.5%].
+
++ Australian Rare Earths Limited (ASX:AR3) falls in 4 out of last 5 days; -0.2c [-2.2%].
+
++ Australian United Investment Company Limited (ASX:AUI) drops 1.6% on slipping relative strength; -20c [-1.6%].
+
++ Australian Vintage Ltd (ASX:AVG) logs 1.3% loss in today's trading session; -0.1c [-1.3%].
+
++ Australis Oil & Gas Limited (ASX:ATS) plummets 0.40c (11%) on weak volume to close at 3.10c; -0.4c [-11.4%].
+
++ Autosports Group Limited. (ASX:ASG) increases on rising relative strength; +1c [+0.9%].
+
++ Avecho Biotechnology Limited (ASX:AVE) plunges 7.7% on slipping relative strength; -0.1c [-7.7%].
+
++ Avita Medical Inc. (ASX:AVH) drops 1.7% on slipping relative strength; -8c [-1.7%] Vol Index 1.3.
+
++ Axel Ree Limited (ASX:AXL) hits two-month high on strong volume; +0.2c [+3.6%] Vol Index 3.4.
+
++ Axiom Properties Limited (ASX:AXI) outperforms 97% of the stocks; +0.1c [+11.1%].
+
++ BCAL Diagnostics Limited (ASX:BDX) up 24% in 2 days; +1.3c [+24.1%] in 2 days.
+
++ BCI Minerals Limited (ASX:BCI) slides 2.0c (3.6%) on thin volume to close at 53.50c; -2c [-3.6%].
+
++ BENZ Mining Corp. (ASX:BNZ) tumbles 27.0c (6.2%) on weak volume to close at $A4.10; -27c [-6.2%].
+
++ BETR Entertainment Limited (ASX:BBT) inches higher; +0.5c [+4.2%].
+
++ BHP Group Limited (ASX:BHP) loses $A7 billion (2.3%) in MCap; -$A1.38 [-2.3%] Vol Index 1.3.
+
++ BKI Investment Company Limited (ASX:BKI) posts back-to-back gains; +3c [+1.7%] in 2 days.
+
++ BLS Pharmaceuticals Limited (ASX:BLS) falls in 4 out of last 5 days; -1.5c [-1.6%].
+
++ BPM Minerals Limited (ASX:BPM) slides 4.0%; -1.5c [-4.0%] Vol Index 4.3.
+
++ BSP Financial Group Limited (ASX:BFL) drops 1.3%; -10c [-1.3%] Vol Index 2.0.
+
++ BUBS Australia Limited (ASX:BUB) drops 1.3% weakening below moving average price; -0.1c [-1.3%].
+
++ Baby Bunting Group Limited (ASX:BBN) shares fall after 5 days of rises ; -4c [-3.0%].
+
++ Ballard Mining Limited (ASX:BM1) underperforms 81% of the stocks; -4c [-6.2%].
+
++ Bank of Queensland Limited. (ASX:BOQ) posts back-to-back gains; +4c [+0.6%] in 2 days.
+
++ Bannerman Energy Ltd (ASX:BMN) drops 1.4%; -5c [-1.4%] Vol Index 1.8.
+
++ Bapcor Limited (ASX:BAP) falls 2.0c on weak volume to close at 85.50c; -2c [-2.3%].
+
++ Barton Gold Holdings Limited (ASX:BGD) tumbles 6.5% weakening below moving average price; -5.5c [-6.5%].
+
++ Basin Energy Limited (ASX:BSN) jumps 5.6% against the trend; +0.1c [+5.6%].
+
++ Bass Oil Limited (ASX:BAS) accelerates decline; -0.6c [-10.7%] in 2 days.
+
++ Bathurst Resources Limited. (ASX:BRL) slides 3.6% weakening below moving average price; -1.25c [-3.6%].
+
++ Battery Age Minerals Ltd (ASX:BM8) plummets 0.40c (10%) on feeble volume to close at 3.50c; -0.4c [-10.3%].
+
++ Beach Energy Limited (ASX:BPT) falls in 4 out of last 5 days; -1c [-1.1%].
+
++ Beacon Minerals Limited (ASX:BCN) up 21% in 2 days; +48c [+21.3%] in 2 days.
+
++ Beam Communications Holdings Limited (ASX:BCC) beats 90% of the stocks; +0.3c [+8.1%].
+
++ Beamtree Holdings Limited (ASX:BMT) up 9.4% in 2 days; +0.6c [+9.4%] in 2 days.
+
++ Beetaloo Energy Australia Limited (ASX:BTL) drops to seventeen-month low on firm volume; -0.5c [-2.4%] Vol Index 1.2.
+
++ Beforepay Group Limited (ASX:B4P) weakens below moving average price; -1c [-0.7%].
+
++ Bega Cheese Limited (ASX:BGA) hits one-month high on firm volume; +2c [+0.3%] Vol Index 1.2.
+
++ Bell Financial Group Limited (ASX:BFG) drops 1.4% in downward move; -2c [-1.4%].
+
++ Bellavista Resources LTD (ASX:BVR) underperforms 99% of the stocks; -1c [-4.9%] Vol Index 2.0.
+
++ Bellevue Gold Limited (ASX:BGL) sinks 6.0c (4.1%) on average volume to close at $A1.41; -6c [-4.1%].
+
++ Bendigo and Adelaide Bank Limited (ASX:BEN) beats 83% of the stocks; +16c [+1.5%].
+
++ Beonic Ltd (ASX:BEO) underperforms 85% of the stocks; -0.3c [-3.9%].
+
++ Berkeley Energia Limited (ASX:BKY) tumbles 5.0c (5.8%) on extraordinary volume to close at 81.0c; -5c [-5.8%] Vol Index 4.6.
+
++ Bhagwan Marine Limited (ASX:BWN) loses $A4 million (3.6%) in MCap; -1c [-3.6%].
+
++ Big River Industries Limited (ASX:BRI) increases 0.9% against the trend; +1c [+0.9%].
+
++ Biome Australia Limited (ASX:BIO) underperforms 82% of the stocks; -1.5c [-4.5%].
+
++ Bisalloy Steel Group Limited (ASX:BIS) hits three-month high on strong volume; +21c [+5.2%] Vol Index 2.6.
+
++ Black Bear Minerals Limited (ASX:BKB) underperforms 88% of the stocks; -1c [-2.7%].
+
++ Black Cat Syndicate Limited (ASX:BC8) underperforms 92% of the stocks; -2.5c [-3.9%].
+
++ Black Rock Mining Limited (ASX:BKT) up 10.0% in 2 days; +0.1c [+10.0%] in 2 days.
+
++ Blackstone Minerals Limited (ASX:BSX) hits a 52-Week Low for the 8th time in one month; -0.2c [-8.7%].
+
++ Blinklab Limited (ASX:BB1) increases 0.9% against the trend; +0.5c [+0.9%].
+
++ Bluescope Steel Limited (ASX:BSL) drops to 22-day low on average volume; -49c [-1.5%].
+
++ Blue Star Helium Limited (ASX:BNL) adds $A73.8 million (13%) in MCap; +1.2c [+12.9%] Vol Index 1.6.
+
++ Boab Metals Limited (ASX:BML) tumbles 2.0c (6.2%) on weak volume to close at 30.50c; -2c [-6.2%].
+
++ Boadicea Resources Limited (ASX:BOA) sinks 0.40c (4.0%) on robust volume to close at 9.60c; -0.4c [-4.0%] Vol Index 1.5.
+
++ Boom Logistics Limited (ASX:BOL) strengthens above moving average price; +1c [+0.5%].
+
++ Boss Energy Ltd (ASX:BOE) falls 3.0c on firm volume to close at $A1.40; -3c [-2.1%].
+
++ Botala Energy Ltd (ASX:BTE) drops to four-month low; -0.6c [-12.0%].
+
++ Botanix Pharmaceuticals Ltd (ASX:BOT) plunges 9.1%; -0.1c [-9.1%] Vol Index 1.9.
+
++ Brainchip Holdings Ltd (ASX:BRN) hits a 52-Week Low for the 11th time in one month; -0.5c [-4.8%].
+
++ Brambles Limited (ASX:BXB) hits six-month high on firm volume; +22c [+1%] Vol Index 1.3.
+
++ Bravura Solutions Limited. (ASX:BVS) drops 1.7% on slipping relative strength; -6c [-1.7%].
+
++ Brazilian Critical Minerals Limited (ASX:BCM) drops to three-month low; -0.2c [-4.2%].
+
++ Brazilian Rare Earths Limited (ASX:BRE) plummets 23.0c (12%) on strong volume to close at $A1.70; -23c [-11.9%] Vol Index 3.1.
+
++ Breville Group Limited (ASX:BRG) stock ticks down 0.1%; -5c [-0.1%].
+
++ Brightstar Resources Limited (ASX:BTR) decreases; -0.5c [-0.8%] Vol Index 1.9.
+
++ Brisbane Broncos Limited (ASX:BBL) plunges 13.0c (8.0%) on miniscule volume to close at $A1.49; -13c [-8.0%].
+
++ Brookside Energy Limited (ASX:BRK) hits a 52-Week Low for the 3rd time in one month; -1c [-2.9%].
+
++ Buru Energy Limited (ASX:BRU) plunges 0.10c (7.1%) on miniscule volume to close at 1.30c; -0.1c [-7.1%].
+
++ CAR Group Limited (ASX:CAR) falls 60.0c on thin volume to close at $A26.07; -60c [-2.2%].
+
++ COG Financial Services Limited (ASX:COG) sinks 4.2%; -7c [-4.2%] Vol Index 2.7.
+
++ CSL Limited (ASX:CSL) falls 0.5% from 14-day high; -36c [-0.2%].
+
++ CTI Logistics Limited (ASX:CLX) increases 1.0c on weak volume to close at $A2.78; +1c [+0.4%].
+
++ CUE Energy Resources Limited (ASX:CUE) tumbles 0.50c (5.1%) on weak volume to close at 9.30c; -0.5c [-5.1%].
+
++ CZR Resources Ltd (ASX:CZR) falls 2.6% weakening below moving average price; -0.5c [-2.6%].
+
++ Cadence Capital Limited (ASX:CDM) increases 0.7% against the trend; +0.5c [+0.7%].
+
++ Calix Limited (ASX:CXL) hits two-month high; +3.5c [+16.3%].
+
++ Camplify Holdings Limited (ASX:CHL) adds $A1.6 million (6.1%) in MCap; +2c [+6.1%].
+
++ Canadian Phosphate Limited (ASX:CP8) beats 82% of the stocks; +0.5c [+4.3%].
+
++ Cann Group Limited (ASX:CAN) plunges 0.05c (9.1%) on weak volume to close at 0.50c; -0.05c [-9.1%].
+
++ Cannindah Resources Limited (ASX:CAE) extends downtrend with 18th time year-low in three months; -0.4c [-16.7%].
+
++ Canterbury Resources Limited (ASX:CBY) shares resume trading after an untraded day; +0.2c [+6.9%].
+
++ Canyon Resources Limited (ASX:CAY) jumps 5.8% against the trend; +0.25c [+5.8%].
+
++ Capral Limited (ASX:CAA) posts back-to-back gains; +43c [+3.4%] Vol Index 1.8 in 2 days.
+
++ Caprice Resources Ltd (ASX:CRS) stock nudges 1.3% lower; -0.1c [-1.3%].
+
++ Capricorn Metals Ltd (ASX:CMM) slides 3.8%; -55c [-3.8%] Vol Index 1.7.
+
++ Capstone Copper Corp (ASX:CSC) tumbles 63.0c (5.4%) on robust volume to close at $A11.04; -63c [-5.4%] Vol Index 1.7.
+
++ Caravel Minerals Limited (ASX:CVV) underperforms 85% of the stocks; -1.5c [-7.5%].
+
++ Caspin Resources Limited (ASX:CPN) plunges 9.5% weakening below moving average price; -0.9c [-9.5%].
+
++ Catalyst Metals Limited (ASX:CYL) underperforms 89% of the stocks; -5c [-1.2%] Vol Index 1.7.
+
++ Catapult Sports Ltd (ASX:CAT) falls 2.4% from 14-day high; -6c [-1.6%].
+
++ Cedar Woods Properties Limited (ASX:CWP) stock ticks down 0.5%; -3c [-0.5%].
+
++ Centrepoint Alliance Limited (ASX:CAF) beats 88% of the stocks; +0.5c [+1.4%] Vol Index 1.4.
+
++ Cettire Limited (ASX:CTT) falls 1.0c on weak volume to close at 38.0c; -1c [-2.6%].
+
++ Chalice Mining Limited (ASX:CHN) plunges 9.0c (7.8%) on robust volume to close at $A1.06; -9c [-7.8%] Vol Index 1.4.
+
++ Challenger Limited (ASX:CGF) shares fall 0.1%; -1c [-0.1%].
+
++ Challenger Gold Limited (ASX:CEL) underperforms 89% of the stocks; -4c [-2.4%].
+
++ Champion Iron Limited (ASX:CIA) decreases; -1c [-0.5%] Vol Index 2.3.
+
++ Chariot Resources Ltd (ASX:CC9) jumps 5.3%; +0.2c [+5.3%] Vol Index 1.8.
+
++ Chrysos Corporation Limited (ASX:C79) falls in 4 out of last 5 days; -39c [-5.9%].
+
++ Citigold Corporation Limited (ASX:CTO) drops to two-month low on firm volume; -0.3c [-17.6%].
+
++ City Chic Collective Limited (ASX:CCX) falls 0.10c on miniscule volume to close at 4.0c; -0.1c [-2.4%].
+
++ Civmec Limited (ASX:CVL) posts a fourth straight loss; -6c [-3.5%] in 4 days.
+
++ Clarity Pharmaceuticals Ltd (ASX:CU6) tumbles 10.0c (6.2%) on average volume to close at $A1.50; -10c [-6.2%].
+
++ CleanSpace Holdings Limited (ASX:CSX) loses $A2.7 million (7.2%) in MCap; -3.5c [-7.2%].
+
++ Clean TeQ Water Limited (ASX:CNQ) drops to three-month low; -1c [-2.0%].
+
++ Clearvue Technologies Limited (ASX:CPV) up 9.8% in 2 days; +0.5c [+9.8%] in 2 days.
+
++ Cleo Diagnostics Ltd (ASX:COV) underperforms 89% of the stocks; -1c [-3.6%].
+
++ Clime Capital Limited (ASX:CAM) posts back-to-back gains; +1c [+1.6%] in 2 days.
+
++ Clinuvel Pharmaceuticals Limited (ASX:CUV) falls 2.8% weakening below moving average price; -22c [-2.8%] Vol Index 1.5.
+
++ Close the Loop Ltd. (ASX:CLG) hits a 23-day high; +0.3c [+7.5%].
+
++ Clover Corporation Limited (ASX:CLV) drops 1.9% in downward move; -2c [-1.9%].
+
++ Cobalt Blue Holdings Limited (ASX:COB) extends downtrend with 15th time year-low in three months; -0.3c [-5.9%].
+
++ Cobre Limited (ASX:CBE) plunges 2.0c (8.2%) on firm volume to close at 22.50c; -2c [-8.2%].
+
++ Cochlear Limited (ASX:COH) extends winning streak; +$A14.31 [+10.1%] in 4 days.
+
++ Coda Minerals Ltd (ASX:COD) falls 0.20c on weak volume to close at 8.70c; -0.2c [-2.2%].
+
++ Codan Limited (ASX:CDA) drops to two-month low on robust volume; -$A1.63 [-2.9%] Vol Index 1.8.
+
++ Codrus Minerals Limited (ASX:CDR) drops to four-month low on extraordinary volume; -0.3c [-10.0%] Vol Index 3.9.
+
++ Cogstate Ltd (ASX:CGS) falls 9.0c on weak volume to close at $A3.29; -9c [-2.7%].
+
++ Cokal Limited (ASX:CKA) up 6.1% in 2 days; +0.2c [+6.1%] in 2 days.
+
++ Coles Group Limited. (ASX:COL) up 6.4% in 2 days; +$A1.35 [+6.4%] Vol Index 1.4 in 2 days.
+
++ Collins Foods Limited (ASX:CKF) posts a fourth straight gain; +31c [+3.5%] in 4 days.
+
++ Comet Ridge Limited (ASX:COI) lifts 1.6% against the trend; +0.1c [+1.6%].
+
++ Commonwealth Bank of Australia. (ASX:CBA) hits three-month high on firm volume; +$A1.22 [+0.7%] Vol Index 1.3.
+
++ Comms Group Ltd (ASX:CCG) drops 1.2% on slipping relative strength; -0.1c [-1.2%].
+
++ Compumedics Limited (ASX:CMP) gains 4.3% against the trend; +1c [+4.3%].
+
++ Computershare Limited. (ASX:CPU) adds $A326.5 million (1.3%) in MCap; +56c [+1.3%] Vol Index 2.0.
+
++ Connected Minerals Limited (ASX:CML) underperforms 88% of the stocks; -1.5c [-5.1%].
+
++ Conneqt Health Limited (ASX:CQT) extends downtrend with 21st time year-low in three months; -0.1c [-20.0%] Vol Index 2.0.
+
++ Contact Energy Limited (ASX:CEN) stock climbs 2.0%; +14c [+2.0%].
+
++ Corazon Mining Limited (ASX:CZN) drops to four-month low on firm volume; -0.3c [-3.9%] Vol Index 1.4.
+
++ Coronado Global Resources Inc. (ASX:CRN) underperforms 83% of the stocks; -0.5c [-3.6%].
+
++ Corporate Travel Management Limited (ASX:CTD) decreases; -3c [-0.8%] Vol Index 1.7.
+
++ Count Limited (ASX:CUP) extends uptrend with 13th time year-high in three months; +4c [+2.4%] Vol Index 5.1.
+
++ Credit Clear Limited (ASX:CCR) hits five-month high on extraordinary volume; +4c [+28.6%] Vol Index 3.7.
+
++ Credit Corp Group Limited (ASX:CCP) hits a 52-Week High for the 10th time in one month; +7c [+0.5%].
+
++ Critica Limited (ASX:CRI) posts back-to-back gains; +0.1c [+5.3%] in 2 days.
+
++ Critical Resources Limited (ASX:CRR) accelerates decline; -0.1c [-14.3%] in 2 days.
+
++ CuFe LTD (ASX:CUF) beats 87% of the stocks; +0.1c [+2.0%].
+
++ CurveBeam AI Limited (ASX:CVB) soars 13%; +0.2c [+13.3%] Vol Index 2.3.
+
++ Cuscal Ltd (ASX:CCL) logs 1.2% loss in today's trading session; -7c [-1.2%].
+
++ Cyclopharm Limited (ASX:CYC) extends losing streak; -4c [-8.1%] Vol Index 1.7 in 3 days.
+
++ Cynata Therapeutics Limited (ASX:CYP) plunges 0.10c (7.7%) on weak volume to close at 1.20c; -0.1c [-7.7%].
+
++ Cyprium Metals Limited (ASX:CYM) hits a 52-Week Low for the 3rd time in one month; -2c [-6.6%].
+
++ DGL Group Limited (ASX:DGL) surges 8.3% against the trend; +2c [+8.3%].
+
++ DPM METALS INC. (ASX:DPM) drops 1.2% on slipping relative strength; -65c [-1.2%].
+
++ DXN Limited (ASX:DXN) plummets 1.50c (11%) on firm volume to close at 12.50c; -1.5c [-10.7%] Vol Index 1.3.
+
++ Dalaroo Metals Ltd (ASX:DAL) down 11% in 2 days; -1.5c [-10.7%] in 2 days.
+
++ DataWorks Group Limited (ASX:DWG) plunges 7.7% weakening below moving average price; -1c [-7.7%].
+
++ Dateline Resources Limited (ASX:DTR) tumbles 5.9% weakening below moving average price; -0.5c [-5.9%].
+
++ De. Mem Limited (ASX:DEM) sinks 4.3% on slipping relative strength; -0.5c [-4.3%].
+
++ Decidr Ai Industries Ltd (ASX:DAI) soars 13%; +2c [+13.3%] Vol Index 2.2.
+
++ Delta Lithium Limited (ASX:DLI) sinks 4.8% weakening below moving average price; -0.75c [-4.8%].
+
++ Desert Minerals Ltd (ASX:DSM) logs 1.6% loss in today's trading session; -1c [-1.6%].
+
++ Develop Global Limited (ASX:DVP) drops to year low on high volume; -40c [-10.1%] Vol Index 2.2.
+
++ Devex Resources Limited (ASX:DEV) hits two-month high; +1.5c [+8.6%].
+
++ Diablo Resources Limited (ASX:DBO) soars 0.10c (14%) on weak volume to close at 0.80c; +0.1c [+14.3%].
+
++ Dicker Data Limited (ASX:DDR) drops to two-month low; -50c [-3.4%].
+
++ DigitalX Limited (ASX:DCC) slides 0.10c (3.6%) on weak volume to close at 2.70c; -0.1c [-3.6%].
+
++ Dimerix Limited (ASX:DXB) falls 2.4% weakening below moving average price; -0.5c [-2.4%].
+
++ Djerriwarrh Investments Limited (ASX:DJW) drops 1.0% in today's session; -3c [-1%].
+
++ Doctor Care Anywhere Group PLC (ASX:DOC) extends downtrend with 12th time year-low in three months; -0.8c [-8.0%] Vol Index 1.5.
+
++ Dominos Pizza Enterprises Limited (ASX:DMP) decreases 0.5% in today's session; -11c [-0.5%].
+
++ Dotz Nano Limited (ASX:DTZ) surges 7.7%; +0.1c [+7.7%] Vol Index 3.6.
+
++ Downer Edi Limited (ASX:DOW) stock ticks down 1.0%; -7c [-1.0%] Vol Index 1.2.
+
++ DroneShield Limited (ASX:DRO) underperforms 97% of the stocks; -3c [-2.3%].
+
++ Dubber Corporation Limited (ASX:DUB) extends winning streak; +0.2c [+36.4%] Vol Index 2.0 in 3 days.
+
++ Dug Technology Ltd (ASX:DUG) sinks 4.6% weakening below moving average price; -7c [-4.6%].
+
++ Duratec Ltd (ASX:DUR) tumbles 13.0c (6.4%) on below average volume to close at $A1.89; -13c [-6.4%].
+
++ Dusk Group Limited (ASX:DSK) beats 81% of the stocks; +1.5c [+2.1%].
+
++ Duxton Farms Ltd (ASX:DBF) posts back-to-back gains; +1c [+3.1%] in 2 days.
+
++ Dynamic Metals Limited (ASX:DYM) in positive territory today; +0.5c [+0.8%].
+
++ Dyno Nobel Limited (ASX:DNL) falls 2.8%; -11c [-2.8%] Vol Index 1.7.
+
++ EBR Systems Inc. (ASX:EBR) up 14% in 2 days; +1.5c [+13.6%] Vol Index 1.5 in 2 days.
+
++ ECP Emerging Growth Limited (ASX:ECP) plummets 8.0c (13%) on strong volume to close at 55.0c; -8c [-12.7%] Vol Index 3.0.
+
++ EDU Holdings Limited (ASX:EDU) offers dividend yield of 6.8%; -0.5c [-0.6%].
+
++ EMC Gold Corporation (ASX:EM3) tumbles 5.3% weakening below moving average price; -0.5c [-5.3%].
+
++ EML Payments Limited (ASX:EML) hits three-month high on firm volume; +1.5c [+5.7%].
+
++ EPIMINDER LIMITED (ASX:EPI) soars 10% in today's session; +2.5c [+10.4%] Vol Index 2.8.
+
++ EQT Holdings Limited (ASX:EQT) falls 46.0c on weak volume to close at $A21.27; -46c [-2.1%].
+
++ EQ Resources Limited (ASX:EQR) plunges 3.0c (9.7%) on average volume to close at 28.0c; -3c [-9.7%].
+
++ EVERLAST MINERALS LTD (ASX:EV8) lifts 1.5%; +0.5c [+1.5%] Vol Index 3.0.
+
++ EVT Limited (ASX:EVT) decreases 0.9% in downward move; -14c [-0.9%].
+
++ EZZ Life Science Holdings Limited (ASX:EZZ) underperforms 92% of the stocks; -0.5c [-1.6%].
+
++ Eagers Automotive Limited (ASX:APE) extends losing streak; -$A3.64 [-18.3%] Vol Index 4.0 in 3 days.
+
++ Earlypay Ltd (ASX:EPY) slides 3.9% weakening below moving average price; -0.5c [-3.9%].
+
++ Eastern Resources Limited (ASX:EFE) extends downtrend with 17th time year-low in three months; -0.1c [-3.9%].
+
++ Ebos Group Limited (ASX:EBO) decreases 0.6% in downward move; -11c [-0.6%].
+
++ EchoIQ Limited (ASX:EIQ) underperforms 99% of the stocks; -2c [-3.9%].
+
++ Eclipse Metals Limited. (ASX:EPM) extends downtrend with 13th time year-low in three months; -0.1c [-9.1%].
+
++ EcoGraf Limited (ASX:EGR) gains 1.0c (4.9%) on below average volume to close at 21.50c; +1c [+4.9%].
+
++ Elders Limited (ASX:ELD) logs 0.2% loss in today's trading session; -1c [-0.2%].
+
++ Electro Optic Systems Holdings Limited (ASX:EOS) drops to four-month low; -34c [-4.6%].
+
++ Elementos Limited (ASX:ELT) accelerates rise; +2c [+5.8%] in 2 days.
+
++ Elevate Uranium Ltd (ASX:EL8) up 13% in 2 days; +2.5c [+12.8%] in 2 days.
+
++ Elevra Lithium Limited (ASX:ELV) tumbles 23.0c (6.4%) on robust volume to close at $A3.34; -23c [-6.4%] Vol Index 1.8.
+
++ Elixir Energy Limited (ASX:EXR) underperforms 91% of the stocks; -0.4c [-6.3%].
+
++ Elsight Limited (ASX:ELS) tumbles 10.0c (6.5%) on robust volume to close at $A1.43; -10c [-6.5%] Vol Index 1.6.
+
++ Embark Early Education Limited (ASX:EVO) lifts 1.3% against the trend; +0.5c [+1.3%].
+
++ Embelton Limited (ASX:EMB) hits a 52-Week High for the 3rd time in one month; +25c [+2.2%] Vol Index 5.6.
+
++ Emeco Holdings Limited (ASX:EHL) extends losing streak; -10c [-7.2%] in 4 days.
+
++ Emerald Resources NL (ASX:EMR) falls 20.0c on thin volume to close at $A6.62; -20c [-2.9%].
+
++ Eminence Minerals Limited (ASX:EMA) drops to one-month low; -0.2c [-4.4%].
+
++ Emperor Energy Limited (ASX:EMP) lifts 1.2% against the trend; +0.1c [+1.2%].
+
++ Emvision Medical Devices Ltd (ASX:EMV) hits a 52-Week Low for the 5th time in one month; -2c [-1.4%] Vol Index 1.3.
+
++ Emyria Limited (ASX:EMD) tumbles 0.20c (5.0%) on weak volume to close at 3.80c; -0.2c [-5.0%].
+
++ Encounter Resources Limited (ASX:ENR) underperforms 81% of the stocks; -1.5c [-6.4%].
+
++ Endeavour Group Limited (ASX:EDV) extends winning streak; +23c [+6.8%] in 4 days.
+
++ Eneco Refresh Ltd (ASX:ERG) drops to two-month low on high volume; -0.1c [-6.2%] Vol Index 2.2.
+
++ Energy Metals Ltd (ASX:EME) in negative territory today; -0.1c [-1.3%].
+
++ Energy One Limited (ASX:EOL) falls in 4 out of last 5 days; -79c [-5.3%].
+
++ Energy Technologies Limited (ASX:EGY) drops to 21-day low; -0.2c [-7.4%].
+
++ Energy Transition Minerals Ltd (ASX:ETM) drops to four-month low; -0.1c [-2.3%].
+
++ Energy World Corporation Ltd (ASX:EWC) falls in 4 out of last 5 days; -0.2c [-3.1%] Vol Index 3.5.
+
++ Enero Group Limited (ASX:EGG) surges 8.6% on rising relative strength; +1.5c [+8.6%].
+
++ Enova Mining Limited (ASX:ENV) extends downtrend with 19th time year-low in three months; -0.1c [-50.0%].
+
++ Environmental Clean Technologies Limited. (ASX:ECT) hits a 52-Week Low for the 2nd time in one month; -0.5c [-6.6%].
+
++ Environmental Group Limited (The) (ASX:EGL) posts back-to-back gains; +0.2c [+2.9%] in 2 days.
+
++ Eroad Limited (ASX:ERD) rises 5.7% from 14-day low; +1.5c [+2.4%].
+
++ Etherstack PLC (ASX:ESK) up 15% in 2 days; +7c [+15.4%] in 2 days.
+
++ Everest Metals Corporation Ltd (ASX:EMC) shares resume trading after an untraded day; +0.8c [+10.7%].
+
++ Evergold Minerals Limited (ASX:EG1) plummets 0.20c (11%) on weak volume to close at 1.70c; -0.2c [-10.5%].
+
++ Evion Group NL (ASX:EVG) surges 8.3% on rising relative strength; +0.1c [+8.3%].
+
++ Evolution Mining Limited (ASX:EVN) falls 2.6% on slipping relative strength; -35c [-2.6%].
+
++ FAR Limited (ASX:FAR) climbs 2.5% on rising relative strength; +0.75c [+2.5%].
+
++ FBR Ltd (ASX:FBR) underperforms 99% of the stocks; -0.1c [-2.3%] Vol Index 1.6.
+
++ FDC Consolidated Holdings Ltd (ASX:FDC) posts a fifth straight loss; -23c [-6.3%] in 5 days.
+
++ FINEOS Corporation Holdings plc (ASX:FCL) posts back-to-back gains; +6c [+3.0%] in 2 days.
+
++ FMR Resources Limited (ASX:FMR) sinks 4.0% on slipping relative strength; -2c [-4.0%].
+
++ Falcon Metals Ltd (ASX:FAL) underperforms 91% of the stocks; -2.5c [-6.5%] Vol Index 2.1.
+
++ Famien Resources Limited (ASX:FMN) extends downtrend with 7th time year-low in three months; -1c [-8.3%] Vol Index 4.5.
+
++ Far East Gold Ltd (ASX:FEG) shares resume trading after an untraded day; +0.5c [+5.0%].
+
++ Felix Gold Limited (ASX:FXG) extends downtrend with 19th time year-low in three months; -1.5c [-13.0%] Vol Index 4.9.
+
++ Fiducian Group Limited (ASX:FID) hits two-month high on firm volume; +27c [+3.2%].
+
++ Finder Energy Holdings Limited (ASX:FDR) extends downtrend with 6th time year-low in three months; -3.5c [-14.9%] Vol Index 2.5.
+
++ FireFly Metals Ltd (ASX:FFM) plunges 12.0c (8.3%) on average volume to close at $A1.32; -12c [-8.3%].
+
++ Firebird Metals Limited (ASX:FRB) slides 3.7% weakening below moving average price; -0.5c [-3.7%].
+
++ First Graphene Limited (ASX:FGR) hits a 52-Week Low for the 8th time in one month; -0.3c [-8.8%].
+
++ Firstwave Cloud Technology Limited (ASX:FCT) plummets 0.10c (12%) on weak volume to close at 0.70c; -0.1c [-12.5%].
+
++ Fisher & Paykel Healthcare Corporation Limited (ASX:FPH) extends winning streak; +$A2.41 [+6.6%] in 4 days.
+
++ Flagship Investments Limited (ASX:FSI) offers dividend yield of 9.3%; -3c [-2.6%] Vol Index 1.3.
+
++ Flagship Minerals Limited (ASX:FLG) shares resume trading after an untraded day; +0.5c [+3.7%].
+
++ FleetPartners Group Limited (ASX:FPR) in negative territory today; -1c [-0.2%].
+
++ Fleetwood Limited (ASX:FWD) offers dividend yield of 9.3%; -1c [-0.5%].
+
++ Fletcher Building Limited (ASX:FBU) falls 2.0%; -6c [-2.0%] Vol Index 3.0.
+
++ Flight Centre Travel Group Limited (ASX:FLT) shares fall after 5 days of rises ; -27c [-2.1%].
+
++ Flynn Gold Limited (ASX:FG1) up 17% in 2 days; +0.2c [+16.7%] in 2 days.
+
++ Focus Minerals Ltd (ASX:FML) tumbles 5.3% weakening below moving average price; -10c [-5.3%].
+
++ Forrestania Resources Limited (ASX:FRS) adds $A12.2 million (1.6%) in MCap; +0.5c [+1.6%] Vol Index 1.7.
+
++ Fortescue Ltd (ASX:FMG) falls 2.0%; -31c [-2.0%] Vol Index 1.7.
+
++ Fortifai Ltd (ASX:FTI) drops to nine-month low on robust volume; -7.5c [-23.4%] Vol Index 1.8.
+
++ Fortuna Metals Ltd (ASX:FUN) hits a 52-Week Low for the 6th time in one month; -0.3c [-4.3%].
+
++ Frontier Energy Limited (ASX:FHE) extends winning streak; +2c [+11.4%] Vol Index 1.4 in 3 days.
+
++ Future Generation Global Limited (ASX:FGG) accelerates decline; -10c [-6.1%] in 2 days.
+
++ Future Metals NL (ASX:FME) extends downtrend with 33rd time year-low in three months; -0.1c [-11.1%].
+
++ G50 Corp Limited (ASX:G50) underperforms 97% of the stocks; -1c [-3.2%].
+
++ G8 Education Limited (ASX:GEM) up 12% in 2 days; +1.1c [+11.7%] in 2 days.
+
++ GBM Resources Limited (ASX:GBM) tumbles 5.6% weakening below moving average price; -0.1c [-5.6%].
+
++ GCM Corporation Limited (ASX:GCM) rises 6.4% from 14-day low; +0.1c [+2.0%].
+
++ GOLDEN HORSE MINERALS LIMITED (ASX:GHM) stock ticks down 7.6%; -3.5c [-7.6%].
+
++ GQG Partners Inc. (ASX:GQG) loses $A88.7 million (3.1%) in MCap; -3c [-3.1%].
+
++ GREATLAND RESOURCES LIMITED (ASX:GGP) sinks 50.0c (4.6%) on firm volume to close at $A10.33; -50c [-4.6%].
+
++ GR Engineering Services Limited (ASX:GNG) plunges 51.0c (7.0%) on firm volume to close at $A6.75; -51c [-7.0%] Vol Index 1.2.
+
++ GWA Group Limited. (ASX:GWA) hits two-month high; +4c [+1.9%].
+
++ GWR Group Limited (ASX:GWR) drops to three-month low; -0.5c [-5.9%].
+
++ Galan Lithium Limited (ASX:GLN) tumbles 1.50c (6.7%) on weak volume to close at 21.0c; -1.5c [-6.7%].
+
++ Galileo Mining Ltd (ASX:GAL) plunges 9.1% weakening below moving average price; -1c [-9.1%].
+
++ Gateway Mining Limited (ASX:GML) plunges 8.5% weakening below moving average price; -0.5c [-8.5%].
+
++ Generation Development Group Limited (ASX:GDG) loses $A30.9 million (2.4%) in MCap; -8c [-2.4%].
+
++ Genesis Energy Limited (ASX:GNE) stock decreases 0.5%; -1c [-0.5%] Vol Index 1.8.
+
++ Genesis Minerals Limited (ASX:GMD) slides 4.0% on slipping relative strength; -29c [-4.0%] Vol Index 2.0.
+
++ Genetic Signatures Limited (ASX:GSS) drops to one-month low; -0.6c [-7.8%].
+
++ Gentrack Group Limited (ASX:GTK) falls 2.3% in downward move; -8c [-2.3%].
+
++ GenusPlus Group Ltd (ASX:GNP) falls 2.4%; -20c [-2.4%] Vol Index 1.6.
+
++ Glennon Small Companies Limited (ASX:GC1) plunges 7.1% on slipping relative strength; -3c [-7.1%].
+
++ Global Lithium Resources Limited (ASX:GL1) outperforms 98% of the stocks; +1c [+1.1%].
+
++ Global Masters Fund Limited (ASX:GFL) hits eight-month high; +8c [+2.7%].
+
++ Gold Mountain Limited (ASX:GMN) underperforms 93% of the stocks; -0.1c [-2.1%].
+
++ Goldarc Resources Limited (ASX:GA8) underperforms 88% of the stocks; -0.05c [-1.3%].
+
++ Golden Deeps Limited. (ASX:GED) posts back-to-back gains; +0.2c [+5.7%] in 2 days.
+
++ Gorilla Gold Mines Ltd (ASX:GG8) gains 4.2% on rising relative strength; +1c [+4.2%].
+
++ Gowing Bros Limited (ASX:GOW) lifts 1.0% against the trend; +2c [+1.0%].
+
++ GrainCorp Limited (ASX:GNC) increases 2.0c on firm volume to close at $A6.80; +2c [+0.3%].
+
++ Great Boulder Resources Limited (ASX:GBR) drops to fifteen-month low on robust volume; -0.2c [-3.2%] Vol Index 1.6.
+
++ Great Divide Mining Ltd (ASX:GDM) jumps 5.4% against the trend; +1c [+5.4%].
+
++ Great Northern Minerals Limited (ASX:GNM) up 11% in 2 days; +0.2c [+10.5%] in 2 days.
+
++ Green360 Technologies LImited (ASX:GT3) plummets 0.30c (11%) on firm volume to close at 2.40c; -0.3c [-11.1%].
+
++ GreenX Metals Limited (ASX:GRX) drops to four-month low; -2c [-2.3%].
+
++ Green Technology Metals Limited (ASX:GT1) tumbles 0.10c (6.2%) on feeble volume to close at 1.50c; -0.1c [-6.2%].
+
++ Greentech Metals Limited (ASX:GRE) extends downtrend with 24th time year-low in three months; -0.4c [-12.9%].
+
++ Gryphon Capital Income Trust (ASX:GCI) in negative territory today; -1c [-0.5%] Vol Index 1.2.
+
++ Guyzman Y Gomez Limited (ASX:GYG) lower with 1.0% fall today's session; -27c [-1.0%].
+
++ H3 Energy Limited (ASX:H3E) soars 33% on rising relative strength; +0.1c [+33.3%].
+
++ HMC Capital Limited (ASX:HMC) shares fall after 3 days of rises ; -11c [-3.2%].
+
++ HUB24 Limited (ASX:HUB) falls 2.8% from 14-day high; -$A2.06 [-2.6%].
+
++ Hamelin Gold Limited (ASX:HMG) outperforms 97% of the stocks; +1c [+6.1%].
+
++ Hammer Metals Limited (ASX:HMX) underperforms 88% of the stocks; -0.3c [-4.8%].
+
++ Hansen Technologies Limited (ASX:HSN) drops 1.9% weakening below moving average price; -7c [-1.9%].
+
++ Harmoney Corp Ltd (ASX:HMY) drops 1.5% on slipping relative strength; -1c [-1.5%].
+
++ Harvey Norman Holdings Limited (ASX:HVN) drops 1.3% in today's session; -6c [-1.3%].
+
++ Hastings Technology Metals Ltd (ASX:HAS) plunges 8.7% weakening below moving average price; -2c [-8.7%].
+
++ Hawk Resources Limited (ASX:HWK) hits a 52-Week Low for the 10th time in one month; -0.05c [-11.1%].
+
++ Hazer Group Limited (ASX:HZR) lifts 1.8% against the trend; +0.5c [+1.8%].
+
++ Healius Limited (ASX:HLS) outperforms 97% of the stocks; +0.5c [+1.0%].
+
++ Heartland Group Holdings Limited (ASX:HGH) decreases on slipping relative strength; -1c [-1.0%].
+
++ Hearts and Minds Investments Limited (ASX:HM1) drops 1.4% on slipping relative strength; -4c [-1.4%].
+
++ Heavy Minerals Limited (ASX:HVY) plummets 3.50c (10%) on firm volume to close at 30.50c; -3.5c [-10.3%].
+
++ Helia Group Limited (ASX:HLI) up 5.5% in 2 days; +26c [+5.5%] in 2 days.
+
++ Helix Resources Limited (ASX:HLX) shares fall after 3 days of rises ; -0.2c [-5.4%].
+
++ High-Tech Metals Ltd (ASX:HTM) tumbles 1.50c (5.9%) on thin volume to close at 24.0c; -1.5c [-5.9%].
+
++ HighCom Limited (ASX:HCL) jumps 5.3% against the trend; +0.5c [+5.3%].
+
++ Hipages Group Holdings Ltd (ASX:HPG) down 11% in 2 days; -9c [-10.6%] Vol Index 1.6 in 2 days.
+
++ HitIQ Limited (ASX:HIQ) plummets 0.10c (25%) on miniscule volume to close at 0.30c; -0.1c [-25.0%].
+
++ Hitech Group Australia Limited (ASX:HIT) hits a 23-day high on firm volume; +2c [+1.8%] Vol Index 1.4.
+
++ Horizon Gold Limited (ASX:HRN) stock drops 1.7%; -2c [-1.7%].
+
++ Horizon Oil Limited (ASX:HZN) sinks 1.0c (4.9%) on average volume to close at 19.50c; -1c [-4.9%].
+
++ Hot Chili Limited (ASX:HCH) drops to eleven-month low on firm volume; -12c [-9.2%] Vol Index 1.3.
+
++ Humm Group Limited (ASX:HUM) offers dividend yield of 5.2%; -0.5c [-1.0%].
+
++ IDP Education Limited (ASX:IEL) slides 3.1% weakening below moving average price; -7c [-3.1%].
+
++ IDT Australia Limited (ASX:IDT) drops to one-month low on strong volume; -0.4c [-10.0%] Vol Index 3.2.
+
++ IGO Limited (ASX:IGO) underperforms 83% of the stocks; -31c [-5.9%] Vol Index 2.1.
+
++ IODM Limited (ASX:IOD) underperforms 95% of the stocks; -0.4c [-5.7%].
+
++ IPD Group Ltd (ASX:IPG) falls in 4 out of last 5 days; -19c [-3.6%].
+
++ IPH Limited (ASX:IPH) shares fall after 6 days of rises ; -9c [-2.2%].
+
++ IRESS Limited (ASX:IRE) falls 14.0c on average volume to close at $A5.79; -14c [-2.4%].
+
++ ITECH MINERALS LTD (ASX:ITM) underperforms 95% of the stocks; -0.2c [-5.4%].
+
++ Iltani Resources Limited (ASX:ILT) posts back-to-back gains; +4.5c [+15.3%] in 2 days.
+
++ Iluka Resources Limited (ASX:ILU) slides 23.0c (3.7%) on firm volume to close at $A5.93; -23c [-3.7%].
+
++ Image Resources NL (ASX:IMA) underperforms 89% of the stocks; -0.1c [-5.0%].
+
++ Imdex Limited (ASX:IMD) tumbles 24.0c (7.0%) on thin volume to close at $A3.20; -24c [-7.0%].
+
++ ImpediMed Limited (ASX:IPD) drops to four-month low; -0.1c [-25.0%].
+
++ Imricor Medical Systems, Inc. (ASX:IMR) underperforms 85% of the stocks; -3c [-2.3%].
+
++ Imugene Limited (ASX:IMU) up 20% in 2 days; +0.6c [+20.0%] Vol Index 1.6 in 2 days.
+
++ Income Asset Management Group Limited (ASX:IAM) shares resume trading after an untraded day; +0.3c [+33.3%].
+
++ Indiana Resources Limited (ASX:IDA) extends downtrend with 23rd time year-low in three months; -0.1c [-5.9%] Vol Index 1.6.
+
++ Infotrust Ltd (ASX:ITS) hits a 21-day high; +5c [+25.0%].
+
++ Infratil Limited (ASX:IFT) in negative territory today; -18c [-1.7%].
+
++ Inghams Group Limited (ASX:ING) posts a fourth straight gain; +10c [+4.8%] in 4 days.
+
++ Inoviq Ltd (ASX:IIQ) extends downtrend with 27th time year-low in three months; -0.25c [-1.9%].
+
++ Insurance Australia Group Limited (ASX:IAG) hits a 52-Week High for the 11th time in one month; +6c [+0.7%].
+
++ Integral Diagnostics Limited (ASX:IDX) posts back-to-back gains; +3c [+1.8%] Vol Index 1.5 in 2 days.
+
++ Integrated Research Limited (ASX:IRI) shares resume trading after an untraded day; +0.75c [+2.9%].
+
++ Intelligent Monitoring Group Limited (ASX:IMB) drops to 22-day low; -1c [-1.9%].
+
++ International Graphite Limited (ASX:IG6) extends downtrend with 20th time year-low in three months; -0.1c [-2.8%] Vol Index 1.6.
+
++ Investigator Silver Limited (ASX:IVR) tumbles 6.8% weakening below moving average price; -0.3c [-6.8%].
+
++ Investsmart Group Limited (ASX:INV) drops to three-month low on strong volume; -1c [-8.7%] Vol Index 3.3.
+
++ Invictus Energy Ltd (ASX:IVZ) plunges 0.50c (7.2%) on below average volume to close at 6.40c; -0.5c [-7.2%].
+
++ Ion Video Ltd (ASX:IOV) decreases 1.0% in today's session; -0.5c [-1.0%].
+
++ Iondrive Limited (ASX:ION) underperforms 91% of the stocks; -0.8c [-9.5%].
+
++ Ioneer Ltd (ASX:INR) tumbles 5.0% weakening below moving average price; -0.5c [-5.0%].
+
++ Ionic Rare Earths Limited (ASX:IXR) accelerates decline; -5.5c [-10.7%] in 2 days.
+
++ Iperionx Limited (ASX:IPX) plunges 19.0c (8.7%) on below average volume to close at $A2.0; -19c [-8.7%].
+
++ Island Pharmaceuticals Limited (ASX:ILA) falls 1.0c on weak volume to close at 32.50c; -1c [-3.0%].
+
++ JB Hi-Fi Limited (ASX:JBH) up 5.1% in 2 days; +$A3.76 [+5.1%] Vol Index 1.4 in 2 days.
+
++ James Hardie Industries PLC (ASX:JHX) tumbles $A2.60 (6.2%) on below average volume to close at $A39.20; -$A2.60 [-6.2%].
+
++ Jindalee Lithium Limited (ASX:JLL) tumbles 2.0c (5.0%) on weak volume to close at 38.0c; -2c [-5.0%].
+
++ Joyce Corporation Limited (ASX:JYC) offers dividend yield of 5.5%; -7c [-1.3%].
+
++ Judo Capital Holdings Limited (ASX:JDO) loses $A38.8 million (3.6%) in MCap; -3.5c [-3.6%].
+
++ Jumbo Interactive Limited (ASX:JIN) weakens below moving average price; -6c [-0.9%].
+
++ Jupiter Mines Limited (ASX:JMS) tumbles 1.50c (5.8%) on firm volume to close at 24.50c; -1.5c [-5.8%] Vol Index 1.3.
+
++ KMD Brands Limited (ASX:KMD) hits five-month high; +2c [+1.2%].
+
++ Kaiser Reef Limited (ASX:KAU) tumbles 1.0c (6.2%) on feeble volume to close at 15.0c; -1c [-6.2%].
+
++ Kali Metals Limited (ASX:KM1) underperforms 86% of the stocks; -0.3c [-3.5%].
+
++ Kalina Power Limited (ASX:KPO) plunges 7.7% on slipping relative strength; -0.1c [-7.7%].
+
++ Kantra Copper Ltd (ASX:KAN) in bottom 4% performers of All Ordinaries Index; -10c [-9.1%] Vol Index 1.4.
+
++ Kaoko Metals Limited (ASX:KAO) higher with 0.7% gain today's session; +0.5c [+0.7%].
+
++ Karoon Energy Ltd (ASX:KAR) extends losing streak; -17c [-9.7%] in 5 days.
+
++ Kelly Partners Group Holdings Limited (ASX:KPG) falls 9.0c on feeble volume to close at $A4.25; -9c [-2.1%].
+
++ Kelsian Group Limited (ASX:KLS) falls 2.1% from 14-day high; -2c [-0.5%].
+
++ Killi Resources Limited (ASX:KLI) underperforms 87% of the stocks; -0.5c [-2.4%].
+
++ Kinatico Ltd (ASX:KYP) extends downtrend with 8th time year-low in three months; -0.25c [-2.1%].
+
++ Kingsgate Consolidated Limited (ASX:KCN) sinks 4.5% weakening below moving average price; -20c [-4.5%].
+
++ Kingsrose Mining Limited (ASX:KRM) jumps 5.6%; +0.1c [+5.6%] Vol Index 1.6.
+
++ Kingston Resources Limited (ASX:KSN) extends downtrend with 5th time year-low in three months; -0.1c [-3.2%].
+
++ Klevo Rewards Limited (ASX:KLV) plunges 3.50c (7.2%) on weak volume to close at 45.0c; -3.5c [-7.2%].
+
++ Kogan.com Ltd (ASX:KGN) extends rally with a 36% gain in 12 days; +$A1.21 [+36.1%] Vol Index 1.5 in 12 days.
+
++ Koonenberry Gold Limited (ASX:KNB) adds $A1.2 million (6.2%) in MCap; +0.1c [+6.2%].
+
++ Korvest Ltd. (ASX:KOV) increases 0.5% against the trend; +8c [+0.5%].
+
++ Krakatoa Resources Limited (ASX:KTA) soars 0.05c (12%) on firm volume to close at 0.45c; +0.05c [+12.5%] Vol Index 1.3.
+
++ Kuniko Limited (ASX:KNI) extends downtrend with 6th time year-low in three months; -0.1c [-5.6%] Vol Index 1.4.
+
++ L1 Global Long Short Fund Limited (ASX:GLS) falls 2.1%; -4c [-2.1%] Vol Index 1.7.
+
++ L1 Gold Fund Ltd (ASX:LGF) lower with 1.3% fall today's session; -3c [-1.3%].
+
++ L1 Group Limited (ASX:L1G) shares fall after 9 days of rises ; -3c [-2.3%].
+
++ L1 Long Short Fund Limited (ASX:LSF) decreases on slipping relative strength; -3c [-0.7%].
+
++ LCL Resources Limited (ASX:LCL) plummets 0.10c (11%) on weak volume to close at 0.80c; -0.1c [-11.1%].
+
++ LE Minerals Limited (ASX:LEL) accelerates decline; -1c [-3.8%] in 2 days.
+
++ LGI Limited (ASX:LGI) outperforms 98% of the stocks; +3c [+1.2%].
+
++ LINQ MINERALS LIMITED (ASX:LNQ) tumbles 3.50c (5.7%) on robust volume to close at 58.0c; -3.5c [-5.7%] Vol Index 1.4.
+
++ LTR Pharma Limited (ASX:LTP) falls 2.3% on slipping relative strength; -1c [-2.3%].
+
++ Lac Gold Limited (ASX:LAC) up 22% in 2 days; +5.5c [+22.0%] Vol Index 1.7 in 2 days.
+
++ Lachlan Star Limited (ASX:LSA) underperforms 94% of the stocks; -0.3c [-3.5%].
+
++ Lake Resources N.L. (ASX:LKE) underperforms 98% of the stocks; -0.1c [-3.3%].
+
++ Lark Distilling Co. Ltd (ASX:LRK) shares rise after 5 days of declines ; +2c [+3.5%] Vol Index 1.4.
+
++ Larvotto Resources Limited (ASX:LRV) plummets 10.0c (12%) on average volume to close at 74.0c; -10c [-11.9%].
+
++ LaserBond Limited (ASX:LBL) stock ticks down 1.6%; -1c [-1.6%].
+
++ Latitude 66 Limited (ASX:LAT) outperforms 95% of the stocks; +0.25c [+2.1%].
+
++ Latitude Group Holdings Ltd (ASX:LFS) hits two-month high; +3.5c [+4.2%].
+
++ Legacy Minerals Holdings Limited (ASX:LGM) plunges 1.0c (9.1%) on miniscule volume to close at 10.0c; -1c [-9.1%].
+
++ Li-S Energy Limited (ASX:LIS) tumbles 6.9% - at bearish turning point; -1c [-6.9%].
+
++ Life360 Inc. (ASX:360) stock ticks down 1.8%; -42c [-1.8%].
+
++ Lifestyle Communities Limited (ASX:LIC) adds $A12.2 million (2.4%) in MCap; +10c [+2.4%].
+
++ Light & Wonder Inc. (ASX:LNW) drops to 22-day low; -$A4.58 [-3.8%].
+
++ Lincoln Minerals Limited (ASX:LML) beats 84% of the stocks; +0.1c [+11.1%].
+
++ Lindian Resources Limited (ASX:LIN) plummets 4.50c (11%) on average volume to close at 37.50c; -4.5c [-10.7%].
+
++ Lindsay Australia Limited (ASX:LAU) falls 1.50c on weak volume to close at 69.0c; -1.5c [-2.1%].
+
++ Lion Selection Group Limited (ASX:LSX) slides 3.6% on slipping relative strength; -3c [-3.6%].
+
++ Liontown Limited (ASX:LTR) slides 3.7% weakening below moving average price; -2.5c [-3.7%] Vol Index 1.4.
+
++ Litchfield Minerals Limited (ASX:LMS) underperforms 97% of the stocks; -1c [-6.1%].
+
++ Lithium Plus Minerals Ltd (ASX:LPM) climbs 2.0% against the trend; +0.2c [+2.0%].
+
++ Locksley Resources Limited (ASX:LKY) underperforms 91% of the stocks; -0.2c [-3.2%].
+
++ Lodestar Minerals Limited (ASX:LSR) up 25% in 2 days; +0.1c [+25.0%] in 2 days.
+
++ Lotus Resources Limited (ASX:LOT) tumbles 5.3% weakening below moving average price; -1c [-5.3%].
+
++ Lovisa Holdings Limited (ASX:LOV) falls 2.4% from 14-day high; -24c [-0.8%].
+
++ Lunnon Metals Limited (ASX:LM8) tumbles 6.2% weakening below moving average price; -2c [-6.2%].
+
++ Lycopodium Limited (ASX:LYL) slides 3.5% on slipping relative strength; -70c [-3.5%].
+
++ Lynas Rare Earths Limited (ASX:LYC) sinks 64.0c (4.9%) on average volume to close at $A12.31; -64c [-4.9%].
+
++ MAAS Group Holdings Limited (ASX:MGH) underperforms 98% of the stocks; -19c [-4.8%] Vol Index 1.5.
+
++ MARIMACA COPPER CORP. (ASX:MC2) stock ticks down 4.2%; -29c [-4.2%].
+
++ MA Financial Group Limited (ASX:MAF) sinks 26.0c (4.9%) on average volume to close at $A5.0; -26c [-4.9%].
+
++ MFF Capital Investments Limited (ASX:MFF) shares fall 1.1%; -6c [-1.1%].
+
++ MGX Resources Limited (ASX:MGX) drops 1.7% weakening below moving average price; -0.5c [-1.7%].
+
++ MLG Oz Limited (ASX:MLG) plummets 9.0c (11%) on weak volume to close at 76.0c; -9c [-10.6%].
+
++ Macmahon Holdings Limited (ASX:MAH) drops to two-month low; -5c [-5.1%].
+
++ Macquarie Group Limited (ASX:MQG) drops to two-month low on high volume; -$A9.54 [-3.7%] Vol Index 2.1.
+
++ Macquarie Technology Group Limited (ASX:MAQ) tumbles $A2.76 (5.2%) on average volume to close at $A49.86; -$A2.76 [-5.2%].
+
++ Mader Group Ltd (ASX:MAD) falls 2.8% weakening below moving average price; -16c [-2.8%] Vol Index 2.1.
+
++ Maggie Beer Holdings Ltd (ASX:MBH) jumps 5.7% on rising relative strength; +0.3c [+5.7%].
+
++ Magmatic Resources Limited (ASX:MAG) underperforms 88% of the stocks; -0.1c [-5.3%].
+
++ Mamba Exploration Ltd (ASX:M24) soars 10.0% strengthening above moving average price; +0.5c [+10.0%].
+
++ Mammoth Minerals Limited (ASX:M79) underperforms 94% of the stocks; -0.1c [-3.7%].
+
++ Mandrake Resources Limited (ASX:MAN) extends downtrend with 28th time year-low in three months; -0.1c [-5.3%].
+
++ Manuka Resources Ltd. (ASX:MKR) underperforms 90% of the stocks; -0.4c [-8.2%].
+
++ Many Peaks Minerals Limited (ASX:MPK) slides 4.0c (3.6%) on thin volume to close at $A1.06; -4c [-3.6%].
+
++ Maritana Minerals Limited (ASX:MRT) decreases on slipping relative strength; -0.5c [-0.9%].
+
++ Marmota Limited (ASX:MEU) falls 2.7% weakening below moving average price; -0.2c [-2.7%].
+
++ Maronan Metals Limited (ASX:MMA) tumbles 6.4% on slipping relative strength; -2.5c [-6.4%].
+
++ MaxiPARTS Limited (ASX:MXI) outperforms 95% of the stocks; +2c [+1.0%] Vol Index 2.7.
+
++ Mayfield Group Holdings Limited (ASX:MYG) increases; +1c [+0.7%] Vol Index 1.9.
+
++ Mayne Pharma Group Limited (ASX:MYX) adds $A30.1 million (14%) in MCap; +37c [+13.7%] Vol Index 2.5.
+
++ McMillan Shakespeare Limited (ASX:MMS) slides 64.0c (3.3%) on firm volume to close at $A18.92; -64c [-3.3%] Vol Index 1.3.
+
++ Medallion Metals Limited (ASX:MM8) underperforms 86% of the stocks; -2c [-5.0%] Vol Index 1.3.
+
++ Medibank Private Limited (ASX:MPL) hits a 52-Week High for the 2nd time in one month; +6c [+1.2%].
+
++ Meeka Metals Limited (ASX:MEK) plunges 0.60c (7.4%) on below average volume to close at 7.50c; -0.6c [-7.4%].
+
++ Megaport Limited (ASX:MP1) underperforms 82% of the stocks; -69c [-3.9%] Vol Index 1.7.
+
++ Mercury NZ Limited (ASX:MCY) logs 2.4% loss in today's trading session; -13c [-2.4%].
+
++ Meridian Energy Limited (ASX:MEZ) stock nudges 1.8% lower; -8c [-1.8%].
+
++ Mesoblast Limited (ASX:MSB) tumbles 14.0c (6.5%) on thin volume to close at $A2.03; -14c [-6.5%].
+
++ Metal Bank Limited (ASX:MBK) up 33% in 2 days; +0.2c [+33.3%] in 2 days.
+
++ Metal Powder Works Limited (ASX:MPW) up 8.7% in 2 days; +11c [+8.7%] in 2 days.
+
++ Metallium Limited (ASX:MTM) plunges 2.0c (8.7%) on average volume to close at 21.0c; -2c [-8.7%].
+
++ Metals Australia Ltd. (ASX:MLS) beats 88% of the stocks; +0.05c [+2.8%].
+
++ Metals X Limited (ASX:MLX) plunges 14.0c (8.4%) on below average volume to close at $A1.52; -14c [-8.4%].
+
++ Metarock Group Limited (ASX:MYE) underperforms 88% of the stocks; -10.5c [-16.0%].
+
++ Metcash Limited (ASX:MTS) posts back-to-back gains; +11c [+3.4%] in 2 days.
+
++ Meteoric Resources NL (ASX:MEI) sinks 1.0c (4.2%) on below average volume to close at 23.0c; -1c [-4.2%].
+
++ Metro Mining Limited (ASX:MMI) posts back-to-back gains; +1.5c [+1.9%] Vol Index 1.2 in 2 days.
+
++ Michael Hill International Limited (ASX:MHJ) offers dividend yield of 5.9%; -0.5c [-1.4%].
+
++ Micro-X Limited (ASX:MX1) plunges 7.5% weakening below moving average price; -0.25c [-7.5%] Vol Index 1.5.
+
++ Microequities Asset Management Group Limited (ASX:MAM) drops 1.5% weakening below moving average price; -0.5c [-1.5%].
+
++ Midas Minerals Ltd (ASX:MM1) tumbles 5.50c (6.2%) on weak volume to close at 84.0c; -5.5c [-6.2%].
+
++ Mineral Resources Limited (ASX:MIN) slides $A1.62 (3.4%) on below average volume to close at $A46.59; -$A1.62 [-3.4%].
+
++ Minerals 260 Limited (ASX:MI6) plunges 7.0c (8.5%) on average volume to close at 75.0c; -7c [-8.5%].
+
++ Mitchell Services Limited (ASX:MSV) slides 3.9%; -2.5c [-3.9%] Vol Index 1.5.
+
++ Mithril Silver and Gold Limited (ASX:MTH) accelerates rise; +1.5c [+8.6%] in 2 days.
+
++ Monadelphous Group Limited (ASX:MND) sinks 4.7% - at bearish turning point; -$A1.39 [-4.7%].
+
++ Motorcycle Holdings Limited (ASX:MTO) outperforms 92% of the stocks; +3c [+1.1%].
+
++ Mount Ridley Mines Limited (ASX:MRD) plunges 0.40c (8.5%) on thin volume to close at 4.30c; -0.4c [-8.5%].
+
++ Myer Holdings Limited (ASX:MYR) shares fall after 3 days of rises ; -1c [-3.9%].
+
++ Mystate Limited (ASX:MYS) inches higher; +1c [+0.2%].
+
++ N1 Holdings Limited (ASX:N1H) outperforms 95% of the stocks; +2c [+13.3%].
+
++ NAOS Small Cap Opportunities Company Limited (ASX:NSC) offers dividend yield of 12%; -0.5c [-1.6%].
+
++ NEXTDC Limited (ASX:NXT) hits one-month high on spectacular volume; +55c [+5.6%] Vol Index 5.1.
+
++ NGX Limited (ASX:NGX) outperforms 99% of the stocks; +1.5c [+11.5%].
+
++ NH3 Clean Energy Limited (ASX:NH3) climbs 2.2% on rising relative strength; +0.2c [+2.2%].
+
++ NIB Holdings Limited (ASX:NHF) decreases 0.1% in today's session; -1c [-0.1%] Vol Index 1.3.
+
++ NRW Holdings Limited (ASX:NWH) extends losing streak; -38c [-5.9%] in 3 days.
+
++ NZME Limited (ASX:NZM) gains 3.3% in upward move; +2.5c [+3.3%].
+
++ Nanosonics Limited (ASX:NAN) falls 2.0% weakening below moving average price; -6c [-2.0%].
+
++ Nanoveu Limited (ASX:NVU) tumbles 0.30c (6.2%) on feeble volume to close at 4.50c; -0.3c [-6.2%].
+
++ Naos Emerging Opportunities Company Limited (ASX:NCC) lifts 1.2% against the trend; +0.5c [+1.2%].
+
++ National Australia Bank Limited (ASX:NAB) adds $A3.2 billion (2.7%) in MCap; +$A1.04 [+2.7%] Vol Index 2.3.
+
++ Native Mineral Resources Holdings Ltd (ASX:NMR) plunges 9.3% weakening below moving average price; -0.4c [-9.3%].
+
++ Navigator Global Investments Limited (ASX:NGI) slides 3.3% weakening below moving average price; -7c [-3.3%].
+
++ Neometals Limited (ASX:NMT) falls in 4 out of last 5 days; -0.1c [-3.9%].
+
++ Netwealth Group Limited (ASX:NWL) falls 2.8% from 14-day high; -55c [-2.8%].
+
++ Neurizon Therapeutics Limited (ASX:NUZ) gains 3.2%; +0.2c [+3.2%] Vol Index 3.3.
+
++ Neurotech International Limited (ASX:NTI) tumbles 0.10c (5.9%) on weak volume to close at 1.60c; -0.1c [-5.9%].
+
++ New Age Exploration Limited (ASX:NAE) extends downtrend with 12th time year-low in three months; -0.05c [-25.0%].
+
++ New Hope Corporation Limited (ASX:NHC) extends losing streak; -72c [-12.0%] in 6 days.
+
++ New Murchison Gold Limited (ASX:NMG) plummets 0.70c (11%) on weak volume to close at 5.70c; -0.7c [-10.9%].
+
++ New Zealand King Salmon Investments Limited (ASX:NZK) tumbles 5.0% on slipping relative strength; -1c [-5.0%].
+
++ Newmont Corporation (ASX:NEM) lower with 1.6% fall today's session; -$A2.82 [-1.6%].
+
++ News Corporation (ASX:NWS) drops to two-month low on strong volume; -$A4.41 [-9.3%] Vol Index 3.1.
+
++ Nexted Group Limited (ASX:NXD) hits two-month high; +0.5c [+10.2%].
+
++ Nick Scali Limited (ASX:NCK) decreases 0.9% in downward move; -13c [-0.9%].
+
++ Nickel Industries Limited (ASX:NIC) hits a 52-Week Low for the 7th time in one month; -2c [-3.3%].
+
++ Nido Education Limited (ASX:NDO) slides 3.9% weakening below moving average price; -1c [-3.9%].
+
++ Nimy Resources Limited (ASX:NIM) plunges 8.6% weakening below moving average price; -0.3c [-8.6%].
+
++ Nine Entertainment Company Holdings Limited (ASX:NEC) hits two-month high on high volume; +8.5c [+11.6%] Vol Index 2.2.
+
++ Noble Helium Limited (ASX:NHE) plunges 7.1% on slipping relative strength; -0.2c [-7.1%].
+
++ Northern Minerals Limited (ASX:NTU) gains 0.10c (4.3%) on weak volume to close at 2.40c; +0.1c [+4.3%].
+
++ Northern Star Resources Ltd. (ASX:NST) in negative territory today; -29c [-1.1%] Vol Index 1.4.
+
++ Nova Minerals Limited (ASX:NVA) plummets 9.0c (15%) on thin volume to close at 51.0c; -9c [-15.0%].
+
++ Novonix Limited (ASX:NVX) plunges 8.9% weakening below moving average price; -0.8c [-8.9%] Vol Index 1.3.
+
++ Nufarm Limited (ASX:NUF) drops 1.8% on slipping relative strength; -6c [-1.8%].
+
++ Nuix Limited (ASX:NXL) shares fall 1.6%; -3c [-1.6%].
+
++ Nyrada Inc. (ASX:NYR) up 14% in 2 days; +6c [+13.8%] in 2 days.
+
++ OD6 Metals Limited (ASX:OD6) underperforms 89% of the stocks; -0.3c [-3.7%].
+
++ OFX Group Limited (ASX:OFX) gains 3.4%; +1.5c [+3.4%] Vol Index 2.5.
+
++ Objective Corporation Limited (ASX:OCL) falls 15.0c on weak volume to close at $A6.55; -15c [-2.2%].
+
++ Oceana Metals Limited (ASX:OCN) underperforms 95% of the stocks; -1.5c [-5.8%].
+
++ Odyssey Gold Ltd (ASX:ODY) up 18% in 2 days; +0.4c [+18.2%] in 2 days.
+
++ Omega Oil & Gas Ltd (ASX:OMA) falls in 4 out of last 5 days; -1c [-1.3%].
+
++ OncoSil Medical Ltd. (ASX:OSL) outperforms 91% of the stocks; +1c [+1.5%].
+
++ Optiscan Imaging Limited (ASX:OIL) adds $A10.4 million (6.5%) in MCap; +1c [+6.5%].
+
++ Ora Banda Mining Ltd (ASX:OBM) shares fall after 3 days of rises ; -4c [-2.7%].
+
++ Orcoda Limited (ASX:ODA) extends winning streak; +1.1c [+19.0%] Vol Index 1.4 in 3 days.
+
++ Ore Resources Limited (ASX:OR3) underperforms 94% of the stocks; -0.1c [-2.2%].
+
++ Orezone Gold Corporation (ASX:ORE) logs 0.3% loss in today's trading session; -1c [-0.3%].
+
++ Orica Limited (ASX:ORI) shares fall 1.8%; -42c [-1.8%] Vol Index 1.3.
+
++ Origin Energy Limited (ASX:ORG) down 2.3% in 2 days; -28c [-2.3%] Vol Index 1.5 in 2 days.
+
++ Orora Limited (ASX:ORA) posts back-to-back gains; +5c [+3.2%] in 2 days.
+
++ Orpheus Uranium Limited (ASX:ORP) down 11% in 2 days; -0.9c [-11.1%] Vol Index 1.7 in 2 days.
+
++ Orthocell Limited (ASX:OCC) up 6.5% in 2 days; +3.5c [+6.5%] in 2 days.
+
++ Otto Energy Limited (ASX:OEL) plummets 0.10c (12%) on miniscule volume to close at 0.70c; -0.1c [-12.5%].
+
++ OzAurum Resources Ltd (ASX:OZM) sinks 4.3% weakening below moving average price; -0.3c [-4.3%].
+
++ PC Gold Ltd (ASX:PC2) plummets 9.50c (10%) on miniscule volume to close at 83.50c; -9.5c [-10.2%].
+
++ PEXA Group Limited (ASX:PXA) underperforms 83% of the stocks; -21c [-2.8%].
+
++ PMET Resources Inc. (ASX:PMT) underperforms 90% of the stocks; -0.5c [-1.5%].
+
++ PM Capital Global Opportunities Fund Limited (ASX:PGF) posts back-to-back gains; +5c [+1.6%] in 2 days.
+
++ PO Valley Energy Limited (ASX:PVE) extends losing streak; -1.7c [-18.3%] in 4 days.
+
++ PPK Group Limited (ASX:PPK) logs 1.5% loss in today's trading session; -0.5c [-1.5%].
+
++ PTR Minerals Ltd (ASX:PTR) sinks 0.40c (4.8%) on miniscule volume to close at 7.90c; -0.4c [-4.8%].
+
++ PWR Holdings Limited (ASX:PWH) loses $A30.2 million (2.6%) in MCap; -30c [-2.6%].
+
++ PYC Therapeutics Limited (ASX:PYC) falls 2.6%; -5c [-2.6%] Vol Index 6.6.
+
++ Pacific Current Group Limited (ASX:PAC) increases 4.0c on miniscule volume to close at $A11.02; +4c [+0.4%].
+
++ Pacific Edge Limited (ASX:PEB) soars 16% in today's session; +3c [+15.8%] Vol Index 23.6.
+
++ Paladin Energy Ltd. (ASX:PDN) drops 1.4% weakening below moving average price; -11c [-1.4%].
+
++ Pancontinental Energy NL (ASX:PCL) up 17% in 2 days; +0.1c [+16.7%] in 2 days.
+
++ Pantera Minerals Limited (ASX:PFE) plunges 0.10c (7.1%) on feeble volume to close at 1.30c; -0.1c [-7.1%].
+
++ Pantoro Gold Limited (ASX:PNR) tumbles 21.0c (6.4%) on average volume to close at $A3.06; -21c [-6.4%].
+
++ Paragon Care Limited (ASX:PGC) slides 0.50c (3.2%) on weak volume to close at 15.0c; -0.5c [-3.2%].
+
++ Parkway Corporate Limited (ASX:PWN) hits two-month high on robust volume; +0.1c [+10.0%] Vol Index 1.4.
+
++ Paterson Resources Ltd. (ASX:PSL) hits five-month high; +0.7c [+18.9%].
+
++ Pathkey.AI Ltd (ASX:PKY) jumps 6.7% against the trend; +0.1c [+6.7%].
+
++ Patriot Lithium Limited (ASX:PAT) sinks 4.9% weakening below moving average price; -0.2c [-4.9%].
+
++ Patronus Resources Limited (ASX:PTN) falls 2.2% weakening below moving average price; -0.1c [-2.2%].
+
++ Peak Processing Limited (ASX:PKP) extends downtrend with 9th time year-low in three months; -0.1c [-6.7%].
+
++ Peet Limited (ASX:PPC) drops 1.3% weakening below moving average price; -2c [-1.3%].
+
++ Pengana International Equities Limited (ASX:PIA) drops to two-month low; -2c [-1.9%].
+
++ Pengana Private Equity Trust (ASX:PE1) shares fall 1.3%; -2c [-1.3%] Vol Index 1.2.
+
++ Peninsula Energy Limited (ASX:PEN) up 18% in 2 days; +3c [+17.6%] in 2 days.
+
++ PeopleIN Limited (ASX:PPE) gains 3.4% against the trend; +1.5c [+3.4%].
+
++ Pepper Money Limited (ASX:PPM) lower with 1.1% fall today's session; -2c [-1.1%].
+
++ Percheron Therapeutics Limited (ASX:PER) beats 89% of the stocks; +0.05c [+16.7%].
+
++ Perenti Limited (ASX:PRN) falls 6.0c on below average volume to close at $A2.02; -6c [-2.9%].
+
++ Perpetual Limited (ASX:PPT) drops 1.1% in downward move; -20c [-1.1%].
+
++ Perpetual Equity Investment Company Limited (ASX:PIC) falls 3.0c on average volume to close at $A1.08; -3c [-2.7%].
+
++ Perseus Mining Limited (ASX:PRU) logs 0.5% loss in today's trading session; -3c [-0.5%].
+
++ Peter Warren Automotive Holdings Limited (ASX:PWR) offers dividend yield of 5.3%; -0.5c [-0.7%].
+
++ PharmX Technologies Limited (ASX:PHX) tumbles 5.8% on slipping relative strength; -0.4c [-5.8%].
+
++ PhosCo Ltd (ASX:PHO) beats 89% of the stocks; +1c [+7.4%].
+
++ Pilbara Gold Limited (ASX:PGL) plunges 8.1% weakening below moving average price; -3.5c [-8.1%].
+
++ Pinnacle Investment Management Group Limited (ASX:PNI) slides 3.5%; -57c [-3.5%] Vol Index 2.0.
+
++ Pinnacle Minerals Limited (ASX:PIM) sinks 0.20c (4.8%) on firm volume to close at 4.0c; -0.2c [-4.8%] Vol Index 1.3.
+
++ Pioneer Credit Limited (ASX:PNC) hits one-month high; +3.5c [+5.7%].
+
++ Pioneer Minerals Limited (ASX:PMM) falls 0.50c on weak volume to close at 20.0c; -0.5c [-2.4%].
+
++ Plato Income Maximiser Limited (ASX:PL8) posts back-to-back gains; +2c [+1.5%] in 2 days.
+
++ Playside Studios Ltd (ASX:PLY) falls 2.5% weakening below moving average price; -0.25c [-2.5%].
+
++ Plenti Group Limited (ASX:PLT) hits one-month high; +3c [+4.0%].
+
++ Podium Minerals Limited (ASX:POD) extends downtrend with 23rd time year-low in three months; -0.1c [-4.2%].
+
++ Pointerra Limited (ASX:3DP) posts back-to-back gains; +0.1c [+4.0%] in 2 days.
+
++ PolarX Limited (ASX:PXX) up 6.7% in 2 days; +0.1c [+6.7%] in 2 days.
+
++ Polymetals Resources Ltd (ASX:POL) hits a 52-Week Low for the 8th time in one month; -3.5c [-7.5%].
+
++ Polynovo Limited (ASX:PNV) stock ticks down 1.7%; -1.5c [-1.7%].
+
++ Power Minerals Limited (ASX:PNN) plummets 2.0c (12%) on firm volume to close at 14.50c; -2c [-12.1%] Vol Index 1.2.
+
++ Powerhouse Ventures Limited (ASX:PVL) drops to one-month low; -0.5c [-4.3%].
+
++ Praemium Limited (ASX:PPS) weakens below moving average price; -0.5c [-0.8%].
+
++ Predictive Discovery Limited (ASX:PDI) falls 10.0c on weak volume to close at $A4.50; -10c [-2.2%].
+
++ Premier Investments Limited (ASX:PMV) logs 0.6% loss in today's trading session; -9c [-0.6%].
+
++ Prescient Therapeutics Limited (ASX:PTX) extends winning streak; +0.4c [+8.0%] in 3 days.
+
++ Prime Financial Group Limited (ASX:PFG) extends downtrend with 36th time year-low in three months; -0.5c [-2.7%].
+
++ Pro Medicus Limited (ASX:PME) falls 2.0% from 14-day high; -$A3.10 [-1.5%].
+
++ Propel Funeral Partners Limited (ASX:PFP) posts back-to-back gains; +8c [+3.1%] in 2 days.
+
++ Prophecy International Holdings Limited (ASX:PRO) beats 88% of the stocks; +0.2c [+3.1%].
+
++ Proteomics International Laboratories Ltd. (ASX:PIQ) underperforms 93% of the stocks; -0.2c [-2.0%].
+
++ Provaris Energy Ltd (ASX:PV1) soars 0.05c (14%) on weak volume to close at 0.40c; +0.05c [+14.3%].
+
++ Pure One Corporation Limited (ASX:P1E) extends winning streak; +0.5c [+16.7%] in 4 days.
+
++ Pureprofile Ltd (ASX:PPL) falls 0.10c on weak volume to close at 3.40c; -0.1c [-2.9%].
+
++ Pursuit Minerals Ltd (ASX:PUR) lifts 1.4% on rising relative strength; +0.1c [+1.4%].
+
++ QBE Insurance Group Limited (ASX:QBE) hits a 52-Week High for the 8th time in one month; +86c [+3.3%] Vol Index 1.2.
+
++ QMines Limited (ASX:QML) drops to four-month low on high volume; -0.2c [-3.7%] Vol Index 2.2.
+
++ Qualitas Limited (ASX:QAL) shares fall after 4 days of rises ; -8c [-2.8%].
+
++ Quantum Graphite Limited (ASX:QGL) stock drops 1.3%; -0.5c [-1.3%].
+
++ QuickFee Ltd (ASX:QFE) slides 3.8%; -0.3c [-3.8%] Vol Index 1.6.
+
++ RAS Technology Holdings Limited (ASX:RTH) hits year high on extraordinary volume; +2c [+2.0%] Vol Index 4.0.
+
++ REA Group Ltd. (ASX:REA) falls $A5.20 on firm volume to close at $A174.81; -$A5.20 [-2.9%] Vol Index 1.3.
+
++ RIGHT RESOURCES LIMITED (ASX:RRE) slides 3.2% weakening below moving average price; -0.3c [-3.2%].
+
++ RMA Global Limited (ASX:RMY) jumps 6.2%; +0.1c [+6.2%] Vol Index 1.8.
+
++ ROX Resources Limited (ASX:RXL) in negative territory today; -1c [-1.8%] Vol Index 1.3.
+
++ Radiopharm Theranostics Limited (ASX:RAD) soars 0.10c (33%) on weak volume to close at 0.40c; +0.1c [+33.3%].
+
++ Raiz Invest Limited (ASX:RZI) jumps 6.6% against the trend; +2.5c [+6.6%].
+
++ Ramelius Resources Limited (ASX:RMS) falls 2.9% - at bearish turning point; -11c [-2.9%].
+
++ Ramsay Health Care Limited (ASX:RHC) decreases 0.5% in downward move; -26c [-0.5%].
+
++ Rand Mining Limited (ASX:RND) beats 87% of the stocks; +8c [+3.6%].
+
++ Range International Limited (ASX:RAN) underperforms 96% of the stocks; -0.7c [-7.4%].
+
++ Rapid Critical Metals Limited (ASX:RCM) plummets 0.30c (15%) on weak volume to close at 1.70c; -0.3c [-15.0%].
+
++ Raptor Resources Limited (ASX:RAP) soars 0.20c (13%) on feeble volume to close at 1.70c; +0.2c [+13.3%].
+
++ RareX Limited (ASX:REE) soars 0.10c (11%) on weak volume to close at 1.0c; +0.1c [+11.1%].
+
++ ReadyTech Holding Limited (ASX:RDY) plunges 11.0c (8.2%) on miniscule volume to close at $A1.24; -11c [-8.2%].
+
++ Reckon Limited (ASX:RKN) drops 1.2% weakening below moving average price; -0.5c [-1.2%] Vol Index 1.5.
+
++ Red Hill Minerals Limited (ASX:RHI) in top 3% performers of All Ordinaries Index; +10c [+2.5%].
+
++ Red Metal Limited (ASX:RDM) up 8.3% in 2 days; +1c [+8.3%] in 2 days.
+
++ Redox Limited (ASX:RDX) drops to one-month low; -6c [-1.8%].
+
++ Reece Limited (ASX:REH) slides 59.0c (3.1%) on average volume to close at $A18.38; -59c [-3.1%].
+
++ Regal Asian Investments Limited (ASX:RG8) hits a 52-Week Low for the 6th time in one month; -7c [-3.4%].
+
++ Regal Partners Limited (ASX:RPL) offers dividend yield of 12.4%; -4c [-1.8%].
+
++ Regal Partners Global Investments Limited (ASX:RG1) falls 2.4% on slipping relative strength; -6c [-2.4%].
+
++ Regis Healthcare Limited (ASX:REG) drops 1.4% weakening below moving average price; -7c [-1.4%].
+
++ Regis Resources Limited (ASX:RRL) slides 3.5% on slipping relative strength; -24c [-3.5%].
+
++ Reliance Worldwide Corporation Limited (ASX:RWC) strengthens above moving average price; +1c [+0.2%].
+
++ Renascor Resources Limited (ASX:RNU) posts a third straight gain; +0.3c [+6.4%] in 3 days.
+
++ Rent.com.au Limited (ASX:RNT) up 15% in 2 days; +0.6c [+14.6%] in 2 days.
+
++ Resimac Group Ltd (ASX:RMC) offers dividend yield; -0.5c [-0.6%].
+
++ Resmed Inc. (ASX:RMD) stock increases 0.4%; +14c [+0.4%].
+
++ Resolute Mining Limited (ASX:RSG) falls 3.0c on average volume to close at $A1.22; -3c [-2.4%].
+
++ Resonance Health Limited (ASX:RHT) posts back-to-back gains; +0.4c [+5.5%] Vol Index 1.7 in 2 days.
+
++ Resource Minerals International Ltd (ASX:RMI) underperforms 89% of the stocks; -0.5c [-4.3%].
+
++ Resouro Strategic Metals Inc. (ASX:RAU) shares resume trading after an untraded day; +2.5c [+13.9%].
+
++ Retail Food Group Limited (ASX:RFG) drops to four-month low; -5c [-5.8%].
+
++ Rhythm Biosciences Limited (ASX:RHY) underperforms 88% of the stocks; -0.1c [-1.4%].
+
++ Ricegrowers Ltd (ASX:SGLLV) up 5.5% in 2 days; +79c [+5.5%] Vol Index 1.4 in 2 days.
+
++ Rimfire Pacific Mining Limited (ASX:RIM) tumbles 5.0% on slipping relative strength; -0.05c [-5.0%].
+
++ Rincon Resources Ltd (ASX:RCR) soars 0.30c (30%) on average volume to close at 1.30c; +0.3c [+30.0%].
+
++ Rio Tinto Limited (ASX:RIO) falls 2.0%; -$A3.11 [-2.0%] Vol Index 1.5.
+
++ Rivco Australia Ltd (ASX:RIV) up 4.2% in 2 days; +5c [+4.2%] in 2 days.
+
++ RocketDNA Ltd (ASX:RKT) sinks 0.10c (4.8%) on feeble volume to close at 2.0c; -0.1c [-4.8%].
+
++ Rubicon Water Limited (ASX:RWL) outperforms 99% of the stocks; +0.25c [+1.1%] Vol Index 3.2.
+
++ Rumble Resources Limited (ASX:RTR) plummets 0.30c (12%) on robust volume to close at 2.20c; -0.3c [-12.0%] Vol Index 1.4.
+
++ Ryder Capital Limited (ASX:RYD) posts back-to-back gains; +4c [+2.0%] in 2 days.
+
++ SEA FOREST LIMITED (ASX:SEA) stock ticks up 0.7%; +1c [+0.7%].
+
++ SEEK Limited (ASX:SEK) falls 1.3% from 14-day high; -5c [-0.3%].
+
++ SGH Limited (ASX:SGH) falls 0.7% from 14-day high; -2c [-0.1%].
+
++ SHAPE Australia Corporation Limited (ASX:SHA) slides 3.7% on slipping relative strength; -26c [-3.7%].
+
++ SKS Technologies Group Limited (ASX:SKS) tumbles 35.0c (6.2%) on high volume to close at $A5.25; -35c [-6.2%] Vol Index 2.3.
+
++ SOUTHERN CROSS GOLD CONSOLIDATED LTD. (ASX:SX2) lower with 6.2% fall today's session; -57c [-6.2%].
+
++ SPC Global Holdings Ltd (ASX:SPG) underperforms 86% of the stocks; -0.3c [-4.5%] Vol Index 12.0.
+
++ SRG Global Limited (ASX:SRG) falls 2.6% on slipping relative strength; -9c [-2.6%].
+
++ Salter Brothers Emerging Companies Limited (ASX:SB2) stock ticks down 1.8%; -1c [-1.8%].
+
++ Sandfire Resources Limited (ASX:SFR) tumbles $A1.18 (5.8%) on robust volume to close at $A19.11; -$A1.18 [-5.8%] Vol Index 1.6.
+
++ Santana Minerals Limited (ASX:SMI) tumbles 3.0c (6.4%) on average volume to close at 44.0c; -3c [-6.4%].
+
++ Sarama Resources Ltd (ASX:SRR) plunges 7.7% weakening below moving average price; -0.2c [-7.7%].
+
++ Saturn Metals Limited (ASX:STN) tumbles 2.50c (6.2%) on weak volume to close at 38.0c; -2.5c [-6.2%].
+
++ Saunders International Limited (ASX:SND) plunges 7.0% weakening below moving average price; -5.5c [-7.0%].
+
++ Scidev Ltd (ASX:SDV) up 52% in 2 days; +6.5c [+52.0%] Vol Index 2.2 in 2 days.
+
++ Select Harvests Limited (ASX:SHV) stock decreases 0.5%; -2c [-0.5%].
+
++ SenSen Networks Limited (ASX:SNS) tumbles 6.7%; -0.2c [-6.7%] Vol Index 1.6.
+
++ Sentinel Metals Ltd (ASX:SNM) underperforms 94% of the stocks; -2c [-6.2%].
+
++ Servcorp Limited (ASX:SRV) drops 1.6%; -9c [-1.6%] Vol Index 1.8.
+
++ Service Stream Limited (ASX:SSM) lower with 1.4% fall today's session; -3c [-1.4%].
+
++ Shaver Shop Group Limited (ASX:SSG) offers dividend yield of 8.8%; -1c [-0.8%].
+
++ Silex Systems Limited (ASX:SLX) hits a 52-Week Low for the 8th time in one month; -23c [-7.2%] Vol Index 1.8.
+
++ Silver Mines Limited (ASX:SVL) plummets 1.50c (11%) on weak volume to close at 12.0c; -1.5c [-11.1%].
+
++ Sims Limited (ASX:SGM) plunges $A1.53 (7.2%) on average volume to close at $A19.65; -$A1.53 [-7.2%].
+
++ Sinclair Gold Ltd (ASX:SGC) drops to eleven-month low; -7c [-7.7%].
+
++ Singular Health Group Ltd (ASX:SHG) loses $A1.6 million (2.3%) in MCap; -0.5c [-2.3%].
+
++ Siren Gold Limited (ASX:SNG) drops to 23-day low; -0.1c [-2.6%].
+
++ SiteMinder Limited (ASX:SDR) tumbles 20.0c (5.5%) on below average volume to close at $A3.41; -20c [-5.5%].
+
++ Skinkandy Ltd (ASX:SK1) in negative territory today; -5c [-1.9%].
+
++ Sky Metals Limited (ASX:SKY) tumbles 1.0c (6.2%) on robust volume to close at 15.0c; -1c [-6.2%] Vol Index 1.6.
+
++ Skycity Entertainment Group Limited (ASX:SKC) shares fall after 3 days of rises ; -2c [-3.5%].
+
++ Skylark Minerals Limited (ASX:SKM) logs 1.7% loss in today's trading session; -0.5c [-1.7%].
+
++ SmartGroup Corp Ltd. (ASX:SIQ) falls 28.0c on average volume to close at $A11.14; -28c [-2.5%].
+
++ Smart Parking Limited (ASX:SPZ) falls 0.6% from 14-day high; -0.5c [-0.6%].
+
++ Solis Minerals Ltd (ASX:SLM) extends winning streak; +0.5c [+16.1%] in 3 days.
+
++ Solstice Minerals Limited (ASX:SLS) plunges 20.0c (9.6%) on firm volume to close at $A1.89; -20c [-9.6%].
+
++ Solvar Limited (ASX:SVR) offers dividend yield of 14.2%; -1c [-0.7%].
+
++ Somerset Minerals Limited (ASX:SMM) plunges 0.05c (8.3%) on miniscule volume to close at 0.55c; -0.05c [-8.3%].
+
++ Sonic Healthcare Limited (ASX:SHL) up 3.6% in 2 days; +69c [+3.6%] in 2 days.
+
++ South32 Limited (ASX:S32) falls 2.4% on slipping relative strength; -11c [-2.4%] Vol Index 1.2.
+
++ Southern Cross Electrical Engineering Ltd. (ASX:SXE) drops to seven-month low on high volume; -26c [-6.9%] Vol Index 2.2.
+
++ Southern Cross Media Group Limited (ASX:SXL) down 5.9% in 2 days; -3c [-5.9%] in 2 days.
+
++ Southern Hemisphere Mining Limited (ASX:SUH) falls 2.9% on slipping relative strength; -0.1c [-2.9%].
+
++ Sovereign Metals Limited (ASX:SVM) extends downtrend with 15th time year-low in three months; -1.5c [-3.7%].
+
++ Sparc Technologies Limited (ASX:SPN) up 8.6% in 2 days; +1.25c [+8.6%] in 2 days.
+
++ Spark New Zealand Limited (ASX:SPK) increases 0.6% in upward move; +1c [+0.6%].
+
++ Spenda Limited (ASX:SPX) shares resume trading after an untraded day; +0.1c [+100.0%].
+
++ Spheria Emerging Companies Limited (ASX:SEC) accelerates decline; -9c [-4.0%] in 2 days.
+
++ Sports Entertainment Group Limited (ASX:SEG) slides 3.9% weakening below moving average price; -1c [-3.9%].
+
++ Sprintex Limited (ASX:SIX) adds $A2.1 million (6.0%) in MCap; +0.3c [+6.0%].
+
++ St Barbara Limited (ASX:SBM) plunges 6.50c (8.1%) on robust volume to close at 74.0c; -6.5c [-8.1%] Vol Index 1.6.
+
++ St George Mining Limited (ASX:SGQ) underperforms 89% of the stocks; -0.2c [-3.6%].
+
++ Stanmore Resources Limited (ASX:SMR) drops 1.2% on slipping relative strength; -3c [-1.2%].
+
++ Star Combo Pharma Limited (ASX:S66) plummets 3.50c (20%) on strong volume to close at 14.0c; -3.5c [-20.0%] Vol Index 3.1.
+
++ Starpharma Holdings Limited (ASX:SPL) underperforms 98% of the stocks; -1.5c [-3.3%].
+
++ State Gas Limited (ASX:GAS) soars 17% on rising relative strength; +0.1c [+16.7%].
+
++ Staude Capital Global Value Fund Limited (ASX:GVF) drops 1.6%; -2c [-1.6%] Vol Index 1.5.
+
++ Steadfast Group Limited (ASX:SDF) decreases; -1c [-0.2%] Vol Index 3.4.
+
++ Stelar Metals Limited (ASX:SLB) drops 1.2% on slipping relative strength; -0.25c [-1.2%].
+
++ Stellar Resources Limited (ASX:SRZ) drops to eight-month low; -2.5c [-8.3%].
+
++ StepChange Holdings Limited (ASX:STH) drops to eight-month low; -0.5c [-4.3%].
+
++ Step One Clothing Limited (ASX:STP) gains 3.9% against the trend; +0.5c [+3.9%].
+
++ Strategic Elements Limited (ASX:SOR) tumbles 5.6% on slipping relative strength; -0.2c [-5.6%].
+
++ Strike Energy Limited (ASX:STX) drops to three-month low on firm volume; -0.2c [-2.1%] Vol Index 1.4.
+
++ Structural Monitoring Systems PLC (ASX:SMN) hits a 24-day high; +1.5c [+4.5%].
+
++ Summerset Group Holdings Limited (ASX:SNZ) slides 3.1% in today's session; -16c [-3.1%].
+
++ Sun Silver Limited (ASX:SS1) sinks 4.7% weakening below moving average price; -4c [-4.7%].
+
++ Suncorp Group Limited (ASX:SUN) up 3.6% in 2 days; +71c [+3.6%] in 2 days.
+
++ Sunrise Energy Metals Limited (ASX:SRL) plunges $A1.04 (8.2%) on average volume to close at $A11.58; -$A1.04 [-8.2%].
+
++ Sunshine Metals Limited (ASX:SHN) sinks 4.2% on slipping relative strength; -0.1c [-4.2%].
+
++ Super Retail Group Limited (ASX:SUL) lower with 1.4% fall today's session; -19c [-1.4%].
+
++ Supply Network Limited (ASX:SNL) falls 2.4% on slipping relative strength; -85c [-2.4%].
+
++ Swoop Holdings Limited (ASX:SWP) tumbles 5.6% weakening below moving average price; -0.4c [-5.6%].
+
++ Symal Group Limited (ASX:SYL) adds $A14.2 million (2.3%) in MCap; +6c [+2.3%].
+
++ Synertec Corporation Limited (ASX:SOP) plunges 8.1% on slipping relative strength; -0.6c [-8.1%].
+
++ Synlait Milk Limited (ASX:SM1) adds $A12.1 million (5.0%) in MCap; +2c [+5.0%].
+
++ Syrah Resources Limited (ASX:SYR) underperforms 90% of the stocks; -0.2c [-3.1%].
+
++ TALI Digital Limited (ASX:TD1) outperforms 94% of the stocks; +0.3c [+4.6%].
+
++ TETRATHERIX LIMITED (ASX:TTX) in negative territory today; -5c [-0.8%].
+
++ TG Metals Limited (ASX:TG6) falls 0.50c on weak volume to close at 18.0c; -0.5c [-2.7%].
+
++ TPG Telecom Limited (ASX:TPG) in top 4% performers of All Ordinaries Index; +9c [+2.2%].
+
++ TZ Limited (ASX:TZL) hits a 52-Week Low for the 7th time in one month; -0.1c [-6.2%].
+
++ Tabcorp Holdings Limited (ASX:TAH) logs 0.5% loss in today's trading session; -0.5c [-0.5%] Vol Index 1.2.
+
++ Talisman Mining Limited (ASX:TLM) extends winning streak; +1c [+20.0%] in 3 days.
+
++ Tamawood Limited (ASX:TWD) drops 1.7%; -5c [-1.7%] Vol Index 2.2.
+
++ Tamboran Resources Limited (ASX:TBN) sinks 1.0c (4.8%) on robust volume to close at 20.0c; -1c [-4.8%] Vol Index 1.4.
+
++ Tambourah Metals Ltd (ASX:TMB) gains 0.10c (3.3%) on miniscule volume to close at 3.10c; +0.1c [+3.3%].
+
++ Tarrina Resources Limited (ASX:TR8) extends downtrend with 9th time year-low in three months; -0.1c [-9.1%].
+
++ Tasman Resources Ltd. (ASX:TAS) plummets 0.30c (10.0%) on miniscule volume to close at 2.70c; -0.3c [-10.0%].
+
++ Tasmea Limited (ASX:TEA) falls in 4 out of last 5 days; -20c [-2.2%].
+
++ Technology One Limited (ASX:TNE) loses $A167 million (1.5%) in MCap; -51c [-1.5%].
+
++ Telix Pharmaceuticals Limited (ASX:TLX) falls 41.0c on below average volume to close at $A13.67; -41c [-2.9%].
+
++ Telstra Group Limited (ASX:TLS) adds $A776.5 million (1.4%) in MCap; +7c [+1.4%] Vol Index 1.4.
+
++ Temple & Webster Group Ltd (ASX:TPW) falls 17.0c on below average volume to close at $A6.12; -17c [-2.7%].
+
++ Tennant Minerals Limited (ASX:TMS) soars 0.10c (17%) on weak volume to close at 0.70c; +0.1c [+16.7%].
+
++ Terra Metals Limited (ASX:TM1) plunges 9.4% weakening below moving average price; -1.5c [-9.4%].
+
++ Terracom Limited (ASX:TER) hits a 52-Week Low for the 10th time in one month; -0.2c [-8.0%] Vol Index 1.9.
+
++ Terramin Australia Limited (ASX:TZN) hits two-month high on high volume; +0.3c [+18.8%] Vol Index 2.4.
+
++ Tesoro Gold Ltd (ASX:TSO) falls 2.6% weakening below moving average price; -2c [-2.6%] Vol Index 1.3.
+
++ The A2 Milk Company Limited (ASX:A2M) stock drops 1.8%; -13c [-1.8%].
+
++ The Koala Company Ltd (ASX:KOA) loses $A9.1 million (1.8%) in MCap; -10c [-1.8%] Vol Index 1.4.
+
++ The Lottery Corporation Limited (ASX:TLC) decreases; -1c [-0.2%] Vol Index 1.7.
+
++ The Star Entertainment Group Limited (ASX:SGR) tumbles 1.0c (6.1%) on weak volume to close at 15.50c; -1c [-6.1%].
+
++ Titomic Limited (ASX:TTT) extends downtrend with 19th time year-low in three months; -0.3c [-3.2%] Vol Index 10.6.
+
++ Tivan Limited (ASX:TVN) underperforms 90% of the stocks; -0.5c [-3.2%].
+
++ Torque Metals Limited (ASX:TOR) tumbles 5.4% weakening below moving average price; -1c [-5.4%].
+
++ Toubani Resources Inc (ASX:TRE) up 7.3% in 2 days; +2c [+7.3%] in 2 days.
+
++ Tourism Holdings Rentals Limited (ASX:THL) in top 1% performers of All Ordinaries Index; +12c [+5.6%].
+
++ Tower Limited (ASX:TWR) posts back-to-back gains; +2c [+1.2%] in 2 days.
+
++ Trajan Group Holdings Limited (ASX:TRJ) up 6.3% in 2 days; +1.5c [+6.3%] in 2 days.
+
++ Treasury Wine Estates Limited (ASX:TWE) strengthens above moving average price; +4c [+0.6%].
+
++ Trek Metals Limited (ASX:TKM) hits a 52-Week Low for the 5th time in one month; -0.1c [-2.6%].
+
++ Tribeca Global Natural Resources Limited (ASX:TGF) slides 3.5% on slipping relative strength; -8c [-3.5%].
+
++ Tribune Resources Limited (ASX:TBR) increases; +3c [+0.6%] Vol Index 2.8.
+
++ True North Copper Limited (ASX:TNC) plunges 8.7%; -2c [-8.7%] Vol Index 2.0.
+
++ Tuas Limited (ASX:TUA) up 5.8% in 2 days; +8c [+5.8%] in 2 days.
+
++ Tungsten Mining NL (ASX:TGN) tumbles 1.0c (5.0%) on below average volume to close at 19.0c; -1c [-5.0%].
+
++ Turaco Gold Limited (ASX:TCG) tumbles 5.0c (6.5%) on weak volume to close at 72.0c; -5c [-6.5%].
+
++ Tyro Payments Limited (ASX:TYR) falls 1.50c on weak volume to close at 72.50c; -1.5c [-2.0%].
+
++ Unico Silver Limited (ASX:USL) plummets 7.0c (11%) on average volume to close at 54.0c; -7c [-11.5%].
+
++ United Overseas Australia Limited (ASX:UOS) hits a 24-day high; +0.5c [+0.8%].
+
++ Universal Store Holdings Ltd (ASX:UNI) stock nudges 0.2% lower; -2c [-0.2%].
+
++ VHM Limited (ASX:VHM) sinks 1.0c (4.7%) on weak volume to close at 20.50c; -1c [-4.7%].
+
++ VIRGIN AUSTRALIA HOLDINGS LIMITED. (ASX:VGN) loses $A23.5 million (1.0%) in MCap; -3c [-1.0%].
+
++ Vanadium Resources Limited (ASX:VR8) plunges 8.0% - at bearish turning point; -0.2c [-8.0%].
+
++ Vault Minerals Limited (ASX:VAU) slides 3.5% on slipping relative strength; -21c [-3.5%] Vol Index 2.0.
+
++ Veem Ltd (ASX:VEE) accelerates decline; -2c [-4.0%] in 2 days.
+
++ Ventia Services Group Limited (ASX:VNT) falls in 4 out of last 5 days; -13c [-2.2%].
+
++ Verbrec Limited (ASX:VBC) falls 0.50c on weak volume to close at 20.0c; -0.5c [-2.4%].
+
++ Verity Resources Limited (ASX:VRL) hits a 52-Week Low for the 12th time in one month; -0.2c [-20.0%].
+
++ Vertex Minerals Limited (ASX:VTX) posts a third straight gain; +0.3c [+3.5%] in 3 days.
+
++ Victory Metals Limited (ASX:VTM) drops to nine-month low; -3c [-2.5%].
+
++ Vinyl Group Ltd (ASX:VNL) hits two-month high on high volume; +0.6c [+16.7%] Vol Index 2.2.
+
++ Virdis Mining and Minerals Limited (ASX:VMM) in top 4% performers of All Ordinaries Index; +6c [+1.9%] Vol Index 2.9.
+
++ Vista Group International Limited (ASX:VGL) drops 1.8% on slipping relative strength; -4c [-1.8%] Vol Index 1.3.
+
++ Vital Metals Limited (ASX:VML) lifts 1.2% on rising relative strength; +0.1c [+1.2%].
+
++ Vitrafy Life Sciences Limited (ASX:VFY) extends losing streak; -41c [-14.3%] in 3 days.
+
++ Viva Energy Group Limited (ASX:VEA) down 5.3% in 2 days; -15c [-5.3%] in 2 days.
+
++ Viva Leisure Limited (ASX:VVA) climbs 2.1% against the trend; +3c [+2.1%].
+
++ Vulcan Energy Resources Limited (ASX:VUL) plunges 12.0c (9.7%) on high volume to close at $A1.12; -12c [-9.7%] Vol Index 2.2.
+
++ Vulcan Steel Limited (ASX:VSL) loses $A23.4 million (2.8%) in MCap; -16c [-2.8%] Vol Index 1.8.
+
++ Vysarn Limited (ASX:VYS) drops to seven-month low; -3.5c [-5.0%].
+
++ WA1 Resources Ltd (ASX:WA1) plunges 87.0c (9.8%) on firm volume to close at $A7.96; -87c [-9.8%].
+
++ WAM Active Limited (ASX:WAA) sinks 4.8%; -4.5c [-4.8%] Vol Index 1.5.
+
++ WAM Capital Limited (ASX:WAM) extends downtrend with 27th time year-low in three months; -2c [-2.0%] Vol Index 1.6.
+
++ WAM Global Limited (ASX:WGB) extends downtrend with 8th time year-low in three months; -6c [-3.1%] Vol Index 1.9.
+
++ WAM INCOME MAXIMISER LIMITED (ASX:WMX) lower with 0.6% fall today's session; -1c [-0.6%] Vol Index 1.4.
+
++ WAM Leaders Limited (ASX:WLE) in negative territory today; -2c [-1.5%].
+
++ WAM Microcap Limited (ASX:WMI) falls 2.6% weakening below moving average price; -3c [-2.6%] Vol Index 1.2.
+
++ WAM Research Limited (ASX:WAX) extends downtrend with 7th time year-low in three months; -2c [-2.6%] Vol Index 2.1.
+
++ WAM Strategic Value Limited (ASX:WAR) decreases on slipping relative strength; -1c [-0.9%].
+
++ WCM Global Growth Limited (ASX:WQG) falls 2.0% on slipping relative strength; -4c [-2.0%].
+
++ WIA Gold Limited (ASX:WIA) falls 2.5% weakening below moving average price; -1c [-2.5%].
+
++ WIN Metals Ltd (ASX:WIN) up 17% in 2 days; +0.3c [+16.7%] in 2 days.
+
++ WISR Limited (ASX:WZR) falls 0.10c on firm volume to close at 3.70c; -0.1c [-2.6%] Vol Index 1.3.
+
++ WRKR Limited (ASX:WRK) drops 1.2% weakening below moving average price; -0.1c [-1.2%].
+
++ Wagners Holding Company Limited (ASX:WGN) in negative territory today; -4c [-0.8%].
+
++ Waratah Minerals Limited (ASX:WTM) plunges 7.0c (8.4%) on strong volume to close at 76.50c; -7c [-8.4%] Vol Index 2.6.
+
++ Washington H Soul Pattinson & Company Limited (ASX:SOL) posts a fourth straight gain; +$A1.97 [+4.3%] in 4 days.
+
++ Way 2 VAT Ltd (ASX:W2V) extends downtrend with 16th time year-low in three months; -0.1c [-3.6%].
+
++ Web Travel Group Limited (ASX:WEB) slides 15.0c (3.8%) on weak volume to close at $A3.83; -15c [-3.8%].
+
++ Webjet Group Limited (ASX:WJL) offers dividend yield of 13.1%; -0.5c [-1.6%].
+
++ Weebit Nano Ltd (ASX:WBT) hits a 52-Week Low for the 10th time in one month; -20c [-8.6%] Vol Index 1.3.
+
++ Wesfarmers Limited (ASX:WES) lower with 0.3% fall today's session; -21c [-0.3%] Vol Index 1.3.
+
++ West African Resources Limited (ASX:WAF) falls 2.8% on slipping relative strength; -10c [-2.8%].
+
++ West Coast Silver Limited (ASX:WCE) underperforms 98% of the stocks; -0.1c [-1.9%].
+
++ West Cobar Metals Limited (ASX:WC1) hits one-month high; +0.1c [+6.7%].
+
++ West Wits Mining Limited (ASX:WWI) falls 2.7% weakening below moving average price; -1c [-2.7%].
+
++ Western Ridge Resources Limited (ASX:WRX) hits a 52-Week High for the 8th time in one month; +0.25c [+4.5%] Vol Index 3.7.
+
++ Westgold Resources Limited (ASX:WGX) sinks 4.8% - at bearish turning point; -28c [-4.8%].
+
++ Westpac Banking Corporation (ASX:WBC) hits three-month high on high volume; +39c [+1.1%] Vol Index 2.0.
+
++ Weststar Industrial Limited (ASX:WSI) outperforms 95% of the stocks; +0.2c [+2.7%] Vol Index 2.4.
+
++ White Energy Company Limited (ASX:WEC) extends losing streak; -2.5c [-10.2%] in 3 days.
+
++ Whitehaven Coal Limited (ASX:WHC) loses $A180.9 million (3.0%) in MCap; -22c [-3.0%] Vol Index 1.2.
+
++ Wiluna Mining Corporation Limited (ASX:WMC) slides 3.0%; -1.5c [-3.0%] Vol Index 15.1.
+
++ Winton Land Limited (ASX:WTN) loses $A8.9 million (3.3%) in MCap; -3c [-3.3%] Vol Index 1.3.
+
++ Wisetech Global Limited (ASX:WTC) falls 0.8% from 14-day high; -35c [-0.8%] Vol Index 1.4.
+
++ Wiseway Group Limited (ASX:WWG) plunges 7.1%; -2c [-7.1%] Vol Index 17.6.
+
++ Woodside Energy Group Ltd (ASX:WDS) rises 1.6% from 14-day low; +15c [+0.5%] Vol Index 1.3.
+
++ Woolworths Group Limited (ASX:WOW) extends uptrend with 8th time year-high in three months; +73c [+1.8%] Vol Index 1.3.
+
++ Worley Limited (ASX:WOR) stock nudges 1.6% lower; -16c [-1.6%].
+
++ XRF Scientific Limited (ASX:XRF) stock ticks down 1.4%; -3c [-1.4%] Vol Index 1.2.
+
++ Xero Limited (ASX:XRO) decreases; -12c [-0.2%] Vol Index 1.6.
+
++ Yancoal Australia Limited (ASX:YAL) down 4.5% in 2 days; -26c [-4.5%] in 2 days.
+
++ Yari Resources Ltd (ASX:YAR) shares resume trading after an untraded day; +0.1c [+50.0%].
+
++ Yugo Metals Limited (ASX:YUG) climbs 2.9% against the trend; +0.1c [+2.9%].
+
++ Zenith Minerals Limited (ASX:ZNC) drops 1.4% in downward move; -0.1c [-1.4%].
+
++ Zeus Resources Limited (ASX:ZEU) plummets 0.10c (17%) on spectacular volume to close at 0.50c; -0.1c [-16.7%] Vol Index 9.9.
+
++ Zicom Group Limited (ASX:ZGL) outperforms 94% of the stocks; +3c [+25.0%].
+
++ Zimplats Holdings Limited (ASX:ZIM) up 9.2% in 2 days; +$A1.19 [+9.2%] in 2 days.
+
++ Zinc of Ireland NL (ASX:ZMI) drops to three-month low on extraordinary volume; -0.3c [-15.8%] Vol Index 3.5.
+
++ Zip Co Limited (ASX:ZIP) tumbles 5.6% weakening below moving average price; -12c [-5.6%] Vol Index 1.2.
+
++ Zoono Group Limited (ASX:ZNO) tumbles 5.0%; -0.2c [-5.0%] Vol Index 1.6.
+
++ ikeGPS Group Limited (ASX:IKE) increases 0.7% in today's session; +0.5c [+0.7%].
+
+Created by www.buysellsignals.com
+- **Why it matters to Innodata:** Active coverage on Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit (Legacy BPO & Crowd Volume) exposes buyer sensitivity around legacy bpo crowd volume lacking full-stack agent engineering and deterministic reliability gates.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit: Full-stack Agent Engineering and Agent Reliability Engineering (ARE) depth with domain-vetted SMEs. Highlight our Agent Engineering & Agent Reliability Engineering (ARE) capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit accounts using Beacon (PDF-Miner) as a 2-4 week production POC wedge.
+
+### 11. [TaskUs CEO: Blending AI and human talent is working in CX](https://ct.moreover.com/?a=60786064832&p=21l&v=1&x=_gbJljEwJOOtrl0olSN0wQ)
+- **Outlet(s):** CX Dive | **Published:** `2026-11-05` | **Sentiment:** `POSITIVE` | **Positioning Relevance Score:** `0.82`
+- **Syndicated URLs:** [link](https://www.customerexperiencedive.com/news/taskus-ceo-blending-ai-human-talent-working-cx/873945/)
+- **Matched Innodata Pillars:** Agent Engineering
+- **Matched Competitors:** Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit
+- **Coverage Snippet:** Dive Brief:
+
+•Global business process outsourcing provider TaskUs' digital customer experience revenue is growing as clients across multiple sectors adopt AI. The company reported $176 million in Q3 2026 revenue, up 7.1% year over year, for its DCX division on Wednesday. Total service revenue for the quarter was $315 million, a 5.4% year-over-year increase.
+
+•Sales and lead generation solutions comprised part of the DCX revenue growth, along with adoption of agentic AI voice solutions for sales and customer service, executives said. "Across all industry sectors, demand and sales momentum for these offerings remain strong, positioning us for continued adoption of these critical solutions," Bryce Maddock, co-founder and CEO of TaskUs, said during its earnings call.
+
+•TaskUs expects DCX growth to accelerate in the fourth quarter, as well. "We believe the future of customer care is a seamless blend of AI and human talent resolving complex interactions, and our sustained growth proves this strategy is working," Maddock said.
+
+Dive Insight:
+
+The blending of human talent with AI assistance is a common refrain among BPOs, CX solution vendors and analysts. Not only does it sound better than "AI will replace people," but that combined approach is how many enterprises are achieving actual success in serving customers.
+
+BPOs like TaskUs are at the forefront of this AI disruption. They employ thousands of people in different world regions to handle customer service for global enterprises - TaskUs alone employs nearly 65,000. Most BPO CX revenue is still generated by charging per-agent or per-seat.
+
+BPOs make their gross profit on the margin between labor cost in those regions and what they charge per-agent.
+
+"Every contact AI resolves can remove work the BPO was billing for," Victor Manzanera, BPO sector expert and founder of Scale Edge Group, told CX Dive in an email. "In effect, it is being asked to automate its own revenue. Concentrix said as much when it described 'aggressively disrupting' its own traditional work."
+
+This disruption incentivizes BPOs to adapt their business models. TaskUs uses AI to streamline recruiting, workforce management, quality assurance and for employee HR support. The company has also partnered with Decagon and Regal, which provide AI agent platforms that TaskUs can then deploy on behalf of their enterprise customers.
+
+"We now have nearly 100 deployments of these production-ready AI-enabled tools across our client base, allowing us to enhance and automate critical stages of the customer experience and management of our teammates," Maddock said.
+
+For enterprises looking to outsource their customer service to a BPO, however, the challenge is figuring out what bottom-line benefit the BPO's AI capabilities deliver.
+
+"If AI is really changing the service, the buyer should see it in results: lower cost per resolved issue, fewer repeat contacts, faster resolution," Manzanera said. To get at those answers, prospective buyers of BPO services should ask which results changed on which work and by how much.
+
+"The real test for the buyer is the contract. If it still pays for hours or seats, nobody in it is paid to save you money," Manzanera said. "Until BPOs are paid for results, the blend is a statement of direction rather than a new model."
+- **Why it matters to Innodata:** Active coverage on Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit (Legacy BPO & Crowd Volume) exposes buyer sensitivity around legacy bpo crowd volume lacking full-stack agent engineering and deterministic reliability gates.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit: Full-stack Agent Engineering and Agent Reliability Engineering (ARE) depth with domain-vetted SMEs. Highlight our Agent Engineering capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
+
+### 12. [DHS to face aggressive investigations, oversight in next Congress](https://federalnewsnetwork.com/congress/2026/11/dhs-to-face-aggressive-investigations-oversight-in-next-congress/)
+- **Outlet(s):** Federal News Network | **Published:** `2026-11-05` | **Sentiment:** `NEUTRAL` | **Positioning Relevance Score:** `0.75`
+- **Matched Proprietary Accelerators:** Beacon (PDF-Miner)
+- **Matched Competitors:** Palantir
+- **Coverage Snippet:** Democrats are previewing plans to pursue aggressive oversight and investigations at DHS, ranging from ICE's rapid expansion to staffing cuts at CISA.
+
+The Department of Homeland Security is expected to face reinvigorated oversight and scrutiny in the next...
+- **Why it matters to Innodata:** Active coverage on Palantir (Palantir) exposes buyer sensitivity around 8-figure proprietary platform lock-in and opaque ontology licensing.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Palantir: FDE velocity inside the client's own cloud (GCP, AWS, Azure) with open accelerators and zero platform lock-in. Highlight our Agent Engineering & Agent Reliability Engineering (ARE) capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Palantir accounts using Beacon (PDF-Miner) as a 2-4 week production POC wedge.
+
+### 13. [Tokens Built The Digital AI Business. Physical AI Needs A Different Unit](https://ct.moreover.com/?a=60784390427&p=1pe&v=1&x=ULUvxfJFzpho68XldjJa0g)
+- **Outlet(s):** Forbes US | **Published:** `2026-11-05` | **Sentiment:** `NEUTRAL` | **Positioning Relevance Score:** `0.72`
+- **Matched Innodata Pillars:** Robotic Engineering
+- **Matched Competitors:** Palantir
+- **Coverage Snippet:** Brandon Barbello is co-founder and COO of Archetype AI, with over 10 years of product leadership across Fortune 500 and startups.
+
+​Almost every industrial AI deployment I’ve seen lately eventually reaches the same meeting. The pilot worked, the...
+- **Why it matters to Innodata:** Active coverage on Palantir (Palantir) exposes buyer sensitivity around 8-figure proprietary platform lock-in and opaque ontology licensing.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Palantir: FDE velocity inside the client's own cloud (GCP, AWS, Azure) with open accelerators and zero platform lock-in. Highlight our Robotic Engineering capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Palantir accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
+
+### 14. [AI's Workforce Gap And The Lessons We Keep Forgetting](https://ct.moreover.com/?a=60784128685&p=1pe&v=1&x=CciQ5X-zIjcolGyLWT-sQQ)
+- **Outlet(s):** Forbes US | **Published:** `2026-11-05` | **Sentiment:** `NEUTRAL` | **Positioning Relevance Score:** `0.72`
+- **Matched Innodata Pillars:** Infrastructure Engineering
+- **Matched Competitors:** Palantir
+- **Coverage Snippet:** Phillip Marangella, Chief Marketing and Product Officer, EdgeConneX.
+
+Every revolution is a story about people, and the race to build digital and AI infrastructure is no different. Behind the headlines about chips and power are human questions: Who...
+- **Why it matters to Innodata:** Active coverage on Palantir (Palantir) exposes buyer sensitivity around 8-figure proprietary platform lock-in and opaque ontology licensing.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Palantir: FDE velocity inside the client's own cloud (GCP, AWS, Azure) with open accelerators and zero platform lock-in. Highlight our Infrastructure Engineering capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Palantir accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
+
+### 15. [Mistral Le Chonk: How the Trillion-Parameter Open-Weight Model Leapfrogged China](https://www.blogarama.com/technology-blogs/1449001-streamline-workflows-modern-php-tools-blog/81940950-mistral-chonk-trillion-parameter-open-weight-model-leapfrogged-china)
+- **Outlet(s):** Blogarama | **Published:** `2026-10-30` | **Sentiment:** `NEUTRAL` | **Positioning Relevance Score:** `0.72`
+- **Matched Innodata Pillars:** Agent Reliability Engineering (ARE)
+- **Matched Competitors:** Mercor, Turing, Surge AI, Invisible Technologies
+- **Coverage Snippet:** Table of Contents What Mistral Just Claimed About Mistral Le Chonk The Mistral Le Chonk Benchmark Scoreboard
+
+How the Chinese Open-Weight Models Fought Back
+
+Three Reasoning Modes and the Token-Bill War
+
+What Open Weights Actually Bought You
+
+Mistral Le...
+- **Why it matters to Innodata:** Active coverage on Mercor, Turing, Surge AI, Invisible Technologies (Talent Marketplaces & Gig Networks) exposes buyer sensitivity around talent marketplaces selling individual headcount with high churn and zero production architecture slas.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Mercor, Turing, Surge AI, Invisible Technologies: Managed systems, enterprise SLAs, vendor-tail consolidation under one MSA, and production architectures. Highlight our Agent Reliability Engineering (ARE) capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Mercor, Turing, Surge AI, Invisible Technologies accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
+
+### 16. [Asian Markets Trade Mostly Lower](https://ct.moreover.com/?a=60781602495&p=21l&v=1&x=TZL-_woL5u6td9PoPRWERA)
+- **Outlet(s):** RTTNews.com | **Published:** `2026-11-04` | **Sentiment:** `NEUTRAL` | **Positioning Relevance Score:** `0.72`
+- **Matched Innodata Pillars:** Agent Reliability Engineering (ARE)
+- **Matched Competitors:** Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit
+- **Coverage Snippet:** Asian markets are mostly lower on Wednesday, following the mixed cues from Wall Street overnight, with markets in Japan on return after a holiday and South Korea tumbling amid anxiety over AI industry and unresolved geopolitical risks. Traders also remain cautious ahead to the U.S. midterm election results. Rising expectations on a possible settlement between the U.S. and Iran is aiding market sentiment, with crude oil prices easing. Asian markets closed mixed on Tuesday.
+
+U.S. forces conducted secret attacks on Iran's Qeshm Island yesterday. The strikes targeted a newly constructed anti-aircraft facility near the Strait of Hormuz. The attacks could be a measure to stop Iran from attacking commercial ships in the Strait of Hormuz.
+
+Iran's President Masoud Pezeshkian stated that renewed fighting will benefit no one, and reiterated that Iran wishes to solve the dispute through negotiations.
+
+Qatar said it saw hope for an interim deal as both the U.S. and Iran evaluate new proposals put forward by mediators, despite fresh U.S. strikes and continued threats to shipping through Hormuz.
+
+However, Iran's national security chief indicated in a social media post that Washington's response to Iran's demands for reopening the Strait of Hormuz and resuming peace talks was insufficient.
+
+Australian shares are trading notably lower on Wednesday, reversing the gains in the previous session, with the benchmark S&P/ASX 200 falling below the 8,850 level, following the mixed cues from Wall Street overnight, with weakness in mining and financial stocks partially offset by gains in energy and technology stocks.
+
+The benchmark S&P/ASX 200 Index is losing 44.30 points or 0.50 percent to 8,842.50, after hitting a low of 8,820.30 earlier. The broader All Ordinaries Index is down 44.80 points or 0.50 percent to 8,964.10. Australian stocks ended modestly higher on Tuesday.
+
+Among major miners, BHP Group and Rio Tinto are losing almost 1 percent each, while Mineral Resources and Fortescue are edging down 0.2 percent each.
+
+Oil stocks are mostly higher. Woodside Energy, Beach energy and Santos are gaining almost 1 percent each, while and Origin Energy is adding almost 2 percent.
+
+In the tech space, Afterpay owner Block is surging almost 7 percent on upbeat quarterly results, while Appen and WiseTech Global are gaining almost 2 percent each. Zip and Xero are edging down 0.3 percent each.
+
+Among the big four banks, Commonwealth Bank and ANZ Banking are losing more than 1 percent each, while Westpac and National Australia bank are down almost 1 percent each.
+
+Among gold miners, Evolution Mining is edging up 0.1 percent and Genesis Minerals is gaining more than 1 percent, while Resolute Mining is losing more than 1 percent and Northern Star Resources is edging down 0.5 percent. Newmont is flat.
+
+In economic news, the services sector in Australia fell into contraction territory in October, the latest survey from S&P Global revealed on Wednesday with a services PMI score of 48.5. That's down from 51.9 in September, and it slips beneath the boom-or-bust line of 50 that separates expansion from contraction. The survey also showed that the composite index fell to 48.2 in October from 51.3 in September.
+
+Meanwhile, Australian household spending rose 0.6 percent on month in September 2026, rebounding from a downwardly revised 0.1 percent decline in the prior month and marking its seventh monthly increase this year. On an annual basis, household spending growth accelerated to 6.8 percent from 6.5 percent in August.
+
+In the currency market, the Aussie dollar is trading at $0.696 on Wednesday.
+
+The Japanese stock market is trading sharply lower on Wednesday, extending the losses in the previous session, following the mixed cues from Wall Street overnight. The Nikkei 225 is tumbling 3.6 percent to below the 60,850 level, with weakness across most sectors led by financial and technology stocks.
+
+The benchmark Nikkei 225 Index closed the morning session at 60,835.36, down 2,246.50 points or 3.56 percent, after hitting a low of 60,799.11 earlier. Japanese stocks ended modestly lower on Monday ahead of the holiday on Tuesday.
+
+Market heavyweight SoftBank Group is tumbling almost 8 percent, while Uniqlo operator Fast Retailing is adding more than 1 percent. Among automakers, Honda is declining almost 2 percent and Toyota is losing more than 2 percent.
+
+In the tech space, Advantest is tumbling almost 7 percent, Tokyo Electron is slipping almost 6 percent and Screen Holdings is declining more than 5 percent.
+
+In the banking sector, Sumitomo Mitsui Financial and Mizuho Financial are losing more than 3 percent each, while Mitsubishi UFJ Financial is declining almost 3 percent.
+
+Among the major exporters, Mitsubishi Electric is edging down 0.4 percent, Canon is losing almost 1 percent and Panasonic is tumbling almost 8 percent, while Sony is edging up 0.1 percent.
+
+Among other major losers, Mitsui Chemicals and Taiyo Yuden are plunging more than 9 percent each, while Kioxia Holdings and Kyocera are tumbling more than 7 percent each. Socionext, Disco and Furukawa Electric are slipping almost 6 percent each, while Fujikura is declining more than 5 percent, while Sumitomo Electric Industries and Kokusai Electric are sliding almost 5 percent. JX Advanced Metals, Mitsui Kinzoku, Resonac Holdings and Renesas Electronics are losing more than 4 percent each.
+
+Conversely, Yamato Holdings is soaring almost 14 percent, Yamaha is surging more than 5 percent, Japan Airlines is jumping almost 5 percent, Capcom is advancing more than 4 percent and Konami Group is gaining almost 4 percent, while NEXON and Nitto Denko are adding more than 3 percent each. Kirin Holdings, LY, ZOZO, Nisshin Seifun, ANA Holdings, Nintendo and Central Japan Railway are all up almost 3 percent each.
+
+In economic news, the monetary base in Japan was down 13.6 percent on year in October, the Bank of Japan said on Wednesday - coming in at 532.571 trillion yen. That beat forecasts for a decline of 14.0 percent following the 15.2 percent drop in September.
+
+Banknotes in circulation fell 2.3 percent, while coins in circulation sank 1.1 percent and current account balances slumped 16.4 percent - including a 15.2 percent fall in reserve balances. The adjusted monetary base was up 4.9 percent on year at 533.392 trillion yen.
+
+In the currency market, the U.S. dollar is trading in the higher 157 yen-range on Wednesday.
+
+Elsewhere in Asia, Singapore and South Korea are down 1.3 and 2.0 percent, respectively. China, Hong Kong, Malaysia Indonesia and Taiwan are lower by between 0.1 and 0.5 percent each. New Zealand is bucking the trend and is up 0.3 percent.
+
+On Wall Street, stock indexes once again moved in opposite directions during trading on Tuesday after turning mixed over the course of the previous session. While the Nasdaq and S&P 500 rebounded following Monday's significant downturn, the narrower Dow moved back to the downside.
+
+The Nasdaq advanced 207.65 points or 0.8 percent to 25,372.01 and the S&P 500 rose 27.52 points or 0.4 percent to 7,568.92, but the Dow fell 197.26 points or 0.4 percent to 51,786.72.
+
+Meanwhile, the major European markets also moved to the downside on the day. While the U.K.'s FTSE 100 Index slumped 1.1 percent, the German DAX Index fell by 0.5 percent and the French CAC 40 Index dipped by 0.3 percent.
+
+Crude oil prices turned lower on Tuesday amid rising expectations on a possible settlement between the U.S. and Iran. West Texas Intermediate crude for December delivery was down $0.52 or 0.54 percent at $95.94 per barrel.
+- **Why it matters to Innodata:** Active coverage on Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit (Legacy BPO & Crowd Volume) exposes buyer sensitivity around legacy bpo crowd volume lacking full-stack agent engineering and deterministic reliability gates.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit: Full-stack Agent Engineering and Agent Reliability Engineering (ARE) depth with domain-vetted SMEs. Highlight our Agent Reliability Engineering (ARE) capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
+
+### 17. [TELUS Appoints Marc Allera and Bill Thomas to Board of Directors](https://ct.moreover.com/?a=60790217056&p=21l&v=1&x=fYzGQGBeetErtVGVVFwWHw)
+- **Outlet(s):** Market News Publishing, WYFX-DT2 TV Youngstown MyNetworkTV, Associated Press, StreetInsider.com, Draper Journal | **Published:** `2026-11-06` | **Sentiment:** `POSITIVE` | **Positioning Relevance Score:** `0.72`
+- **Syndicated URLs:** [link](https://www.wytv.com/business/press-releases/cision/20261106MO90531/telus-appoints-marc-allera-and-bill-thomas-to-board-of-directors), [link](https://apnews.com/press-release/pr-newswire/press-release-084b92d2d3419b3ce4ba903619a2b168), [link](https://www.streetinsider.com/PRNewswire/TELUS+Appoints+Marc+Allera+and+Bill+Thomas+to+Board+of+Directors/27303534.html), [link](https://pr.draperjournal.com/article/TELUS-Appoints-Marc-Allera-and-Bill-Thomas-to-Board-of-Directors/6aedbfc1871c4c723c1172ea)
+- **Matched Innodata Pillars:** Infrastructure Engineering
+- **Matched Competitors:** Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit
+- **Coverage Snippet:** TELUS CORP ("T-T;TU-N") - TELUS Appoints Marc Allera and Bill Thomas to Board of Directors
+
+TELUS Corporation announced the TELUS Board of Directors (the Board) has approved the appointments of Marc Allera and Bill Thomas to its Board, effective January 1, 2027. Marc is a seasoned telecommunications executive whose three decades of leadership span large-scale integrations, network investment and a strong commitment to brand building and customer experience. Bill is a global leader in financial reporting, risk management and audit oversight.
+
+"On behalf of the Board of Directors, I am delighted to welcome Marc and Bill to TELUS," said John Manley, Chair of the Board of TELUS. "Marc and Bill have exactly the experience our Board needs as TELUS invests in its networks and sharpens its focus on customers and disciplined capital allocation. Marc has led major consumer telecom businesses through large-scale transformation with fibre and 5G builds, and Bill has led one of the world's largest professional services firms, with deep expertise in audit and risk. We're delighted to welcome them both."
+
+Marc Allera's career spans more than three decades of executive leadership in globaltelecommunications and network operations. Based in London, U.K., he served as ChiefExecutive Officer of EE and also BT Group's Consumer Division from 2016 to 2025, where heoversaw commercial strategy, customer retention, and brand loyalty across nearly 30 millioncustomers connecting to mobile, broadband and TV while orchestrating the deployment of next-generation 5G and fibre networks. Prior to his tenure at BT Group, Marc held senior executive roles including CEO of EE, a joint venture between Deutsche Telekom and France Tlcom, and Chief Commercial Officer at Three UK. He currently serves as Chair of CVC's Global Sport Group and Jagex The RuneScape Company.
+
+Bill Thomas is the former Global Chair and CEO of KPMG International, leading over 265,000 professionals across 143 countries and territories, stewarding multi-billion-dollar enterprise growth, audit quality, and strategic enterprise risk management. Originally from Vancouver, Bill earned his Bachelor of Science at the University of British Columbia and began his KPMG career in the firm's Vancouver office in 1990. He also has a home on Salt Spring Island. His extensive background in financial oversight and corporate reporting directly reinforces the Board's audit committee stewardship. He currently serves on the Board of Directors of Bank of America and previously served as Chair of KPMG's Americas region from 2014 to 2017 and as CEO and Senior Partner of KPMG in Canada from 2009 to 2016. A recipient of the Queen Elizabeth II Diamond Jubilee Medal and a Catalyst Canada Honours Champion, Bill served on the International Integrated Reporting Council, the Business Roundtable, the International Business Council, and the Sustainable Markets Initiative.
+
+About TELUS
+
+TELUS (TSX: T) (NYSE: TU) is a leading Canadian communications technology company operating in more than 45 countries and generating over $20 billion in annual revenue with more than 17 million customer connections through our advanced suite of broadband services for consumers, businesses and the public sector. TELUS is passionate about putting our customers and communities first, leading the way globally in client service excellence and social capitalism. The TELUS PureFibre and 5G networks connect Canadians at home, at work and in the communities where they live.
+
+TELUS Health is a global technology leader advancing health data infrastructure and workforce wellbeing. TELUS Agriculture &Consumer Goods utilizes digital technologies and data insights to optimize the connection between producers and consumers. TELUS Digital specializes in digital customer experiences and future-focused digital transformations that deliver value for their global clients.
+
+Since 2000, TELUS and our team members have contributed more than $1.85 billion in cash, in-kind contributions, time and programs to communities across Canada and around the world.
+
+For more information, visittelus.com.
+
+Media Relations
+
+Steve Beisswanger
+
+Steve.Beisswanger@telus.com
+
+__________________________________________________
+
+_______________________________________________ Closing price for T-T Date : 2026/11/05 Price: 13.19
+
+____________________________________________________________
+
+(c)2026 Market News Publishing Inc. All rights reserved.
+- **Why it matters to Innodata:** Active coverage on Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit (Legacy BPO & Crowd Volume) exposes buyer sensitivity around legacy bpo crowd volume lacking full-stack agent engineering and deterministic reliability gates.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit: Full-stack Agent Engineering and Agent Reliability Engineering (ARE) depth with domain-vetted SMEs. Highlight our Infrastructure Engineering capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
+
+### 18. [Only 81 of 522 Top AI Benchmarks Measure Organizational Work](https://ct.moreover.com/?a=60785878670&p=66&v=1&x=7shC1VAdg6eZY2JpN1wYEg)
+- **Outlet(s):** FourWeekMBA | **Published:** `2026-11-05` | **Sentiment:** `NEUTRAL` | **Positioning Relevance Score:** `0.72`
+- **Matched Innodata Pillars:** Agent Reliability Engineering (ARE)
+- **Matched Competitors:** Mercor, Turing, Surge AI, Invisible Technologies
+- **Coverage Snippet:** Only 81 of 522 prominent AI benchmarks, or 16%, report a separate result for any organizational condition of work, according to a new paper from Mercor Research and Copenhagen Business School. Fewer than a quarter, 118 or 23%, even claim to build one into...
+- **Why it matters to Innodata:** Active coverage on Mercor, Turing, Surge AI, Invisible Technologies (Talent Marketplaces & Gig Networks) exposes buyer sensitivity around talent marketplaces selling individual headcount with high churn and zero production architecture slas.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Mercor, Turing, Surge AI, Invisible Technologies: Managed systems, enterprise SLAs, vendor-tail consolidation under one MSA, and production architectures. Highlight our Agent Reliability Engineering (ARE) capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Mercor, Turing, Surge AI, Invisible Technologies accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
+
+### 19. [Judgment Labs Says Eval Indexes Cut Agent Search Cost 20.8%](https://ct.moreover.com/?a=60785878667&p=66&v=1&x=6EgpwygdDTo-qa2hiAUxpA)
+- **Outlet(s):** FourWeekMBA | **Published:** `2026-11-05` | **Sentiment:** `NEUTRAL` | **Positioning Relevance Score:** `0.72`
+- **Matched Innodata Pillars:** Infrastructure Engineering
+- **Matched Competitors:** Mercor, Turing, Surge AI, Invisible Technologies
+- **Coverage Snippet:** Judgment Labs, a start-up that builds infrastructure for improving AI agents from their production data, says storing the results of its quality checks as searchable indexes cut the estimated cost of searching agent logs by 20.8% on average across seven...
+- **Why it matters to Innodata:** Active coverage on Mercor, Turing, Surge AI, Invisible Technologies (Talent Marketplaces & Gig Networks) exposes buyer sensitivity around talent marketplaces selling individual headcount with high churn and zero production architecture slas.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Mercor, Turing, Surge AI, Invisible Technologies: Managed systems, enterprise SLAs, vendor-tail consolidation under one MSA, and production architectures. Highlight our Infrastructure Engineering capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Mercor, Turing, Surge AI, Invisible Technologies accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
+
+### 20. [Snorkel AI's RIFT Exposes Hidden Flaws in 83% of AI Benchmark Rubrics](https://ct.moreover.com/?a=60769564730&p=1pe&v=1&x=m1gPllIk1crkABgdeZ5ugw)
+- **Outlet(s):** AlphaSignal | **Published:** `2026-11-03` | **Sentiment:** `NEUTRAL` | **Positioning Relevance Score:** `0.72`
+- **Matched Innodata Pillars:** Agent Reliability Engineering (ARE)
+- **Matched Competitors:** Labelbox, Snorkel AI, SuperAnnotate, Kognic
+- **Coverage Snippet:** A language model’s 92% benchmark score is only as defensible as the rubric that produced it. Snorkel AI researchers argue that rubrics rarely receive direct audits, even when their criteria determine leaderboard positions or training rewards. Their RubrIc...
+- **Why it matters to Innodata:** Active coverage on Labelbox, Snorkel AI, SuperAnnotate, Kognic (Point Annotation SaaS Tools) exposes buyer sensitivity around point saas tools for internal teams that still leave data ops, red teaming, and production software delivery unsolved.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Labelbox, Snorkel AI, SuperAnnotate, Kognic: End-to-end outcome ownership combining human loop + data pipelines + deployed production software. Highlight our Agent Reliability Engineering (ARE) capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Labelbox, Snorkel AI, SuperAnnotate, Kognic accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
+
+### 21. [In B2B, Agents Narrow The Field—But The Human Still Buys](https://ct.moreover.com/?a=60789797945&p=1pe&v=1&x=YO5JyJFj5NSdQEU_oei-8A)
+- **Outlet(s):** Forbes US | **Published:** `2026-11-06` | **Sentiment:** `POSITIVE` | **Positioning Relevance Score:** `0.60`
+- **Matched Competitors:** Palantir
+- **Coverage Snippet:** Rob Green is the chief digital officer of Insight Enterprises, a Fortune 500 Solutions Integrator.
+
+Online B2C consumer behavior is often compared to spearfishing: targeting a specific product for optimal pricing, fulfillment and customer service....
+- **Why it matters to Innodata:** Active coverage on Palantir (Palantir) exposes buyer sensitivity around 8-figure proprietary platform lock-in and opaque ontology licensing.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Palantir: FDE velocity inside the client's own cloud (GCP, AWS, Azure) with open accelerators and zero platform lock-in. Highlight our Agent Engineering & Agent Reliability Engineering (ARE) capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Palantir accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
+
+### 22. [Can Japan’s Stock Market Revival Survive the AI Rout?](https://www.bloomberg.com/news/newsletters/2026-11-06/can-japan-s-stock-market-revival-survive-the-fear-of-ai-bubble)
+- **Outlet(s):** Bloomberg News | **Published:** `2026-11-06` | **Sentiment:** `NEUTRAL` | **Positioning Relevance Score:** `0.60`
+- **Matched Competitors:** Palantir
+- **Coverage Snippet:** This week, Lily Nonomiya examines the state of the markets and economy after today’s selloff, Shery Ahn takes us to India, a land of opportunity for Japanese companies, and Lily explains the new way for foreign tourists to get their tax refunds.
+
+Can...
+- **Why it matters to Innodata:** Active coverage on Palantir (Palantir) exposes buyer sensitivity around 8-figure proprietary platform lock-in and opaque ontology licensing.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Palantir: FDE velocity inside the client's own cloud (GCP, AWS, Azure) with open accelerators and zero platform lock-in. Highlight our Agent Engineering & Agent Reliability Engineering (ARE) capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Palantir accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
+
+### 23. [デジタルスレッド・PLMモダナイゼーション市場、2035年に300億米ドルへ拡大予測｜CAGR13.4％が示す製造業DXと製品ライフサイクル管理の新たな成長機会](https://japan.zdnet.com/release/31221960/)
+- **Outlet(s):** ZDNet Japan | **Published:** `2026-11-06` | **Sentiment:** `NEUTRAL` | **Positioning Relevance Score:** `0.60`
+- **Matched Competitors:** Palantir
+- **Coverage Snippet:** Astute Analyticaの市場予測：2025年の85億米ドルから2035年には300億米ドルへ、設計・製造・保守をつなぐデータ統合が企業競争力の重要課題に
+
+市場調査会社Astute...
+- **Why it matters to Innodata:** Active coverage on Palantir (Palantir) exposes buyer sensitivity around 8-figure proprietary platform lock-in and opaque ontology licensing.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Palantir: FDE velocity inside the client's own cloud (GCP, AWS, Azure) with open accelerators and zero platform lock-in. Highlight our Agent Engineering & Agent Reliability Engineering (ARE) capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Palantir accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
+
+### 24. [【調査レポート】 衛星データで「観る」から「動かす」へ](https://japan.zdnet.com/release/31221881/)
+- **Outlet(s):** ZDNet Japan | **Published:** `2026-11-06` | **Sentiment:** `NEUTRAL` | **Positioning Relevance Score:** `0.60`
+- **Matched Competitors:** Palantir
+- **Coverage Snippet:** 2026年11月6日 PwCコンサルティング合同会社 【調査レポート】 衛星データで「観る」から「動かす」へ データとAIによる産業・業務変革の未来 FDE（Forward Deployed...
+- **Why it matters to Innodata:** Active coverage on Palantir (Palantir) exposes buyer sensitivity around 8-figure proprietary platform lock-in and opaque ontology licensing.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Palantir: FDE velocity inside the client's own cloud (GCP, AWS, Azure) with open accelerators and zero platform lock-in. Highlight our Agent Engineering & Agent Reliability Engineering (ARE) capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Palantir accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
+
+### 25. [The debate over USDA mass reorganization plans intensifies](https://federalnewsnetwork.com/federal-newscast/2026/11/the-debate-over-usda-mass-reorganization-plans-intensifies/)
+- **Outlet(s):** Federal News Network | **Published:** `2026-11-05` | **Sentiment:** `NEUTRAL` | **Positioning Relevance Score:** `0.60`
+- **Matched Competitors:** Palantir
+- **Coverage Snippet:** Back-and-forth arguments over the Agriculture Department's mass reorganization plans are intensifying.
+
+The American Federation of Government Employees is seeking to stay a pending appeal motion from USDA. That's as USDA is attempting to reverse a court...
+- **Why it matters to Innodata:** Active coverage on Palantir (Palantir) exposes buyer sensitivity around 8-figure proprietary platform lock-in and opaque ontology licensing.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Palantir: FDE velocity inside the client's own cloud (GCP, AWS, Azure) with open accelerators and zero platform lock-in. Highlight our Agent Engineering & Agent Reliability Engineering (ARE) capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Palantir accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
+
+### 26. [92% of staff can reskill for AI, HR says – but half of companies still hire outside](https://www.zdnet.com/innovation/ai-hiring-vs-reskilling-careerminds-research/)
+- **Outlet(s):** ZDNet | **Published:** `2026-11-05` | **Sentiment:** `POSITIVE` | **Positioning Relevance Score:** `0.60`
+- **Matched Competitors:** Palantir
+- **Coverage Snippet:** Businesses are overlooking a chance to invest in one of their most valuable assets: their employees.
+
+ZDNET's key takeaways
+
+HR sees AI reskilling potential, but outside hiring outpaces internal moves.
+
+Limited visibility into AI skills makes reskilling...
+- **Why it matters to Innodata:** Active coverage on Palantir (Palantir) exposes buyer sensitivity around 8-figure proprietary platform lock-in and opaque ontology licensing.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Palantir: FDE velocity inside the client's own cloud (GCP, AWS, Azure) with open accelerators and zero platform lock-in. Highlight our Agent Engineering & Agent Reliability Engineering (ARE) capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Palantir accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
+
+### 27. [From Pilots To Payoff: The Top IT Priorities Every Executive Should Accomplish Before Year-End](https://ct.moreover.com/?a=60784255752&p=1pe&v=1&x=U1Nc8QPBtq348Z3q6jsgAw)
+- **Outlet(s):** Forbes US | **Published:** `2026-11-05` | **Sentiment:** `NEUTRAL` | **Positioning Relevance Score:** `0.60`
+- **Matched Competitors:** Palantir
+- **Coverage Snippet:** Scott Francis is Technology Evangelist at PFU America, Inc. and Ricoh Document Scanners.
+
+​As the end of 2026 draws near, the central question for business leaders has shifted from asking whether their organization is adopting and deploying AI fast enough...
+- **Why it matters to Innodata:** Active coverage on Palantir (Palantir) exposes buyer sensitivity around 8-figure proprietary platform lock-in and opaque ontology licensing.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Palantir: FDE velocity inside the client's own cloud (GCP, AWS, Azure) with open accelerators and zero platform lock-in. Highlight our Agent Engineering & Agent Reliability Engineering (ARE) capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Palantir accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
+
+### 28. [Fortinet and Equinix Secure Distributed AI at Scale](https://www.wearegreenbay.com/business/press-releases/globenewswire/9870670/fortinet-and-equinix-secure-distributed-ai-at-scale)
+- **Outlet(s):** WFRV TV Green Bay CBS, Market Newsdesk, NBC - Bakersfield - KGET TV, WPRI 12, Associated Press, Fox47.MarketMinute.com, Morningstar, Holladay Journal, Connect Fayetteville, Draper Journal | **Published:** `2026-11-05` | **Sentiment:** `POSITIVE` | **Positioning Relevance Score:** `0.60`
+- **Syndicated URLs:** [link](https://www.marketnewsdesk.com/index.php/fortinet-and-equinix-secure-distributed-ai-at-scale/), [link](https://www.kget.com/business/press-releases/globenewswire/9870670/fortinet-and-equinix-secure-distributed-ai-at-scale), [link](https://www.wpri.com/business/press-releases/globenewswire/9870670/fortinet-and-equinix-secure-distributed-ai-at-scale), [link](https://apnews.com/press-release/globenewswire-mobile/press-release-97f8716846760ea61771b65352a08453), [link](https://ct.moreover.com/?a=60782999567&p=1pe&v=1&x=AgjKRvtbCGfeic2s4Cz0Xw), [link](https://www.morningstar.com/news/globe-newswire/9870670/fortinet-and-equinix-secure-distributed-ai-at-scale), [link](https://pr.holladayjournal.com/article/Fortinet-and-Equinix-Secure-Distributed-AI-at-Scale/6aec8cc5871c4c723c116da4), [link](https://pr.fayettevilleconnect.com/article/Fortinet-and-Equinix-Secure-Distributed-AI-at-Scale/6aec8cc5871c4c723c116da4), [link](https://pr.draperjournal.com/article/Fortinet-and-Equinix-Secure-Distributed-AI-at-Scale/6aec8cc5871c4c723c116da4)
+- **Matched Competitors:** Scale AI
+- **Coverage Snippet:** FortiAIGate on the Equinix Distributed AI Hub strengthens governance, data protection, and control across hybrid and multi-cloud AI environments
+
+SUNNYVALE, Calif., Nov. 05, 2026 (GLOBE NEWSWIRE) — Fortinet® (NASDAQ: FTNT), the global cybersecurity leader...
+- **Why it matters to Innodata:** Active coverage on Scale AI (Scale AI) exposes buyer sensitivity around platform-heavy, expensive, defense-skewed, and post-meta 49% ownership neutrality risk.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Scale AI: Publicly traded (NASDAQ: INOD) neutral partner delivering sovereign cloud deployment and tailored Forward Deployed Engineering (FDE). Highlight our Agent Engineering & Agent Reliability Engineering (ARE) capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Scale AI accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
+
+### 29. [Xpeng MONA L05 Launches with Extended Range, Priced from $19,200](https://www.chinapev.com/ev-2/xpeng-motors/xpeng-mona-l05-launches-with-extended-range-priced-from-19200/)
+- **Outlet(s):** Chinapev | **Published:** `2026-11-05` | **Sentiment:** `NEUTRAL` | **Positioning Relevance Score:** `0.60`
+- **Matched Competitors:** Mercor, Turing, Surge AI, Invisible Technologies
+- **Coverage Snippet:** Xpeng officially launched the MONA L05 on October 29th, introducing six models with a price range of 144,800 to 176,800 yuan.
+
+A limited-time offer reduces the price to between 139,800 and 171,800 yuan (approximately $19,200 to $23,700), with a cash...
+- **Why it matters to Innodata:** Active coverage on Mercor, Turing, Surge AI, Invisible Technologies (Talent Marketplaces & Gig Networks) exposes buyer sensitivity around talent marketplaces selling individual headcount with high churn and zero production architecture slas.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Mercor, Turing, Surge AI, Invisible Technologies: Managed systems, enterprise SLAs, vendor-tail consolidation under one MSA, and production architectures. Highlight our Agent Engineering & Agent Reliability Engineering (ARE) capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Mercor, Turing, Surge AI, Invisible Technologies accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
+
+### 30. [XPeng Secures L4 Robotaxi License for Guangzhou Operations](https://www.chinapev.com/autopilot/xpeng-secures-l4-robotaxi-license-for-guangzhou-operations/)
+- **Outlet(s):** Chinapev | **Published:** `2026-11-05` | **Sentiment:** `POSITIVE` | **Positioning Relevance Score:** `0.60`
+- **Matched Competitors:** Mercor, Turing, Surge AI, Invisible Technologies
+- **Coverage Snippet:** XPeng announced it has received approval for L4 autonomous driving demonstration operations in Guangzhou, marking a significant step towards commercial deployment of its Robotaxi service.
+
+With this license, XPeng's Robotaxi, branded as “Youyou,” can now...
+- **Why it matters to Innodata:** Active coverage on Mercor, Turing, Surge AI, Invisible Technologies (Talent Marketplaces & Gig Networks) exposes buyer sensitivity around talent marketplaces selling individual headcount with high churn and zero production architecture slas.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Mercor, Turing, Surge AI, Invisible Technologies: Managed systems, enterprise SLAs, vendor-tail consolidation under one MSA, and production architectures. Highlight our Agent Engineering & Agent Reliability Engineering (ARE) capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Mercor, Turing, Surge AI, Invisible Technologies accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
+
+### 31. [XPeng Delivers First MONA L05 SUVs to Owners](https://particle.news/story/xpeng-delivers-first-mona-l05-suvs-to-owners)
+- **Outlet(s):** Particle News | **Published:** `2026-11-05` | **Sentiment:** `POSITIVE` | **Positioning Relevance Score:** `0.60`
+- **Matched Competitors:** Mercor, Turing, Surge AI, Invisible Technologies
+- **Coverage Snippet:** The handovers mark the start of commercial deliveries, placing XPeng 's pure‑vision driving stack with 750/1500 TOPS Turing AI chips in customer hands.
+
+XPeng held a first‑owner delivery ceremony in China where chairman He Xiaopeng personally handed new...
+- **Why it matters to Innodata:** Active coverage on Mercor, Turing, Surge AI, Invisible Technologies (Talent Marketplaces & Gig Networks) exposes buyer sensitivity around talent marketplaces selling individual headcount with high churn and zero production architecture slas.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Mercor, Turing, Surge AI, Invisible Technologies: Managed systems, enterprise SLAs, vendor-tail consolidation under one MSA, and production architectures. Highlight our Agent Engineering & Agent Reliability Engineering (ARE) capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Mercor, Turing, Surge AI, Invisible Technologies accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
+
+### 32. [Asian Markets A Sea Of Red Amid Wall Street Sell-off](https://ct.moreover.com/?a=60787109237&p=1pe&v=1&x=fOyKcgx8FBwRw8OdpZRz3g)
+- **Outlet(s):** Trading View, Nasdaq | **Published:** `2026-11-06` | **Sentiment:** `NEUTRAL` | **Positioning Relevance Score:** `0.60`
+- **Syndicated URLs:** [link](https://ct.moreover.com/?a=60787100407&p=1pe&v=1&x=gZS5NKC6aOP-av_h4kq_9w)
+- **Matched Competitors:** Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit
+- **Coverage Snippet:** (RTTNews) - Asian stock markets a sea on Friday, following the broad sell-off on Wall Street overnight, amid a renewed sell-off in the tech sector, with the tech-heavy NASDAQ plummeting on concerns about the sustainability of the AI trade amid expected...
+- **Why it matters to Innodata:** Active coverage on Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit (Legacy BPO & Crowd Volume) exposes buyer sensitivity around legacy bpo crowd volume lacking full-stack agent engineering and deterministic reliability gates.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit: Full-stack Agent Engineering and Agent Reliability Engineering (ARE) depth with domain-vetted SMEs. Highlight our Agent Engineering & Agent Reliability Engineering (ARE) capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
+
+### 33. [Xero Shares Surge 4.9% as ASX Breaks 9,000‑Mark Amid Strong Aussie Tech Rally](https://ct.moreover.com/?a=60785673753&p=1pe&v=1&x=xNs8nmvlX4JS-QQxC8Bieg)
+- **Outlet(s):** Aktien Sensor | **Published:** `2026-11-05` | **Sentiment:** `NEUTRAL` | **Positioning Relevance Score:** `0.60`
+- **Matched Competitors:** Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit
+- **Coverage Snippet:** Xero Limited’s Share Surge Amid a Broad Australian Market Rally
+
+The Australian Securities Exchange (ASX) witnessed a pronounced rally on Friday, with the ASX 200 index surpassing the 9,000 mark for the first time since mid‑April. Central to this surge...
+- **Why it matters to Innodata:** Active coverage on Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit (Legacy BPO & Crowd Volume) exposes buyer sensitivity around legacy bpo crowd volume lacking full-stack agent engineering and deterministic reliability gates.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit: Full-stack Agent Engineering and Agent Reliability Engineering (ARE) depth with domain-vetted SMEs. Highlight our Agent Engineering & Agent Reliability Engineering (ARE) capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
+
+### 34. [Online Jobs for Teenagers Without Experience](https://ct.moreover.com/?a=60777994931&p=66&v=1&x=luTIVYI6bsM0bXigZHHZ-w)
+- **Outlet(s):** Lilach Bullock AI Implementation Consultant | **Published:** `2026-11-04` | **Sentiment:** `NEUTRAL` | **Positioning Relevance Score:** `0.60`
+- **Matched Competitors:** Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit
+- **Coverage Snippet:** The short version: there are real online jobs for teenagers without experience, but most sit behind an age wall of 13, 16 or 18, pay is usually £4 to £10 an hour equivalent rather than the "£100 a day" nonsense you'll see on social media, and a parent or...
+- **Why it matters to Innodata:** Active coverage on Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit (Legacy BPO & Crowd Volume) exposes buyer sensitivity around legacy bpo crowd volume lacking full-stack agent engineering and deterministic reliability gates.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit: Full-stack Agent Engineering and Agent Reliability Engineering (ARE) depth with domain-vetted SMEs. Highlight our Agent Engineering & Agent Reliability Engineering (ARE) capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
+
+### 35. [14 Legit Online No Interview Jobs: Skip the Interview](https://ct.moreover.com/?a=60774943381&p=66&v=1&x=-25ja7-SVzQ686JB3GbPUw)
+- **Outlet(s):** The Work at Home Woman Legit Work From Home Jobs | **Published:** `2026-11-04` | **Sentiment:** `POSITIVE` | **Positioning Relevance Score:** `0.60`
+- **Matched Competitors:** Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit
+- **Coverage Snippet:** Would you prefer to skip the job interview? Here are some legitimate online no interview jobs! Applying for a new online job can be a multi-step process. Job applicants must usually submit a formal application, including a resume and sometimes a cover...
+- **Why it matters to Innodata:** Active coverage on Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit (Legacy BPO & Crowd Volume) exposes buyer sensitivity around legacy bpo crowd volume lacking full-stack agent engineering and deterministic reliability gates.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit: Full-stack Agent Engineering and Agent Reliability Engineering (ARE) depth with domain-vetted SMEs. Highlight our Agent Engineering & Agent Reliability Engineering (ARE) capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
+
+### 36. [TELUS Reports Third Quarter 2026 Results, Demonstrates Continued Discipline in Core Telecom; Advances Transformation Strategy](https://www.wytv.com/business/press-releases/cision/20261106MO89701/telus-reports-third-quarter-2026-results-demonstrates-continued-discipline-in-core-telecom-advances-transformation-strategy)
+- **Outlet(s):** WYFX-DT2 TV Youngstown MyNetworkTV, Associated Press, StreetInsider.com | **Published:** `2026-11-06` | **Sentiment:** `NEUTRAL` | **Positioning Relevance Score:** `0.60`
+- **Syndicated URLs:** [link](https://apnews.com/press-release/pr-newswire/press-release-aa68a22425db9b857bcb6cbe9194fa85), [link](https://www.streetinsider.com/PRNewswire/TELUS+Reports+Third+Quarter+2026+Results%2C+Demonstrates+Continued+Discipline+in+Core+Telecom%3B+Advances+Transformation+Strategy/27303500.html)
+- **Matched Competitors:** Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit
+- **Coverage Snippet:** November 6, 2026 6:45 AM EST VANCOUVER, BC Nov. 6, 2026 /PRNewswire/ -- TELUS Corporation (TSX: T ) (NYSE: TU ) today released its unaudited
+
+results for the third quarter ended September 30, 2026 . The Company is advancing a comprehensive Transformation...
+- **Why it matters to Innodata:** Active coverage on Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit (Legacy BPO & Crowd Volume) exposes buyer sensitivity around legacy bpo crowd volume lacking full-stack agent engineering and deterministic reliability gates.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit: Full-stack Agent Engineering and Agent Reliability Engineering (ARE) depth with domain-vetted SMEs. Highlight our Agent Engineering & Agent Reliability Engineering (ARE) capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
+
+### 37. [TELUS Targets Debt Reduction Amid Telecom Transformation](https://ct.moreover.com/?a=60790070663&p=1pe&v=1&x=6_Bj83rGJAQ0vmidLEHphw)
+- **Outlet(s):** Investor Hangout | **Published:** `2026-11-06` | **Sentiment:** `NEUTRAL` | **Positioning Relevance Score:** `0.60`
+- **Matched Competitors:** Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit
+- **Coverage Snippet:** Adjusting Strategy Amid Financial Challenges
+
+The market's a tough beast, and TELUS seems to be wrestling with it, showing both grit and foresight in its latest quarterly update. Third quarter 2026 has TELUS down on revenues with a notable net loss but...
+- **Why it matters to Innodata:** Active coverage on Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit (Legacy BPO & Crowd Volume) exposes buyer sensitivity around legacy bpo crowd volume lacking full-stack agent engineering and deterministic reliability gates.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit: Full-stack Agent Engineering and Agent Reliability Engineering (ARE) depth with domain-vetted SMEs. Highlight our Agent Engineering & Agent Reliability Engineering (ARE) capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
+
+### 38. [ExlService Holdings, Inc. (NASDAQ:EXLS) Acquires Aimpoint Digital to Accelerate Enterprise AI Transformation](https://ct.moreover.com/?a=60790237415&p=21l&v=1&x=LCLXza3QGvQMXoLdktNGKw)
+- **Outlet(s):** Global Round Up - Bullish & Bearish Signals | **Published:** `2026-11-06` | **Sentiment:** `POSITIVE` | **Positioning Relevance Score:** `0.60`
+- **Matched Competitors:** Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit
+- **Coverage Snippet:** AMERICAN DAILY STOCK REPORT
+
+UNITED STATES EDITION
+
+06 November 2026 00:44 EST
+
+NEW YORK, Nov. 05, 2026 -- ExlService Holdings, Inc. (NASDAQ:EXLS) has completed its acquisition of Aimpoint Digital, a data and AI consulting and platform engineering firm known for building enterprise data and AI platforms with deep expertise in Anthropic, Databricks, and Snowflake. Financial terms were not disclosed. The combination strengthens EXL's capacity to support clients across the full AI transformation lifecycle and deepens its relationships with technology partners. Aimpoint Digital brings forward-deployed strategists and engineers who accelerate moving workloads to leading platforms, enabling broader enterprise transformations. The deal adds approximately 250 experienced AI engineers, platform architects, analytics consultants, decision scientists, and AI strategists to EXL's capabilities, expanding its forward-deployed talent base and placing senior AI expertise closer to client teams. The partnership ecosystem with Anthropic, Databricks, and Snowflake expands, enabling faster deployment to production and broader platform coverage. This acquisition builds on EXL's recent purchase of iMerit, further extending its ability to support clients from strategy and architecture through engineering, deployment, and managed AI operations. EXL is a global data and AI company with over 74,000 employees spanning six continents
+
+IN TODAY'S REPORT:
+
+SECTION 1 EXLSERVICE HOLDINGS RECENT ECO NEWS
+
+SECTION 1 EXLSERVICE HOLDINGS RECENT ECO NEWS
+
+June 24: Accenture (NYSE:ACN) Raises Fiscal 2026 Repurchases to $7.5 Billion as AI-Led Reinvention Theme Frames Analytics Peer ExlService (NASDAQ:EXLS)
+
+NEW YORK, June 23, 2026 - Accenture (NYSE: ACN) announced a $2 billion increase to its fiscal 2026 share repurchase program, raising total expected repurchases to $7.5 billion, a 62% increase year over year, to be completed by August 31, 2026, with total fiscal 2026 shareholder returns expected to reach $11.5 billion.
+
+COMPANY IDENTIFIERS
+
+Contact: +1 212 277-7100
+
+Physical Address: 280 Park Avenue,38th Floor,New York,NY,10017
+
+State/Province/Country: United States
+
+Country of Incorporation: United States
+
+Industry [NAICS]: 541618
+
+Exchange: NASDAQ
+
+ExlService Holdings, Inc. (O:EXLS)
+
+Stock Identifiers
+
+ISIN: US3020811044
+
+PermID: 4295907283
+
+Central Index Key (CIK): 1297989
+
+CUSIP: 302081104
+
+RIC: EXLS.O
+
+FIGI: BBG000NS3Y68
+
+LEI: 81E3DTNF6OSH489ZOV15
+
+Source: www.BuySellSignals.com
+- **Why it matters to Innodata:** Active coverage on Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit (Legacy BPO & Crowd Volume) exposes buyer sensitivity around legacy bpo crowd volume lacking full-stack agent engineering and deterministic reliability gates.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit: Full-stack Agent Engineering and Agent Reliability Engineering (ARE) depth with domain-vetted SMEs. Highlight our Agent Engineering & Agent Reliability Engineering (ARE) capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
+
+### 39. [ExlService Holdings, Inc. (NASDAQ:EXLS) Acquires Aimpoint Digital to Expand Forward-Deployed AI Capabilities](https://ct.moreover.com/?a=60790237034&p=21l&v=1&x=UeCc0VpxoS4EOvuFL21arg)
+- **Outlet(s):** Global Round Up - Bullish & Bearish Signals | **Published:** `2026-11-06` | **Sentiment:** `POSITIVE` | **Positioning Relevance Score:** `0.60`
+- **Matched Competitors:** Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit
+- **Coverage Snippet:** AMERICAN DAILY STOCK REPORT
+
+UNITED STATES EDITION
+
+06 November 2026 00:44 EST
+
+NEW YORK, Nov. 05, 2026 -- ExlService Holdings, Inc. (NASDAQ:EXLS) has acquired Aimpoint Digital, a data and AI consulting and platform engineering firm known for building enterprise data and AI platforms with expertise across Anthropic, Databricks, and Snowflake. Financial terms of the transaction were not disclosed. The move strengthens EXL's ability to support clients across the AI transformation lifecycle and deepens its relationships with technology partners. Aimpoint Digital's forward-deployed strategists and engineers will join EXL, enabling faster production of AI workloads across more workflows and functions and broadening EXL's offering for enterprise-wide transformation. The collaboration adds approximately 250 experienced AI engineers, platform architects, analytics consultants, decision scientists, and AI strategists to EXL's capabilities, expanding its forward-deployed talent base and bringing senior AI expertise closer to client teams. The deal also expands EXL's partner ecosystem with Anthropic, Databricks, and Snowflake, helping clients move AI initiatives from strategy to production more quickly. This acquisition builds on EXL's recent purchase of iMerit, further extending its ability to support clients from strategy and architecture through engineering, deployment, and managed AI operations
+
+IN TODAY'S REPORT:
+
+SECTION 1 EXLSERVICE HOLDINGS RECENT ECO NEWS
+
+SECTION 1 EXLSERVICE HOLDINGS RECENT ECO NEWS
+
+June 24: Accenture (NYSE:ACN) Raises Fiscal 2026 Repurchases to $7.5 Billion as AI-Led Reinvention Theme Frames Analytics Peer ExlService (NASDAQ:EXLS)
+
+NEW YORK, June 23, 2026 - Accenture (NYSE: ACN) announced a $2 billion increase to its fiscal 2026 share repurchase program, raising total expected repurchases to $7.5 billion, a 62% increase year over year, to be completed by August 31, 2026, with total fiscal 2026 shareholder returns expected to reach $11.5 billion.
+
+COMPANY IDENTIFIERS
+
+Contact: +1 212 277-7100
+
+Physical Address: 280 Park Avenue,38th Floor,New York,NY,10017
+
+State/Province/Country: United States
+
+Country of Incorporation: United States
+
+Industry [NAICS]: 541618
+
+Exchange: NASDAQ
+
+ExlService Holdings, Inc. (O:EXLS)
+
+Stock Identifiers
+
+ISIN: US3020811044
+
+PermID: 4295907283
+
+Central Index Key (CIK): 1297989
+
+CUSIP: 302081104
+
+RIC: EXLS.O
+
+FIGI: BBG000NS3Y68
+
+LEI: 81E3DTNF6OSH489ZOV15
+
+Source: www.BuySellSignals.com
+- **Why it matters to Innodata:** Active coverage on Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit (Legacy BPO & Crowd Volume) exposes buyer sensitivity around legacy bpo crowd volume lacking full-stack agent engineering and deterministic reliability gates.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit: Full-stack Agent Engineering and Agent Reliability Engineering (ARE) depth with domain-vetted SMEs. Highlight our Agent Engineering & Agent Reliability Engineering (ARE) capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
+
+### 40. [Bridging the Production Gap: How EXL's Acquisition of Aimpoint Digital Accelerates Enterprise AI and IT Services](https://itdigest.com/artificial-intelligence/bridging-the-production-gap-how-exls-acquisition-of-aimpoint-digital-accelerates-enterprise-ai-and-it-services/)
+- **Outlet(s):** ITDigest | **Published:** `2026-11-06` | **Sentiment:** `NEUTRAL` | **Positioning Relevance Score:** `0.60`
+- **Matched Competitors:** Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit
+- **Coverage Snippet:** World leading data and digital operations organization EXL has announced the acquisition of Aimpoint Digital, a rapidly scaling data and AI consultancy firm.
+
+This strategic move brings into EXL's worldwide business roughly 250 world-class AI engineers,...
+- **Why it matters to Innodata:** Active coverage on Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit (Legacy BPO & Crowd Volume) exposes buyer sensitivity around legacy bpo crowd volume lacking full-stack agent engineering and deterministic reliability gates.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit: Full-stack Agent Engineering and Agent Reliability Engineering (ARE) depth with domain-vetted SMEs. Highlight our Agent Engineering & Agent Reliability Engineering (ARE) capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
+
+### 41. [EXL acquires data and AI consulting market leader Aimpoint Digital to expand forward-deployed AI capabilities and accelerate enterprise transformation](https://aithority.com/machine-learning/exl-acquires-data-and-ai-consulting-market-leader-aimpoint-digital-to-expand-forward-deployed-ai-capabilities-and-accelerate-enterprise-transformation/)
+- **Outlet(s):** AiThority, Biz Development News, WFRV TV Green Bay CBS, Market Newsdesk, The Business Gazette Online | **Published:** `2026-11-06` | **Sentiment:** `POSITIVE` | **Positioning Relevance Score:** `0.60`
+- **Syndicated URLs:** [link](https://bizdevelopmentnews.com/business/exl-acquires-data-and-ai-consulting-market-leader-aimpoint-digital-to-expand-forward-deployed-ai-capabilities-and-accelerate-enterprise-transformation), [link](https://www.wearegreenbay.com/business/press-releases/globenewswire/9870876/exl-acquires-data-and-ai-consulting-market-leader-aimpoint-digital-to-expand-forward-deployed-ai-capabilities-and-accelerate-enterprise-transformation), [link](https://www.marketnewsdesk.com/index.php/exl-acquires-data-and-ai-consulting-market-leader-aimpoint-digital-to-expand-forward-deployed-ai-capabilities-and-accelerate-enterprise-transformation/), [link](https://ct.moreover.com/?a=60783169890&p=1pe&v=1&x=gF_BfsKkoWVD4T67eJ1eFQ)
+- **Matched Competitors:** Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit
+- **Coverage Snippet:** Nov 06, 2026: EXL , a global data and AI company, today announced it has acquired Aimpoint Digital , a data and AI consulting and platform engineering
+
+firm known for building enterprise data and AI platforms with deep expertise in market-leading partners...
+- **Why it matters to Innodata:** Active coverage on Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit (Legacy BPO & Crowd Volume) exposes buyer sensitivity around legacy bpo crowd volume lacking full-stack agent engineering and deterministic reliability gates.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit: Full-stack Agent Engineering and Agent Reliability Engineering (ARE) depth with domain-vetted SMEs. Highlight our Agent Engineering & Agent Reliability Engineering (ARE) capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
+
+### 42. [EXL Acquires Data and AI Consulting Firm Aimpoint Digital](https://india.entrepreneur.com/business-news/exl-acquires-data-and-ai-consulting-firm-aimpoint-digital)
+- **Outlet(s):** Young Entrepreneur | **Published:** `2026-11-06` | **Sentiment:** `POSITIVE` | **Positioning Relevance Score:** `0.60`
+- **Matched Competitors:** Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit
+- **Coverage Snippet:** EXL acquires data and AI consulting firm Aimpoint Digital, adding about 250 AI professionals; financial terms not disclosed.
+
+EXL, a global data and AI company, has acquired Aimpoint Digital, a data and AI consulting and platform engineering firm....
+- **Why it matters to Innodata:** Active coverage on Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit (Legacy BPO & Crowd Volume) exposes buyer sensitivity around legacy bpo crowd volume lacking full-stack agent engineering and deterministic reliability gates.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit: Full-stack Agent Engineering and Agent Reliability Engineering (ARE) depth with domain-vetted SMEs. Highlight our Agent Engineering & Agent Reliability Engineering (ARE) capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
+
+### 43. [EXL Buys Aimpoint Digital to Add Forward-Deployed AI Expertise](https://www.unite.ai/exl-buys-aimpoint-digital-to-add-forward-deployed-ai-expertise/)
+- **Outlet(s):** Unite.ai | **Published:** `2026-11-05` | **Sentiment:** `NEUTRAL` | **Positioning Relevance Score:** `0.60`
+- **Matched Competitors:** Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit
+- **Coverage Snippet:** EXL announced on November 5, 2026 that it had acquired Aimpoint Digital, adding approximately 250 AI engineers, platform architects, analytics consultants, decision scientists and AI strategists.
+
+The deal expands EXL's forward-deployed talent as it...
+- **Why it matters to Innodata:** Active coverage on Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit (Legacy BPO & Crowd Volume) exposes buyer sensitivity around legacy bpo crowd volume lacking full-stack agent engineering and deterministic reliability gates.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit: Full-stack Agent Engineering and Agent Reliability Engineering (ARE) depth with domain-vetted SMEs. Highlight our Agent Engineering & Agent Reliability Engineering (ARE) capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
+
+### 44. [AI Artist Jobs: Real Postings, What They Ask And Pay](https://ct.moreover.com/?a=60788237729&p=1pe&v=1&x=z6djVKYGV2B72F8-0g04VA)
+- **Outlet(s):** Blogarama | **Published:** `2026-11-06` | **Sentiment:** `NEUTRAL` | **Positioning Relevance Score:** `0.60`
+- **Matched Competitors:** Mercor, Turing, Surge AI, Invisible Technologies
+- **Coverage Snippet:** AI artist jobs come in three kinds: staff roles at studios that make AI imagery for brands, freelance day rate work, and AI training tasks where artists judge model output. On 6 November 2026, the salaried studio postings we could verify listed $126,000...
+- **Why it matters to Innodata:** Active coverage on Mercor, Turing, Surge AI, Invisible Technologies (Talent Marketplaces & Gig Networks) exposes buyer sensitivity around talent marketplaces selling individual headcount with high churn and zero production architecture slas.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Mercor, Turing, Surge AI, Invisible Technologies: Managed systems, enterprise SLAs, vendor-tail consolidation under one MSA, and production architectures. Highlight our Agent Engineering & Agent Reliability Engineering (ARE) capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Mercor, Turing, Surge AI, Invisible Technologies accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
+
+### 45. [12 Firms Named AI in Layoff Filings; Charges Run Up to $1.6B](https://ct.moreover.com/?a=60787561574&p=66&v=1&x=VFaX3y37hWWKxKo5ykhKxg)
+- **Outlet(s):** FourWeekMBA | **Published:** `2026-11-06` | **Sentiment:** `POSITIVE` | **Positioning Relevance Score:** `0.60`
+- **Matched Competitors:** Mercor, Turing, Surge AI, Invisible Technologies
+- **Coverage Snippet:** Twelve US-listed companies named artificial intelligence in the part of their 2026 layoff filings that describes the cut itself, the Item 2.05 section of a Form 8-K, by our count of 35 companies whose 2026 Item 2.05 filings came back from our searches of...
+- **Why it matters to Innodata:** Active coverage on Mercor, Turing, Surge AI, Invisible Technologies (Talent Marketplaces & Gig Networks) exposes buyer sensitivity around talent marketplaces selling individual headcount with high churn and zero production architecture slas.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Mercor, Turing, Surge AI, Invisible Technologies: Managed systems, enterprise SLAs, vendor-tail consolidation under one MSA, and production architectures. Highlight our Agent Engineering & Agent Reliability Engineering (ARE) capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Mercor, Turing, Surge AI, Invisible Technologies accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
+
+### 46. [Introducing Emergent: The Founder-Generated Startup List](https://www.newsbeep.com/au/954258/)
+- **Outlet(s):** NewsBeep, Europe says, Newcomer | **Published:** `2026-11-06` | **Sentiment:** `POSITIVE` | **Positioning Relevance Score:** `0.60`
+- **Syndicated URLs:** [link](https://ct.moreover.com/?a=60786769073&p=1pe&v=1&x=71gnyij6CAHC-EHEqzLchg), [link](https://ct.moreover.com/?a=60785008947&p=66&v=1&x=FfueEaKQHWcM_34rkZMX8w)
+- **Matched Competitors:** Mercor, Turing, Surge AI, Invisible Technologies
+- **Coverage Snippet:** Identifying the most interesting early-stage startups is as much art as science, requiring a feel for the technology, the people, and the market opportunity when there aren't a lot of numbers.
+
+No one is better positioned to assess all of that than top AI...
+- **Why it matters to Innodata:** Active coverage on Mercor, Turing, Surge AI, Invisible Technologies (Talent Marketplaces & Gig Networks) exposes buyer sensitivity around talent marketplaces selling individual headcount with high churn and zero production architecture slas.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Mercor, Turing, Surge AI, Invisible Technologies: Managed systems, enterprise SLAs, vendor-tail consolidation under one MSA, and production architectures. Highlight our Agent Engineering & Agent Reliability Engineering (ARE) capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Mercor, Turing, Surge AI, Invisible Technologies accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
+
+### 47. [Rare Facts, Not More Compute, Are Now the Scarce Thing in AI](https://www.ainvest.com/news/rare-facts-compute-scarce-ai-2611/)
+- **Outlet(s):** AInvest | **Published:** `2026-11-06` | **Sentiment:** `NEUTRAL` | **Positioning Relevance Score:** `0.60`
+- **Matched Competitors:** Mercor, Turing, Surge AI, Invisible Technologies
+- **Coverage Snippet:** - Johns Hopkins study identifies "monofacts" (single-appearance facts) as the scarce input driving AI discovery, outperforming compute scale in materials science and genomics.
+
+- Market shifts toward valuing unique, verifiable data over synthetic...
+- **Why it matters to Innodata:** Active coverage on Mercor, Turing, Surge AI, Invisible Technologies (Talent Marketplaces & Gig Networks) exposes buyer sensitivity around talent marketplaces selling individual headcount with high churn and zero production architecture slas.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Mercor, Turing, Surge AI, Invisible Technologies: Managed systems, enterprise SLAs, vendor-tail consolidation under one MSA, and production architectures. Highlight our Agent Engineering & Agent Reliability Engineering (ARE) capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Mercor, Turing, Surge AI, Invisible Technologies accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
+
+### 48. [Global Q3 Seed Funding](https://www.felicis.com/blog/emergent-list-2026-seed-stage-startups)
+- **Outlet(s):** Felicis Ventures - More Stories | **Published:** `2026-11-05` | **Sentiment:** `POSITIVE` | **Positioning Relevance Score:** `0.60`
+- **Matched Competitors:** Mercor, Turing, Surge AI, Invisible Technologies
+- **Coverage Snippet:** There is an old maxim in the culinary world: "If you want to know where to eat, ask a chef."
+
+Felicis (opens in new tab) and Newcomer (opens in new tab) decided to apply the same adage to early-stage companies. If you want to know which seed-stage...
+- **Why it matters to Innodata:** Active coverage on Mercor, Turing, Surge AI, Invisible Technologies (Talent Marketplaces & Gig Networks) exposes buyer sensitivity around talent marketplaces selling individual headcount with high churn and zero production architecture slas.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Mercor, Turing, Surge AI, Invisible Technologies: Managed systems, enterprise SLAs, vendor-tail consolidation under one MSA, and production architectures. Highlight our Agent Engineering & Agent Reliability Engineering (ARE) capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Mercor, Turing, Surge AI, Invisible Technologies accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
+
+### 49. [BREAKING: Aliens & Data Centers in Space?](https://www.sourcery.vc/p/breaking-aliens-and-data-centers)
+- **Outlet(s):** Sourcery | **Published:** `2026-11-05` | **Sentiment:** `NEUTRAL` | **Positioning Relevance Score:** `0.60`
+- **Matched Competitors:** Mercor, Turing, Surge AI, Invisible Technologies
+- **Coverage Snippet:** Exploring Earth Intelligence I visited Planet Labs (NYSE: PL) in San Francisco to tour its satellite manufacturing facility and sit down with Co-Founder & CEO Will Marshall
+
+→ Listen on
+
+X
+
+Spotify
+
+YouTube
+
+Apple
+
+Planet has built more than 700...
+- **Why it matters to Innodata:** Active coverage on Mercor, Turing, Surge AI, Invisible Technologies (Talent Marketplaces & Gig Networks) exposes buyer sensitivity around talent marketplaces selling individual headcount with high churn and zero production architecture slas.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Mercor, Turing, Surge AI, Invisible Technologies: Managed systems, enterprise SLAs, vendor-tail consolidation under one MSA, and production architectures. Highlight our Agent Engineering & Agent Reliability Engineering (ARE) capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Mercor, Turing, Surge AI, Invisible Technologies accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
+
+### 50. [bne IntelliNews – Who will gain from Africa’s $1 trillion AI opportunity?](https://ct.moreover.com/?a=60760143878&p=1pe&v=1&x=QYv628uGR9GfTd9u95yRWA)
+- **Outlet(s):** Europe says | **Published:** `2026-11-02` | **Sentiment:** `NEUTRAL` | **Positioning Relevance Score:** `0.60`
+- **Matched Competitors:** Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit
+- **Coverage Snippet:** Africa’s working-age population is forecast to grow by about 80% by 2050. AI could make that workforce far more productive. How widely the gains are shared depends on whether the technology spreads beyond large companies and the best-connected...
+- **Why it matters to Innodata:** Active coverage on Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit (Legacy BPO & Crowd Volume) exposes buyer sensitivity around legacy bpo crowd volume lacking full-stack agent engineering and deterministic reliability gates.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit: Full-stack Agent Engineering and Agent Reliability Engineering (ARE) depth with domain-vetted SMEs. Highlight our Agent Engineering & Agent Reliability Engineering (ARE) capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
+
+### 51. [The GFD Tech 100: The Fastest-Growing Private Tech Companies of Q4 2026](https://ct.moreover.com/?a=60746063166&p=66&v=1&x=MzsXgke9iue0B8y1T6IgUA)
+- **Outlet(s):** Green Flag Digital | **Published:** `2026-10-31` | **Sentiment:** `NEUTRAL` | **Positioning Relevance Score:** `0.60`
+- **Matched Competitors:** Labelbox, Snorkel AI, SuperAnnotate, Kognic
+- **Coverage Snippet:** Reading Time: 23 minutes The GFD Tech 100 · Q4 2026 · Fastest-growing private tech companies Anthropic leads the 100 fastest-growing private tech companies of Q4 2026, and 70 of them are AI companies
+By Joe Robison, founder of Green Flag Digital ·...
+- **Why it matters to Innodata:** Active coverage on Labelbox, Snorkel AI, SuperAnnotate, Kognic (Point Annotation SaaS Tools) exposes buyer sensitivity around point saas tools for internal teams that still leave data ops, red teaming, and production software delivery unsolved.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Labelbox, Snorkel AI, SuperAnnotate, Kognic: End-to-end outcome ownership combining human loop + data pipelines + deployed production software. Highlight our Agent Engineering & Agent Reliability Engineering (ARE) capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Labelbox, Snorkel AI, SuperAnnotate, Kognic accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
+
+### 52. [Emergent List: 29 Seed-Stage AI Startups Nominated by Founders for Generational Potential](https://www.archynewsy.com/emergent-list-29-seed-stage-ai-startups-nominated-by-founders-for-generational-potential/)
+- **Outlet(s):** Archynewsy | **Published:** `2026-11-06` | **Sentiment:** `POSITIVE` | **Positioning Relevance Score:** `0.60`
+- **Matched Competitors:** Labelbox, Snorkel AI, SuperAnnotate, Kognic
+- **Coverage Snippet:** Twenty-nine seed-stage AI companies have been named to the new Emergent list, a peer-nominated ranking of startups that established AI founders believe have the potential to become generational companies, Newcomer reported. Produced with venture firm...
+- **Why it matters to Innodata:** Active coverage on Labelbox, Snorkel AI, SuperAnnotate, Kognic (Point Annotation SaaS Tools) exposes buyer sensitivity around point saas tools for internal teams that still leave data ops, red teaming, and production software delivery unsolved.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Labelbox, Snorkel AI, SuperAnnotate, Kognic: End-to-end outcome ownership combining human loop + data pipelines + deployed production software. Highlight our Agent Engineering & Agent Reliability Engineering (ARE) capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Labelbox, Snorkel AI, SuperAnnotate, Kognic accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
+
+### 53. [Snorkel Reports Agents Peeked at Reward Code in Close to 25% of Rollouts](https://theagenttimes.com/articles/snorkel-reports-agents-peeked-at-reward-code-in-close-to-25--aad6c74e)
+- **Outlet(s):** The Agent Times | **Published:** `2026-11-06` | **Sentiment:** `NEUTRAL` | **Positioning Relevance Score:** `0.60`
+- **Matched Competitors:** Labelbox, Snorkel AI, SuperAnnotate, Kognic
+- **Coverage Snippet:** Snorkel AI announced on November 5, 2026, that under default harness settings agents chose reward source code over a simulated user in close to 25% of 180 rollouts, and that reward-code access decreased user check-ins by close to 15 percentage points....
+- **Why it matters to Innodata:** Active coverage on Labelbox, Snorkel AI, SuperAnnotate, Kognic (Point Annotation SaaS Tools) exposes buyer sensitivity around point saas tools for internal teams that still leave data ops, red teaming, and production software delivery unsolved.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Labelbox, Snorkel AI, SuperAnnotate, Kognic: End-to-end outcome ownership combining human loop + data pipelines + deployed production software. Highlight our Agent Engineering & Agent Reliability Engineering (ARE) capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Labelbox, Snorkel AI, SuperAnnotate, Kognic accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
+
+### 54. [Gemma 4 31B Delivers 2.5 Times GLM 5.2 Net Value Per Joule](https://theagenttimes.com/articles/gemma-4-31b-delivers-2-5-times-glm-5-2-net-value-per-joule-5f9d5735)
+- **Outlet(s):** The Agent Times | **Published:** `2026-11-05` | **Sentiment:** `POSITIVE` | **Positioning Relevance Score:** `0.60`
+- **Matched Competitors:** Labelbox, Snorkel AI, SuperAnnotate, Kognic
+- **Coverage Snippet:** The Nov. 2, 2026 arXiv revision of Joules-to-GDP states that GLM 5.2 produced the most net value of five models, at $72.27 per task, while Gemma 4 31B delivered 2.5 times the net value per joule on 23% of the energy. Snorkel AI said its team supplied...
+- **Why it matters to Innodata:** Active coverage on Labelbox, Snorkel AI, SuperAnnotate, Kognic (Point Annotation SaaS Tools) exposes buyer sensitivity around point saas tools for internal teams that still leave data ops, red teaming, and production software delivery unsolved.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Labelbox, Snorkel AI, SuperAnnotate, Kognic: End-to-end outcome ownership combining human loop + data pipelines + deployed production software. Highlight our Agent Engineering & Agent Reliability Engineering (ARE) capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Labelbox, Snorkel AI, SuperAnnotate, Kognic accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
+
+### 55. [Lakebase branching for CI/CD: lessons from 100 PR databases](https://ct.moreover.com/?a=60749188720&p=1pe&v=1&x=EYYMleH9mecUUl5qCiUM7Q)
+- **Outlet(s):** Databricks | **Published:** `2026-10-31` | **Sentiment:** `NEUTRAL` | **Positioning Relevance Score:** `0.60`
+- **Matched Competitors:** Labelbox, Snorkel AI, SuperAnnotate, Kognic
+- **Coverage Snippet:** The problem: testing against production data shouldn't take over 30 minutes
+
+Snorkel AI builds data development tools for AI teams, used by expert data annotators and frontier model providers. In this specific use case, Snorkel ships code through a CI...
+- **Why it matters to Innodata:** Active coverage on Labelbox, Snorkel AI, SuperAnnotate, Kognic (Point Annotation SaaS Tools) exposes buyer sensitivity around point saas tools for internal teams that still leave data ops, red teaming, and production software delivery unsolved.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Labelbox, Snorkel AI, SuperAnnotate, Kognic: End-to-end outcome ownership combining human loop + data pipelines + deployed production software. Highlight our Agent Engineering & Agent Reliability Engineering (ARE) capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Labelbox, Snorkel AI, SuperAnnotate, Kognic accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
+
+### 56. [Goldman Sachs maintains TaskUs at Sell, raises price target to $8 from $7](https://www.tradingview.com/news/tradingview:036a625fd4008:0-goldman-sachs-maintains-taskus-at-sell-raises-price-target-to-8-from-7/)
+- **Outlet(s):** Trading View | **Published:** `2026-11-05` | **Sentiment:** `NEUTRAL` | **Positioning Relevance Score:** `0.60`
+- **Matched Competitors:** Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit
+- **Coverage Snippet:** Goldman Sachs maintained TaskUs at Sell and raised its price target to $8 from $7, a 14.3% increase. The price target implies a downside of 7.3% from the Nov 4 close of $8.63.
+
+Explore more price target data and ratings for TaskUs on the Forecasts tab ,...
+- **Why it matters to Innodata:** Active coverage on Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit (Legacy BPO & Crowd Volume) exposes buyer sensitivity around legacy bpo crowd volume lacking full-stack agent engineering and deterministic reliability gates.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit: Full-stack Agent Engineering and Agent Reliability Engineering (ARE) depth with domain-vetted SMEs. Highlight our Agent Engineering & Agent Reliability Engineering (ARE) capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
+
+### 57. [TaskUs (NASDAQ:TASK) Shares Gap Up After Earnings Beat](https://ct.moreover.com/?a=60784238587&p=1pe&v=1&x=05aWSEU4Dq7bPkoKt6LpFw)
+- **Outlet(s):** TheLincolnianOnline.com | **Published:** `2026-11-05` | **Sentiment:** `NEUTRAL` | **Positioning Relevance Score:** `0.60`
+- **Matched Competitors:** Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit
+- **Coverage Snippet:** TaskUs, Inc. (NASDAQ:TASK – Get Free Report)’s stock price gapped up before the market opened on Thursday after the company announced better than expected quarterly earnings. The stock had previously closed at $8.63, but opened at $9.79. TaskUs shares...
+- **Why it matters to Innodata:** Active coverage on Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit (Legacy BPO & Crowd Volume) exposes buyer sensitivity around legacy bpo crowd volume lacking full-stack agent engineering and deterministic reliability gates.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit: Full-stack Agent Engineering and Agent Reliability Engineering (ARE) depth with domain-vetted SMEs. Highlight our Agent Engineering & Agent Reliability Engineering (ARE) capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
+
+### 58. [TaskUs (TASK) Q3 2026 Earnings Call Transcript](https://ct.moreover.com/?a=60784220651&p=1pe&v=1&x=2pnx6OErOealL05yJnR6MQ)
+- **Outlet(s):** AOL, Nasdaq, Yahoo Finance | **Published:** `2026-11-05` | **Sentiment:** `NEUTRAL` | **Positioning Relevance Score:** `0.60`
+- **Syndicated URLs:** [link](https://ct.moreover.com/?a=60784156166&p=1pe&v=1&x=yPSTjYwcR0PZzESDEF41vw), [link](https://ct.moreover.com/?a=60784126447&p=1pe&v=1&x=jgv8b_aAXaFN7iC1lkXBuQ)
+- **Matched Competitors:** Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit
+- **Coverage Snippet:** Image source: The Motley Fool.
+
+DATE
+
+Wednesday, Nov. 4, 2026
+
+CALL PARTICIPANTS
+
+Co-Founder and Chief Executive Officer - Bryce Maddock
+Chief Financial Officer - Rishabh Khemka
+Senior Vice President of Corporate Development and Investor Relations - Trent...
+- **Why it matters to Innodata:** Active coverage on Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit (Legacy BPO & Crowd Volume) exposes buyer sensitivity around legacy bpo crowd volume lacking full-stack agent engineering and deterministic reliability gates.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit: Full-stack Agent Engineering and Agent Reliability Engineering (ARE) depth with domain-vetted SMEs. Highlight our Agent Engineering & Agent Reliability Engineering (ARE) capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
+
+### 59. [12:07 EST TaskUs price target raised to $8 from $7 at Morgan Stanley](https://ct.moreover.com/?a=60784690869&p=21l&v=1&x=u1-awuuplQ9vRbznGMNdYw)
+- **Outlet(s):** Theflyonthewall.com | **Published:** `2026-11-05` | **Sentiment:** `POSITIVE` | **Positioning Relevance Score:** `0.60`
+- **Matched Competitors:** Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit
+- **Coverage Snippet:** Morgan Stanley raised the firm's price target on TaskUs to $8 from $7 and keeps an Equal Weight rating on the shares. BPO resilience held again, with clients #2-20 growing 37% and Ai services now the #2 service line, though top-client declines continued to deepen, the analyst tells investors in a research note.
+- **Why it matters to Innodata:** Active coverage on Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit (Legacy BPO & Crowd Volume) exposes buyer sensitivity around legacy bpo crowd volume lacking full-stack agent engineering and deterministic reliability gates.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit: Full-stack Agent Engineering and Agent Reliability Engineering (ARE) depth with domain-vetted SMEs. Highlight our Agent Engineering & Agent Reliability Engineering (ARE) capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
+
+### 60. [TaskUs, Inc (TASK) PT Raised to $8 at Morgan Stanley](https://www.streetinsider.com/Analyst+PT+Change/TaskUs%2C+Inc+%28TASK%29+PT+Raised+to+%248+at+Morgan+Stanley/27296039.html)
+- **Outlet(s):** StreetInsider.com | **Published:** `2026-11-05` | **Sentiment:** `NEUTRAL` | **Positioning Relevance Score:** `0.60`
+- **Matched Competitors:** Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit
+- **Coverage Snippet:** November 5, 2026 8:50 AM EST Morgan Stanley analyst James Faucette raised the price target on TaskUs, Inc (NASDAQ: TASK ) to $8.00 (from $7.00) while maintaining a Equalweight rating.
+- **Why it matters to Innodata:** Active coverage on Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit (Legacy BPO & Crowd Volume) exposes buyer sensitivity around legacy bpo crowd volume lacking full-stack agent engineering and deterministic reliability gates.
+- **Competitive & Positioning Angle:** Position Innodata (NASDAQ: INOD) against Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit: Full-stack Agent Engineering and Agent Reliability Engineering (ARE) depth with domain-vetted SMEs. Highlight our Agent Engineering & Agent Reliability Engineering (ARE) capabilities.
+- **Recommended Marketing / GTM Action:** Equip SDR and executive GTM teams with a rapid counter-narrative targeting Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit accounts using Enterprise Intelligence & Analysis CoPilot as a 2-4 week production POC wedge.
