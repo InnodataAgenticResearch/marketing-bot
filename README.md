@@ -4,23 +4,24 @@
 
 ## Latest Daily Market & PR Intelligence Update
 
-- **Latest Snapshot Date:** `2026-11-06`
-- **Full Executive Roundup:** [`roundups/2026-11-06.md`](roundups/2026-11-06.md)
+- **Latest Snapshot Date:** `2026-11-07`
+- **Full Executive Roundup:** [`roundups/2026-11-07.md`](roundups/2026-11-07.md)
 - **Daily Category Breakdowns:**
-  - [`BrandAndPositioning/2026-11-06/positioning.md`](BrandAndPositioning/2026-11-06/positioning.md)
-  - [`CompetitiveIntelligence/2026-11-06/competitors.md`](CompetitiveIntelligence/2026-11-06/competitors.md)
-  - [`MarketTrends/2026-11-06/trends.md`](MarketTrends/2026-11-06/trends.md)
+  - [`BrandAndPositioning/2026-11-07/positioning.md`](BrandAndPositioning/2026-11-07/positioning.md)
+  - [`CompetitiveIntelligence/2026-11-07/competitors.md`](CompetitiveIntelligence/2026-11-07/competitors.md)
+  - [`MarketTrends/2026-11-07/trends.md`](MarketTrends/2026-11-07/trends.md)
 
-### Top Scored Signals (2026-11-06)
+### Top Scored Signals (2026-11-07)
 
-- **[CompetitiveIntelligence]** [Relative Performance Evaluation : NASDAQ Composite Index (-1,421.5 points, -5.5%) November 05, 2026](https://ct.moreover.com/?a=60789214404&p=21l&v=1&x=nkgHykv7xidGkVu_y7xrjA) (*Global Round Up - Stock Exchange Indices*, Score `1.00`) — Position Innodata (NASDAQ: INOD) against Turing: Managed systems, enterprise SLAs, vendor-tail consolidation under one MSA, and production architectures. Highlight our Data Engineering, Agent Reliability Engineering (ARE), Infrastructure Engineering capabilities.
-- **[CompetitiveIntelligence]** [Comparative Analysis of Performance : NASDAQ Composite Index (-1,421.5 points, -5.5%) November 05, 2026](https://ct.moreover.com/?a=60788980314&p=21l&v=1&x=nJJ-mOOZTnrWELTDItr6yQ) (*Global Round Up - Stock Exchange Indices*, Score `1.00`) — Position Innodata (NASDAQ: INOD) against Turing: Managed systems, enterprise SLAs, vendor-tail consolidation under one MSA, and production architectures. Highlight our Data Engineering, Agent Reliability Engineering (ARE), Infrastructure Engineering capabilities.
+- **[CompetitiveIntelligence]** [Innodata Inc. (NASDAQ:INOD) tumbles 15.5% in Week 44 of 2026: Latest News and Company Communication](https://ct.moreover.com/?a=60795064787&p=21l&v=1&x=TVARLuL42UWUj1ZtQtlERA) (*Global Round Up - Bullish & Bearish Signals*, Score `1.00`) — Position Innodata (NASDAQ: INOD) against Scale AI: Publicly traded (NASDAQ: INOD) neutral partner delivering sovereign cloud deployment and tailored Forward Deployed Engineering (FDE). Highlight our Robotic Engineering, Data Engineering, Agent Reliability Engineering (ARE) capabilities.
 - **[CompetitiveIntelligence]** [XPeng Inc. ADR (NYSE:XPEV) plummets 18% in past 3 months](https://ct.moreover.com/?a=60788412061&p=21l&v=1&x=jG0iZrRkmoFRHozlYN63GA) (*Global Round Up - ADRs and Depository Receipts*, Score `1.00`) — Position Innodata (NASDAQ: INOD) against Mercor, Turing, Surge AI, Invisible Technologies: Managed systems, enterprise SLAs, vendor-tail consolidation under one MSA, and production architectures. Highlight our Robotic Engineering, Agent Reliability Engineering (ARE) capabilities.
 - **[CompetitiveIntelligence]** [XPeng Inc.'s (NYSE:XPEV $9.60): Recent News and Research Digest](https://ct.moreover.com/?a=60788173299&p=21l&v=1&x=UfFATGv_1CtAzpwjdECaxw) (*Global Round Up - ADRs and Depository Receipts*, Score `1.00`) — Position Innodata (NASDAQ: INOD) against Mercor, Turing, Surge AI, Invisible Technologies: Managed systems, enterprise SLAs, vendor-tail consolidation under one MSA, and production architectures. Highlight our Robotic Engineering, Agent Reliability Engineering (ARE), Infrastructure Engineering capabilities.
-- **[CompetitiveIntelligence]** [XPENG Researchers and Academic Partners Introduce GroundingPI, An Open-Source Visual Perception Model For Physical AI](https://us.headtopics.com/news/xpeng-researchers-and-academic-partners-introduce-89600723) (*Head Topics US*, Score `0.99`) — Position Innodata (NASDAQ: INOD) against Mercor, Turing, Surge AI, Invisible Technologies: Managed systems, enterprise SLAs, vendor-tail consolidation under one MSA, and production architectures. Highlight our Robotic Engineering, Agent Reliability Engineering (ARE) capabilities.
+- **[CompetitiveIntelligence]** [-EXL acquires data and AI consulting market leader Aimpoint Digital to expand forward-deployed AI capabilities and accelerate enterprise transformation](https://ct.moreover.com/?a=60790390135&p=21l&v=1&x=j4gaIJH4evkgLUkEVm2bxw) (*M2 PressWIRE*, Score `1.00`) — Position Innodata (NASDAQ: INOD) against Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit: Full-stack Agent Engineering and Agent Reliability Engineering (ARE) depth with domain-vetted SMEs. Highlight our Agent Engineering, Agent Reliability Engineering (ARE), Infrastructure Engineering capabilities.
+- **[CompetitiveIntelligence]** [TaskUs Q3 Earnings Call Highlights](https://ct.moreover.com/?a=60795697892&p=21l&v=1&x=1uEX5AKOdCxhz_JRBmCLkA) (*Transcript Daily*, Score `1.00`) — Position Innodata (NASDAQ: INOD) against Appen, TELUS Digital, Sama, TaskUs, CloudFactory, iMerit: Full-stack Agent Engineering and Agent Reliability Engineering (ARE) depth with domain-vetted SMEs. Highlight our Robotic Engineering, Agent Engineering, Agent Reliability Engineering (ARE) capabilities.
 
 ### Daily Roundup Archive
 
+- [`roundups/2026-11-07.md`](roundups/2026-11-07.md) — [Brand & Positioning](BrandAndPositioning/2026-11-07/positioning.md) | [Competitive Intelligence](CompetitiveIntelligence/2026-11-07/competitors.md) | [Market Trends](MarketTrends/2026-11-07/trends.md)
 - [`roundups/2026-11-06.md`](roundups/2026-11-06.md) — [Brand & Positioning](BrandAndPositioning/2026-11-06/positioning.md) | [Competitive Intelligence](CompetitiveIntelligence/2026-11-06/competitors.md) | [Market Trends](MarketTrends/2026-11-06/trends.md)
 - [`roundups/2026-11-05.md`](roundups/2026-11-05.md) — [Brand & Positioning](BrandAndPositioning/2026-11-05/positioning.md) | [Competitive Intelligence](CompetitiveIntelligence/2026-11-05/competitors.md) | [Market Trends](MarketTrends/2026-11-05/trends.md)
 - [`roundups/2026-11-04.md`](roundups/2026-11-04.md) — [Brand & Positioning](BrandAndPositioning/2026-11-04/positioning.md) | [Competitive Intelligence](CompetitiveIntelligence/2026-11-04/competitors.md) | [Market Trends](MarketTrends/2026-11-04/trends.md)
@@ -91,10 +92,10 @@ To connect **Marketing-Bot** to a Microsoft Teams channel without requiring Entr
 - **Generate Daily Intelligence Roundup (Offline Seed or Live Agility PR):**
   ```bash
   # Deterministic seed / offline generation for a specific date:
-  PYTHONPATH=src:vendor python3 -m marketing_bot.cli generate-daily --date 2026-11-06
+  PYTHONPATH=src:vendor python3 -m marketing_bot.cli generate-daily --date 2026-11-07
 
   # Live harvest across Agility PR MCP + Saved Topics when AGILITYPR_API_KEY is set:
-  PYTHONPATH=src:vendor python3 -m marketing_bot.cli generate-daily --date 2026-11-06 --live
+  PYTHONPATH=src:vendor python3 -m marketing_bot.cli generate-daily --date 2026-11-07 --live
   ```
 - **Run an Ad-Hoc Agility PR MCP Expert Boolean Search:**
   ```bash
